@@ -30,7 +30,7 @@ def create_initial_vocab(text):
     return vocab
 
 
-def update_vocab(vocab, text, addition):
+def update_vocab(vocab, addition):
     vocab.append(addition)
     return vocab
 
@@ -83,4 +83,4 @@ def update_text(text, substitute_pair, track_progress=True):
             i += 1
         if track_progress:
             pbar.update(1)
-    return text
+    return new_text

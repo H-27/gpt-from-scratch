@@ -4,7 +4,6 @@ from bpe_utils import (
     normalize_text,
     split_text,
     update_text,
-    update_vocab,
 )
 from tqdm import tqdm
 
@@ -14,7 +13,7 @@ text = normalize_text(text)
 
 
 train, test = split_text(text)
-train = train[:100000]
+# train = train[:100000]
 text = list(train.replace(" ", "_"))
 vocab = create_initial_vocab(text)
 counted_vocab = {char: text.count(char) for char in vocab}
@@ -37,15 +36,17 @@ while k > 0:
     text = update_text(text, most_frequent_pair, track_progress)
     # Add the new token to the vocabulary
     vocab.append(most_frequent_pair)
-    vocab = update_vocab(vocab, text, most_frequent_pair)
-    counted_vocab = {char: text.count(char) for char in vocab}
 
     k -= 1
     pbar.update(1)
-
+counted_vocab = {char: text.count(char) for char in vocab}
 # Print the final vocabulary
-print("Final vocabulary:", counted_vocab)
+print("Final vocabulary:", vocab)
 # Save the vocabulary to a file
-with open("data/vocab.txt", "w") as f:
-    for word in counted_vocab:
-        f.write(f"{word} {counted_vocab[word]}\n")
+with open(f"vocab_with_k{k}.txt", "w") as f:
+    for token in vocab:
+        f.write(token + "\n")
+# Save with counts
+with open(f"data/vocab_with_k{k}.txt", "w") as f:
+    for token, count in counted_vocab.items():
+        f.write(f"{token} {count}\n")
