@@ -15,10 +15,14 @@ def split_text(text):
     return train_set, test_set
 
 
-def normalize_text(text):
-    text = text.lower()
-    text = " ".join(text.split())
-    text = text.replace("\n", " ")
+def normalize_text(text, remove_punctuation=True):
+    text = text.lower()  # Convert to lowercase
+    text = " ".join(text.split())  # Remove extra spaces
+    text = text.replace("\n", " ")  # Replace newlines with spaces
+    if remove_punctuation:
+        text = text.translate(
+            str.maketrans("", "", string.punctuation)
+        )  # Remove punctuation
     return text
 
 
@@ -84,3 +88,41 @@ def update_text(text, substitute_pair, track_progress=True):
         if track_progress:
             pbar.update(1)
     return new_text
+
+
+def test_vocab(text, vocab=None, k=2000):
+    """Test the vocabulary against a new text."""
+    # load vocab
+    if vocab is None:
+        vocab = open(f"data/vocab_with_k{k}.txt", "r").read()
+    print(f"Testing with vocabulary of size {len(vocab.splitlines())}")
+    # prepare text
+    text = normalize_text(text)
+    words = text.split()
+    tokens = 0
+    unknown_tokens = []
+
+    for word in words:
+        word = word + "_"
+        i = 0
+        while i < len(word):
+            found_token = False
+            # Try to find longest matching token
+            for j in range(len(word), i, -1):
+                if word[i:j] in vocab:
+                    tokens += 1
+                    i = j
+                    found_token = True
+                    break
+                else:
+                    tokens += 1
+                    unknown_tokens.append(word[i:j])
+                    i = j
+            if not found_token:
+                unknown_tokens.append(word[i])
+                i += 1
+                tokens += 1
+
+    coverage = (tokens - len(unknown_tokens)) / tokens * 100
+
+    return coverage, unknown_tokens
