@@ -10,11 +10,11 @@ from .bpe_utils import (
 
 
 def perform_bpe(
-    text="data/shakespeare.txt", k=2000, track_progress=False, save_to=None
+    text="data/corpora/shakespeare.txt", k=2000, track_progress=False, save_to=None
 ):
     k_start = k
     if save_to == None:
-        save_to = f"data/{text}_vocab_with_k{k_start}.txt"
+        save_to = f"data/bpe_outputs/vocab_with_k{k_start}.txt"
     # Load and normalize the text
     text = open(text, "r").read()
     text = normalize_text(text)
@@ -50,7 +50,7 @@ def perform_bpe(
 
     print("Vocabulary done, saving...")
     # Save the vocabulary to a file
-    with open(f"data/vocab_with_k{k_start}.txt", "w") as f:
+    with open(save_to, "w") as f:
         for token in vocab:
             f.write(token + "\n")
     print("Vocabulary saved.")
@@ -59,14 +59,14 @@ def perform_bpe(
 
 if __name__ == "__main__":
     track_progress = False
-    text = open("data/shakespeare.txt", "r").read()
+    text = open("data/corpora/shakespeare.txt", "r").read()
     text = normalize_text(text)
 
     train, test = split_text(text)
     # train = train[:100000]
     text = list(train.replace(" ", "_"))
     vocab = create_initial_vocab(text)
-    k = 2000
+    k = 1000
     k_start = k
 
     pbar = tqdm(total=k, desc="Merging pairs")
@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
     print("Vocabulary done, saving...")
     # Save the vocabulary to a file
-    with open(f"data/vocab_with_k{k_start}.txt", "w") as f:
+    with open(f"data/bpe_outputs/vocab_with_k{k_start}.txt", "w") as f:
         for token in vocab:
             f.write(token + "\n")
     print("Vocabulary saved.")

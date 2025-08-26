@@ -71,12 +71,15 @@ def get_max_pair(text, track_progress=True):
     return most_frequent_pair, most_frequent_count
 
 
-def update_text(text, substitute_pair, track_progress=True):
+def update_text(text, substitute_pair, track_progress=False):
     i = 0
     new_text = []
     if track_progress:
         pbar = tqdm(total=len(text) - 1, desc="Updating text")
-    while i < len(text) - 1:
+    while i < len(text):
+        if i == len(text) - 1:
+            new_text.append(text[i])
+            break
         pair = text[i] + text[i + 1]
         if pair == substitute_pair:
             new_text.append(substitute_pair)
@@ -87,14 +90,20 @@ def update_text(text, substitute_pair, track_progress=True):
             i += 1
         if track_progress:
             pbar.update(1)
-    return new_text
+    # if new text is empty return the original text
+    if new_text == []:
+        return text
+    elif new_text == text:
+        return text
+    else:
+        return new_text
 
 
 def test_vocab(text, vocab=None, k=2000):
     """Test the vocabulary against a new text."""
     # load vocab
     if vocab is None:
-        vocab = open(f"data/vocab_with_k{k}.txt", "r").read()
+        vocab = open(f"data/bpe_outputs/vocab_with_k{k}.txt", "r").read()
     print(f"Testing with vocabulary of size {len(vocab.splitlines())}")
     # prepare text
     text = normalize_text(text)
@@ -126,3 +135,29 @@ def test_vocab(text, vocab=None, k=2000):
     coverage = (tokens - len(unknown_tokens)) / tokens * 100
 
     return coverage, unknown_tokens
+
+
+def get_token_counts(vocab, corpus):
+    counted_vocab = defaultdict(int)
+    for token in vocab.splitlines():
+        counted_vocab[token] = corpus.count(token)
+    return counted_vocab
+
+
+def reprocess_corpus(corpus, vocab):
+    """
+    Reprocess the corpus to create a vocabulary of size k.
+    Args:
+        corpus (str): The input text.
+        k (int): The desired vocabulary size.
+    Returns:
+        str: The processed text with the vocabulary of size k.
+    """
+    corpus = normalize_text(corpus)
+    corpus = list(corpus.replace(" ", "_"))
+    for token in vocab.splitlines():
+        if len(token) < 2:
+            continue
+        else:
+            update_text(corpus, token, track_progress=False)
+    pass
