@@ -2,15 +2,21 @@ import json
 import os
 from collections import defaultdict
 
-from .nge_utils import create_ngrams, split_into_sentences_and_normalize
+from src.ngram_engine.ngram import NgramEngine
+
+from .nge_utils import apply_bpe, create_ngrams
 
 if __name__ == "__main__":
     # define parameters for the NGramEngine
     n = 3
-    k = 1250
+    k = 500
+    advanced = True
+    adv_suffix = "_adv" if advanced else ""
     # load vocab
-    vocab = open(f"data/vocab_with_k{k}.txt", "r").read().splitlines()
-    text = open("data/Shakespeare_clean_train.txt", "r").read()
+    merge_rules = (
+        open(f"data/bpe_outputs/merges_k{k}{adv_suffix}.txt", "r").read().splitlines()
+    )
+    text = open("data/corpora/Shakespeare_clean_train.txt", "r").read()
     # Create output directory if it doesn't exist
     os.makedirs("data/ngram_outputs", exist_ok=True)
 
@@ -19,7 +25,7 @@ if __name__ == "__main__":
         with open(f"data/ngram_outputs/sentences_k{k}.txt", "r") as f:
             sentences = [line.strip().split() for line in f.readlines()]
     except FileNotFoundError:
-        sentences = split_into_sentences_and_normalize(text, vocab, track_progress=True)
+        sentences = apply_bpe(text, merge_rules, track_progress=True)
         # save sentences to a file in data/ngram_outputs/sentences_k.txt
         with open(f"data/ngram_outputs/sentences_k{k}.txt", "w") as f:
             for sentence in sentences:
@@ -66,17 +72,18 @@ if __name__ == "__main__":
 
         print(f"Saved {len(ngrams)} n-grams and {len(contexts)} contexts to cache")
 
-    print(f"Number of {n}-grams: {len(ngrams)}")
-    print(f"Number of contexts: {len(contexts)}")
-    # print some ngrams
-    for i, (ngram, count) in enumerate(ngrams.items()):
-        if i < 10:
-            print(f"{ngram}: {count}")
-        else:
-            break
-    # print some contexts
-    for i, (context, count) in enumerate(contexts.items()):
-        if i < 10:
-            print(f"{context}: {count}")
-        else:
-            break
+    # Extrinsic test: print some n-grams and contexts
+    print("\nSample n-grams:")
+    engine = NgramEngine(n=n, k=k, advanced=advanced)
+    sample_ngrams = list(engine.ngrams.items())[:10]
+    for ngram, count in sample_ngrams:
+        print(f"  {ngram}: {count}")
+        sentence = engine.generate_sentence(ngram[:-1])
+        sentence_str = (
+            " ".join(sentence)
+            .replace("<s>", "")
+            .replace("</s>", ".")
+            .replace(" ", "")
+            .replace("▁", " ")
+        )
+        print(f"    Generated sentence: {sentence_str}")

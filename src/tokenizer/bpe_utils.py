@@ -1,3 +1,4 @@
+import re  # added for digit mapping
 import string
 from collections import defaultdict
 
@@ -26,12 +27,63 @@ def normalize_text(text, remove_punctuation=True):
     return text
 
 
-def create_initial_vocab(text):
-    """Create an initial vocabulary from the text."""
-    vocab_dict = defaultdict(int)
-    vocab = list(string.ascii_uppercase) + list(string.ascii_lowercase) + [" "]
-    vocab = list(set(text))
-    return vocab
+def advanced_normalize(
+    text: str,
+    keep_sentence_final: bool = True,
+    keep_apostrophes: bool = True,
+    map_digits: bool = True,
+) -> str:
+    """Advanced normalization applying three optional strategies:
+    1. Selective punctuation retention (keep .?! and/or apostrophes) while removing others.
+    2. Quote / ellipsis normalization: fancy quotes -> ' or ", ellipsis … -> three dots.
+    3. Digit mapping: map all digits 0-9 to 0 to reduce sparsity.
+
+    Args:
+        text: Raw input string.
+        keep_sentence_final: Keep . ? ! if True.
+        keep_apostrophes: Keep apostrophes (') if True.
+        map_digits: Replace every digit with 0 if True.
+    Returns:
+        Normalized string.
+    """
+    # Normalize whitespace early (preserve baseline behavior order)
+    text = text.replace("\n", " ")
+    text = " ".join(text.split())
+    # Lowercase (reuse baseline assumption)
+    text = text.lower()
+
+    # 2. Quote / ellipsis normalization before punctuation stripping
+    replacements = {
+        "“": '"',
+        "”": '"',
+        "„": '"',
+        "′": "'",
+        "’": "'",
+        "‘": "'",
+        "‛": "'",
+        "…": "...",
+    }
+    text = "".join(replacements.get(ch, ch) for ch in text)
+
+    # 1. Selective punctuation removal
+    # Build punctuation set to remove
+    allowed = set()
+    if keep_sentence_final:
+        allowed.update([".", "!", "?"])
+    if keep_apostrophes:
+        allowed.add("'")
+    # Remove all other ASCII punctuation
+    remove_chars = "".join(ch for ch in string.punctuation if ch not in allowed)
+    if remove_chars:
+        text = text.translate(str.maketrans("", "", remove_chars))
+
+    # 3. Digit mapping
+    if map_digits:
+        text = re.sub(r"\d", "0", text)
+
+    # Collapse whitespace again in case removals created doubles
+    text = " ".join(text.split())
+    return text
 
 
 def update_vocab(vocab, addition):

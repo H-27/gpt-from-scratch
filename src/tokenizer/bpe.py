@@ -1,7 +1,9 @@
+import string
+
 from tqdm import tqdm
 
 from .bpe_utils import (
-    create_initial_vocab,
+    advanced_normalize,
     get_max_pair,
     normalize_text,
     split_text,
@@ -10,20 +12,27 @@ from .bpe_utils import (
 
 
 def perform_bpe(
-    text="data/corpora/shakespeare.txt", k=2000, track_progress=False, save_to=None
+    text="data/corpora/shakespeare.txt",
+    k=2000,
+    normalization=None,
+    track_progress=False,
+    save_to=None,
 ):
     k_start = k
     if save_to == None:
         save_to = f"data/bpe_outputs/vocab_with_k{k_start}.txt"
     # Load and normalize the text
     text = open(text, "r").read()
-    text = normalize_text(text)
+    if normalization == "advanced":
+        text = advanced_normalize(text)
+    else:
+        text = normalize_text(text)
 
     # Split the text into training and test sets
     text = list(text.replace(" ", "_"))
 
     # Create the initial vocabulary
-    vocab = create_initial_vocab(text)
+    vocab = list(string.ascii_lowercase) + ["_"]
 
     pbar = tqdm(total=k, desc="Merging pairs")
 
@@ -48,12 +57,16 @@ def perform_bpe(
         k -= 1
         pbar.update(1)
 
-    print("Vocabulary done, saving...")
-    # Save the vocabulary to a file
-    with open(save_to, "w") as f:
+    with open(save_to, "w", encoding="utf-8") as f:
         for token in vocab:
             f.write(token + "\n")
-    print("Vocabulary saved.")
+    # Derive merges (Option B: tokens length > 1)
+    merges = [t for t in vocab if len(t) > 1]
+    merges_path = save_to.replace("vocab_with_k", "merges_k")
+    with open(merges_path, "w", encoding="utf-8") as mf:
+        for m in merges:
+            mf.write(m + "\n")
+    print(f"Vocabulary saved to {save_to} (merges derived -> {merges_path})")
     return save_to
 
 
@@ -65,7 +78,7 @@ if __name__ == "__main__":
     train, test = split_text(text)
     # train = train[:100000]
     text = list(train.replace(" ", "_"))
-    vocab = create_initial_vocab(text)
+    vocab = list(string.ascii_lowercase) + ["_"]
     k = 1000
     k_start = k
 

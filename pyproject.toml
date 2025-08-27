@@ -8,5 +8,6 @@ dependencies = [
     "numpy",
     "nltk",
     "tqdm",
-    "matplotlib"
+    "matplotlib",
+    "pytest"
 ]

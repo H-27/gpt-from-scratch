@@ -11,6 +11,10 @@ except ImportError:
     HAS_MATPLOTLIB = False
     print("Matplotlib not available. Visualization will be skipped.")
 
+# --- Added flag for advanced normalization run naming ---
+ADVANCED = False  # Set True when using advanced normalization pipeline
+ADV_SUFFIX = "_adv" if ADVANCED else ""
+
 
 def visualize_coverage_results(results):
     """Create visualizations for BPE vocabulary coverage results."""
@@ -97,6 +101,7 @@ if __name__ == "__main__":
     print(f"Using '{version}' version of Shakespeare text.")
     print(f"Training text file: {train_text}")
     print(f"Validation text file: {val_text}")
+    print(f"Advanced flag: {ADVANCED} (vocab files will have suffix '{ADV_SUFFIX}')")
 
     # Test texts to evaluate vocabulary coverage
     test_texts = [
@@ -115,14 +120,18 @@ if __name__ == "__main__":
     for k in k_values:
         print(f"\n--- Testing with k={k} ---")
 
+        vocab_filename = f"data/bpe_outputs/vocab_with_k{k}{ADV_SUFFIX}.txt"
         # Check if vocabulary exists, create if not
-        if os.path.exists(f"data/bpe_outputs/vocab_with_k{k}.txt"):
-            print(f"Using existing vocabulary for k={k}...")
-            vocab_location = f"data/bpe_outputs/vocab_with_k{k}.txt"
+        if os.path.exists(vocab_filename):
+            print(f"Using existing vocabulary file: {vocab_filename}")
+            vocab_location = vocab_filename
         else:
-            print(f"Running BPE tokenizer for k={k}...")
+            print(f"Running BPE tokenizer for k={k} (creating {vocab_filename})...")
             vocab_location = perform_bpe(
-                text=train_text, k=k, track_progress=False, save_to=None
+                text=train_text,
+                k=k,
+                track_progress=False,
+                save_to=vocab_filename,
             )
 
         # Test vocabulary on different texts
@@ -130,13 +139,10 @@ if __name__ == "__main__":
             print(f"\nTesting {text_name}:")
 
             if text_name == "Shakespeare Validation":
-                # val_text is the file path, so read it
                 text_content = open(text_path, "r", encoding="utf-8").read()
             else:
-                # Read the file
                 text_content = open(text_path, "r", encoding="utf-8").read()
 
-            # Load vocabulary content (not just the path)
             vocab_content = open(vocab_location, "r", encoding="utf-8").read()
 
             coverage, unknown_tokens = test_vocab(
@@ -147,16 +153,12 @@ if __name__ == "__main__":
                 print(f"  Unknown tokens (first 10): {list(unknown_tokens)[:10]}")
                 print(f"  Total unknown tokens: {len(unknown_tokens)}")
 
-            # Store results for visualization
             coverage_results[k][text_name] = {
                 "coverage": coverage,
                 "unknown_count": len(unknown_tokens),
             }
 
-    # Print summary table
     print_coverage_summary(coverage_results)
-
-    # Visualize the coverage results
     visualize_coverage_results(coverage_results)
 
     print("\n" + "=" * 60)
