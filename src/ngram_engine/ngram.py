@@ -5,6 +5,7 @@ from collections import defaultdict
 import numpy as np
 from tqdm import tqdm
 
+from src.ngram_engine.nge_utils import apply_bpe
 from src.tokenizer import bpe_utils
 
 
@@ -167,25 +168,26 @@ class NgramEngine:
 
         return ngrams, contexts
 
-    def get_unigram_probs(self, k, suffix=""):
-        # load ngrams and contexts from file
-        ngrams, contexts = self.load_ngrams_and_contexts(1, k, suffix)
-        vocab = self.load_vocab(1, k, suffix)
+    def get_unigram_probs(self):
+        # Extract unigrams from existing ngrams data (should always exist since ngrams contains 1 to n)
+        vocab = self.vocab
 
-        # only get ngrams of length 1
-        unigrams = {key: value for key, value in ngrams.items() if len(key) == 1}
+        # Get all ngrams of length 1 from existing data
+        unigrams = {key: value for key, value in self.ngrams.items() if len(key) == 1}
         total_count = sum(unigrams.values())
+
         # Add-one smoothing for unigrams
+        # Convert tuple keys to single tokens
         unigram_probs = {
-            key: (count + 1) / (total_count + len(vocab))
+            key[0]: (count + 1) / (total_count + len(vocab))
             for key, count in unigrams.items()
         }
         return unigram_probs
 
-    def get_ngram_probs(self, ngram, n, k, suffix=""):
+    def get_ngram_probs(self, ngram, n):
         # if unigram
         if n == 1:
-            return self.get_unigram_probs(ngram, k, suffix)
+            return self.get_unigram_probs()
         # load ngrams and contexts from file
         ngrams, contexts = self.ngrams.copy(), self.contexts.copy()
 
@@ -212,9 +214,7 @@ class NgramEngine:
             for ngram in self.ngrams:
                 if len(ngram) == len(context) + 1 and ngram[:-1] == context:
                     possible_next_word = ngram[-1]
-                    next_word_probs = (
-                        self.get_ngram_probs(ngram, n, k, suffix) * backoff_weight
-                    )
+                    next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
                     possible_next_words[possible_next_word] = next_word_probs
             # if no possible next word probability is above the threshold, backoff to n-1 gram
             if not possible_next_words:
@@ -222,7 +222,7 @@ class NgramEngine:
                 context = context[-(n - 1) :]
         # draw a word based on the probabilities
         if possible_next_words:
-            words = [key[0] for key in possible_next_words.keys()]
+            words = list(possible_next_words.keys())  # Remove the [0] indexing
             probs = list(possible_next_words.values())
             # This converts the scores into a probability distribution
             total_prob = sum(probs)
@@ -232,7 +232,7 @@ class NgramEngine:
                     return "</s>"  # Should not happen
                 # Get the unigram with the highest probability
                 best_unigram = max(unigram_probs, key=unigram_probs.get)
-                return best_unigram[0]
+                return best_unigram  # Remove the [0] indexing
             probs = [p / total_prob for p in probs]
             return np.random.choice(words, p=probs)
         return None
@@ -256,15 +256,84 @@ class NgramEngine:
 
         return sentence
 
-    def calculate_perplexity(self, sentences, n, k, suffix=""):
-        """
-        Calculate the perplexity of the model on the given sentences.
-        Args:
-            sentences (list of list of str): List of sentences, where each sentence is a list of tokens.
-            n (int): The 'n' in n-grams, indicating the size of the n-grams to use for probability calculation.
-            k (int): The 'k' used in BPE vocabulary size.
-            suffix (str): Suffix for advanced vocab if any.
-        Returns:
-            float: The calculated perplexity value.
-        """
-        N = 0
+    def get_probs_from_context(self, context, n, k, suffix=""):
+        # load ngrams and contexts from file
+
+        # Get all possible next words
+        possible_next_words = {}
+        while len(possible_next_words) == 0 and n > 1:
+            backoff_weight = pow(0.4, self.n - n)  # backoff weight
+            # if context is empty, use unigram
+            if len(context) == 0:
+                unigrams_and_probs = self.get_unigram_probs(k, suffix)
+                for tok, p in unigrams_and_probs.items():
+                    possible_next_words[tok] = p * backoff_weight
+            # find all ngrams that match the context
+            for ngram in self.ngrams:
+                if len(ngram) == len(context) + 1 and ngram[:-1] == context:
+                    possible_next_word = ngram[-1]
+                    next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
+                    possible_next_words[possible_next_word] = next_word_probs
+            # if no possible next word probability is above the threshold, backoff to n-1 gram
+            if not possible_next_words:
+                n -= 1
+                context = context[-(n - 1) :]
+        # draw a word based on the probabilities
+        if possible_next_words:
+            words = list(possible_next_words.keys())  # Remove the [0] indexing
+            probs = list(possible_next_words.values())
+            # This converts the scores into a probability distribution
+            total_prob = sum(probs)
+            if total_prob == 0:
+                unigram_probs = self.get_unigram_probs(k, suffix)
+                if not unigram_probs:
+                    return "</s>"  # Should not happen
+                # Get the unigram with the highest probability
+                best_unigram = max(unigram_probs, key=unigram_probs.get)
+                return best_unigram  # Remove the [0] indexing
+            probs = [p / total_prob for p in probs]
+            return words, probs
+        return None, 0
+
+    def calculate_perplexity(self):
+        # load validation files
+        text = open("data/corpora/Shakespeare_clean_valid.txt", "r").read()
+        sentences = apply_bpe(text, self.merge_rules, track_progress=True)
+        total_log_prob = 0.0
+        total_tokens = 0
+        pbar = tqdm(total=len(sentences) - 1, desc="Calculating Perplexity")
+
+        for sentence in sentences:
+            sentence_length = len(sentence)
+            # Extract n-grams from the sentence
+            for i in range(sentence_length - self.n + 1):
+                ngram = tuple(sentence[i : i + self.n])
+                context = ngram[:-1]
+                target = ngram[-1]
+
+                # Get probability distribution using backoff
+                predictions, probs = self.get_probs_from_context(
+                    context, self.n, self.k, self.adv_suffix
+                )
+
+                # Find probability of target token
+                if predictions and target in predictions:
+                    target_idx = predictions.index(target)
+                    target_prob = probs[target_idx]
+                else:
+                    # If target not found, use a very small probability (smoothing fallback)
+                    target_prob = 1e-10
+
+                total_log_prob += np.log(target_prob)
+                total_tokens += 1
+            pbar.update(1)
+
+        # Calculate perplexity: exp(-1/N * sum(log p(w_i)))
+        perplexity = (
+            np.exp(-total_log_prob / total_tokens) if total_tokens > 0 else float("inf")
+        )
+
+        print(f"Validation perplexity: {perplexity:.2f}")
+        print(f"Total tokens evaluated: {total_tokens}")
+
+        return perplexity

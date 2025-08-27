@@ -9,7 +9,7 @@ from .nge_utils import apply_bpe, create_ngrams
 if __name__ == "__main__":
     # define parameters for the NGramEngine
     n = 3
-    k = 500
+    k = 1500
     advanced = True
     adv_suffix = "_adv" if advanced else ""
     # load vocab
@@ -32,8 +32,8 @@ if __name__ == "__main__":
                 f.write(" ".join(sentence) + "\n")
 
     # Load or create n-grams and contexts
-    ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}.json"
-    context_file = f"data/ngram_outputs/contexts_n{n}_k{k}.json"
+    ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}{adv_suffix}.json"
+    context_file = f"data/ngram_outputs/contexts_n{n}_k{k}{adv_suffix}.json"
 
     try:
         print("Loading existing n-grams and contexts...")
@@ -75,15 +75,38 @@ if __name__ == "__main__":
     # Extrinsic test: print some n-grams and contexts
     print("\nSample n-grams:")
     engine = NgramEngine(n=n, k=k, advanced=advanced)
-    sample_ngrams = list(engine.ngrams.items())[:10]
+
+    sample_ngrams = list(engine.ngrams.items())[:1]
+    my_text = "The world is so small"
+    # Apply BPE to the custom text to match the model's vocabulary
+    my_text_bpe = engine.apply_bpe(my_text, merge_rules)[0]  # Get first sentence
+    d = -n  # start index for last n-gram
+    my_text_bpe = my_text_bpe[:-1]  # Exclude the end token
+    sample_ngrams.append((tuple(my_text_bpe[d:]), 1))
+
     for ngram, count in sample_ngrams:
         print(f"  {ngram}: {count}")
-        sentence = engine.generate_sentence(ngram[:-1])
+        sentence = engine.generate_sentence(ngram)
+
         sentence_str = (
             " ".join(sentence)
             .replace("<s>", "")
             .replace("</s>", ".")
             .replace(" ", "")
-            .replace("▁", " ")
+            .replace("_", " ")
+            .strip()
         )
-        print(f"    Generated sentence: {sentence_str}")
+        # Clean up multiple spaces
+        ngram = " ".join(ngram).replace("_", " ")
+        sentence_str = " ".join(sentence_str.split())
+
+        print(f" Generated sentence: {ngram} -> {sentence_str}")
+
+    # Calculate perplexity on validation set
+    print("\nCalculating perplexity...")
+    perplexity = engine.calculate_perplexity()
+    print(f"Final perplexity: {perplexity:.2f}")
+
+    print(
+        f"Total perplexity of model on validation set: {engine.calculate_perplexity()}"
+    )
