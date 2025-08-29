@@ -29,8 +29,8 @@ def normalize_text(text, remove_punctuation=True):
 
 def advanced_normalize(
     text: str,
-    keep_sentence_final: bool = True,
-    keep_apostrophes: bool = True,
+    keep_sentence_final: bool = False,
+    keep_apostrophes: bool = False,
     map_digits: bool = True,
 ) -> str:
     """Advanced normalization applying three optional strategies:

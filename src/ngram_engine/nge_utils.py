@@ -105,7 +105,7 @@ def apply_bpe(corpus, merges, track_progress=False):
             if track_progress:
                 pbar.update(1)
             continue
-        sentence = bpe_utils.normalize_text(sentence)
+        sentence = bpe_utils.advanced_normalize(sentence)
         sentence = list(sentence.replace(" ", "_"))
         sentence = merge_tokens_ranked(sentence, merges)
         sentence.insert(0, "<s>")  # Append start of sentence token
@@ -148,11 +148,7 @@ def create_ngrams(sentences, n, track_progress=False):
     return ngrams, contexts
 
 
-def get_ngram_prob(ngram, n, k, suffix=""):
-    # load ngrams and contexts from file
-    ngrams, contexts = load_ngrams_and_contexts(n, k, suffix)
-    vocab = load_vocab(n, k, suffix)
-
+def get_ngram_prob(ngram, vocab, ngrams, contexts):
     context = ngram[:-1]
     ngram_count = ngrams.get(ngram, 0)
     context_count = contexts.get(context, 0)
@@ -161,11 +157,7 @@ def get_ngram_prob(ngram, n, k, suffix=""):
     return (ngram_count + 1) / (context_count + len(vocab))
 
 
-def get_word_from_context(context, n, k, suffix=""):
-    # load ngrams and contexts from file
-    ngrams, contexts = load_ngrams_and_contexts(n, k, suffix)
-    vocab = load_vocab(n, k, suffix)
-
+def get_word_from_context(context, vocab, ngrams, contexts):
     # Get all possible next words
     # possible next words as defaultdict with word as key and probability as value
     possible_next_words = {}
@@ -173,7 +165,7 @@ def get_word_from_context(context, n, k, suffix=""):
     for ngram in ngrams:
         if len(ngram) == len(context) + 1 and ngram[:-1] == context:
             possible_next_word = ngram[-1]
-            next_word_prob = get_ngram_prob(ngram, n, k, suffix)
+            next_word_prob = get_ngram_prob(ngram, vocab, ngrams, contexts)
             possible_next_words[possible_next_word] = next_word_prob
 
     if not possible_next_words:

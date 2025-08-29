@@ -189,7 +189,7 @@ class NgramEngine:
         if n == 1:
             return self.get_unigram_probs()
         # load ngrams and contexts from file
-        ngrams, contexts = self.ngrams.copy(), self.contexts.copy()
+        ngrams, contexts = self.ngrams, self.contexts
 
         context = ngram[:-1]
         ngram_count = ngrams.get(ngram, 0)
@@ -198,7 +198,7 @@ class NgramEngine:
         # Add-one smoothing
         return (ngram_count + 1) / (context_count + self.vocab_size)
 
-    def get_word_from_context(self, context, n, k, suffix=""):
+    def get_word_from_context(self, context, n):
         # load ngrams and contexts from file
 
         # Get all possible next words
@@ -207,15 +207,14 @@ class NgramEngine:
             backoff_weight = pow(0.4, self.n - n)  # backoff weight
             # if context is empty, use unigram
             if len(context) == 0:
-                unigrams_and_probs = self.get_unigram_probs(k, suffix)
+                unigrams_and_probs = self.get_unigram_probs()
                 for tok, p in unigrams_and_probs.items():
                     possible_next_words[tok] = p * backoff_weight
             # find all ngrams that match the context
-            for ngram in self.ngrams:
-                if len(ngram) == len(context) + 1 and ngram[:-1] == context:
-                    possible_next_word = ngram[-1]
-                    next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
-                    possible_next_words[possible_next_word] = next_word_probs
+            for token in self.vocab:
+                ngram = context + (token,)
+                next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
+                possible_next_words[token] = next_word_probs
             # if no possible next word probability is above the threshold, backoff to n-1 gram
             if not possible_next_words:
                 n -= 1
@@ -227,7 +226,7 @@ class NgramEngine:
             # This converts the scores into a probability distribution
             total_prob = sum(probs)
             if total_prob == 0:
-                unigram_probs = self.get_unigram_probs(k, suffix)
+                unigram_probs = self.get_unigram_probs()
                 if not unigram_probs:
                     return "</s>"  # Should not happen
                 # Get the unigram with the highest probability
@@ -243,12 +242,10 @@ class NgramEngine:
         """
         sentence = list(start_context)
         n = self.n
-        k = self.k
-        suffix = self.adv_suffix
 
         for _ in range(max_length):
             context = tuple(sentence[-(n - 1) :])
-            next_word = self.get_word_from_context(context, n, k, suffix)
+            next_word = self.get_word_from_context(context, n)
 
             if next_word == "</s>" or next_word is None:
                 break
@@ -256,24 +253,21 @@ class NgramEngine:
 
         return sentence
 
-    def get_probs_from_context(self, context, n, k, suffix=""):
-        # load ngrams and contexts from file
-
+    def get_probs_from_context(self, context, n):
         # Get all possible next words
         possible_next_words = {}
         while len(possible_next_words) == 0 and n > 1:
             backoff_weight = pow(0.4, self.n - n)  # backoff weight
             # if context is empty, use unigram
             if len(context) == 0:
-                unigrams_and_probs = self.get_unigram_probs(k, suffix)
+                unigrams_and_probs = self.get_unigram_probs()
                 for tok, p in unigrams_and_probs.items():
                     possible_next_words[tok] = p * backoff_weight
             # find all ngrams that match the context
-            for ngram in self.ngrams:
-                if len(ngram) == len(context) + 1 and ngram[:-1] == context:
-                    possible_next_word = ngram[-1]
-                    next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
-                    possible_next_words[possible_next_word] = next_word_probs
+            for token in self.vocab:
+                ngram = context + (token,)
+                next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
+                possible_next_words[token] = next_word_probs
             # if no possible next word probability is above the threshold, backoff to n-1 gram
             if not possible_next_words:
                 n -= 1
@@ -285,7 +279,7 @@ class NgramEngine:
             # This converts the scores into a probability distribution
             total_prob = sum(probs)
             if total_prob == 0:
-                unigram_probs = self.get_unigram_probs(k, suffix)
+                unigram_probs = self.get_unigram_probs()
                 if not unigram_probs:
                     return "</s>"  # Should not happen
                 # Get the unigram with the highest probability
@@ -312,9 +306,7 @@ class NgramEngine:
                 target = ngram[-1]
 
                 # Get probability distribution using backoff
-                predictions, probs = self.get_probs_from_context(
-                    context, self.n, self.k, self.adv_suffix
-                )
+                predictions, probs = self.get_probs_from_context(context, self.n)
 
                 # Find probability of target token
                 if predictions and target in predictions:
