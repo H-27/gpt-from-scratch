@@ -1,0 +1,1364 @@
+<s> he_hath_ a_ per son_ and_a_ s m oo th_ disp ose_ to_be_ su spe c ted_ fra med_ to_make_ women_ fal se </s>
+<s> the_mo or_ is_ of_a_ free_ and_ op en_ nature_ that_ thinks_ men_ honest_ that_ but_ seem_ to_be_ so_ and_ will_ as_ ten der ly_ be_ led_ by_the_ no se_ as_ ass es_ are </s>
+<s> i_ ha ve t </s>
+<s> it_is_ eng en der d </s>
+<s> hell_ and_ night_ must_ bring_ this_ mon str ous_ bir th_ to_the_ wor lds_ li ght </s>
+<s> exit_ act_ ii_ scene_ i </s>
+<s> a_ sea por t_ in_ c y p ru s </s>
+<s> an_ op en_ place_ near_ the_ qua y </s>
+<s> enter_ mon t ano_ and_ two_ gentlemen_ mon t ano_ what_ from_the_ ca pe_ can_ you_ disc er n_ at_ sea </s>
+<s> first_ gentleman_ nothing_ at_ all_ it_is_a_ high w rought_ f loo d_ i_cannot_ t wi xt_ the_ heaven_ and_the_ ma in_ des cry_ a_ sa il </s>
+<s> mon t ano_ me thinks_ the_w ind_ hath_ spoke_ al oud_ at_ land_ a_ fu ll er_ bla st_ neer_ sh ook_ our_ bat t le ments_ if_ it_ hath_ ru f fi and_so_ upon_the_ sea_ what_ ri b s_ of_ o a k_ when_ m oun ta ins_ me lt_ on_ them_ can_ hold_ the_ mor ti se </s>
+<s> what_ shall_ we_ hear_ of_ this </s>
+<s> second_ gentleman_ a_ se gre ga tion_ of_the_ tur ki sh_ fle et_ for_ do_ but_ stand_ upon_the_ fo a ming_ sh ore_ the_ chi dd en_ bi llow_ see ms_ to_ pe lt_ the_ cl ou ds_ the_w in d sha ked_ sur ge_ with_ high_ and_ mon str ous_ man e_ see ms_ to_ ca st_ wa ter_ on_the_ bur ning_ bear_ and_ qu en ch_ the_ gu ar ds_ of_the_ e ver fi x ed_ po le_ i_ never_ did_ like_ mo l es tation_ vi e w_ on_the_ en cha f ed_ f loo d </s>
+<s> mon t ano_ if_ that_the_ tur ki sh_ fle et_ be_ not_ en sh el ter d_and_ e m ba y d_ they_are_ dro w nd_ it_is_ im po ssi ble_ they_ bear_ it_ out </s>
+<s> enter_a_ third_ gentleman_ third_ gentleman_ news_ la d s </s>
+<s> our_ war s_ are_ d on e </s>
+<s> the_ des per ate_ temp est_ hath_ so_ ban gd_ the_ tur ks_ that_ their_ des ig n ment_ hal ts_ a_ noble_ ship_ of_venice_ hath_ seen_ a_ gri e v ous_ wre ck_ and_ suff er ance_ on_ most_ part_ of_ their_ fle e t </s>
+<s> mon t ano_ ho w </s>
+<s> is_this_ tru e </s>
+<s> third_ gentleman_ the_ ship_ is_ here_ put_ in_a_ ver on es a_ mi cha el_ cassio_ lie u ten ant_ to_the_ war like_ mo or_ othello_ is_ come_ on_ sh ore_ the_mo or_ himself_ at_ sea_ and_ is_ in_ full_ com mi ssion_ here_ for_ c y p ru s </s>
+<s> mon t ano_ i_am_ glad_ ont_ tis_ a_ worthy_ go ver nor </s>
+<s> third_ gentleman_ but_ this_ same_ cassio_ though_ he_ speak_ of_ com fort_ tou ching_ the_ tur ki sh_ lo ss_ yet_ he_ looks_ sa dly_ and_ pra ys_ the_mo or_ be_ sa fe_ for_ they_ were_ par ted_ with_ foul_ and_ vi ol ent_ temp es t </s>
+<s> mon t ano_ pray_ heaven s_ he_ be_ for_ i_have_ ser ved_ him_ and_the_ man_ comm an ds_ like_a_ full_ soldi er </s>
+<s> lets_ to_the_ sea side_ ho </s>
+<s> as_ well_ to_see_ the_ v es sel_ thats_ come_ in_ as_ to_ th row_ out_ our_ eyes_ for_ bra ve_ othello_ even_ till_ we_ make_ the_ ma in_ and_the_ a er i al_ b lu e_ an_ in di st in ct_ re gar d </s>
+<s> third_ gentleman_ come_ lets_ do_ so_ for_ every_ min u te_ is_ ex pe c t an cy_ of_ more_ ar ri van ce </s>
+<s> enter_ cassio_ cassio_ thanks_ you_ the_ va li ant_ of_this_ war like_ is le_ that_ so_ app ro ve_ the_mo or </s>
+<s> o_ let_ the_ heaven s_ give_him_ de f ence_ against_ the_ e le ments_ for_ i_have_ lost_ us_ him_ on_ a_ dan ger ous_ sea </s>
+<s> mon t ano_ is_ he_ well_ shi pp d </s>
+<s> cassio_ his_ bar k_ is_ st ou tly_ ti mb erd_ his_ pi lot_ of_ very_ ex per t_and_ app ro ved_ a llo w ance_ therefore_ my_ ho p es_ not_ sur fe i ted_ to_ death_ stand_ in_ bo ld_ cu re </s>
+<s> a_ cry_ within_ a_ sa il_ a_ sa il_ a_ sa il_ enter_a_ four th_ gentleman_ cassio_ what_ no i se </s>
+<s> four th_ gentleman_ the_ to wn_ is_ emp ty_ on_the_ b row_ o_the_ sea_ stand_ ran ks_ of_ pe op le_ and_ they_ cry_ a_ sa il_ cassio_ my_ ho p es_ do_ sha pe_ him_ for_the_ go ver nor </s>
+<s> g un s_ heard_ second_ gentlemen_ they_ do_ disc har ge_ their_ sho t_ of_ cour tes y_ our_ friends_ at_ lea st </s>
+<s> cassio_ i_pray_you_ sir_ go_ forth_ and_ give_ us_ truth_ who_ tis_ that_is_ ar ri ve d </s>
+<s> second_ gentleman_ i_ sha ll </s>
+<s> exit_ mon t ano_ but_ good_ lie u ten ant_ is_ your_ general_ wi ve d </s>
+<s> cassio_ most_ fortun at e ly_ he_hath_ a chi e ved_ a_ ma id_ that_ par ag ons_ des cri p tion_ and_ wi ld_ fa me_ one_ that_ exce ls_ the_ qu ir ks_ of_ bla z on ing_ pen s_and_ in_the_ es sen ti al_ v es ture_ of_ crea tion_ does_ ti re_ the_ ing en er </s>
+<s> reenter_ second_ gentleman_ how_ no w </s>
+<s> who_ has_ put_ in </s>
+<s> second_ gentleman_ tis_ one_ iago_ an ci ent_ to_the_ gener al </s>
+<s> cassio_ has_ had_ most_ fa v ourable_ and_ happy_ spe ed_ temp es ts_ themselves_ high_ sea s_and_ ho w ling_ win ds_ the_ gu tt erd_ ro ck s_and_ con gre g at ed_ san ds_ tra it ors_ en st ee p d_ to_ clo g_ the_ gui l t less_ kee l_ as_ having_ sense_ of_ beau ty_ do_ om it_ their_ mortal_ nat ures_ le tt ing_ go_ sa fe ly_ by_the_ di v ine_ desdemon a </s>
+<s> mon t ano_ what_is_ sh e </s>
+<s> cassio_ she_ that_i_ spa ke_ of_our_ great_ cap ta ins_ cap tain_ left_ in_the_ con du ct_ of_the_ bo ld_ iago_ whose_ foo ting_ here_ an ti ci p at es_ our_ thoughts_ a_ sen ni ghts_ sp ee d </s>
+<s> great_ jo ve_ othello_ gu ar d_and_ s well_ his_ sa il_ with_ thine_ own_ po w er ful_ breath_ that_he_ may_ bl ess_ this_ b ay_ with_his_ ta ll_ ship_ make_ loves_ quick_ p ants_ in_ desdemon as_ ar ms_ give_ ren e wd_ fire_ to_our_ ex tin c ted_ spiri ts_and_ bring_ all_ c y pr us_ com for t </s>
+<s> enter_ desdemona_ emilia_ iago_ roderigo_ and_ attendants_ o_ behold_ the_ ri ches_ of_the_ ship_ is_ come_ on_ sh or e </s>
+<s> ye_ men_ of_ c y pr us_ let_ her_ have_ your_ kne es </s>
+<s> hail_ to_ thee_ la d y </s>
+<s> and_the_ grace_ of_ heaven_ before_ behind_ thee_ and_ on_ every_ hand_ en wh ee l_ thee_ r oun d </s>
+<s> desdemona_ i_ thank_ you_ va li ant_ cassi o </s>
+<s> what_ ti d ings_ can_ you_ tell_me_ of_my_ lor d </s>
+<s> cassio_ he_is_ not_ yet_ ar ri ved_ nor_ know_ i_ au ght_ but_ that_ hes_ well_ and_ will_be_ sh or tly_ h ere </s>
+<s> desdemona_ o_ but_ i_ fear how_ lost_ you_ comp an y </s>
+<s> cassio_ the_ great_ con ten tion_ of_the_ sea_ and_ s ki es_ par ted_ our_ fe llo w shi p but_ har k </s>
+<s> a_ sa il </s>
+<s> within_ a_ sa il_ a_ sa il_ g un s_ heard_ second_ gentleman_ they_ give_ their_ gre e ting_ to_the_ ci ta de l_ this_ li ke wise_ is_a_ fri end </s>
+<s> cassio_ see_ for_the_ ne w s </s>
+<s> exit_ gentleman_ good_ an ci ent_ you_are_ wel com e </s>
+<s> to_ emilia_ welcome_ mi st res s </s>
+<s> let_ it_not_ g all_ your_ patience_ good_ iago_ that_i_ ex tend_ my_ man n ers_ tis_ my_ b ree ding_ that_ gives_ me_ this_ bo ld_ show_ of_ cour tes y </s>
+<s> ki ss ing_ her_ iago_ sir_ would_ she_ give_ you_ so_much_ of_her_ lips_ as_ of_her_ tongue_ she_ oft_ bes to ws_ on_ me_ you ll_ have_ en ou gh </s>
+<s> desdemona_ alas_ she_ has_ no_ sp ee ch </s>
+<s> iago_ in_ faith_ too_much_ i_ find_ it_ still_ when_ i_have_ li st_ to_ sleep_ marry_ before_ your_ la d y ship_ i_ gr ant_ she_ pu ts_ her_ tongue_ a_little_ in_her_ heart_ and_ chi des_ with_ thin k ing </s>
+<s> emilia_ you_have_ little_ cause_ to_say_ so </s>
+<s> iago_ come_ on_ come_ on_ you_are_ pi c tur es_ out_of_ do ors_ be lls_ in_your_ par lor s_ wi ld ca ts_ in_your_ ki tch ens_ sa in ts_ m_ your_ in ju ries_ devi ls_ being_ off en ded_ play ers_ in_your_ hou se wi f ery_ and_ hou se wi ves_ in_your_ be d s </s>
+<s> desdemona_ o_ fie_ upon_ thee_ s lan der er </s>
+<s> iago_ nay_ it_is_ true_ or_ else_ i_am_ a_ tur k_ you_ ri se_ to_ play_ and_ go_to_ bed_ to_ wor k </s>
+<s> emilia_ you_shall_ not_ wri te_ my_ pra i se </s>
+<s> iago_ no_ let_me_ no t </s>
+<s> desdemona_ what_ would st_thou_ wri te_ of_ me_ if_thou_ sh ould st_ pra ise_ me </s>
+<s> iago_ o_ gentle_ lady_ do_not_ put_ me_ to t_ for_ i_am_ nothing_ if_ not_ cri ti cal </s>
+<s> desdemona_ come_ on_ as say </s>
+<s> theres_ one_ gone_ to_the_ har b our </s>
+<s> iago_ ay_ ma dam </s>
+<s> desdemona_ i_am_ not_ merry_ but_ i_do_ be gui le_ the_ thing_ i_am_ by_ see ming_ o ther wi se </s>
+<s> come_ how_ would st_thou_ pra ise_ me </s>
+<s> iago_ i_am_ about_ it_ but_ indeed_ my_ in ven tion_ comes_ from_ my_ p ate_ as_ bir d li me_ does_ from_ fri ze_ it_ plu cks_ out_ bra in s_and_ all_ but_ my_ mu se_ la b our s_and_ thus_ she_is_ deli ver d </s>
+<s> if_ she_ be_ fair_ and_ wise_ fair ness_ and_ wit_ the_ on es_ for_ use_ the_ other_ u se th_ it </s>
+<s> desdemona_ well_ pra i se d </s>
+<s> how_ if_ she_ be_ black_ and_ wi tt y </s>
+<s> iago_ if_ she_ be_ black_ and_ there to_have_ a_ wit_ sh e ll_ find_ a_ whi te_ that_ shall_ her_ bla ck ness_ fi t </s>
+<s> desdemona_ wor se_and_ wor se </s>
+<s> emilia_ how_ if_ fair_ and_ foo li sh </s>
+<s> iago_ she_ never_ yet_ was_ foo lish_ that_ was_ fair_ for_ even_ her_ fo lly_ hel p d_ her_ to_ an_ he ir </s>
+<s> desdemona_ these_ are_ old_ f ond_ par a do x es_ to_make_ foo ls_ lau gh_ i_the_ a le hou se </s>
+<s> what_ mi ser able_ pra ise_ hast_thou_ for_ her_ thats_ foul_ and_ foo li sh </s>
+<s> iago_ theres_ none_ so_ foul_ and_ foo lish_ there un to_ but_ does_ foul_ pr an ks_ which_ fair_ and_ wise_ on es_ do </s>
+<s> desdemona_ o_ heavy_ ig nor an ce </s>
+<s> thou_ pra is est_ the_ wor st_ bes t </s>
+<s> but_ what_ pra ise_ cou ld st_thou_ bes to w_ on_ a_ deser ving_ woman_ indeed_ one_ that_ in_the_ au thor ity_ of_her_ mer it_ did_ ju st ly_ put_ on_the_ v ou ch_ of_ very_ ma li ce_ it sel f </s>
+<s> iago_ she_ that_ was_ ever_ fair_ and_ never_ pr oud_ had_ tongue_ at_ will_ and_yet_ was_ never_ l oud_ never_ la ckd_ gold_ and_yet_ w ent_ never_ g ay_ fl ed_ from_ her_ wish_ and_yet_ said_ now_ i_ may_ she_ that_ being_ an ger d_ her_ revenge_ being_ ni gh_ ba de_ her_ wrong_ stay_ and_ her_ disp lea sure_ fly_ she_ that_ in_ wis dom_ never_ was_ so_ fra il_ to_ change_ the_ co ds_ head_ for_the_ sal mon s_ ta il_ she_ that_ could_ think_ and_ neer_ disc lose_ her_ mind_ see_ su it ors_ follo wing_ and_ not_ look_ behind_ she_ was_ a_ wi ght_ if_ ever_ such_ wi ght_ were_ desdemona_ to_do_ wha t </s>
+<s> iago_ to_ su ck le_ foo l s_and_ ch ron i cle_ s ma ll_ be er </s>
+<s> desdemona_ o_ most_ la me_and_ im po tent_ con c lu si on </s>
+<s> do_not_ lear n_ of_him_ emilia_ though_ he_ be_ thy_ hus ban d </s>
+<s> how_ say_ you_ cassi o </s>
+<s> is_ he_ not_a_ most_ pro fan e_ and_ li ber al_ coun se ll or </s>
+<s> cassio_ he_ spea ks_ home_ madam_ you_may_ re lish_ him_ more_ in_the_ soldier_ than_ in_the_ s ch ol ar </s>
+<s> iago_ aside_ he_ ta kes_ her_ by_the_ pa l m_ ay_ well_ said_ whi sp er_ with_ as_ little_ a_ we b_ as_ this_ will_i_ en s n are_ as_ great_ a_ fly_ as_ cassi o </s>
+<s> ay_ smi le_ upon_ her_ do_ i_will_ g y ve_ thee_ in_ thine_ own_ cour t shi p </s>
+<s> you_ say_ true_ tis_ so_ indeed_ if_ such_ tri cks_ as_ these_ stri p_ you_ out_ of_your_ lie u ten ant ry_ it_ had_ been_ better_ you_ had_ not_ ki ss ed_ your_ three_ f ing ers_ so_ oft_ which_ now_ again_ you_are_ most_ a pt_ to_ play_ the_ sir_ in </s>
+<s> very_ good_ well_ ki s se d </s>
+<s> an_ exce ll ent_ cour tes y </s>
+<s> tis_ so_ in de e d </s>
+<s> yet_ again_ your_ f ing ers_ to_your_ li p s </s>
+<s> would_ they_ were_ c ly ster pi p es_ for_your_ sa ke </s>
+<s> tru mp et_ with in_the_ mo or </s>
+<s> i_know_ his_ tru mp e t </s>
+<s> cassio_ tis_ truly_ so </s>
+<s> desdemona_ lets_ meet_ him_ and_ re ceive_ him </s>
+<s> cassio_ l o_ where_ he_ com es </s>
+<s> enter_ othello_ and_ attendants_ othello_ o_ my_ fair_ war ri or </s>
+<s> desdemona_ my_ dear_ othell o </s>
+<s> othello_ it_ gives_ me_ won der_ great_ as_ my_ con tent_ to_see_ you_ here_ before_ me </s>
+<s> o_ my_ sou ls_ jo y </s>
+<s> if_ after_ every_ temp est_ come_ such_ cal ms_ may_ the_w in ds_ b low_ till_ they_have_ wa k end_ dea th </s>
+<s> and_ let_ the_ la b our ing_ bar k_ cli mb _ hi lls_ of_ sea s_ ol y m pu shi gh_ and_ du ck_ again_ as_ low_ as_ he lls_ from_ heaven </s>
+<s> if_ it_were_ now_ to_ die_ t were_ now_ to_be_ most_ happy_ for_ i_fear_ my_ soul_ hath_ her_ con tent_ so_ ab sol u te_ that_ not_ another_ com fort_ like_ to_this_ su c ce eds_ in_ un known_ fa te </s>
+<s> desdemona_ the_ heaven s_ for bid_ but_ that_ our_ loves_ and_ com for ts_ should_ in crea se_ even_ as_ our_ days_ do_ gro w </s>
+<s> othello_ a men_ to_ that_ sweet_ po w er s </s>
+<s> i_cannot_ speak_ enough_ of_this_ con tent_ it_ st op s_ me_ here_ it_is_ too_much_ of_ joy_ and_ this_ and_ this_ the_ grea test_ disc or ds_ be_ ki ss ing_ her_ that_ e er_ our_ hearts_ shall_ ma ke </s>
+<s> iago_ aside_ o_ you_are_ well_ tun ed_ no w </s>
+<s> but_ ill_ set_ down_ the_ pe gs_ that_ make_ this_ music_ as_ honest_ as_i_ a m </s>
+<s> othello_ come_ let_us_ to_the_ cast le </s>
+<s> news_ friends_ our_ war s_ are_ done_ the_ tur ks_ are_ dro wn d </s>
+<s> how_ does_ my_ old_ ac qua in t ance_ of_this_ i sle </s>
+<s> hon ey_ you_shall_ be_ well_ des ir ed_ in_ c y pr us_ i_have_ found_ great_ love_ a mon g st_ them </s>
+<s> o_ my_ sweet_ i_ pra ttle_ out_of_ fa shi on_ and_i_ do te_ in_ mine_own_ com for t s </s>
+<s> i_ prithee_ good_ iago_ go_ to_the_ b ay_ and_ di se mb ar k_ my_ c off ers_ bring_ thou_ the_ master_ to_the_ ci ta de l_ he_is_ a_ good_ one_ and_his_ wor thin ess_ does_ cha ll en ge_ much_ res pe c t </s>
+<s> come_ desdemona_ once_ more_ well_ m et_ at_ c y p ru s </s>
+<s> exeunt_ othello_ desdemona_ and_ attendants_ iago_ do_ thou_ meet_ me_ pres ently_ at_the_ har b our </s>
+<s> come_ hi ther </s>
+<s> if_thou_ best_ va li ant_ as_ they_ say_ ba se_ men_ being_ in_ love_ have_ then_ a_ no bi li ty_ in_their_ in de x_ and_ ob sc ure_ pro lo gue_ to_the_ hi st ory_ of_ lu st_ and_ foul_ thou ght s </s>
+<s> they_ m et_ so_ near_ with_ their_ lips_ that_ their_ brea ths_ e mb ra ced_ toge ther </s>
+<s> vill an ous_ thoughts_ roderi go </s>
+<s> when_ these_ mu tu a li ties_ so_ mar sha l_ the_ way_ hard_ at_ hand_ comes_ the_ master_ and_ ma in_ ex er ci se_ the_ in cor por ate_ con c lu sion_ pi sh </s>
+<s> but_ sir_ be_ you_ ru led_ by_ me_ i_have_ b rought_ you_ from_ ven i ce </s>
+<s> watch_ you_ tonight_ for_the_ command_ ill_ la y t_ upon_ you </s>
+<s> cassio_ knows_ you_ no t </s>
+<s> ill_ not_be_ far_ from_ you_ do_you_ find_ some_ oc ca sion_ to_ an ger_ cassio_ either_ by_ spea king_ too_ l oud_ or_ ta in ting_ his_ disc i p l ine_ or_ from_ what_ other_ course_ you_ please_ which_ the_time_ shall_ more_ fa v ou ra b ly_ min i ster </s>
+<s> roderigo_ we ll </s>
+<s> iago_ sir_ he_is_ ra sh_ and_ very_ su dd en_ in_ ch ol er_ and_ ha p ly_ may_ strike_ at_ you_ pro vo ke_ him_ that_he_ may_ for_ even_ out_ of_that_ will_i_ cause_ these_ of_ c y pr us_ to_ mu tin y_ whose_ qua li fi ca tion_ shall_ come_ into_ no_ true_ ta ste_ again_ but_ by_the_ disp l ant ing_ of_ cassi o </s>
+<s> so_ shall_ you_have_ a_ sh or ter_ j our ne y_ to_your_ des ir es_ by_the_ means_ i_shall_ then_ have_ to_ pre f er_ them_ and_the_ imp e di ment_ most_ pro fi ta b ly_ re mo ved_ without_ the_ which_ there_ were_ no_ ex pe c tation_ of_our_ pro sp er it y </s>
+<s> roderigo_ i_will_ do_ this_ if_i_ can_ bring_ it_ to_ any_ op por tun it y </s>
+<s> iago_ i_ war rant_ the e </s>
+<s> meet_ me_ by_ and_ by_ at_the_ ci ta de l_ i_must_ fe tch_ his_ ne c ess ar ies_ a sh or e </s>
+<s> fare we ll </s>
+<s> roderigo_ adieu </s>
+<s> exit_ iago_ that_ cassio_ loves_ her_ i_do_ well_ believe_ it_ that_ she_ loves_ him_ tis_ a pt_ and_ of_ great_ cre d it_ the_mo or_ ho w be it_ that_i_ end ure_ him_ not_ is_ of_a_ con stant_ lo ving_ noble_ nature_ and_i_ d are_ think_ hell_ pro ve_ to_ desdemona_ a_ most_ dear_ hus ban d </s>
+<s> now_ i_do_ love_ her_ too_ not_ out_of_ ab sol u te_ lu st_ though_ per ad v ent ure_ i_ stand_ ac coun t ant_ for_ as_ great_ a_ sin_ but_ par tly_ led_ to_ di et_ my_ revenge_ for_ that_ i_do_ su spe ct_ the_ lu st y_ mo or_ hath_ lea p d_ in to_my_ sea t_ the_ thought_ where of_ doth_ like_a_ poi son ous_ min er al_ g na w_ my_ in wards_ and_ nothing_ can_ or_ shall_ con tent_ my_ soul_ till_ i_am_ e v end_ with_him_ wife_ for_ wife_ or_ fai ling_ so_ yet_ that_i_ put_ the_mo or_ at_ lea st_ in to_a_ jeal ou sy_ so_ strong_ that_ judgment_ cannot_ cu re </s>
+<s> which_ thing_ to_do_ if_ this_ poor_ tra sh_ of_venice_ whom_ i_ tra sh_ for_his_ quick_ h un ting_ stand_ the_ pu tt ing_ on_ ill_ have_ our_ mi cha el_ cassio_ on_the_ hi p_ a bu se_ him_ to_the_ mo or_ in_the_ ran k_ g arb _ for_ i_fear_ cassio_ with_ my_ ni ght ca p_ too_ make_ the_mo or_ thank_ me_ love_ me_and_ re ward_ me </s>
+<s> for_ ma king_ him_ e gre gi ou s ly_ an_ as s_and_ pra cti sing_ upon_ his_ peace_ and_ qui et_ even_ to_ mad n ess </s>
+<s> tis_ here_ but_ yet_ con fu sed_ kna ver ys_ pla in_ face_ is_ never_ seen_ t in_ u se d </s>
+<s> exit_ scene_ i i </s>
+<s> a_ st ree t </s>
+<s> enter_a_ her a ld_ with_a_ pro cla ma tion_ pe op le_ follo wing_ her a ld_ it_is_ othell os_ pleasure_ our_ noble_ and_ va li ant_ general_ that_ upon_ certain_ ti d ings_ now_ ar ri ved_ imp or ting_ the_ m ere_ per di tion_ of_the_ tur ki sh_ fle et_ every_ man_ put_ himself_ into_ tri u mp h_ some_ to_ d ance_ some_ to_make_ bon fir es_ each_ man_ to_ what_ sp or t_and_ re v els_ his_ ad di ction_ lea ds_ him_ for_ bes i des_ these_ ben e fi ci al_ news_ it_is_ the_ ce le bra tion_ of_his_ n up ti al </s>
+<s> so_much_ was_ his_ pleasure_ should_be_ pro cla i me d </s>
+<s> all_ offi ces_ are_ op en_ and_ there_is_ full_ li ber ty_ of_ fea st ing_ from_this_ present_ hour_ of_ fi ve_ till_ the_ be ll_ have_ told_ e le ven </s>
+<s> heaven_ bl ess_ the_ is le_ of_ c y pr us_ and_ our_ noble_ general_ othell o </s>
+<s> exeunt_scene_i i i </s>
+<s> a_ ha ll_ in_the_ cast le </s>
+<s> enter_ othello_ desdemona_ cassio_ and_ attendants_ othello_ good_ mi cha el_ look_ you_ to_the_ guard_ tonight_ lets_ t each_ our selves_ that_ honourable_ st o p_ not_to_ out sp ort_ disc re ti on </s>
+<s> cassio_ iago_ hath_ dire ction_ what_ to_do_ but_ no t with stan ding_ with_ my_ per son al_ eye_ will_i_ look_ to t </s>
+<s> othello_ iago_ is_ most_ hon es t </s>
+<s> mi cha el_ good_night_ tomorrow_ with_ your_ ear li est_ let_me_ have_ speech_ with_ you </s>
+<s> to_ desdemona_ come_ my_ dear_ love_ the_ pur cha se_ made_ the_f ru i ts_ are_ to_ en sue_ that_ pro fi ts_ yet_ to_ come_ t ween_ me_and_ you </s>
+<s> good_ ni ght </s>
+<s> exeunt_ othello_ desdemona_ and_ attendants_ enter_ iago_ cassio_ welcome_ iago_ we_ must_ to_the_ wat ch </s>
+<s> iago_ not_ this_ hour_ lie u ten ant_ tis_ not_ yet_ ten_ o_the_ clo ck </s>
+<s> our_ general_ ca st_ us_ thus_ ear ly_ for_the_ love_ of_his_ desdemona_ who_ let_us_ not_ therefore_ bla me_ he_hath_ not_ yet_ made_ w ant on_the_ night_ with_her_ and_ she_is_ sp ort_ for_ jo ve </s>
+<s> cassio_ shes_ a_ most_ ex qui si te_ la d y </s>
+<s> iago_ and_ ill_ war rant_ her_ f un_ of_ ga me </s>
+<s> cassio_ indeed_ shes_ a_ most_ f res h_ and_ deli ca te_ crea tu re </s>
+<s> iago_ what_ an_ eye_ she_ ha s </s>
+<s> me thinks_ it_ s ounds_ a_ par le y_ of_ pro vo ca ti on </s>
+<s> cassio_ an_ in vi ting_ eye_ and_yet_ me thinks_ right_ mo des t </s>
+<s> iago_ and_ when_ she_ spea ks_ is_it_ not_ an_ al ar u m_ to_ lo ve </s>
+<s> cassio_ she_is_ indeed_ per fe cti on </s>
+<s> iago_ well_ happ in ess_ to_ their_ sh ee t s </s>
+<s> come_ lie u ten ant_ i_have_a_ st ou p_ of_ w ine_ and_ here_ without_ are_ a_ bra ce_of_ c y pr us_ ga ll ants_ that_ would_ fa in_ have_ a_ mea sure_ to_the_ hea lth_ of_ black_ othell o </s>
+<s> cassio_ not_ tonight_ good_ iago_ i_have_ very_ poor_ and_ un happy_ bra ins_ for_ dr in king_ i_could_ well_ wish_ cour tes y_ would_ in v ent_ some_ other_ cu st om_ of_ ent er ta in m ent </s>
+<s> iago_ o_ they_are_ our_ friends_ but_ one_ cu p_ ill_ drink_ for_ you </s>
+<s> cassio_ i_have_ dr un k_ but_ one_ cu p_ tonight_ and_that_ was_ cra f ti ly_ qua li fied_ too_ and_ behold_ what_ in no va tion_ it_ makes_ here_ i_am_ un fortun ate_ in_the_ in fir mi ty_and_ d are_not_ ta s k_ my_ wea k ness_ with_ any_ mor e </s>
+<s> iago_ what_ man </s>
+<s> tis_ a_ night_ of_ re v els_ the_ ga ll ants_ desire_ it </s>
+<s> cassio_ where_ are_ the y </s>
+<s> iago_ here_ at_the_ do or_ i_pray_you_ call_ them_ in </s>
+<s> cassio_ ill_ do t_ but_ it_ dis li kes_ me </s>
+<s> exit_ iago_ if_i_ can_ fa st en_ but_ one_ cu p_ upon_ him_ with_ that_which_ he_hath_ dr un k_ tonight_ already_ hell_ be_ as_ full_of_ quar re l_ and_ off ence_ as_ my_ young_ mistress_ do g </s>
+<s> now_ my_ sick_ fool_ roderigo_ whom_ love_ hath_ tur nd_ almost_ the_w rong_ side_ out_ to_ desdemona_ hath_ tonight_ car ou sed_ po ta tions_ po tt le de ep_ and_ hes_ to_ watch_ three_ la ds_ of_ c y pr us_ noble_ swe lling_ spiri ts_ that_ hold_ their_ hon ours_ in_a_ war y_ di st ance_ the_very_ e le ments_ of_this_ war like_ is le_ have_i_ tonight_ flu ster d_ with_ flo wing_ c up s_and_ they_ watch_ t oo </s>
+<s> now_ mon g st_ this_ f lock_ of_ dr un k ar ds_ am_ i_ to_ put_ our_ cassio_ in_ some_ ac tion_ that_ may_ off end_ the_ i sle but_ here_ they_ come_ if_ con se qu ence_ do_ but_ app ro ve_ my_ dream_ my_ bo at_ sa ils_ f ree ly_ both_ with_ w ind_ and_ st rea m </s>
+<s> reenter_ cassio_ with_him_ mon t ano_ and_ gentlemen_ serv ants_ follo wing_ with_ w ine_ cassio_ fore_ god_ they_have_ given_ me_ a_ rou se_ al rea d y </s>
+<s> mon t ano_ good_ faith_ a_little_ one_ not_ pa st_ a_ p int_ as_ i_am_ a_ soldi er </s>
+<s> iago_ some_ w ine_ ho </s>
+<s> sing s_and_ let_me_ the_ can a k in_ cl ink_ cl ink_ and_ let_me_ the_ can a k in_ cl ink_ a_ soldiers_ a_man_ a_ li f es_ but_a_ sp an_ why_ then_ let_ a_ soldier_ dr in k </s>
+<s> some_ w ine_ bo y s </s>
+<s> cassio_ fore_ god_ an_ exce ll ent_ son g </s>
+<s> iago_ i_ lear ned_ it_ in_ england_ where_ indeed_ they_are_ most_ po tent_ in_ po tt ing_ your_ dan e_ your_ ger man_ and_ your_ sw ag bell i ed_ ho ll an der drink_ ho are_ nothing_ to_your_ eng li sh </s>
+<s> cassio_ is_ your_ eng li sh man_ so_ ex per t_ in_his_ dr in k ing </s>
+<s> iago_ why_ he_ dr in ks_ you_ with_ fa ci li ty_ your_ dan e_ dead_ dr un k_ he_ sw ea ts_ not_to_ over th row_ your_ al ma in_ he_ gives_ your_ ho ll an der_ a_ v om it_ ere_ the_ ne xt_ po ttle_ can_ be_ fi ll e d </s>
+<s> cassio_ to_the_ hea lth_ of_our_ gener al </s>
+<s> mon t ano_ i_am_ for_ it_ lie u ten ant_ and_ ill_ do_you_ justi ce </s>
+<s> iago_ o_ sweet_ eng lan d </s>
+<s> king_ st ep h en_ was_ a_ worthy_ pe er_ his_ b ree ches_ co st_ him_ but_a_ crown_ he_ he ld_ them_ si x p ence_ all_ too_ dear_ with_ that_he_ ca lld_ the_ ta il or_ lo wn </s>
+<s> he_was_ a_ wi ght_ of_ high_ ren own_ and_ thou_art_ but_ of_ low_ de g ree_ tis_ pri de_ that_ pu lls_ the_ coun try_ down_ then_ take_ thine_ au ld_ clo a k_ about_ the e </s>
+<s> some_ w ine_ ho </s>
+<s> cassio_ why_ this_is_ a_ more_ ex qui si te_ son g_ than_ the_ o ther </s>
+<s> iago_ will_you_ heart_ aga in </s>
+<s> cassio_ no_ for_ i_ hold_ him_ to_be_ un worthy_ of_his_ place_ that_ does_ those_ th ing s </s>
+<s> well_ gods_ abo ve_ all_ and_ there_ be_ sou ls_ must_be_ sa ved_ and_ there_ be_ sou ls_ must_ not_be_ sa ve d </s>
+<s> iago_ i ts_ true_ good_ lie u ten ant </s>
+<s> cassio_ for_ mine_own_ par t no_ off ence_ to_the_ general_ nor_ any_ man_ of_ qua li ty i_ hope_ to_be_ sa ve d </s>
+<s> iago_ and_so_ do_ i_ too_ lie u ten ant </s>
+<s> cassio_ ay_ but_ by_ your_ leave_ not_ before_ me_ the_ lie u ten ant_ is_ to_be_ sa ved_ before_ the_ an ci ent </s>
+<s> lets_ have_ no_more_ of_this_ lets_ to_our_ af fair s for give_ us_ our_ sin s gentlemen_ lets_ look_ to_our_ bu sin ess </s>
+<s> do_not_ think_ gentle men </s>
+<s> i_am_ dr un k_ this_is_ my_ an ci ent_ this_is_ my_ right_ hand_ and_ this_is_ my_ left_ i_am_ not_ dr un k_ now_ i_can_ stand_ well_ enough_ and_ speak_ well_ en ou gh </s>
+<s> all_ exce ll ent_ we ll </s>
+<s> cassio_ why_ very_ well_ then_ you_must_ not_ think_ then_ that_ i_am_ dr un k </s>
+<s> exit_ mon t ano_ to_the_ pla t form_ masters_ come_ lets_ set_ the_w at ch </s>
+<s> iago_ you_ see_ this_ fellow_ that_is_ gone_ before_ he_is_ a_ soldier_ fit_ to_ stand_ by_ caesar_ and_ give_ dire ction_ and_ do_ but_ see_ his_ vice_ tis_ to_his_ virtue_ a_ ju st_ e qu in o x_ the_ one_ as_ long_ as_the_ other_ tis_ pity_ of_ him </s>
+<s> i_fear_ the_ tru st_ othello_ pu ts_ him_ in </s>
+<s> on_ some_ o d d_ time_ of_his_ in fir mi ty_ will_ shake_ this_ is lan d </s>
+<s> mon t ano_ but_ is_ he_ of ten_ th u s </s>
+<s> iago_ tis_ e ver more_ the_ pro lo gue_ to_his_ sleep_ hell_ watch_ the_ hor o lo ge_ a_ dou ble_ set_ if_ drink_ ro ck_ not_ his_ cra d le </s>
+<s> mon t ano_ it_were_ well_ the_ general_ were_ put_ in_ mind_ of_ it </s>
+<s> per ha ps_ he_ se es_ it_not_ or_ his_ good_ nature_ pri z es_ the_ virtue_ that_ app ears_ in_ cassio_ and_ looks_ not_ on_his_ e vi ls_ is_not_ this_ tru e </s>
+<s> enter_ roderigo_ iago_ aside_ to_him_ how_now_ roderi go </s>
+<s> i_pray_you_ after_ the_ lie u ten ant_ go </s>
+<s> exit_ roderigo_ mon t ano_ and_ tis_ great_ pity_ that_the_ noble_ mo or_ should_ ha z ard_ such_a_ place_ as_ his_ own_ second_ with_ one_ of_ an_ ing ra ft_ in fir mi ty_ it_were_ an_ honest_ ac tion_ to_say_ so_ to_the_ mo or </s>
+<s> iago_ not_ i_ for_this_ fair_ is land_ i_do_ love_ cassio_ well_ and_ would_ do_ much_ to_ c ure_ him_ of_this_ e vi l but_ har k </s>
+<s> what_ no i se </s>
+<s> cry_ within_ hel p </s>
+<s> help_ reenter_ cassio_ dri ving_ in_ roderigo_ cassio_ you_ ro gu e </s>
+<s> you_ ra sca l </s>
+<s> mon t ano_ whats_the_ matter_ lie u ten ant </s>
+<s> cassio_ a_ kna ve_ t each_ me_ my_ du ty </s>
+<s> ill_ bea t_ the_ kna ve_ in to_a_ t wi g g en_ bott le </s>
+<s> roderigo_ bea t_ me </s>
+<s> cassio_ dost_thou_ pra te_ ro gu e </s>
+<s> stri king_ roderigo_ mon t ano_ nay_ good_ lie u ten ant_ sta ying_ him_ i_pray_you_ sir_ hold_ your_ hand </s>
+<s> cassio_ let_me_ go_ sir_ or_ ill_ kno ck_ you_ oer_ the_ ma z z ar d </s>
+<s> mon t ano_ come_ come_ your e_ dr un k </s>
+<s> cassio_ dr un k </s>
+<s> they_ fight_ iago_ aside_ to_ roderigo_ away_ i_say_ go_ out_ and_ cry_ a_ mu tin y </s>
+<s> exit_ roderigo_ nay_ good_ lie u ten an ta la s_ gentlemen_ help_ ho lie u ten ant si r mon t an o sir_ help_ ma ster sh er es_ a_ goo dly_ watch_ in de e d </s>
+<s> be ll_ r ings_ wh os_ that_which_ r ings_ the_ bell di ab l o_ ho </s>
+<s> the_ to wn_ will_ ri se_ gods_ will_ lie u ten ant_ ho ld </s>
+<s> you_ will_be_ sha med_ for_ e ver </s>
+<s> reenter_ othello_ and_ attendants_ othello_ what_ is_the_ matter_ h ere </s>
+<s> mon t ano_ z ounds_ i_ ble ed_ still_ i_am_ hur t_ to_the_ dea th </s>
+<s> fa in ts_ othello_ hold_ for_your_ li v es </s>
+<s> iago_ hold_ ho </s>
+<s> lie u ten ant si r mon t an o gentlemen_ have_you_ for got_ all_ sense_ of_ place_ and_ du ty </s>
+<s> ho ld </s>
+<s> the_ general_ spea ks_ to_you_ hold_ hold_ for_ sha me </s>
+<s> othello_ why_ how_now_ ho </s>
+<s> from_ wh ence_ ar i se th_ this </s>
+<s> are_ we_ tur nd_ tur k s_and_ to_ our selves_ do_ that_which_ heaven_ hath_ for bid_ the_ o tt om it es </s>
+<s> for_ christian_ shame_ put_ by_ this_ b arb ar ous_ bra w l_ he_ that_ sti r s_ ne xt_ to_ car ve_ for_his_ own_ ra ge_ ho lds_ his_ soul_ light_ he_ dies_ upon_ his_ mo ti on </s>
+<s> sil ence_ that_ drea d ful_ be ll_ it_ fri ghts_ the_ is le_ from_ her_ in de e d </s>
+<s> had_ we_ done_ so_ at_ first_ we_ had_ dro ven_ them_ home_ with_ cl ou ts_ about_ their_ hea d s </s>
+<s> mark_antony_ thou_ ble e dst_ a pa ce </s>
+<s> scar us_ i_had_ a_ w ound_ here_ that_ was_ like_a_ t_ but_ now_ tis_ made_ an_ h </s>
+<s> mark_antony_ they_ do_ re ti re </s>
+<s> scar us_ well_ bea t_ e m_ into_ ben ch ho les_ i_have_ yet_ room_ for_ si x_ sc o tch es_ mor e </s>
+<s> enter_ eros_ eros_ they_are_ bea ten_ sir_ and_ our_ ad van ta ge_ ser ves_ for_a_ fair_ vi c tor y </s>
+<s> scar us_ let_us_ sc ore_ their_ ba ck s_and_ s nat ch_ e m_ up_ as_ we_ take_ har es_ behind_ tis_ sp ort_ to_ ma u l_ a_ r un ner </s>
+<s> mark_antony_ i_will_ re ward_ thee_ once_ for_ thy_ sp ri te ly_ com for t_and_ ten fo ld_ for_ thy_ good_ val our </s>
+<s> come_ thee_ on </s>
+<s> scar us_ ill_ ha lt_ af ter </s>
+<s> exeunt_scene_ vi i i </s>
+<s> under_ the_ wa lls_ of_ alex an dri a </s>
+<s> al ar u m </s>
+<s> enter_ mark_antony_ in_a_ mar ch_ scar us_ with_ others_ mark_antony_ we_have_ bea t_ him_ to_his_ ca mp_ run_ one_ before_ and_ let_ the_ queen_ know_ of_our_ g es t s </s>
+<s> tomorrow_ before_ the_s un_ shall_ see_ s_ well_ sp ill_ the_ blood_ that_ has_ today_ es ca pe d </s>
+<s> i_ thank_ you_ all_ for_ dou gh ty han ded_ are_you_ and_ have_ fou ght_ not_ as_you_ ser ved_ the_ cause_ but_ as_ t_ had_ been_ each_ mans_ like_ mine_ you_have_ sh own_ all_ he c tor s </s>
+<s> enter_ the_ ci ty_ cli p_ your_ wi ves_ your_ friends_ tell_ them_ your_ fea ts_ whi l st_ they_ with_ jo y ful_ tears_ wa sh_ the_ con g eal ment_ from_ your_ w ounds_ and_ kiss_ the_ hon our d_ ga shes_ wh o le </s>
+<s> to_ scar us_ give_me_ thy_ hand_ enter_ cleopatra_ atten ded_ to_this_ great_ fairy_ ill_ comm end_ thy_ ac ts_ make_ her_ thanks_ bl ess_ the e </s>
+<s> to_ cleopatra_ o_ thou_ day_ o_the_ world_ cha in_ mine_ ar md_ ne ck_ lea p_ thou_ at ti re_ and_all_ through_ pro of_ of_ har ness_ to_my_ heart_ and_ there_ ri de_ on_the_ p ants_ tri u mp h ing </s>
+<s> cleopatra_ lord_ of_ lor d s </s>
+<s> o_ in f ini te_ virtue_ com est_ thou_ smi ling_ from_the_ wor lds_ great_ s n are_ un ca ugh t </s>
+<s> mark_antony_ my_ ni ght ing a le_ we_have_ bea t_ them_ to_ their_ be d s </s>
+<s> what_ g ir l </s>
+<s> though_ gre y_ do_ something_ m ing le_ with_ our_ youn ger_ bro wn_ yet_ ha_ we_ a_ bra in_that_ n ouri shes_ our_ ner ves_ and_ can_ get_ go al_ for_ go al_ of_ you th </s>
+<s> behold_ this_ man_ comm end_ un to_his_ lips_ thy_ fa v our ing_ hand_ kiss_ it_ my_ war ri or_ he_hath_ fou ght_ today_ as_ if_ a_ god_ in_ hate_ of_ man kind_ had_ des tro y d_ in_ such_a_ sha pe </s>
+<s> cleopatra_ ill_ give_ thee_ friend_ an_ ar mour_ all_ of_ gold_ it_was_ a_ k ing s </s>
+<s> mark_antony_ he_ has_ deser ved_ it_were_ it_ car bu n c led_ like_ holy_ p ho e b us_ car </s>
+<s> give_me_ thy_ hand_ through_ alex an dri a_ make_ a_ jo lly_ mar ch_ bear_ our_ ha ckd_ tar ge ts_ like_the_ men_ that_ o we_ them_ had_ our_ great_ pala ce_ the_ ca pa ci ty_ to_ ca mp_ this_ ho st_ we_ all_ would_ su p_ together_ and_ drink_ car ou ses_ to_the_ ne xt_ days_ fa te_ which_ prom i ses_ roy al_ per il </s>
+<s> tru mp e t ers_ with_ bra z en_ d in_ bla st_ you_ the_ ci t ys_ ear_ make_ m ing le_ with_ ra tt ling_ ta b our in es_ that_ heaven_ and_ earth_ may_ strike_ their_ s ounds_ together_ app lau ding_ our_ app roa ch </s>
+<s> exeunt_scene_i x </s>
+<s> octavius_ caesars_ ca mp </s>
+<s> s ent in els_ at_ their_ po st_ first_ soldier_ if_ we_ be_ not_ re lie ved_ within_ this_ hour_ we_ must_ return_ to_the_ court_ of_ guard_ the_ night_ is_ sh in y_and_ they_ say_ we_shall_ e mb at t le_ by_the_ second_ hour_ i_the_ mor n </s>
+<s> second_ soldier_ this_ last_ day_ was_ a_ sh re wd_ one_ to s </s>
+<s> enter_ domitius_enobarbus_ domitius_enobarbus_ o_ bear_ me_ wi tness_ night_ third_ soldier_ what_ man_ is_ this </s>
+<s> second_ soldier_ stand_ clo se_and_ li st_ him </s>
+<s> domitius_enobarbus_ be_ wi tness_ to_me_ o_ thou_ bles sed_ mo on_ when_ men_ re vol ted_ shall_ upon_ re c ord_ bear_ ha te ful_ me mor y_ poor_ enobarbus_ did_ before_ thy_ face_ rep ent </s>
+<s> first_ soldier_ enob ar bu s </s>
+<s> third_ soldier_ pea ce </s>
+<s> hark_ fur ther </s>
+<s> domitius_enobarbus_ o_ so ver e ign_ mistress_ of_ true_ me lan cho ly_ the_ poi son ous_ dam p_ of_ night_ disp on ge_ upon_ me_ that_ life_ a_ very_ re be l_ to_my_ will_ may_ hang_ no_ lon ger_ on_ me_ th row_ my_heart_ against_ the_ fl int_ and_ har dness_ of_my_ fau lt_ which_ being_ d ried_ with_ grief_ will_ break_ to_ po w der_ and_ f ini sh_ all_ foul_ thou ght s </s>
+<s> o_ antony_ no bl er_than_ my_ re vol t_ is_ in fa m ous_ for give_me_ in_ thine_ own_ par ti cu la r_ but_ let_ the_world_ ran k_ me_ in_ re gi ster_ a_ ma ster lea ver_ and_a_ fu gi tive_ o_ anton y </s>
+<s> o_ anton y </s>
+<s> dies_ second_ soldier_ lets_ speak_ to_ him </s>
+<s> first_ soldier_ lets_ hear_ him_ for_the_ things_ he_ spea ks_ may_ con cer n_ caes ar </s>
+<s> third_ soldier_ lets_ do_ so </s>
+<s> but_ he_ sle ep s </s>
+<s> first_ soldier_ sw o ons_ rather_ for_ so_ bad_ a_ pray er_ as_ his_ was_ never_ yet_ for_ sle ep </s>
+<s> second_ soldier_ go_ we_ to_ him </s>
+<s> third_ soldier_ a wake_ sir_ a wake_ speak_ to_ u s </s>
+<s> second_ soldier_ hear_ you_ si r </s>
+<s> first_ soldier_ the_ hand_ of_ death_ hath_ ra u ght_ him </s>
+<s> dru ms_ a far_ off_ har k </s>
+<s> the_ dru ms_ de mu re ly_ wake_ the_ sle e per s </s>
+<s> let_us_ bear_ him_ to_the_ court_ of_ guard_ he_is_ of_ note_ our_ hour_ is_ fu lly_ out </s>
+<s> third_ soldier_ come_ on_ then_ he_ may_ re co ver_ y e t </s>
+<s> exeunt_ with_the_ body_ scene_ x </s>
+<s> between_ the_ two_ ca mp s </s>
+<s> enter_ mark_antony_ and_ scar us_ with_ their_ ar my_ mark_antony_ their_ pre par ation_ is_ today_ by_ sea_ we_ please_ them_ not_ by_ lan d </s>
+<s> scar us_ for_ both_ my_ lor d </s>
+<s> mark_antony_ i_would_ the y ld_ fight_ i_the_ fire_ or_ i_the_ air_ we ld_ fight_ there_ t oo </s>
+<s> but_ this_ it_is_ our_ foo t_ upon_the_ hi lls_ ad jo in ing_ to_the_ ci ty_ shall_ stay_ with_ us_ or der_ for_ sea_ is_ given_ they_have_ put_ forth_ the_ ha ven_ where_ their_ a ppo in t ment_ we_ may_ best_ disc over_ and_ look_ on_ their_ en dea v our </s>
+<s> exeunt_scene_ x i </s>
+<s> another_ part_ of_the_ sa me </s>
+<s> enter_ octavius_caesar_ and_his_ ar my_ octavius_caesar_ but_ being_ char ged_ we_will_ be_ still_ by_ land_ which_ as_i_ ta k et_ we_shall_ for_his_ best_ force_ is_ forth_ to_ man_ his_ ga ll ey s </s>
+<s> to_the_ val es_and_ hold_ our_ best_ ad van ta ge </s>
+<s> exeunt_scene_ x i i </s>
+<s> another_ part_ of_the_ sa me </s>
+<s> enter_ mark_antony_ and_ scar us_ mark_antony_ yet_ they_are_ not_ jo ind_ where_ y ond_ p ine_ does_ stand_ i_shall_ disc over_ all_ ill_ bring_ thee_ word_ straight_ how_ tis_ like_ to_ go </s>
+<s> exit_ scar us_ sw a llows_ have_ bu i lt_ in_ cleopat ras_ sa ils_ their_ n es ts_ the_ au g ur ers_ say_ they_ know_ not_ they_ cannot_ tell_ look_ gri m ly_ and_ d are_not_ speak_ their_ know le d ge </s>
+<s> antony_ is_ va li ant_ and_ de je c ted_ and_ by_ star ts_ his_ f re tt ed_ fortunes_ give_him_ hope_ and_ fear_ of_ what_ he_ ha s_and_ has_ no t </s>
+<s> al ar u m_ a far_ off_ as_ at_ a_ sea fight_ reenter_ mark_antony_ mark_antony_ all_ is_ lost_ this_ foul_ egy p ti an_ hath_ be tra y ed_ me_ my_ fle et_ hath_ yi el ded_ to_the_ fo e_ and_ y on der_ they_ ca st_ their_ ca ps_ up_ and_ car ou se_ together_ like_ friends_ long_ lo st </s>
+<s> tri p le tur nd_ wh or e </s>
+<s> tis_ thou_hast_ so ld_ me_to_ this_ no vice_ and_ my_heart_ makes_ only_ war s_ on_ the e </s>
+<s> bid_ them_ all_ fly_ for_ when_ i_am_ reven ged_ upon_ my_ char m_ i_have_ done_ a ll </s>
+<s> bid_ them_ all_ fly_ beg on e </s>
+<s> exit_ scar us_ o_ s un_ thy_ up ri se_ shall_ i_see_ no_more_ fortune_ and_ antony_ part_ here_ even_ here_ do_ we_ shake_ hand s </s>
+<s> all_ come_to_ this </s>
+<s> the_ hearts_ that_ sp ani eld_ me_ at_ he els_ to_ whom_ i_ gave_ their_ wi shes_ do_ disc an dy_ me lt_ their_ swe ets_ on_ blo s som ing_ caesar_ and_ this_ p ine_ is_ bar kd_ that_ over to pp d_ them_ a ll </s>
+<s> be tra y d_ i_am_ o_ this_ false_ soul_ of_ egy p t </s>
+<s> this_ grave_ char m_ whose_ eye_ be ckd_ forth_ my_ war s_and_ ca lld_ them_ home_ whose_ bo som_ was_ my_ cro wn et_ my_ chief_ end_ like_a_ right_ gi p sy_ hath_ at_ fa st_ and_ loo se_ be gui led_ me_ to_the_ very_ heart_ of_ lo ss </s>
+<s> what_ eros_ er os </s>
+<s> enter_ cleopatra_ ah_ thou_ spe ll </s>
+<s> a va un t </s>
+<s> cleopatra_ why_ is_ my_lord_ en ra ged_ against_ his_ lo ve </s>
+<s> mark_antony_ v ani sh_ or_ i_shall_ give_ thee_ thy_ deser ving_ and_ ble mi sh_ caesars_ tri u mp h </s>
+<s> let_him_ take_ thee_ and_ ho ist_ thee_ up_ to_the_ sh ou ting_ p le be i ans_ follow_ his_ cha ri o t_ like_the_ grea test_ spo t_ of_all_ thy_ se x_ most_ mon ster like_ be_ sh own_ for_ po or st_ di min u ti ves_ for_ do i ts_and_ let_ pati ent_ octavia_ p l ough_ thy_ vi sa ge_ up_ with_her_ pre par ed_ na il s </s>
+<s> exit_ cleopatra_ tis_ well_ thou r t_ gone_ if_ it_be_ well_ to_ live_ but_ better_ t were_ thou_ fe ll st_ in to_my_ fur y_ for_ one_ death_ might_ have_ pre v ent ed_ man y </s>
+<s> eros_ ho </s>
+<s> the_ sh ir t_ of_ n ess us_ is_ upon_ me_ t each_ me_ al ci des_ thou_ mine_ an c es tor_ thy_ ra ge_ let_me_ lo dge_ li cha s_ on_the_ hor ns_ o_the_ mo on_ and_ with_ those_ hands_ that_ gra sp d_ the_ hea vi est_ c lu b_ sub du e_ my_ wor thi est_ sel f </s>
+<s> the_ witch_ shall_ die_ to_the_ young_ rom an_ boy_ she_ hath_ so ld_ me_ and_i_ fall_ under_ this_ p lot_ she_ dies_ for t </s>
+<s> eros_ ho </s>
+<s> exit_ scene_ x i i i </s>
+<s> alex an dri a </s>
+<s> cleopat ras_ pala ce </s>
+<s> enter_ cleopatra_ charmian_ i ra s_and_ mar di an_ cleopatra_ help_ me_ my_ wom en </s>
+<s> o_ he_is_ more_ mad_ than_ te la m on_ for_his_ shi eld_ the_ bo ar_ of_ thes sa ly_ was_ never_ so_ e m bo ss d </s>
+<s> charmian_ to_the_ mon u m ent </s>
+<s> there_ lock_ yourself_ and_ send_ him_ word_ you_are_ dea d </s>
+<s> the_ soul_ and_ body_ ri ve_ not_ more_ in_ par ting_ than_ grea tness_ go ing_ off </s>
+<s> cleopatra_ to_the_ mon u m ent </s>
+<s> mar di an_ go_ tell_ him_ i_have_ slain_ myself_ say_ that_the_ last_ i_ spoke_ was_ antony_ and_ word_ it_ prithee_ pi te ou s ly_ hence_ mar di an_ and_ bring_ me_ how_ he_ ta kes_ my_ dea th </s>
+<s> to_the_ mon u m ent </s>
+<s> exeunt_scene_ x i v </s>
+<s> the_ sa me </s>
+<s> another_ ro om </s>
+<s> enter_ mark_antony_ and_ eros_ mark_antony_ eros_ thou_ yet_ be ho ld st_ me </s>
+<s> eros_ ay_ noble_ lor d </s>
+<s> mark_antony_ some times_ we_ see_ a_ cl oud_ thats_ dra g on i sh_ a_ va p our_ some time_ like_a_ bear_ or_ li on_ a_ to w erd_ ci ta de l_ a_ pen d ent_ ro ck_ a_ for ked_ m oun tain_ or_ b lu e_ prom on tor y_ with_ tre es_ up ont_ that_ no d_ un to_the_ world_ and_ mo ck_ our_ eyes_ with_ air_ thou_hast_ seen_ these_ si g ns_ they_are_ black_ v es p ers_ p ag e ant s </s>
+<s> eros_ ay_ my_lord_ mark_antony_ that_which_ is_ now_ a_ horse_ even_ with_a_ thought_ the_ ra ck_ dis li m n s_and_ makes_ it_ in di st in ct_ as_ wa ter_ is_ in_ wat er </s>
+<s> eros_ it_ does_ my_ lor d </s>
+<s> mark_antony_ my_good_ kna ve_ eros_ now_ thy_ cap tain_ is_ even_ such_a_ body_ here_ i_am_ antony_ yet_ cannot_ hold_ this_ vi si ble_ sha pe_ my_ kna ve </s>
+<s> i_ made_ these_ war s_ for_ egypt_ and_the_ queen_ whose_ heart_ i_ thought_ i_had_ for_ she_ had_ mine_ which_ whi l st_ it_was_ mine_ had_ an ne x d_ un to t_ a_ mi ll i on_ more_ now_ lo st she_ eros_ has_ pa ckd_ car ds_ with_ caesar_ and_ fal se play d_ my_ g lor y_ un to_ an_ en e m ys_ tri u mp h </s>
+<s> nay_ we ep_ not_ gentle_ eros_ there_is_ left_ us_ our selves_ to_ end_ our sel v es </s>
+<s> enter_ mar di an_ o </s>
+<s> thy_ vile_ la d y </s>
+<s> she_ has_ ro bb d_ me_ of_my_ swor d </s>
+<s> mar di an_ no_ antony_ my_ mistress_ loved_ thee_ and_ her_ fortunes_ m ing led_ with_ thine_ en ti re ly </s>
+<s> mark_antony_ hence_ sa u cy_ e un u ch_ pea ce </s>
+<s> she_ hath_ be tra y d_ me_and_ shall_ die_ the_ dea th </s>
+<s> mar di an_ death_ of_ one_ per son_ can_ be_ pa id_ but_ once_ and_that_ she_ has_ disc har ged_ what_ thou_ would st_ do_ is_ done_ un to_ thy_ hand_ the_ last_ she_ spa ke_ was_ anton y </s>
+<s> most_ noble_ antony_ then_ in_the_ mi dst_ a_ t ear ing_ gro an_ did_ break_ the_ name_ of_ antony_ it_was_ di vi ded_ between_ her_ heart_ and_ lips_ she_ ren der d_ life_ thy_ name_ so_ bu ried_ in_ her </s>
+<s> mark_antony_ dead_ th en </s>
+<s> mar di an_ dea d </s>
+<s> mark_antony_ un arm_ eros_ the_ long_ days_ ta s k_ is_ done_ and_ we_ must_ sle ep </s>
+<s> to_ mar di an_ that_ thou_ de par t st_ hence_ sa fe_ does_ p ay_ thy_ la b our_ ri ch ly_ go </s>
+<s> exit_ mar di an_ off_ plu ck_ off_ the_ se ven fo ld_ shi eld_ of_ a j a x_ cannot_ keep_ the_ bat ter y_ from_ my_ hear t </s>
+<s> o_ c leave_ my_ si des </s>
+<s> heart_ once_ be_ st ron ger_ than_ thy_ con tin ent_ cra ck_ thy_ fra il_ ca se </s>
+<s> a pa ce_ eros_ a pa ce </s>
+<s> no_more_ a_ soldier_ bru ised_ pi e ces_ go_ you_have_ been_ no b ly_ bor ne </s>
+<s> from_ me_ a whi le </s>
+<s> exit_ eros_ i_will_ oer take_ thee_ cleopatra_ and_ we ep_ for_my_ pard on </s>
+<s> so_ it_ must_be_ for_ now_ all_ len g th_ is_ tor ture_ since_ the_ tor ch_ is_ out_ lie_ down_ and_ stra y_ no_ f ar ther_ now_ all_ la b our_ mar s_ what_ it_ does_ y ea _ very_ force_ ent ang les_ itself_ with_ str eng th_ sea l_ then_ and_all_ is_ d on e </s>
+<s> er os i_ come_ my_ qu e en er os stay_ for_ me_ where_ sou ls_ do_ cou ch_ on_ flo wers_ well_ fe tch_ dri er_ lo gs_ call_ pe ter_ he_ will_ show_ thee_ where_ they_ are </s>
+<s> second_ servant_ i_have_a_ head_ sir_ that_ will_ find_ out_ lo g s_and_ never_ trou ble_ pe ter_ for_the_ ma tt er </s>
+<s> exit_ capulet_ ma s s_and_ well_ said_ a_ merry_ wh or es on_ ha </s>
+<s> thou_shalt_ be_ lo g ger hea d </s>
+<s> good_ faith_ tis_ day_ the_ coun ty_ will_be_ here_ with_ music_ straight_ for_ so_ he_ said_ he_ would_ i_ hear_ him_ n ear </s>
+<s> music_ within_ n ur se </s>
+<s> wi fe </s>
+<s> what_ ho </s>
+<s> what_ nurse_ i_ say </s>
+<s> reenter_ nurse_ go_ wa ken_ juliet_ go_ and_ tri m_ her_ up_ ill_ go_ and_ cha t_ with_ paris_ hi e_ make_ haste_ make_ haste_ the_ bri de gro om_ he_is_ come_ already_ make_ haste_ i_ say </s>
+<s> exeunt_scene_ v </s>
+<s> juli ets_ cham ber </s>
+<s> enter_ nurse_ nurse_ mi st res s </s>
+<s> what_ mi st res s </s>
+<s> juli e t </s>
+<s> fa st_ i_ war rant_ her_ she_ why_ la mb </s>
+<s> why_ la d y </s>
+<s> fie_ you_ s lu ga be d </s>
+<s> why_ love_ i_ say </s>
+<s> ma dam </s>
+<s> swe e th ear t </s>
+<s> why_ bri de </s>
+<s> what_ not_a_ wor d </s>
+<s> you_ take_ your_ pen n y wor ths_ now_ sleep_ for_a_ we e k_ for_the_ ne xt_ night_ i_ war rant_ the_ coun ty_ paris_ hath_ set_ up_ his_ rest_ that_ you_shall_ rest_ but_ li tt le </s>
+<s> god_ for give_me_ marry_ and_ a men_ how_ sound_ is_ she_ a sle ep </s>
+<s> i_must_ needs_ wake_ her </s>
+<s> madam_ madam_ ma dam </s>
+<s> ay_ let_ the_ coun ty_ take_ you_ in_your_ bed_ hell_ fri ght_ you_ up_ i_ fai th </s>
+<s> will_ it_not_ be </s>
+<s> un dra ws_ the_ cur ta ins_ what_ d res s d </s>
+<s> and_ in_your_ clo thes </s>
+<s> and_ down_ aga in </s>
+<s> i_must_ needs_ wake_ you_ la d y </s>
+<s> la d y </s>
+<s> la d y </s>
+<s> alas_ ala s </s>
+<s> help_ hel p </s>
+<s> my_ la d ys_ dea d </s>
+<s> o_ we ll a day_ that_ ever_ i_was_ bor n </s>
+<s> some_ a qu a_ vi ta e_ ho </s>
+<s> my_ lor d </s>
+<s> my_ la d y </s>
+<s> enter_ lady_capulet_ lady_capulet_ what_ noise_ is_ h ere </s>
+<s> nurse_ o_ la men table_ da y </s>
+<s> lady_capulet_ what_ is_the_ ma tt er </s>
+<s> nurse_ look_ loo k </s>
+<s> o_ heavy_ da y </s>
+<s> lady_capulet_ o_ me_ o_ me </s>
+<s> my_ child_ my_ only_ life_ re vi ve_ look_ up_ or_ i_will_ die_ with_ the e </s>
+<s> help_ hel p </s>
+<s> call_ hel p </s>
+<s> enter_ capulet_ capulet_ for_ shame_ bring_ juliet_ forth_ her_ lord_ is_ com e </s>
+<s> nurse_ shes_ dead_ de c ea sed_ shes_ dead_ ala ck_ the_ da y </s>
+<s> lady_capulet_ ala ck_ the_ day_ shes_ dead_ shes_ dead_ shes_ dea d </s>
+<s> capulet_ ha </s>
+<s> let_me_ see_ her_ out_ ala s </s>
+<s> shes_ cold_ her_ blood_ is_ se tt led_ and_ her_ jo in ts_ are_ sti ff_ life_ and_ these_ lips_ have_ long_ been_ se par at ed_ death_ lies_ on_ her_ like_ an_ un ti me ly_ f ro st_ upon_the_ swe e test_ flo wer_ of_ all_the_ fi el d </s>
+<s> nurse_ o_ la men table_ da y </s>
+<s> lady_capulet_ o_ w of u l_ ti me </s>
+<s> capulet_ death_ that_ hath_ ta en_ her_ hence_ to_make_ me_ wa il_ ties_ up_ my_ tongue_ and_ will_not_ let_me_ spea k </s>
+<s> enter_ friar_laurence_ and_ paris_ with_ musi ci ans_ friar_laurence_ come_ is_the_ bri de_ ready_ to_ go_to_ chur ch </s>
+<s> capulet_ ready_ to_ go_ but_ never_ to_ re tur n </s>
+<s> o_ son </s>
+<s> the_ night_ before_ thy_ we dd ing day_ hath_ death_ la in_ with_ thy_ wi fe </s>
+<s> there_ she_ lies_ flo wer_ as_ she_ was_ de flo w er ed_ by_ him </s>
+<s> death_ is_ my_ son in law_ death_ is_ my_ he ir_ my_ daughter_ he_hath_ we d ded_ i_will_ die_ and_ leave_ him_ all_ life_ li ving_ all_ is_ dea th s </s>
+<s> paris_ have_i_ thought_ long_ to_see_ this_ mor n ings_ face_ and_ doth_ it_ give_me_ such_a_ sight_ as_ this </s>
+<s> lady_capulet_ ac cur sed_ un happy_ wre tch ed_ ha te ful_ da y </s>
+<s> most_ mi ser able_ hour_ that_ e er_ time_ saw_ in_ la st ing_ la b our_ of_his_ pi l gri ma ge </s>
+<s> but_ one_ poor_ one_ one_ poor_ and_ lo ving_ child_ but_ one_ thing_ to_ re jo ice_ and_ so la ce_ in_ and_ cru el_ death_ hath_ ca tch d_ it_ from_ my_ si ght </s>
+<s> nurse_ o_ wo e </s>
+<s> o_ w of u l_ w of u l_ w of u l_ da y </s>
+<s> most_ la men table_ day_ most_ w of u l_ day_ that_ ever_ ever_ i_did_ yet_ be ho ld </s>
+<s> o_ da y </s>
+<s> o_ da y </s>
+<s> o_ da y </s>
+<s> o_ ha te ful_ da y </s>
+<s> never_ was_ seen_ so_ black_ a_ day_ as_ this_ o_ w of u l_ day_ o_ w of u l_ da y </s>
+<s> paris_ be gui led_ di v or ced_ w ron ged_ spi ted_ sla in </s>
+<s> most_ de tes table_ death_ by_ thee_ be gui ld_ by_ cru el_ cru el_ thee_ qui te_ over thro wn </s>
+<s> o_ lo ve </s>
+<s> o_ li fe </s>
+<s> not_ life_ but_ love_ in_ dea th </s>
+<s> capulet_ des pi sed_ di st res sed_ ha ted_ mar ty r d_ ki ll d </s>
+<s> un com for table_ time_ why_ ca m est_ thou_ now_ to_ murder_ murder_ our_ so le m ni ty </s>
+<s> o_ chi ld </s>
+<s> o_ chi ld </s>
+<s> my_ soul_ and_ not_ my_ chi ld </s>
+<s> dead_ art_ thou </s>
+<s> ala ck </s>
+<s> my_ child_ is_ dea d_and_ with_ my_ child_ my_ jo ys_ are_ bu ri e d </s>
+<s> friar_laurence_ peace_ ho_ for_ sha me </s>
+<s> con fu si ons_ c ure_ lives_ not_ in_ these_ con fu si on s </s>
+<s> heaven_ and_ yourself_ had_ part_ in_this_ fair_ ma id_ now_ heaven_ hath_ all_ and_ all_the_ better_ is_it_ for_the_ ma id_ your_ part_ in_her_ you_ could_ not_ keep_ from_ death_ but_ heaven_ kee ps_ his_ part_ in_ e ter n al_ li fe </s>
+<s> the_ most_ you_ sou ght_ was_ her_ prom o tion_ for_ twas_ your_ heaven_ she_ should_be_ ad van ced_ and_ we ep_ ye_ now_ see ing_ she_is_ ad van ced_ abo ve_ the_ cl ou ds_ as_ high_ as_ heaven_ it sel f </s>
+<s> o_ in_this_ love_ you_ love_ your_ child_ so_ ill_ that_you_ run_ mad_ see ing_ that_ she_is_ well_ shes_ not_ well_ married_ that_ lives_ married_ long_ but_ shes_ best_ married_ that_ dies_ married_ youn g </s>
+<s> d ry_ up_ your_ t ear s_and_ sti ck_ your_ ro se mar y_ on_ this_ fair_ cor se_and_ as_the_ cu st om_ is_ in_ all_ her_ best_ ar ra y_ bear_ her_ to_ chur ch_ for_ though_ f ond_ nature_ bi ds_ us_ an_ la ment_ yet_ nat ures_ tears_ are_ rea sons_ mer ri m ent </s>
+<s> capulet_ all_ things_ that_ we_ or da in ed_ f es ti v al_ turn_ from_ their_ offi ce_ to_ black_ f un er al_ our_ in stru ments_ to_ me lan cho ly_ be lls_ our_ we d ding_ che er_ to_a_ sad_ bu ri al_ fea st_ our_ so le m n_ h y m ns_ to_ su ll en_ di r g es_ change_ our_ bri d al_ flo wers_ serve_ for_a_ bu ried_ cor se_and_ all_ things_ change_ them_ to_the_ con tr ar y </s>
+<s> friar_laurence_ sir_ go_ you_ in_ and_ madam_ go_ with_him_ and_ go_ sir_ paris_ every_ one_ pre p are_ to_ follow_ this_ fair_ cor se_ un to_her_ grave_ the_ heaven s_ do_ l our_ upon_ you_ for_ some_ ill_ move_ them_ no_more_ by_ cro ss ing_ their_ high_ wi ll </s>
+<s> exeunt_ capulet_ lady_capulet_ paris_ and_ friar_laurence_ first_ musi ci an_ faith_ we_ may_ put_ up_ our_ pi p es_and_ be_ g on e </s>
+<s> nurse_ honest_ goo d fe llows_ ah_ put_ up_ put_ up_ for_ well_ you_know_ this_is_ a_ pi ti ful_ ca se </s>
+<s> exit_ first_ musi ci an_ ay_ by_my_ tro th_ the_ ca se_ may_be_ a men de d </s>
+<s> enter_ pe ter_ pe ter_ musi ci ans_ o_ musi ci ans_ hearts_ ea se_ hearts_ ea se_ o_ an_ you_ will_ have_ me_ live_ play_ hearts_ ea se_ first_ musi ci an_ why_ hearts_ ea se_ pe ter_ o_ musi ci ans_ be cause_ my_heart_ itself_ pla ys_ my_heart_ is_ full_of_ wo e_ o_ play_ me_ some_ merry_ du mp_ to_ com fort_ me </s>
+<s> first_ musi ci an_ not_a_ du mp_ we_ tis_ no_ time_ to_ play_ no w </s>
+<s> pe ter_ you_ will_not_ th en </s>
+<s> first_ musi ci an_ no </s>
+<s> pe ter_ i_will_ then_ give_ it_ you_ s oun d ly </s>
+<s> first_ musi ci an_ what_ will_you_ give_ u s </s>
+<s> pe ter_ no_ money_ on_ my_ faith_ but_ the_ g le e k_ i_will_ give_ you_ the_ min stre l </s>
+<s> first_ musi ci an_ then_ i_will_ give_ you_ the_ serv ing crea tu re </s>
+<s> pe ter_ then_ will_i_ lay_ the_ serv ing crea tur es_ d ag ger_ on_ your_ p at e </s>
+<s> i_will_ car ry_ no_ cro tch ets_ ill_ re_ you_ ill_ f a_ you_ do_you_ note_ me </s>
+<s> first_ musi ci an_ an_ you_ re_ us_ and_ f a_ us_ you_ note_ u s </s>
+<s> second_ musi ci an_ pray_you_ put_ up_ your_ d ag ger_ and_ put_ out_ your_ wi t </s>
+<s> pe ter_ then_ have_ at_ you_ with_ my_ wi t </s>
+<s> i_will_ dr y bea t_ you_ with_ an_ ir on_ wi t_and_ put_ up_ my_ ir on_ d ag ger </s>
+<s> answer_ me_ like_ men_ when_ gri p ing_ grief_ the_ heart_ doth_ w ound_ and_ do le ful_ du mp s_ the_ mind_ op pr ess_ then_ music_ with_her_ sil ver_ sound_ why_ sil ver_ s oun d </s>
+<s> why_ music_ with_her_ sil ver_ s oun d </s>
+<s> what_ say_ you_ si m on_ ca t l ing </s>
+<s> musi ci an_ marry_ sir_ be cause_ sil ver_ hath_ a_ sweet_ s oun d </s>
+<s> pe ter_ pre tt y </s>
+<s> what_ say_ you_ hu gh_ re be ck </s>
+<s> second_ musi ci an_ i_say_ sil ver_ sound_ be cause_ musi ci ans_ sound_ for_ sil ver </s>
+<s> pe ter_ pre tty_ t oo </s>
+<s> what_ say_ you_ j a mes_ s oun d po st </s>
+<s> third_ musi ci an_ faith_ i_know_not_ what_ to_ say </s>
+<s> pe ter_ o_ i_ cry_ you_ mercy_ you_are_ the_s ing er_ i_will_ say_ for_ you </s>
+<s> it_is_ music_ with_her_ sil ver_ sound_ be cause_ musi ci ans_ have_ no_ gold_ for_ s oun ding_ then_ music_ with_her_ sil ver_ sound_ with_ sp ee dy_ help_ doth_ l end_ re dr ess_ exit_ first_ musi ci an_ what_a_ p es ti l ent_ kna ve_ is_this_ sa me </s>
+<s> second_ musi ci an_ hang_ him_ j a ck </s>
+<s> come_ well_ in_ here_ tar ry_ for_the_ m our n ers_ and_ stay_ d in ner </s>
+<s> exeunt_ act_ v_ scene_ i </s>
+<s> m ant u a </s>
+<s> a_ st ree t </s>
+<s> enter_ romeo_ romeo_ if_i_ may_ tru st_ the_f la tt ering_ truth_ of_ sleep_ my_ drea ms_ pres age_ some_ jo y ful_ news_ at_ hand_ my_ bo som s_ lord_ si ts_ li gh tly_ in_his_ th r one_ and_all_ this_ day_ an_ un ac cu st om d_ spirit_ li f ts_ me_ abo ve_ the_ ground_ with_ che er ful_ thou ght s </s>
+<s> i_ drea m t_ my_ lady_ came_ and_ found_ me_ dead_ strange_ dream_ that_ gives_ a_ dead_ man_ leave_ to_ think_ and_ brea th ed_ such_ life_ with_ ki ss es_ in_my_ lips_ that_i_ re vi ved_ and_ was_ an_ emp er or </s>
+<s> ah_ me </s>
+<s> how_ sweet_ is_ love_ itself_ po ss ess d_ when_ but_ loves_ sha do ws_ are_ so_ rich_ in_ jo y </s>
+<s> enter_ ba l tha sa r_ b oo ted_ news_ from_ ver on a how_now_ ba l tha s ar </s>
+<s> dost_thou_ not_ bring_ me_ le tters_ from_the_ fri ar </s>
+<s> how_ doth_ my_ la d y </s>
+<s> is_ my_father_ we ll </s>
+<s> how_ f ar es_ my_ juli e t </s>
+<s> that_i_ as k_ again_ for_ nothing_ can_ be_ ill_ if_ she_ be_ we ll </s>
+<s> ba l tha sa r_ then_ she_is_ well_ and_ nothing_ can_ be_ ill_ her_ body_ sle eps_ in_ ca pe ls_ mon u ment_ and_ her_ im mortal_ part_ with_ ang els_ li v es </s>
+<s> i_ saw_ her_ la id_ low_ in_her_ kin d re ds_ v au lt_ and_ pres ently_ t ook_ po st_ to_ tell_ it_ you_ o_ pardon_ me_ for_ b r ing ing_ these_ ill_ news_ since_ you_ did_ leave_ it_ for_my_ offi ce_ si r </s>
+<s> romeo_ is_it_ even_ so </s>
+<s> then_ i_ de f y_ you_ star s </s>
+<s> thou_ know st_ my_ lo dg ing_ get_ me_ ink_ and_ pa per_ and_ hi re_ po s thor ses_ i_will_ hence_ ton i ght </s>
+<s> ba l tha sa r_ i_do_ beseech_you_ sir_ have_ patience_ your_ looks_ are_ pale_ and_ wi ld_ and_ do_ imp ort_ some_ mi sa d v ent u re </s>
+<s> romeo_ tu sh_ thou_art_ de ceived_ leave_ me_and_ do_ the_ thing_ i_ bid_ thee_ do </s>
+<s> hast_thou_ no_ le tters_ to_me_ from_the_ fri ar </s>
+<s> ba l tha sa r_ no_ my_good_ lor d </s>
+<s> romeo_ no_ matter_ get_ thee_ gone_ and_ hi re_ those_ hor ses_ ill_ be_ with_ thee_ stra i ght </s>
+<s> exit_ ba l tha sa r_ well_ juliet_ i_will_ lie_ with_ thee_ ton i ght </s>
+<s> lets_ see_ for_ means_ o_ mis chief_ thou_art_ s wi ft_ to_ enter_ in_the_ thoughts_ of_ des per ate_ men </s>
+<s> i_do_ remember_ an_ a po the car y_and_ her ea b ou ts_ he_ d we ll s which_ late_ i_ no ted_ in_ ta tt erd_ we eds_ with_ over wh el ming_ bro ws_ cu lling_ of_ si mp les_ mea gr e_ were_ his_ looks_ sha r p_ mi ser y_ had_ wor n_ him_ to_the_ bon es_and_ in_his_ ne e dy_ sho p_ a_ tor to ise_ h un g_ an_ a ll ig at or_ stu ff d_and_ other_ sk ins_ of_ i ll sha p ed_ fi sh es_and_ about_ his_ sh el ves_ a_ beg gar ly_ ac coun t_ of_ emp ty_ bo x es_ gre en_ ear then_ po ts_ bla dd ers_ and_ mu st y_ see ds_ re m n an ts_of_ pa ck th rea d_and_ old_ ca kes_ of_ ro ses_ were_ thin ly_ sca tt erd_ to_make_ up_ a_ sho w </s>
+<s> no ting_ this_ pen ur y_ to_ myself_ i_ said_ an_ if_ a_man_ did_ ne ed_ a_ poi son_ now_ whose_ sa le_ is_ present_ death_ in_ m ant u a_ here_ lives_ a_ ca iti ff_ wre tch_ would_ se ll_ it_ him_ o_ this_ same_ thought_ did_ but_ for er un_ my_ ne ed_and_ this_ same_ ne e dy_ man_ must_ se ll_ it_ me </s>
+<s> as_i_ remember_ this_ should_be_ the_ hou se </s>
+<s> being_ ho li day_ the_ beg g ars_ sho p_ is_ sh u t </s>
+<s> what_ ho </s>
+<s> a po the car y </s>
+<s> enter_ a po the car y_ a po the car y_ who_ ca lls_ so_ l ou d </s>
+<s> romeo_ come_ hither_ man </s>
+<s> i_see_ that_ thou_art_ poor_ hold_ there_is_ for ty_ duca ts_ let_me_ have_ a_ dra m_ of_ poi son_ such_ so on sp ee ding_ g ear_ as_ will_ disp er se_ itself_ through_ all_the_ ve ins_ that_the_ li fe w ear y_ ta k er_ may_ fall_ dea d_and_ that_the_ tr un k_ may_be_ disc har ged_ of_ breath_ as_ vi ol ently_ as_ ha st y_ po w der_ fir ed_ doth_ hur ry_ from_the_ fa tal_ can n ons_ wom b </s>
+<s> a po the car y_ such_ mortal_ dru gs_ i_have_ but_ m ant u as_ law_ is_ death_ to_ any_ he_ that_ u tters_ them </s>
+<s> romeo_ art_thou_ so_ b are_ and_ full_of_ wre tch e dness_ and_ fear st_ to_ di e </s>
+<s> fa mine_ is_ in_thy_ ch ee ks_ ne ed_and_ op pres sion_ star ve th_ in_ thine_ eyes_ con temp t_and_ beg gar y_ han gs_ upon_ thy_ back_ the_world_ is_not_ thy_ friend_ nor_ the_ wor lds_ law_ the_world_ af for ds_ no_ law_ to_make_ thee_ rich_ then_ be_ not_ poor_ but_ break_ it_and_ take_ this </s>
+<s> ho bb y horse_ wher es o ever_ you_ had_ it_ ill_ take_ out_ no_ work_ on t </s>
+<s> cassio_ how_now_ my_ sweet_ bian ca </s>
+<s> how_ no w </s>
+<s> how_ no w </s>
+<s> othello_ by_ heaven_ that_ should_be_ my_ hand ker chi ef </s>
+<s> bianca_ an_ you ll_ come_to_ supp er_ tonight_ you_may_ an_ you_ will_not_ come_ when_ you_are_ ne xt_ pre par ed_ for </s>
+<s> exit_ iago_ after_ her_ after_ her </s>
+<s> cassio_ faith_ i_must_ sh e ll_ ra il_ in_the_ stre et_ el se </s>
+<s> iago_ will_you_ su p_ there </s>
+<s> cassio_ faith_ i_ in tend_ so </s>
+<s> iago_ well_ i_ may_ chance_ to_see_ you_ for_ i_would_ very_ fa in_ speak_ with_ you </s>
+<s> cassio_ prithee_ come_ will_ you </s>
+<s> iago_ go_to_ say_ no_ mor e </s>
+<s> exit_ cassio_ othello_ ad van c ing_ how_ shall_i_ murder_ him_ i ag o </s>
+<s> iago_ did_ you_ per ceive_ how_ he_ laugh ed_ at_ his_ vi ce </s>
+<s> othello_ o_ i ag o </s>
+<s> iago_ and_ did_ you_ see_ the_ hand ker chi ef </s>
+<s> othello_ was_ that_ min e </s>
+<s> iago_ yours_ by_ this_ hand_ and_ to_see_ how_ he_ pri z es_ the_ foo lish_ woman_ your_ wi fe </s>
+<s> she_ gave_ it_ him_ and_ he_hath_ given_ it_ his_ wh or e </s>
+<s> othello_ i_would_ have_ him_ n ine_ y ears_ a ki ll ing </s>
+<s> a_ f ine_ wom an </s>
+<s> a_ fair_ wom an </s>
+<s> a_ sweet_ wom an </s>
+<s> iago_ nay_ you_must_ for get_ th at </s>
+<s> othello_ ay_ let_ her_ ro t_and_ per i sh_ and_ be_ dam ned_ tonight_ for_ she_ shall_ not_ live_ no_ my_heart_ is_ tur ned_ to_ st one_ i_ strike_ it_and_ it_ hur ts_ my_ hand </s>
+<s> o_the_ world_ hath_ not_a_ swe e ter_ crea ture_ she_ might_ lie_ by_ an_ emp er ors_ side_ and_ command_ him_ ta sk s </s>
+<s> iago_ nay_ thats_ not_ your_ wa y </s>
+<s> othello_ hang_ her </s>
+<s> i_do_ but_ say_ what_ she_is_ so_ deli ca te_ with_her_ ne e dle_ an_ ad mi rable_ musi ci an_ o </s>
+<s> she_ will_ sing_ the_ sa v ag en ess_ out_ of_a_ bear_ of_ so_ high_ and_ p len teous_ wi t_and_ in ven tion_ iago_ shes_ the_ wor se_ for_ all_ this </s>
+<s> othello_ o_ a_ thousand_ thousand_ ti m es_and_ then_ of_ so_ gentle_ a_ con di ti on </s>
+<s> iago_ ay_ too_ gentle </s>
+<s> othello_ nay_ thats_ certain_ but_ yet_ the_ pity_ of_it_ i ag o </s>
+<s> o_ iago_ the_ pity_ of_it_ i ag o </s>
+<s> iago_ if_ you_are_ so_ f ond_ over_ her_ ini qui ty_ give_ her_ p at ent_ to_ off end_ for_ if_ it_ tou ch_ not_ you_ it_ comes_ near_ no bo d y </s>
+<s> othello_ i_will_ cho p_ her_ into_ mes ses_ cu ck old_ me </s>
+<s> iago_ o_ tis_ foul_ in_ her </s>
+<s> othello_ with_ mine_ offi cer </s>
+<s> iago_ thats_ fou l er </s>
+<s> othello_ get_ me_ some_ poi son_ iago_ this_ night_ ill_ not_ ex po stu late_ with_her_ l est_ her_ body_ and_ beau ty_ un pro vi de_ my_ mind_ again_ this_ night_ i ag o </s>
+<s> iago_ do_ it_not_ with_ poi son_ stran g le_ her_ in_her_ bed_ even_ the_ bed_ she_ hath_ con ta min at e d </s>
+<s> othello_ good_ good_ the_ justice_ of_it_ plea ses_ very_ goo d </s>
+<s> iago_ and_ for_ cassio_ let_me_ be_ his_ under ta k er_ you_shall_ hear_ more_ by_ mi d ni ght </s>
+<s> othello_ exce ll ent_ goo d </s>
+<s> a_ tru mp et_ within_ what_ tru mp et_ is_ that_ sa me </s>
+<s> iago_ something_ from_ venice_ su re </s>
+<s> tis_ lodovico_ come_ from_the_ duke_ and_ see_ your_ wife_ is_ with_ him </s>
+<s> enter_ lodovico_ desdemona_ and_ attendants_ lodovico_ sa ve_ you_ worthy_ gener al </s>
+<s> othello_ with_all_ my_heart_ si r </s>
+<s> lodovi c o_the_ duke_ and_ sen at ors_ of_venice_ gre et_ you </s>
+<s> gives_ him_ a_ letter_ othello_ i_ kiss_ the_ in stru ment_ of_ their_ plea sur es </s>
+<s> op ens_ the_ letter_ and_ rea ds_ desdemona_ and_ whats_the_ news_ good_ cou sin_ lodovi co </s>
+<s> iago_ i_am_ very_ glad_ to_see_ you_ signi or_ welcome_ to_ c y p ru s </s>
+<s> lodovico_ i_ thank_ you </s>
+<s> how_ does_ lie u ten ant_ cassi o </s>
+<s> iago_ lives_ si r </s>
+<s> desdemona_ cou sin_ theres_ fa ll n_ between_ him_ and_ my_lord_ an_ un kind_ brea ch_ but_ you_shall_ make_ all_ we ll </s>
+<s> othello_ are_you_ sure_ of_ th at </s>
+<s> desdemona_ my_ lor d </s>
+<s> othello_ rea ds_ this_ fa il_ you_not_ to_do_ as_you_ will_ lodovico_ he_ did_ not_ call_ hes_ bu sy_ in_the_ pa per </s>
+<s> is_ there_ di vi sion_ t wi xt_ my_lord_ and_ cassi o </s>
+<s> desdemona_ a_ most_ un happy_ one_ i_would_ do_ much_ to_ at one_ them_ for_the_ love_ i_ bear_ to_ cassi o </s>
+<s> othello_ fire_ and_ bri m st on e </s>
+<s> desdemona_ my_ lor d </s>
+<s> othello_ are_you_ wi se </s>
+<s> desdemona_ what_is_ he_ an gr y </s>
+<s> lodovico_ may_be_ the_ letter_ mo ved_ him_ for_ as_i_ think_ they_ do_ command_ him_ home_ de pu ting_ cassio_ in_his_ go ver n m ent </s>
+<s> desdemona_ tru st_ me_ i_am_ glad_ on t </s>
+<s> othello_ in de e d </s>
+<s> desdemona_ my_ lor d </s>
+<s> othello_ i_am_ glad_ to_see_ you_ mad </s>
+<s> desdemona_ why_ sweet_ othello_ othello_ stri king_ her_ devi l </s>
+<s> desdemona_ i_have_ not_ deser ved_ this </s>
+<s> lodovico_ my_lord_ this_ would_not_ be_ belie ved_ in_ venice_ though_ i_should_ swear_ i_ sa w t_ tis_ very_ much_ make_ her_ a men ds_ she_ we ep s </s>
+<s> othello_ o_ devil_ devi l </s>
+<s> if_ that_the_ earth_ could_ tee m_ with_ wom ans_ tears_ each_ dro p_ she_ falls_ would_ pro ve_ a_ cro co di le </s>
+<s> out_ of_my_ si ght </s>
+<s> desdemona_ i_ are_ no_ k in_ toge ther </s>
+<s> iago_ you_ charge_ me_ most_ un ju st ly </s>
+<s> roderigo_ with_ n ou ght_ but_ tru th </s>
+<s> i_have_ wa st ed_ myself_ out_ of_my_ me an s </s>
+<s> the_ je we ls_ you_have_ had_ from_ me_to_ deli ver_ to_ desdemona_ would_ half_ have_ cor ru p ted_ a_ vo tar ist_ you_have_ told_ me_ she_ hath_ re ceived_ them_ and_ re tur ned_ me_ ex pe c ta ti on s_and_ com for ts_of_ su dd en_ res pe ct_ and_ ac qua in t ance_ but_ i_ find_ n on e </s>
+<s> iago_ well_ go_to_ very_ we ll </s>
+<s> roderigo_ very_ we ll </s>
+<s> go_ to </s>
+<s> i_cannot_ go_to_ man_ nor_ tis_ not_ very_ well_ nay_ i_think_ it_is_ sc ur vy_ and_ beg in_ to_ find_ myself_ f ob bed_ in_ it </s>
+<s> iago_ very_ we ll </s>
+<s> roderigo_ i_ tell_you_ tis_ not_ very_ we ll </s>
+<s> i_will_ make_ myself_ known_ to_ desdemona_ if_ she_ will_ return_ me_ my_ je we ls_ i_will_ give_ over_ my_ su it_and_ rep ent_ my_ un la w ful_ so li ci tation_ if_ not_ ass ure_ yourself_ i_will_ seek_ satis fa ction_ of_ you </s>
+<s> iago_ you_have_ said_ no w </s>
+<s> roderigo_ ay_ and_ said_ nothing_ but_ what_ i_ pro test_ in ten d ment_ of_ do ing </s>
+<s> iago_ why_ now_ i_see_ theres_ me ttle_ in_ thee_ and_ even_ from_this_ in stant_ to_ bu i ld_ on_ thee_ a_ better_ op ini on_ than_ ever_ be for e </s>
+<s> give_me_ thy_ hand_ roderigo_ thou_hast_ ta ken_ against_ me_ a_ most_ ju st_ exce p tion_ but_ yet_ i_ pro test_ i_have_ dea lt_ most_ dire c tly_ in_thy_ af fair </s>
+<s> roderigo_ it_ hath_ not_ app ea re d </s>
+<s> iago_ i_ gr ant_ indeed_ it_ hath_ not_ app ear ed_and_ your_ su spi ci on_ is_not_ without_ wi t_and_ judg m ent </s>
+<s> but_ roderigo_ if_ thou_hast_ that_ in_ thee_ indeed_ which_ i_have_ grea ter_ reason_ to_ believe_ now_ than_ ever_ i_ mean_ purpose_ cou ra ge_ and_ val our_ this_ night_ show_ it_ if_thou_ the_ ne xt_ night_ follo wing_ en joy_ not_ desdemona_ take_ me_ from_this_ world_ with_ trea ch ery_ and_ devi se_ eng in es_ for_my_ li fe </s>
+<s> roderigo_ well_ what_is_ it </s>
+<s> is_it_ within_ reason_ and_ com pa ss </s>
+<s> iago_ sir_ there_is_ es pe ci al_ com mi ssion_ come_ from_ venice_ to_ de pu te_ cassio_ in_ othell os_ pla ce </s>
+<s> roderigo_ is_ that_ tru e </s>
+<s> why_ then_ othello_ and_ desdemona_ return_ again_ to_ ven i ce </s>
+<s> iago_ o_ no_ he_ goes_ into_ ma u ri t ani a_ and_ ta kes_ away_ with_him_ the_ fair_ desdemona_ un less_ his_ abo de_ be_ l ing er ed_ here_ by_ some_ ac ci d ent_ where in_ none_ can_ be_ so_ de ter min ate_ as_the_ re mo ving_ of_ cassi o </s>
+<s> roderigo_ how_ do_you_ mean_ re mo ving_ of_ him </s>
+<s> iago_ why_ by_ ma king_ him_ un ca pa ble_ of_ othell os_ place_ kno cking_ out_ his_ bra in s </s>
+<s> roderigo_ and_that_ you_ would_have_ me_to_ do </s>
+<s> iago_ ay_ if_you_ d are_ do_ yourself_ a_ pro f it_and_ a_ ri ght </s>
+<s> he_ su ps_ tonight_ with_a_ har lo try_ and_ thi ther_ will_i_ go_ to_him_ he_ knows_ not_ yet_ of_his_ hor r or able_ fortun e </s>
+<s> if_you_ will_ watch_ his_ go ing_ th ence_ which_ i_will_ fa shi on_ to_ fall_ out_ between_ t wel ve_ and_ one_ you_may_ take_ him_ at_ your_ pleasure_ i_will_ be_ near_ to_ second_ your_ at temp t_and_ he_ shall_ fall_ between_ u s </s>
+<s> come_ stand_ not_ a ma z ed_ at_ it_ but_ go_ al on g_ with_me_ i_will_ show_ you_ such_a_ ne c es si ty_ in_his_ death_ that_ you_shall_ think_ yourself_ bound_ to_ put_ it_ on_ him </s>
+<s> it_is_ now_ high_ supp er time_ and_the_ night_ gro ws_ to_ wa ste_ about_ it </s>
+<s> roderigo_ i_will_ hear_ further_ reason_ for_ this </s>
+<s> iago_ and_ you_shall_ be_ satis fi e d </s>
+<s> exeunt_scene_i i i </s>
+<s> another_ room_ in_the_ cast le </s>
+<s> enter_ othello_ lodovico_ desdemona_ emilia_ and_ attendants_ lodovico_ i_do_ beseech_you_ sir_ trou ble_ yourself_ no_ fur ther </s>
+<s> othello_ o_ pardon_ me_ t will_ do_ me_ good_ to_ wal k </s>
+<s> lodovico_ madam_ good_night_ i_ hu mb ly_ thank_ your_ la d y shi p </s>
+<s> desdemona_ your_ honour_ is_ most_ wel com e </s>
+<s> othello_ will_you_ walk_ si r </s>
+<s> o desdemona_ desdemona_ my_ lor d </s>
+<s> othello_ get_ you_to_ bed_ on_the_ in stant_ i_will_ be_ re tur ned_ for th with_ dis mi ss_ your_ atten d ant_ there_ look_ it_be_ d on e </s>
+<s> desdemona_ i_will_ my_ lor d </s>
+<s> exeunt_ othello_ lodovico_ and_ attendants_ emilia_ how_ goes_ it_ no w </s>
+<s> he_ looks_ gent l er_than_ he_ di d </s>
+<s> desdemona_ he_ says_ he_ will_ return_ in con tin ent_ he_hath_ comm an ded_ me_to_ go_to_ bed_ and_ ba de_ me_to_ dis mi ss_ you </s>
+<s> emilia_ dis mi ss_ me </s>
+<s> desdemona_ it_was_ his_ bi d ding_ therefore_ good_ emi li a </s>
+<s> give_me_ my_ ni gh tly_ w ear ing_ and_ adieu_ we_ must_ not_ now_ disp lea se_ him </s>
+<s> emilia_ i_would_ you_ had_ never_ seen_ him </s>
+<s> desdemona_ so_ would_not_ i_ my_love_ doth_ so_ app ro ve_ him_ that_ even_ his_ stu b bor n ness_ his_ che qu es_ his_ f ro w ns_ prithee_ un p in_ me have_ grace_ and_ fa v our_ in_ them </s>
+<s> emilia_ i_have_ la id_ those_ sh ee ts_ you_ ba de_ me_ on_the_ be d </s>
+<s> desdemona_ a lls_ on e </s>
+<s> good_ faith_ how_ foo lish_ are_ our_ min d s </s>
+<s> if_ i_do_ die_ before_ thee_ prithee_ sh rou d_ me_ in_ one_ of_ those_ same_ sh ee t s </s>
+<s> emilia_ come_ come_ you_ tal k </s>
+<s> desdemona_ my_ mother_ had_ a_ ma id_ ca lld_ b arb ar a_ she_ was_ in_ love_and_ he_ she_ loved_ pro ved_ ma d_and_ did_ for sa ke_ her_ she_ had_ a_ son g_ of_ wi llow_ an_ old_ thing_ twas_ but_ it_ ex pres s d_ her_ fortune_ and_ she_ di ed_ sing ing_ it_ that_ son g_ tonight_ will_not_ go_ from_ my_ mind_ i_have_ much_ to_do_ but_ to_ go_ hang_ my_ head_ all_ at_ one_ side_ and_ sing_ it_ like_ poor_ b arb ar a </s>
+<s> prithee_ disp at ch </s>
+<s> emilia_ shall_i_ go_ fe tch_ your_ ni ght go wn </s>
+<s> desdemona_ no_ un p in_ me_ h ere </s>
+<s> this_ lodovico_ is_a_ pro per_ man </s>
+<s> emilia_ a_ very_ hand some_ man </s>
+<s> desdemona_ he_ spea ks_ we ll </s>
+<s> emilia_ i_know_ a_ lady_ in_ venice_ would_have_ wal ked_ b are foo t_ to_ pa l es t ine_ for_a_ tou ch_ of_his_ ne ther_ li p </s>
+<s> desdemona_ sing ing_ the_ poor_ soul_ s at_ si gh ing_ by_ a_ s y ca more_ t ree_ sing_ all_ a_ gre en_ wi llow_ her_ hand_ on_ her_ bo som_ her_ head_ on_ her_ kne e_ sing_ wi llow_ wi llow_ wi llow_ the_f res h_ st rea ms_ r an_ by_ her_ and_ mur mur d_ her_ mo ans_ sing_ wi llow_ wi llow_ wi llow_ her_ sa lt_ tears_ fell_ from_ her_ and_ s of tend_ the_st on es_ lay_ by_ these_ sing ing_ sing_ wi llow_ wi llow_ wi llow_ prithee_ hi e_ thee_ hell_ come_ an on_ sing ing_ sing_ all_ a_ gre en_ wi llow_ must_be_ my_ gar lan d </s>
+<s> let_ no body_ bla me_ him_ his_ scor n_ i_ app ro ve_ nay_ thats_ not_ ne x th ar k </s>
+<s> who_ ist_ that_ kno ck s </s>
+<s> emilia_ i ts_ the_w in d </s>
+<s> desdemona_ sing ing_ i_ ca lld_ my_love_ false_ love_ but_ what_ said_ he_ th en </s>
+<s> sing_ wi llow_ wi llow_ wi llow_ if_i_ court_ mo e_ women_ you ll_ cou ch_ with_ mo e_ men </s>
+<s> so_ get_ thee_ gone_ good_night_ ate_ eyes_ do_ i tch_ doth_ that_ bo de_ we ep ing </s>
+<s> emilia_ tis_ neither_ here_ nor_ there </s>
+<s> desdemona_ i_have_ heard_ it_ said_ so </s>
+<s> o_ these_ men_ these_ men </s>
+<s> dost_thou_ in_ con sci ence_ thin k tell_me_ emilia_ that_ there_ be_ women_ do_ a bu se_ their_ hus ban ds_ in_ such_ gro ss_ kin d </s>
+<s> emilia_ there_ be_ some_ such_ no_ ques ti on </s>
+<s> desdemona_ would st_thou_ do_ such_a_ deed_ for_ all_the_ wor ld </s>
+<s> emilia_ why_ would_not_ you </s>
+<s> desdemona_ no_ by_ this_ heaven ly_ li ght </s>
+<s> emilia_ nor_ i_ neither_ by_ this_ heaven ly_ light_ i_ might_ do t_ as_ well_ i_the_ dar k </s>
+<s> desdemona_ would st_thou_ do_ such_a_ deed_ for_ all_the_ wor ld </s>
+<s> emilia_ the_ wor lds_ a_ hu ge_ thing_ it_is_a_ great_ pri ce </s>
+<s> for_a_ s ma ll_ vi ce </s>
+<s> desdemona_ in_ tro th_ i_think_ thou_ would st_ no t </s>
+<s> emilia_ in_ tro th_ i_think_ i_should_ and_ un do t_ when_ i_had_ d on e </s>
+<s> marry_ i_would_ not_ do_ such_a_ thing_ for_a_ jo in t ring_ nor_ for_ mea sur es_ of_ la wn_ nor_ for_ go w ns_ pe t ti co a ts_ nor_ ca ps_ nor_ any_ pe tty_ ex hi bi tion_ but_ for_the_ whole_ wor ld why_ who_ would_not_ make_ her_ husband_ a_ cu ck old_ to_make_ him_ a_ mon ar ch </s>
+<s> i_should_ one_ flesh_ and_so_ my_ mo ther </s>
+<s> come_ for_ eng lan d </s>
+<s> exit_ king_claudius_ follow_ him_ at_ foo t_ temp t_ him_ with_ spe ed_ abo ard_ de lay_ it_not_ ill_ have_ him_ hence_ tonight_ a wa y </s>
+<s> for_ every_ thing_ is_ sea ld_ and_ done_ that_ else_ le ans_ on_the_ af fair_ pray_you_ make_ ha st e </s>
+<s> exeunt_ rosencrantz_ and_ guildenstern_ and_ england_ if_ my_love_ thou_ ho ld st_ at_ au ght_ as_ my_ great_ power_ there of_ may_ give_ thee_ sense_ since_ yet_ thy_ ci ca tri ce_ looks_ ra w_ and_ red_ after_ the_ d ani sh_ sword_ and_ thy_ free_ a we_ pa ys_ h om age_ to_ u s thou_ ma y st_ not_ col dly_ set_ our_ so ver e ign_ pro cess_ which_ imp or ts_ at_ full_ by_ le tters_ con g ru ing_ to_ that_ ef fect_ the_ present_ death_ of_ ham le t </s>
+<s> do_ it_ england_ for_ like_the_ he cti c_ in_my_ blood_ he_ ra g es_and_ thou_ must_ c ure_ me_ till_ i_know_ tis_ done_ ho we er_ my_ ha ps_ my_ jo ys_ were_ neer_ beg un </s>
+<s> exit_ scene_ i v </s>
+<s> a_ pla in_ in_ den mar k </s>
+<s> enter_ for tin bra s_ a_ cap tain_ and_ soldiers_ mar ching_ prince_ for tin bra s_ go_ cap tain_ from_ me_ gre et_ the_ d ani sh_ king_ tell_ him_ that_ by_ his_ li c ence_ for tin bra s_ cra ves_ the_ con v ey ance_ of_a_ prom ised_ mar ch_ over_ his_ k ing dom </s>
+<s> you_know_ the_ ren de z v ou s </s>
+<s> if_ that_ his_ majes ty_ would_ au ght_ with_ us_ we_shall_ ex pr ess_ our_ du ty_ in_his_ eye_ and_ let_him_ know_ so </s>
+<s> cap tain_ i_will_ do t_ my_ lor d </s>
+<s> prince_ for tin bra s_ go_ s of tly_ on </s>
+<s> exeunt_ for tin bra s_and_ soldiers_ enter_ hamlet_ rosencrantz_ guildenstern_ and_ others_ hamlet_ good_ sir_ whose_ po wers_ are_ thes e </s>
+<s> cap tain_ they_are_ of_ nor way_ si r </s>
+<s> hamlet_ how_ purpo sed_ sir_ i_pray_ you </s>
+<s> cap tain_ against_ some_ part_ of_ po lan d </s>
+<s> hamlet_ who_ comm an ds_ them_ si r </s>
+<s> cap ta in_the_ ne p he ws_ to_ old_ nor way_ for tin bra s </s>
+<s> hamlet_ goes_ it_ against_ the_ ma in_ of_ po land_ sir_ or_ for_ some_ f ron ti er </s>
+<s> cap tain_ truly_ to_speak_ and_ with_ no_ ad di tion_ we_ go_to_ ga in_a_ little_ p atch_ of_ ground_ that_ hath_ in_ it_ no_ pro fit_ but_ the_ na me </s>
+<s> to_ p ay_ fi ve_ duca ts_ fi ve_ i_would_ not_ f arm_ it_ nor_ will_ it_ yi eld_ to_ nor way_ or_ the_po le_ a_ ran k er_ ra te_ should_ it_be_ so ld_ in_ fe e </s>
+<s> hamlet_ why_ then_ the_po la ck_ never_ will_ de f end_ it </s>
+<s> cap tain_ yes_ it_is_ already_ gar ri son d </s>
+<s> hamlet_ two_ thousand_ sou l s_and_ twenty_ thousand_ duca ts_ will_not_ de b ate_ the_ question_ of_this_ stra w_ this_ is_the_ im po s th u me_ of_ much_ wea lth_ and_ peace_ that_ in ward_ brea k s_and_ sho ws_ no_ cause_ without_ why_ the_ man_ di es </s>
+<s> i_ hu mb ly_ thank_ you_ si r </s>
+<s> cap tain_ god_ be_ w i_ you_ si r </s>
+<s> exit_ rosencrantz_ wilt_ please_ you_ go_ my_ lor d </s>
+<s> hamlet_ ill_ be_ with_you_ straight_ go_ a_little_ be for e </s>
+<s> exeunt_ all_ exce pt_ hamlet_ how_ all_ oc ca si ons_ do_ in form_ against_ me_and_ sp u r_ my_ du ll_ reven ge </s>
+<s> what_is_ a_man_ if_ his_ chief_ good_ and_ mar k et_ of_his_ time_ be_ but_ to_ sleep_ and_ fe e d </s>
+<s> a_ bea st_ no_ mor e </s>
+<s> sure_ he_ that_ made_ us_ with_ such_ l ar ge_ disc our se_ loo king_ before_ and_ after_ gave_ us_ not_ that_ ca pa bi li ty_and_ go d like_ reason_ to_ fu st_ in_ us_ un u se d </s>
+<s> now_ whether_ it_be_ bes ti al_ ob li vi on_ or_ some_ cra ven_ sc ru p le_ of_ thin king_ too_ pre ci se ly_ on_the_ e v ent_ a_ thought_ which_ quar ter d_ hath_ but_ one_ part_ wis dom_ and_ ever_ three_ par ts_ co ward_ i_do_not_ know_ why_ yet_ i_ live_ to_say_ this_ things_ to_do_ si th_ i_have_ cause_ and_ will_ and_ str eng th_ and_ means_ to_ do t </s>
+<s> ex a mp les_ gro ss_ as_ earth_ ex hor t_ me_ wi tness_ this_ ar my_ of_ such_ ma s s_and_ charge_ led_ by_ a_ deli ca te_ and_ ten der_ prince_ whose_ spirit_ with_ di v ine_ amb i tion_ pu ff d_ makes_ mou ths_ at_the_ in vi si ble_ e v ent_ ex po sing_ what_is_ mortal_ and_ un sure_ to_ all_ that_ fortune_ death_ and_ dan ger_ d are_ even_ for_ an_ eg g sh e ll </s>
+<s> ri gh tly_ to_be_ great_ is_not_ to_ sti r_ without_ great_ ar gu ment_ but_ grea tly_ to_ find_ quar re l_ in_a_ stra w_ when_ hon ours_ at_the_ sta ke </s>
+<s> how_ stand_ i_ then_ that_ have_ a_ father_ killd_ a_ mother_ sta ind_ ex ci te ments_ of_my_ reason_ and_my_ bloo d_and_ let_ all_ sle ep </s>
+<s> while_ to_my_ shame_ i_see_ the_ im min ent_ death_ of_ twenty_ thousand_ men_ that_ for_a_ fan ta sy_ and_ tri ck_ of_ fa me_ go_to_ their_ gra ves_ like_ be ds_ fight_ for_a_ p lot_ where on_the_ nu mb ers_ cannot_ try_ the_ cause_ which_ is_not_ tom b_ enough_ and_ con tin ent_ to_ hi de_ the_ sla in </s>
+<s> o_ from_this_ time_ forth_ my_ thoughts_ be_ bloody_ or_ be_ nothing_ wor th </s>
+<s> exit_ scene_ v </s>
+<s> el sin or e </s>
+<s> a_ room_ in_the_ cast le </s>
+<s> enter_ queen_gertrude_ horatio_ and_a_ gentleman_ queen_gertrude_ i_will_not_ speak_ with_ her </s>
+<s> gentleman_ she_is_ imp or tun ate_ indeed_ di stra ct_ her_ m ood_ will_ needs_ be_ pi ti e d </s>
+<s> queen_gertrude_ what_ would_ she_ ha ve </s>
+<s> gentleman_ she_ spea ks_ much_ of_her_ father_ says_ she_ hear s_ theres_ tri cks_ i_the_ world_ and_ he m s_and_ bea ts_ her_ heart_ sp ur ns_ en vi ou s ly_ at_ stra ws_ spea ks_ things_ in_ doubt_ that_ car ry_ but_ half_ sense_ her_ speech_ is_ nothing_ yet_ the_ un sha p ed_ use_ of_it_ doth_ move_ the_ hear ers_ to_ co ll e ction_ they_ a im_ at_ it_and_ bo tch_ the_ words_ up_ fit_ to_ their_ own_ thoughts_ which_ as_ her_ win k s_and_ no ds_ and_ g es tur es_ yi eld_ them_ indeed_ would_ make_ one_ think_ there_ might_ be_ thought_ though_ nothing_ sure_ yet_ much_ un happ i ly </s>
+<s> horatio_ t were_ good_ she_ were_ spo ken_ with_ for_ she_ may_ stre w_ dan ger ous_ con je c tur es_ in_ i ll b ree ding_ min d s </s>
+<s> queen_gertrude_ let_ her_ come_ in </s>
+<s> exit_ horatio_ to_my_ sick_ soul_ as_ s ins_ true_ nature_ is_ each_ to y_ see ms_ pro lo gue_ to_ some_ great_ a mi ss_ so_ full_of_ ar t less_ jeal ou sy_ is_ gui lt_ it_ spi lls_ itself_ in_ fear ing_ to_be_ spi l t </s>
+<s> reenter_ horatio_ with_ ophelia_ ophelia_ where_ is_the_ beau teous_ majes ty_ of_ den mar k </s>
+<s> queen_gertrude_ how_now_ ophe li a </s>
+<s> ophelia_ s ings_ how_ should_ i_ your_ true_ love_ know_ from_ another_ on e </s>
+<s> by_ his_ co ck le_ ha t_and_ st af f_ and_his_ san d al_ sho on </s>
+<s> queen_gertrude_ alas_ sweet_ lady_ what_ imp or ts_ this_ son g </s>
+<s> ophelia_ say_ you </s>
+<s> nay_ pray_you_ mar k </s>
+<s> s ings_ he_is_ dea d_and_ gone_ lady_ he_is_ dea d_and_ gone_ at_ his_ head_ a_ gra ss gre en_ tur f_ at_ his_ he els_ a_ st on e </s>
+<s> queen_gertrude_ nay_ but_ ophelia_ ophelia_ pray_you_ mar k </s>
+<s> s ings_ whi te_ his_ sh rou d_ as_the_ m oun tain_ s now_ enter_ king_claudius_ queen_gertrude_ alas_ look_ here_ my_ lor d </s>
+<s> ophelia_ s ings_ l ar ded_ with_ sweet_ flo wers_ which_ be we pt_ to_the_ grave_ did_ go_ with_ tru e love_ sho w er s </s>
+<s> king_claudius_ how_ do_you_ pre tty_ la d y </s>
+<s> ophelia_ well_ god_ i ld_ you </s>
+<s> they_ say_ the_ o w l_ was_ a_ ba k ers_ daugh ter </s>
+<s> lord_ we_ know_ what_ we_are_ but_ know_ not_ what_ we_ may_ be </s>
+<s> god_ be_ at_ your_ ta ble </s>
+<s> king_claudius_ con ce it_ upon_ her_ fa ther </s>
+<s> ophelia_ pray_you_ lets_ have_ no_ words_ of_this_ but_ when_ they_ as k_ you_ what_ it_ means_ say_ you_ this_ s ings_ tomorrow_ is_ sa int_ val ent in es_ day_ all_ in_the_ morning_ be time_ and_i_ a_ ma id_ at_ your_ win do w_ to_be_ your_ val ent in e </s>
+<s> then_ up_ he_ ro se_and_ d on nd_ his_ clo th es_and_ d up p d_ the_ cham ber do or_ let_ in_the_ ma id_ that_ out_ a_ ma id_ never_ de par ted_ mor e </s>
+<s> king_claudius_ pre tty_ ophe li a </s>
+<s> ophelia_ indeed_ l a_ without_ an_ o a th_ ill_ make_ an_ end_ ont_ s ings_ by_ g is_ and_ by_ sa int_ cha ri ty_ ala ck_ and_ fie_ for_ sha me </s>
+<s> young_ men_ will_ do t_ if_ they_ come_ to t_ by_ co ck_ they_are_ to_ bla me </s>
+<s> qu o th_ she_ before_ you_ tu mb led_ me_ you_ prom ised_ me_to_ we d </s>
+<s> so_ would_ i_ ha_ done_ by_ y on der_ s un_ an_ thou_ha dst_ not_ come_ to_my_ be d </s>
+<s> king_claudius_ how_ long_ hath_ she_ been_ th u s </s>
+<s> ophelia_ i_ hope_ all_ will_be_ we ll </s>
+<s> we_ must_be_ pati ent_ but_ i_cannot_ choose_ but_ we ep_ to_ think_ they_ should_ lay_ him_ i_the_ cold_ gr oun d </s>
+<s> my_ brother_ shall_ know_ of_ it_and_ so_ i_ thank_ you_ for_your_ good_ coun sel </s>
+<s> come_ my_ co a ch </s>
+<s> good_night_ la dies_ good_night_ sweet_ la dies_ good_night_ good_ ni ght </s>
+<s> exit_ king_claudius_ follow_ her_ clo se_ give_ her_ good_ watch_ i_pray_ you </s>
+<s> exit_ horatio_ o_ this_ is_the_ poi son_ of_ de ep_ grief_ it_ sp r ings_ all_ from_ her_ fathers_ dea th </s>
+<s> o_ gertrude_ gertrude_ when_ sor ro ws_ come_ they_ come_ not_ sing le_ spi es_ but_ in_ bat ta li on s </s>
+<s> first_ her_ father_ slain_ ne xt_ your_ son_ gone_ and_he_ most_ vi ol ent_ au th or_ of_his_ own_ ju st_ re move_ the_ pe op le_ mu d di ed_ thi ck_ and_ un wh ol es ome_ in_their_ thoughts_ and_ whi sp ers_ for_ good_ polonius_ death_ and_ we_have_ done_ but_ gre en ly_ in_ hu g ger mu g ger_ to_ in ter_ him_ poor_ ophelia_ di vi ded_ from_ her self_ and_ her_ fair_ judgment_ without_ the_ which_ we_are_ pi c tur es_ or_ m ere_ bea st s_ last_ and_ as_ much_ con ta in ing_ as_ all_ these_ her_ brother_ is_ in_ se cre t_ come_ from_ fran ce_ fe eds_ on_his_ won der_ kee ps_ himself_ in_ cl ou ds_ and_ w ants_ not_ bu z z ers_ to_ in fect_ his_ ear_ with_ p es ti l ent_ sp ee ches_ of_his_ fathers_ death_ where in_ ne c es si ty_ of_ matter_ beg g ard_ will_ nothing_ sti ck_ our_ per son_ to_ ar ra ign_ in_ ear_ and_ ear </s>
+<s> o_ my_ dear_ gertrude_ this_ like_ to_a_ murder ing pi e ce_ in_ many_ pla ces_ gives_ me_ su per flu ous_ dea th </s>
+<s> a_ noise_ within_ queen_gertrude_ ala ck_ what_ noise_ is_ this </s>
+<s> king_claudius_ where_ are_ my_ s wi t z er s </s>
+<s> let_ them_ guard_ the_ do or </s>
+<s> enter_ another_ gentleman_ what_ is_the_ ma tt er </s>
+<s> gentleman_ sa ve_ yourself_ my_lord_ the_ o ce an_ over pe ering_ of_his_ li st_ ea ts_ not_ the_f la ts_ with_ more_ imp e tu ous_ haste_ than_ young_ laertes_ in_a_ ri o t ous_ head_ oer b ears_ your_ offi cer s </s>
+<s> the_ ra b ble_ call_ him_ lord_ and_ as_the_ world_ were_ now_ but_ to_ beg in_ an ti qui ty_ for got_ cu st om_ not_ known_ the_ ra ti fi ers_ and_ pro ps_ of_ every_ word_ they_ cry_ choose_ we_ laertes_ shall_be_ king_ ca ps_ hands_ and_ ton gu es_ app lau d_ it_ to_the_ cl ou ds_ laertes_ shall_be_ king_ laertes_ king_ queen_gertrude_ how_ che er fu lly_ on_the_ false_ tra il_ they_ cr y </s>
+<s> o_ this_is_ coun ter_ you_ false_ d ani sh_ do g s </s>
+<s> king_claudius_ the_ do ors_ are_ bro ke </s>
+<s> noise_ within_ enter_ laertes_ ar med_ dan es_ follo wing_ laertes_ where_is_ this_ k ing </s>
+<s> si r s_ stand_ you_ all_ withou t </s>
+<s> dan es_ no_ lets_ come_ in </s>
+<s> laertes_ i_pray_you_ give_me_ lea ve </s>
+<s> dan es_ we_will_ we_ wi ll </s>
+<s> they_ re ti re_ without_ the_ do or_ laertes_ i_ thank_ you_ keep_ the_ do or </s>
+<s> o_ thou_ vile_ king_ give_me_ my_ fa ther </s>
+<s> queen_gertrude_ cal m ly_ good_ laer tes </s>
+<s> laertes_ that_ dro p_ of_ blood_ thats_ cal m_ pro cla i ms_ me_ ba st ard_ cri es_ cu ck old_ to_my_ father_ b ran ds_ the_ har lot_ even_ here_ between_ the_ cha ste_ un smi r ch ed_ b row_ of_my_ true_ mo ther </s>
+<s> king_claudius_ what_ is_the_ cause_ laertes_ that_ thy_ re bell i on_ looks_ so_ gi ant li ke </s>
+<s> let_him_ go_ gertrude_ do_not_ fear_ our_ per son_ theres_ such_ di v ini ty_ doth_ he dge_ a_ king_ that_ t reason_ can_ but_ p ee p_ to_ what_ it_ would_ ac ts_ little_ of_his_ wi ll </s>
+<s> tell_me_ laertes_ why_ thou_art_ thus_ in c en se d </s>
+<s> let_him_ go_ ger tru de </s>
+<s> speak_ man </s>
+<s> laertes_ where_is_ my_ fa ther </s>
+<s> king_claudius_ dea d </s>
+<s> queen_gertrude_ but_ not_ by_ him </s>
+<s> king_claudius_ let_him_ de m and_his_ fi ll </s>
+<s> laertes_ how_ came_ he_ dea d </s>
+<s> ill_ not_be_ ju g g led_ with_ to_ hell_ a ll e gi an ce </s>
+<s> vo ws_ to_the_ bla ck est_ devi l </s>
+<s> con sci ence_ and_ grace_ to_the_ pro f oun d est_ pi t </s>
+<s> i_ d are_ dam na ti on </s>
+<s> to_this_ po int_ i_ stand_ that_ both_ the_ wor lds_ i_ give_ to_ ne g li g ence_ let_ come_ what_ comes_ only_ ill_ be_ reven ged_ most_ thor ou gh ly_ for_my_ fa ther </s>
+<s> king_claudius_ who_ shall_ stay_ you </s>
+<s> laertes_ my_ will_not_ all_the_ world_ and_ for_my_ means_ ill_ husband_ them_ so_ well_ they_ shall_ go_ far_ with_ li tt le </s>
+<s> king_claudius_ good_ laertes_ if_you_ desire_ to_ know_ the_ cer ta in ty_ of_your_ dear_ fathers_ death_ ist_ wr it_ in_your_ revenge_ that_ sw oo p sta ke_ you_ will_ draw_ both_ friend_ and_ fo e_ w inn er_ and_ lo ser </s>
+<s> laertes_ none_ but_ his_ en emi es </s>
+<s> king_claudius_ will_you_ know_ them_ th en </s>
+<s> laertes_ to_his_ good_ friends_ thus_ wi de_ ill_ op e_ my_ ar m s_and_ like_the_ kind_ li f er en der ing_ pe li can_ re pa st_ them_ with_ my_ bloo d </s>
+<s> king_claudius_ why_ now_ you_ speak_ like_a_ good_ child_ and_a_ true_ gentle man </s>
+<s> that_ i_am_ gui l t less_ of_your_ fathers_ death_ and_ am_ most_ sen si ble_ in_ grief_ for_ it_ it_ shall_ as_ le v el_ to_your_ judgment_ pi er ce_ as_ day_ does_ to_ seek_ happy_ ni ghts_ to_ happy_ da y s </s>
+<s> exeunt_scene_i v </s>
+<s> a_ st ree t </s>
+<s> enter_ romeo_ mercutio_ benvolio_ with_ fi ve_ or_ si x_ ma sk ers_ tor ch bear ers_ and_ others_ romeo_ what_ shall_ this_ speech_ be_ spoke_ for_ our_ ex cu se </s>
+<s> or_ shall_ we_ on_ without_ a_ a po lo g y </s>
+<s> benvolio_ the_ d ate_ is_ out_of_ such_ pro li x ity_ well_ have_ no_ c up id_ h oo d win kd_ with_a_ scar f_ bear ing_ a_ tar t ars_ pa inted_ bo w_ of_ la th_ scar ing_ the_ la dies_ like_a_ cro w kee per_ nor_ no_ withou t b ook_ pro lo gue_ fa in tly_ spoke_ after_ the_ prom p ter_ for_ our_ ent ran ce_ but_ let_ them_ mea sure_ us_ by_ what_ they_ will_ well_ mea sure_ them_ a_ mea sure_ and_ be_ g on e </s>
+<s> romeo_ give_me_ a_ tor ch_ i_am_ not_ for_this_ amb ling_ being_ but_ heavy_ i_will_ bear_ the_ li ght </s>
+<s> mercutio_ nay_ gentle_ romeo_ we_ must_ have_you_ dan ce </s>
+<s> romeo_ not_ i_ believe_ me_ you_have_ dan c ing_ sho es_ with_ ni m ble_ sol es_ i_have_a_ soul_ of_ lead_ so_ sta kes_ me_ to_the_ ground_ i_cannot_ mo ve </s>
+<s> mercutio_ you_are_ a_ lo ver_ bor row_ c up i ds_ w ing s_and_ so ar_ with_ them_ abo ve_ a_ common_ b oun d </s>
+<s> romeo_ i_am_ too_ sor e_ en pi er ced_ with_his_ sha ft_ to_ so ar_ with_his_ light_ fea thers_ and_so_ bound_ i_cannot_ bound_ a_ pi tch_ abo ve_ du ll_ wo e_ under_ loves_ heavy_ bur d en_ do_ i_ sin k </s>
+<s> mercutio_ and_ to_ s ink_ in_ it_ should_ you_ bur d en_ love_ too_ great_ op pres sion_ for_a_ ten der_ th ing </s>
+<s> romeo_ is_ love_ a_ ten der_ th ing </s>
+<s> it_is_ too_ rough_ too_ ru de_ too_ bo i ster ous_ and_ it_ pri cks_ like_ thor n </s>
+<s> mercutio_ if_ love_ be_ rough_ with_you_ be_ rough_ with_ love_ pri ck_ love_ for_ pri cking_ and_you_ bea t_ love_ do wn </s>
+<s> give_me_ a_ ca se_ to_ put_ my_ vi sa ge_ in_a_ vi s or_ for_a_ vi sor </s>
+<s> what_ c are_ i_ what_ cu ri ous_ eye_ doth_ qu o te_ de for mi ti es </s>
+<s> here_ are_ the_ be e t le_ bro ws_ shall_ b lu sh_ for_ me </s>
+<s> benvolio_ come_ kno ck_ and_ enter_ and_ no_ so on er_ in_ but_ every_ man_ be take_ him_ to_his_ le g s </s>
+<s> romeo_ a_ tor ch_ for_ me_ let_ w anton s_ light_ of_ heart_ ti ck le_ the_ sen sel ess_ ru shes_ with_ their_ he els_ for_ i_am_ pro ver b d_ with_a_ g ran d si re_ ph ra se_ ill_ be_ a_ can d le ho l der_ and_ look_ on </s>
+<s> the_ ga me_ was_ neer_ so_ fair_ and_ i_am_ d on e </s>
+<s> mercutio_ tu t_ dun s_ the_ mou se_ the_ con st ab les_ own_ word_ if_ thou_art_ d un_ well_ draw_ thee_ from_the_ mi re_ of_this_ si r re ver ence_ love_ where in_ thou_ sti ck st_ up_ to_the_ ear s </s>
+<s> come_ we_ bur n_ da y light_ ho </s>
+<s> romeo_ nay_ thats_ not_ so </s>
+<s> mercutio_ i_ mean_ sir_ in_ de lay_ we_ wa ste_ our_ li ghts_ in_ va in_ like_ la mp s_ by_ da y </s>
+<s> take_ our_ good_ me an ing_ for_ our_ judgment_ si ts_ fi ve_ times_ in_that_ ere_ once_ in_our_ fi ve_ wi t s </s>
+<s> romeo_ and_ we_ mean_ well_ in_ go ing_ to_this_ ma s k_ but_ tis_ no_ wit_ to_ go </s>
+<s> mercutio_ why_ may_ one_ a sk </s>
+<s> romeo_ i_ drea md_ a_ dream_ ton i ght </s>
+<s> mercutio_ and_so_ did_ i </s>
+<s> romeo_ well_ what_ was_ your s </s>
+<s> mercutio_ that_ drea m ers_ of ten_ lie </s>
+<s> romeo_ in_ bed_ a sleep_ while_ they_ do_ dream_ things_ tru e </s>
+<s> mercutio_ o_ then_ i_see_ queen_ ma b_ hath_ been_ with_ you </s>
+<s> she_ is_the_ fai ries_ mi d wife_ and_ she_ comes_ in_ sha pe_ no_ bi g ger_ than_ an_ ag at es t one_ on_the_ for ef ing er_ of_ an_ al der man_ dra wn_ with_a_ t ea m_ of_ little_ at om ies_ ath war t_ men s_ no ses_ as_ they_ lie_ a sleep_ her_ w ag on spo kes_ made_ of_ long_ spi ders_ le gs_ the_ co ver_ of_the_ w ings_ of_ gra s sh op p ers_ the_ tra ces_ of_the_ s ma ll est_ spi ders_ we b_ the_ co ll ars_ of_the_ mo on sh in es_ wat ery_ bea ms_ her_ whi p_ of_ cri ck ets_ b one_ the_ la sh_ of_ fi l m_ her_ w ag on er_ a_ s ma ll_ gre y co at ed_ g n at_ not_so_ bi g_ as_a_ round_ little_ wor m_ pri ckd_ from_the_ la z y_ f ing er_ of_a_ ma id_ her_ cha ri o t_ is_ an_ emp ty_ ha z el nu t_ made_ by_the_ jo in er_ s qu ir re l_ or_ old_ g ru b_ time_ out_ o_ mind_ the_ fai ries_ co a ch ma ker s </s>
+<s> and_ in_this_ state_ she_ ga ll op s_ night_ by_ night_ through_ lo vers_ bra in s_and_ then_ they_ dream_ of_love_ oer_ cour ti ers_ kne es_ that_ dream_ on_ cour t si es_ straight_ oer_ la w y ers_ f ing ers_ who_ straight_ dream_ on_ fe es_ oer_ la dies_ _ lips_ who_ straight_ on_ ki ss es_ dream_ which_ oft_ the_ ang ry_ ma b_ with_ b li sters_ pla gu es_ be cause_ their_ brea ths_ with_ swe e t mea ts_ ta inted_ are_ some time_ she_ ga ll op s_ oer_ a_ cour ti ers_ no se_and_ then_ drea ms_ he_ of_ s me lling_ out_ a_ su it_and_ some time_ comes_ she_ with_a_ ti the pi gs_ ta il_ ti ck ling_ a_ par sons_ no se_ as_a_ lies_ a sleep_ then_ drea ms_ he_ of_ another_ ben e fi ce_ some time_ she_ dri ve th_ oer_ a_ soldiers_ ne ck_ and_then_ drea ms_ he_ of_ cu tt ing_ for e ign_ th roa ts_of_ brea ches_ a m bu sca does_ sp ani sh_ bla des_ of_ hea l ths_ fi ve fa th om_ de ep_ and_then_ an on_ dru ms_ in_his_ ear_ at_ which_ he_ star ts_and_ wa k es_and_ being_ thus_ fri gh ted_ sw ears_ a_ pray er_ or_ two_ and_ sle eps_ aga in </s>
+<s> this_is_ that_ very_ ma b_ that_ pla ts_ the_ man es_ of_ hor ses_ in_the_ night_ and_ ba kes_ the_ el flo cks_ in_ foul_ s lu t ti sh_ ha ir s_ which_ once_ un t ang led_ much_ mis fortune_ bo des_ this_ is_the_ ha g_ when_ mai ds_ lie_ on_ their_ ba cks_ that_ pres ses_ them_ and_ lear ns_ them_ first_ to_ bear_ ma king_ them_ women_ of_ good_ car ri age_ this_is_ she_ romeo_ peace_ peace_ mercutio_ pea ce </s>
+<s> thou_ tal k st_ of_ no th ing </s>
+<s> mercutio_ true_ i_ talk_ of_ drea ms_ which_ are_ the_ chi ldr en_ of_ an_ i dle_ bra in_ be got_ of_ nothing_ but_ va in_ fan ta sy_ which_ is_ as_ th in_ of_ sub st ance_ as_the_ air_ and_ more_ in con stant_ than_ the_w ind_ who_ w oo es_ even_ now_ the_f ro z en_ bo som_ of_the_ nor th_ and_ being_ an ger d_ pu ff s_ away_ from_ th ence_ tur ning_ his_ face_ to_the_ de w dro pp ing_ sou th </s>
+<s> benvolio_ this_ w ind_ you_ talk_ of_ blo ws_ us_ from_ our selves_ supp er_ is_ done_ and_ we_shall_ come_ too_ la te </s>
+<s> romeo_ i_fear_ too_ ear ly_ for_my_ mind_ mis gives_ some_ con se qu ence_ yet_ han g ing_ in_the_ st ars_ shall_ bi tt er ly_ beg in_his_ fear ful_ d ate_ with_ this_ ni ghts_ re v el s_and_ ex p ire_ the_ ter m_ of_a_ des pi sed_ life_ clo sed_ in_my_ brea st_ by_ some_ vile_ for fe it_ of_ un ti me ly_ dea th </s>
+<s> but_ he_ that_ hath_ the_st e er age_ of_my_ course_ dire ct_ my_ sa il </s>
+<s> on_ lu st y_ gentle men </s>
+<s> benvolio_ strike_ dru m </s>
+<s> exeunt_scene_ v </s>
+<s> a_ ha ll_ in_ capu lets_ hou se </s>
+<s> musi ci ans_ wa it ing </s>
+<s> enter_ serv ing men_ with_ na p k ins_ first_ servant_ wher es_ po t p an_ that_he_ hel ps_ not_to_ take_ a wa y </s>
+<s> he_ shi ft_ a_ tr en ch er </s>
+<s> he_ sc ra pe_ a_ tr en ch er </s>
+<s> second_ servant_ when_ good_ man n ers_ shall_ lie_ all_ in_ one_ or_ two_ men s_ hands_ and_ they_ un wa shed_ too_ tis_ a_ foul_ th ing </s>
+<s> first_ servant_ away_ with_the_ jo in t st oo ls_ re move_ the_ cour t c up bo ard_ look_ to_the_ pla te </s>
+<s> good_ thou_ sa ve_ me_ a_ pi e ce_of_ mar ch p an e_ and_ as_ thou_ lo v est_ me_ let_ the_ por ter_ let_ in_ su s an_ gr in d st one_ and_ ne ll </s>
+<s> antony_ and_ po t p an </s>
+<s> second_ servant_ ay_ boy_ rea d y </s>
+<s> first_ servant_ you_are_ loo ked_ for_ and_ ca ll ed_ for_ a sk ed_ for_ and_ sou ght_ for_ in_the_ great_ cham ber </s>
+<s> second_ servant_ we_ cannot_be_ here_ and_ there_ t oo </s>
+<s> che er ly_ bo ys_ be_ bri s k_ awhile_ and_the_ lon ger_ li ver_ take_ a ll </s>
+<s> enter_ capulet_ with_ juliet_ and_ others_ of_his_ house_ me e ting_ the_ gu es ts_and_ ma sk ers_ capulet_ welcome_ gentle men </s>
+<s> la dies_ that_ have_ their_ to es_ un pla gu ed_ with_ cor ns_ will_ have_ a_ b out_ with_ you </s>
+<s> ah_ ha_ my_ mi st res s es </s>
+<s> which_ of_ you_ all_ will_ now_ deny_ to_ dan ce </s>
+<s> she_ that_ makes_ da in ty_ she_ ill_ swear_ hath_ cor ns_ am_ i_ come_ near_ ye_ no w </s>
+<s> welcome_ gentle men </s>
+<s> i_have_ seen_ the_ day_ that_ i_have_ wor n_ a_ vi s or_ and_ could_ tell_ a_ whi sp ering_ ta le_ in_a_ fair_ la d ys_ ear_ such_ as_ would_ please_ tis_ gone_ tis_ gone_ tis_ gone_ you_are_ welcome_ gentle men </s>
+<s> come_ musi ci ans_ play </s>
+<s> a_ ha ll_ a_ ha ll </s>
+<s> give_ ro om </s>
+<s> and_ foo t_ it_ g ir l s </s>
+<s> music_ play s_and_ they_ d ance_ more_ light_ you_ kna ves_ and_ turn_ the_ ta bl es_ up_ and_ qu en ch_ the_ fire_ the_ room_ is_ gro wn_ too_ ho t </s>
+<s> ah_ si r ra h_ this_ un loo k d for_ sp ort_ comes_ we ll </s>
+<s> nay_ sit_ nay_ sit_ good_ cou sin_ capulet_ for_you_ and_i_ are_ pa st_ our_ dan c ing_ days_ how_ long_ ist_ now_ since_ last_ yourself_ and_i_ were_ in_a_ ma sk </s>
+<s> second_ capulet_ b y r_ lady_ th ir ty_ y ear s </s>
+<s> capulet_ what_ man </s>
+<s> tis_ not_so_ much_ tis_ not_so_ much_ tis_ since_ the_ n up ti al s_ of_ lu c en tio_ come_ pen te co st_ as_ qui ck ly_ as_ it_ will_ some_ fi ve_ and_ twenty_ y ear s_and_ then_ we_ ma sk d </s>
+<s> second_ capulet_ tis_ more_ tis_ more_ his_ son_ is_ el der_ sir_ his_ son_ is_ th ir ty </s>
+<s> capulet_ will_you_ tell_me_ th at </s>
+<s> his_ son_ was_ but_a_ ward_ two_ y ears_ ag o </s>
+<s> romeo_ to_a_ serv ing man_ what_ lady_ is_ that_which_ doth_ en rich_ the_ hand_ of_ y on der_ k ni ght </s>
+<s> servant_ i_know_not_ si r </s>
+<s> romeo_ o_ she_ doth_ t each_ the_ tor ches_ to_ bur n_ bri ght </s>
+<s> it_ see ms_ she_ han gs_ upon_the_ ch ee k_ of_ night_ like_a_ rich_ je we l_ in_ an_ e thi op es_ ear_ beau ty_ too_ rich_ for_ use_ for_ earth_ too_ dear </s>
+<s> so_ sho ws_ a_ s no w y_ do ve_ tro op ing_ with_ cro ws_ as_ y on der_ lady_ oer_ her_ fe llows_ sho w s </s>
+<s> the_ mea sure_ done_ ill_ watch_ her_ place_ of_ stand_ and_ tou ching_ h ers_ make_ bles sed_ my_ ru de_ hand </s>
+<s> did_ my_heart_ love_ till_ no w </s>
+<s> for swear_ it_ si ght </s>
+<s> for_ i_ neer_ saw_ true_ beau ty_ till_ this_ ni ght </s>
+<s> tybalt_ this_ by_ his_ voice_ should_be_ a_ monta gu e </s>
+<s> fe tch_ me_ my_ ra pi er_ bo y </s>
+<s> what_ dar es_ the_ sla ve_ come_ hither_ co ver d_ with_ an_ an ti c_ face_ to_ fle er_ and_ scor n_ at_ our_ so le m ni ty </s>
+<s> now_ by_the_ st o ck_ and_ honour_ of_my_ k in_ to_ strike_ him_ dead_ i_ hold_ it_ not_a_ sin </s>
+<s> capulet_ why_ how_now_ kin s man </s>
+<s> where fore_ st or m_ you_ so </s>
+<s> tybalt_ un cle_ this_is_ a_ montague_ our_ fo e_ a_ villain_ that_is_ hither_ come_ in_ spi te_ to_ scor n_ at_ our_ so le m ni ty_ this_ ni ght </s>
+<s> capulet_ young_ romeo_ is_ it </s>
+<s> tybalt_ tis_ he_ that_ villain_ rome o </s>
+<s> capulet_ con tent_ thee_ gentle_ co z_ let_him_ alone_ he_ b ears_ him_ like_a_ por tly_ gentleman_ and_ to_say_ truth_ ver on a_ bra gs_ of_him_ to_be_ a_ virtu ous_ and_ we ll go ver nd_ youth_ i_would_ not_ for_ the_w eal th_ of_ all_the_ to wn_ here_ in_my_ house_ do_ him_ disp ar ag e ment_ therefore_ be_ pati ent_ take_ no_ note_ of_him_ it_is_ my_ will_ the_ which_ if_thou_ res pe ct_ show_ a_ fair_ pres ence_ and_ put_ off_ these_ f ro wn s_and_ i ll bes ee ming_ se mb l ance_ for_a_ fea st </s>
+<s> tybalt_ it_ fi ts_ when_ such_a_ villain_ is_a_ gu est_ ill_ not_ end ure_ him </s>
+<s> capulet_ he_ shall_be_ end ured_ what_ goo d man_ bo y </s>
+<s> i_say_ he_ shall_ go_to_ am_ i_the_ master_ here_ or_ you </s>
+<s> go_ to </s>
+<s> you ll_ not_ end ure_ him </s>
+<s> god_ shall_ m end_ my_ sou l </s>
+<s> you ll_ make_ a_ mu tin y_ a mon g_ my_ gu es t s </s>
+<s> you_ will_ set_ co ck a h oo p </s>
+<s> you ll_ be_ the_ man </s>
+<s> tybalt_ why_ un cle_ tis_ a_ sha me </s>
+<s> capulet_ go_to_ go_to_ you_are_ a_ sa u cy_ boy_ ist_ so_ in de e d </s>
+<s> this_ tri ck_ may_ chance_ to_ sca the_ you_ i_know_ what_ you_must_ con tr ar y_ me </s>
+<s> marry_ tis_ ti me </s>
+<s> well_ said_ my_ hear t s </s>
+<s> you_are_ a_ pr in co x_ go_ be_ qui et_ or more_ light_ more_ li ght </s>
+<s> for_ sha me </s>
+<s> ill_ make_ you_ qui e t </s>
+<s> what_ che er ly_ my_ hear t s </s>
+<s> tybalt_ patience_ per force_ with_ wi l ful_ ch ol er_ me e ting_ makes_ my_ flesh_ tre m ble_ in_their_ di ff er ent_ gre e t ing </s>
+<s> i_will_ with draw_ but_ this_ in tru sion_ shall_ now_ see ming_ sweet_ con ver t_ to_ bi tter_ ga ll </s>
+<s> exit_ romeo_ to_ juliet_ if_i_ pro fan e_ with_ my_ un wor thi est_ hand_ this_ holy_ sh r ine_ the_ gentle_ f ine_ is_this_ my_ lips_ two_ b lu sh ing_ pi l gri ms_ ready_ stand_ to_ s m oo th_ that_ rough_ tou ch_ with_a_ ten der_ ki ss </s>
+<s> juliet_ good_ pi l gri m_ you_do_ wrong_ your_ hand_ too_much_ which_ man ner ly_ de vo tion_ sho ws_ in_this_ for_ sa in ts_ have_ hands_ that_ pi l gri ms_ hands_ do_ tou ch_ and_ pa l m_ to_ pa l m_ is_ holy_ pa l m ers_ ki ss </s>
+<s> romeo_ have_ not_ sa in ts_ li p s_and_ holy_ pa l m ers_ t oo </s>
+<s> juliet_ ay_ pi l gri m_ lips_ that_ they_ must_ use_ in_ pray er </s>
+<s> romeo_ o_ then_ dear_ sa int_ let_ lips_ do_ what_ hands_ do_ they_ pray_ gr ant_ thou_ l est_ faith_ turn_ to_ des pa ir </s>
+<s> juliet_ sa in ts_ do_not_ move_ though_ gr ant_ for_ pray ers_ sa ke </s>
+<s> romeo_ then_ move_ not_ while_ my_ pray ers_ ef fect_ i_ ta ke </s>
+<s> thus_ from_ my_ lips_ by_ yours_ my_ sin_ is_ pur ge d </s>
+<s> juliet_ then_ have_ my_ lips_ the_s in_that_ they_have_ t oo k </s>
+<s> romeo_ sin_ from_ w en ch_ thou_ p out st_ upon_ thy_ fortune_ and_ thy_ love_ take_ he ed_ take_ he ed_ for_ such_ die_ mi ser ab le </s>
+<s> go_ get_ thee_ to_ thy_ love_ as_ was_ de cre ed_ a sc end_ her_ cham ber_ hence_ and_ com fort_ her_ but_ look_ thou_ stay_ not_ till_ the_w atch_ be_ set_ for_ then_ thou_ can st_ not_ pass_ to_ m ant u a_ where_ thou_shalt_ live_ till_ we_ can_ find_ a_ time_ to_ bla ze_ your_ mar ri age_ re con ci le_ your_ friends_ be g_ pardon_ of_the_ prince_ and_ call_ thee_ back_ with_ twenty_ h un dr ed_ thousand_ times_ more_ joy_ than_ thou_ w ent st_ forth_ in_ la men ta ti on </s>
+<s> go_ before_ nurse_ comm end_ me_to_ thy_ lady_ and_ bid_ her_ ha st en_ all_the_ house_ to_ bed_ which_ heavy_ sorrow_ makes_ them_ a pt_ un to_ romeo_ is_ com ing </s>
+<s> nurse_ o_ lord_ i_could_ have_ sta y d_ here_ all_the_ night_ to_hear_ good_ coun sel_ o_ what_ lear ning_ is </s>
+<s> my_lord_ ill_ tell_ my_ lady_ you_ will_ com e </s>
+<s> romeo_ do_ so_ and_ bid_ my_ sweet_ pre p are_ to_ chi de </s>
+<s> nurse_ here_ sir_ a_ ring_ she_ bid_ me_ give_ you_ sir_ hi e_ you_ make_ haste_ for_ it_ gro ws_ very_ la te </s>
+<s> exit_ romeo_ how_ well_ my_ com fort_ is_ re vi ved_ by_ this </s>
+<s> friar_laurence_ go_ hence_ good_night_ and_ here_ stan ds_ all_ your_ state_ either_ be_ gone_ before_ the_w atch_ be_ set_ or_ by_the_ break_ of_ day_ dis gui sed_ from_ hence_ so j our n_ in_ m ant u a_ ill_ find_ out_ your_ man_ and_he_ shall_ signi f y_ from_ time_ to_ time_ every_ good_ ha p_ to_you_ that_ chan ces_ here_ give_me_ thy_ hand_ tis_ late_ farewell_ good_ ni ght </s>
+<s> romeo_ but_ that_ a_ joy_ pa st_ joy_ ca lls_ out_ on_ me_ it_were_ a_ grief_ so_ bri ef_ to_ part_ with_ thee_ fare we ll </s>
+<s> exeunt_scene_i v </s>
+<s> a_ room_ in_ capu lets_ hou se </s>
+<s> enter_ capulet_ lady_capulet_ and_ paris_ capulet_ things_ have_ fa ll n_ out_ sir_ so_ un lu ck i ly_ that_ we_have_ had_ no_ time_ to_ move_ our_ daughter_ look_ you_ she_ loved_ her_ kin s man_ tybalt_ dear ly_ and_so_ did_ i well_ we_ were_ born_ to_ di e </s>
+<s> tis_ very_ late_ sh e ll_ not_ come_ down_ tonight_ i_ prom ise_ you_ but_ for_your_ company_ i_would_ have_ been_ ab ed_ an_ hour_ ag o </s>
+<s> paris_ these_ times_ of_ wo e_ af for d_ no_ time_ to_ w oo </s>
+<s> madam_ good_night_ comm end_ me_to_ your_ daugh ter </s>
+<s> lady_capulet_ i_will_ and_ know_ her_ mind_ ear ly_ tomorrow_ tonight_ she_is_ me wd_ up_ to_her_ hea v in ess </s>
+<s> capulet_ sir_ paris_ i_will_ make_ a_ des per ate_ ten der_ of_my_ chi lds_ love_ i_think_ she_ will_be_ ru led_ in_ all_ res pe c ts_ by_ me_ nay_ more_ i_ doubt_ it_ no t </s>
+<s> wife_ go_ you_to_ her_ ere_ you_ go_to_ bed_ ac qua int_ her_ here_ of_my_ son_ paris_ love_and_ bid_ her_ mark_ you_ me_ on_ we d n es day_ ne xt_ but_ s of t </s>
+<s> what_ day_ is_ this </s>
+<s> paris_ mon day_ my_lord_ capulet_ mon da y </s>
+<s> ha_ ha </s>
+<s> well_ we d n es day_ is_ too_ soon_ o_ th ur s day_ let_ it_be_ o_ th ur s day_ tell_ her_ she_ shall_be_ married_ to_this_ noble_ ear l </s>
+<s> will_you_ be_ rea d y </s>
+<s> do_you_ like_ this_ ha st e </s>
+<s> well_ keep_ no_ great_ a do a_ friend_ or_ two_ for_ hark_ you_ tybalt_ being_ slain_ so_ late_ it_ may_be_ thought_ we_ he ld_ him_ car el ess ly_ being_ our_ kin s man_ if_ we_ re v el_ much_ therefore_ well_ have_ some_ half_ a_ do z en_ friends_ and_ there_ an_ end </s>
+<s> but_ what_ say_ you_to_ th ur s da y </s>
+<s> paris_ my_lord_ i_would_ that_ th ur s day_ were_ tomor ro w </s>
+<s> capulet_ well_ get_ you_ gone_ o_ th ur s day_ be_ it_ th en </s>
+<s> go_ you_to_ juliet_ ere_ you_ go_to_ bed_ pre p are_ her_ wife_ against_ this_ we dd ing da y </s>
+<s> farewell_ my_ lor d </s>
+<s> light_ to_my_ cham ber_ ho </s>
+<s> a fore_ me </s>
+<s> it_is_ so_ very_ very_ late_ that_ we_ may_ call_ it_ ear ly_ by_ and_ b y </s>
+<s> good_ ni ght </s>
+<s> exeunt_scene_ v </s>
+<s> capu lets_ or char d </s>
+<s> enter_ romeo_ and_ juliet_ abo ve_ at_ the_w in do w_ juliet_ wilt_ thou_ be_ g on e </s>
+<s> it_is_ not_ yet_ near_ day_ it_was_ the_ ni ght ing a le_ and_ not_ the_ l ar k_ that_ pi er ced_ the_f ear ful_ ho llow_ of_ thine_ ear_ ni gh tly_ she_ s ings_ on_ y on_ pom eg ran at e t ree_ believe_ me_ love_ it_was_ the_ ni ght ing a le </s>
+<s> romeo_ it_was_ the_ l ar k_ the_ her a ld_ of_the_ mor n_ no_ ni ght ing a le_ look_ love_ what_ en vi ous_ st rea ks_ do_ la ce_ the_ se ver ing_ cl ou ds_ in_ y on der_ ea st_ ni ghts_ can d les_ are_ bur n t_ out_ and_ j oc un d_ day_ stan ds_ ti p to e_ on_the_ mi st y_ m oun tain_ to p s </s>
+<s> i_must_ be_ gone_ and_ live_ or_ stay_ and_ di e </s>
+<s> juliet_ y on_ light_ is_not_ da y light_ i_know_ it_ i_ it_is_ some_ me te or_ that_ the_s un_ ex ha les_ to_be_ to_ thee_ this_ night_ a_ tor ch bear er_ and_ light_ thee_ on_ thy_ way_ to_ m ant u a_ therefore_ stay_ yet_ thou_ ne e dst_ not_ to_be_ g on e </s>
+<s> romeo_ let_me_ be_ ta en_ let_me_ be_ put_ to_ death_ i_am_ con tent_ so_ thou_ wilt_ have_ it_ so </s>
+<s> ill_ say_ y on_ gre y_ is_not_ the_ mor n ings_ eye_ tis_ but_ the_ pale_ re fle x_ of_ c y n thi as_ b row_ nor_ that_ is_not_ the_ l ar k_ whose_ no tes_ do_ bea t_ the_ v au l ty_ heaven_ so_ high_ abo ve_ our_ hea ds_ i_have_ more_ c are_ to_ stay_ than_ will_ to_ go_ come_ death_ and_ wel com e </s>
+<s> juliet_ wi lls_ it_ so </s>
+<s> how_ ist_ my_ sou l </s>
+<s> lets_ talk_ it_is_ not_ da y </s>
+<s> juliet_ it_is_ it_is_ hi e_ hence_ be_ gone_ a wa y </s>
+<s> it_is_ the_ l ar k_ that_ s ings_ so_ out_of_ tun e_ stra in ing_ har sh_ disc or ds_ and_ un plea sing_ sha r p s </s>
+<s> some_ say_ the_ l ar k_ makes_ sweet_ di vi sion_ this_ doth_ not_so_ for_ she_ di vi de th_ us_ some_ say_ the_ l ar k_ and_ lo ath ed_ to a d_ change_ eyes_ o_ now_ i_would_ they_ had_ chan ged_ vo i ces_ t oo </s>
+<s> since_ arm_ from_ arm_ that_ voice_ doth_ us_ af fra y_ h un ting_ thee_ hence_ with_ h un t su p_ to_the_ day_ o_ now_ be_ gone_ more_ light_ and_ light_ it_ gro w s </s>
+<s> romeo_ more_ light_ and_ light_ more_ dar k_ and_ dar k_ our_ wo es </s>
+<s> enter_ nurse_ to_the_ cham ber_ nurse_ ma dam </s>
+<s> juliet_ n ur se </s>
+<s> nurse_ your_ lady_ mother_ is_ coming_ to_your_ cham ber_ the_ day_ is_ bro ke_ be_ war y_ look_ ab out </s>
+<s> exit_ juliet_ then_ win do w_ let_ day_ in_ and_ let_ life_ out </s>
+<s> romeo_ farewell_ fare we ll </s>
+<s> one_ ki s s_and_ ill_ des c end </s>
+<s> he_ go e th_ down_ juliet_ art_thou_ gone_ so </s>
+<s> love_ lord_ ay_ husband_ fri end </s>
+<s> i_must_ hear_ from_ thee_ every_ day_ in_the_ hour_ for_ in_a_ min u te_ there_ are_ many_ days_ o_ by_ this_ coun t_ i_ shall_be_ much_ in_ y ears_ ere_ i_ again_ behold_ my_ rome o </s>
+<s> romeo_ fare we ll </s>
+<s> i_will_ om it_ no_ op por tun ity_ that_ may_ con ve y_ my_ gre e t ings_ love_ to_ the e </s>
+<s> juliet_ o_ thin k st_thou_ we_shall_ ever_ meet_ aga in </s>
+<s> romeo_ i_ doubt_ it_not_ and_all_ these_ wo es_ shall_ serve_ for_ sweet_ disc our ses_ in_our_ time_ to_ com e </s>
+<s> juliet_ o_ god_ i_have_ an_ i ll di v in ing_ sou l </s>
+<s> me thinks_ i_see_ thee_ now_ thou_art_ be low_ as_ one_ dead_ in_the_ bottom_ of_a_ tom b_ either_ my_ ey es ight_ fai ls_ or_ thou_ loo k st_ pa le </s>
+<s> romeo_ and_ tru st_ me_ love_ in_my_ eye_ so_ do_you_ d ry_ sorrow_ dr in ks_ our_ bloo d </s>
+<s> adieu_ adieu </s>
+<s> exit_ juliet_ o_ fortune_ fortun e </s>
+<s> all_ men_ call_ thee_ fi ck le_ if_ thou_art_ fi ck le_ what_ dost_thou_ with_ him </s>
+<s> that_is_ ren o w nd_ for_ fai th </s>
+<s> be_ fi ck le_ fortune_ for_ then_ i_ hope_ thou_ wilt_ not_ keep_ him_ long_ but_ send_ him_ ba ck </s>
+<s> lady_capulet_ within_ ho_ daugh ter </s>
+<s> are_you_ up </s>
+<s> juliet_ who_ ist_ that_ ca ll s </s>
+<s> is_it_ my_ lady_ mo ther </s>
+<s> is_ she_ not_ down_ so_ late_ or_ up_ so_ ear ly </s>
+<s> what_ un ac cu st om d_ cause_ pro cur es_ her_ hi ther </s>
+<s> enter_ lady_capulet_ lady_capulet_ why_ how_now_ juli e t </s>
+<s> juliet_ madam_ i_am_ not_ we ll </s>
+<s> lady_capulet_ e ver more_ we ep ing_ for_your_ cou s ins_ dea th </s>
+<s> what_ wilt_ thou_ wa sh_ him_ from_his_ grave_ with_ t ear s </s>
+<s> an_ if_thou_ cou ld st_thou_ cou ld st_ not_ make_ him_ live_ therefore_ have_ done_ some_ grief_ sho ws_ much_ of_love_ but_ much_ of_ grief_ sho ws_ still_ some_ w ant_ of_ wi t </s>
+<s> juliet_ yet_ let_me_ we ep_ for_ such_a_ fe el ing_ lo ss </s>
+<s> lady_capulet_ so_ shall_ you_ fe el_ the_ lo ss_ but_ not_ the_ friend_ which_ you_ we ep_ for </s>
+<s> juliet_ fe el ing_ so_ the_ lo ss_ cannot_ choose_ but_ ever_ we ep_ the_ fri end </s>
+<s> lady_capulet_ well_ g ir l_ thou_ we ep st_ not_so_ much_ for_his_ death_ as_ that_the_ villain_ lives_ which_ s laugh ter d_ him </s>
+<s> juliet_ what_ villain_ ma dam </s>
+<s> lady_capulet_ that_ same_ villain_ rome o </s>
+<s> juliet_ aside_ villain_ and_he_ be_ many_ mi les_ as under_ god_ pardon_ him </s>
+<s> i_do_ with_all_ my_heart_ and_yet_ no_ man_ like_ he_ doth_ gri e ve_ my_ hear t </s>
+<s> lady_capulet_ that_is_ be cause_ the_ tra it or_ murderer_ li v es </s>
+<s> juliet_ ay_ madam_ from_the_ rea ch_ of_ these_ my_ hands_ would_ none_ but_ i_ might_ ven ge_ my_ cou s ins_ dea th </s>
+<s> lady_capulet_ we_will_ have_ ven ge ance_ for_ it_ fear_ thou_ not_ then_ we ep_ no_ mor e </s>
+<s> ill_ send_ to_ one_ in_ m ant u a_ where_ that_ same_ bani shd_ r un ag ate_ doth_ live_ shall_ give_him_ such_ an_ un ac cu st om d_ dra m_ that_he_ shall_ soon_ keep_ tybalt_ company_ and_then_ i_ hope_ thou_ wilt_ be_ satis fi e d </s>
+<s> juliet_ indeed_ i_ never_ shall_be_ satis fied_ with_ romeo_ till_ i_ behold_ him dead_ is_ my_ poor_ heart_ for_a_ kin s man_ v ex d </s>
+<s> madam_ if_you_ could_ find_ out_ but_ a_man_ to_ bear_ a_ poi son_ i_would_ temp er_ it_ that_ romeo_ should_ upon_ re cei pt_ there of_ soon_ sleep_ in_ qui e t </s>
+<s> o_ how_ my_heart_ ab hor s_ to_hear_ him_ na med_ and_ cannot_ come_to_ him </s>
+<s> to_ w rea k_ the_ love_ i_ bor e_ my_ cou sin_ upon_ his_ body_ that_ s laugh ter d_ him </s>
+<s> lady_capulet_ find_ thou_ the_ me an s_and_ ill_ find_ such_a_ man </s>
+<s> but_ now_ ill_ tell_ thee_ jo y ful_ ti d ings_ g ir l </s>
+<s> juliet_ and_ joy_ comes_ well_ in_ such_a_ ne e dy_ time_ what_ are_ they_ i_ beseech_ your_ la d y shi p </s>
+<s> lady_capulet_ well_ well_ thou_hast_ a_ c are ful_ father_ child_ one_ who_ to_ put_ thee_ from_ thy_ hea v in ess_ hath_ sor ted_ out_ a_ su dd en_ day_ of_ joy_ that_ thou_ ex pe c t st_ not_ nor_ i_ loo kd_ not_ for </s>
+<s> juliet_ madam_ in_ happy_ time_ what_ day_ is_ th at </s>
+<s> lady_capulet_ marry_ my_ child_ ear ly_ ne xt_ th ur s day_ mor n_ the_ ga ll ant_ young_ and_ noble_ gentleman_ the_ coun ty_ paris_ at_ sa int_ pe t ers_ chur ch_ shall_ happ i ly_ make_ thee_ there_ a_ jo y ful_ bri de </s>
+<s> juliet_ now_ by_ sa int_ pe t ers_ chur ch_ and_ pe ter_ too_ he_ shall_ not_ make_ me_ there_ a_ jo y ful_ bri de </s>
+<s> i_ won der_ at_ this_ haste_ that_i_ must_ w ed_ ere_ he_ that_ should_be_ husband_ comes_ to_ w oo </s>
+<s> i_pray_you_ tell_ my_lord_ and_ father_ madam_ i_will_not_ marry_ yet_ and_ when_ i_do_ i_ swear_ it_ shall_be_ romeo_ whom_ you_know_ i_ hate_ rather_ than_ par is </s>
+<s> these_ are_ news_ in de e d </s>
+<s> lady_capulet_ here_comes_ your_ father_ tell_ him_ so_ yourself_ and_ see_ how_ he_ will_ take_ it_ at_ your_ hand s </s>
+<s> enter_ capulet_ and_ nurse_ capulet_ when_ the_s un_ se ts_ the_ air_ doth_ dri z z le_ de w_ but_ for_the_ s un set_ of_my_ bro thers_ son_ it_ ra ins_ do wn ri ght </s>
+<s> how_ no w </s>
+<s> a_ con du it_ g ir l </s>
+<s> what_ still_ in_ t ear s </s>
+<s> e ver more_ sho w er ing </s>
+<s> in_ one_ little_ body_ thou_ coun ter fe it st_ a_ bar k_ a_ sea_ a_ w ind_ for_ still_ thy_ eyes_ which_ i_ may_ call_ the_ sea_ do_ e b b_ and_ f low_ with_ tears_ the_ bar k_ thy_ body_ is_ sa i ling_ in_this_ sa lt_ f loo d_ the_w in ds_ thy_ si gh s_ who_ ra g ing_ with_ thy_ t ear s_and_ they_ with_ them_ without_ a_ su dd en_ cal m_ will_ over set_ thy_ temp es t to ss ed_ bo d y </s>
+<s> how_now_ wi fe </s>
+<s> have_you_ deli ver d_ to_her_ our_ de c ree </s>
+<s> lady_capulet_ ay_ sir_ but_ she_ will_ none_ she_ gives_ you_ than k s </s>
+<s> i_would_ the_ fool_ were_ married_ to_her_ gra ve </s>
+<s> capulet_ s of t </s>
+<s> take_ me_ with_you_ take_ me_ with_you_ wi fe </s>
+<s> ho w </s>
+<s> will_ she_ n on e </s>
+<s> doth_ she_ not_ give_ us_ than k s </s>
+<s> is_ she_ not_ pr ou d </s>
+<s> doth_ she_ not_ coun t_ her_ bl est_ un worthy_ as_ she_is_ that_ we_have_ w rought_ so_ worthy_ a_ gentleman_ to_be_ her_ bri de gro om </s>
+<s> juliet_ not_ pr oud_ you_have_ but_ than k ful_ that_ you_have_ pr oud_ can_ i_ never_ be_ of_ what_ i_ hate_ but_ than k ful_ even_ for_ hate_ that_is_ me ant_ lo ve </s>
+<s> capulet_ how_now_ how_now_ ch op lo gi c </s>
+<s> what_is_ this </s>
+<s> pr ou d_and_ i_ thank_ you_ and_i_ app roa ch_ and_ spea k </s>
+<s> e up h ron ius_ such_ as_ i_am_ i_ come_ from_ antony_ i_was_ of_ late_ as_ pe tty_ to_his_ ends_ as_ is_the_ mor n de w_ on_the_ m y r t le lea f_ to_his_ gr and_ sea </s>
+<s> octavius_caesar_ be t_ so_ de cl are_ thine_ offi ce </s>
+<s> e up h ron ius_ lord_ of_his_ fortunes_ he_ sa lu tes_ thee_ and_ re qu ir es_ to_ live_ in_ egypt_ which_ not_ gr ant ed_ he_ l es sen s_ his_ re ques ts_and_ to_ thee_ su es_ to_ let_him_ brea the_ between_ the_ heaven s_and_ earth_ a_ pri v ate_ man_ in_ athens_ this_ for_ him </s>
+<s> ne xt_ cleopatra_ does_ confess_ thy_ grea tness_ sub mi ts_ her_ to_ thy_ might_ and_ of_ thee_ cra ves_ the_ c ir cle_ of_the_ p to le mi es_ for_ her_ he ir s_ now_ ha z ar ded_ to_ thy_ gra ce </s>
+<s> octavius_caesar_ for_ antony_ i_have_ no_ ears_ to_his_ re ques t </s>
+<s> the_ queen_ of_ au di ence_ nor_ desire_ shall_ fa il_ so_ she_ from_ egypt_ dri ve_ her_ a ll dis gra ced_ friend_ or_ take_ his_ life_ there_ this_ if_ she_ per form_ she_ shall_ not_ sue_ un hear d </s>
+<s> so_ to_ them_ bo th </s>
+<s> e up h ron ius_ fortune_ pur sue_ the e </s>
+<s> octavius_caesar_ bring_ him_ through_ the_ ban d s </s>
+<s> exit_ e up h ron ius_ to_ th y re us_ to_ try_ e lo qu ence_ now_ tis_ time_ disp atch_ from_ antony_ w in_ cleopatra_ prom ise_ and_ in_our_ name_ what_ she_ re qu ir es_ ad d_ more_ from_ thine_ in ven tion_ off ers_ women_ are_not_ in_their_ best_ fortunes_ strong_ but_ w ant_ will_ per j ure_ the_ neer_ tou chd_ v es tal_ try_ thy_ c un ning_ th y re us_ make_ thine_ own_ e di ct_ for_ thy_ pa ins_ which_ we_will_ answer_ as_a_ la w </s>
+<s> th y re us_ caesar_ i_ go </s>
+<s> octavius_caesar_ ob serve_ how_ antony_ be comes_ his_ fla w_ and_ what_ thou_ thin k st_ his_ very_ ac tion_ spea ks_ in_ every_ power_ that_ mo v es </s>
+<s> th y re us_ caesar_ i_ sha ll </s>
+<s> exeunt_scene_ x i i i </s>
+<s> alex an dri a </s>
+<s> cleopat ras_ pala ce </s>
+<s> enter_ cleopatra_ domitius_enobarbus_ charmian_ and_ iras_ cleopatra_ what_ shall_ we_ do_ enob ar bu s </s>
+<s> domitius_enobarbus_ think_ and_ di e </s>
+<s> cleopatra_ is_ antony_ or_ we_ in_ fau lt_ for_ this </s>
+<s> domitius_enobarbus_ antony_ only_ that_ would_ make_ his_ will_ lord_ of_his_ rea son </s>
+<s> what_ though_ you_ fl ed_ from_ that_ great_ face_ of_ war_ whose_ se ver al_ ran g es_ fri gh ted_ each_ o ther </s>
+<s> why_ should_ he_ follo w </s>
+<s> the_ i tch_ of_his_ affe ction_ should_ not_ then_ have_ ni ckd_ his_ cap ta in ship_ at_ such_a_ po int_ when_ half_ to_ half_ the_world_ op po sed_ he_ being_ the_ me er ed_ question_ twas_ a_ shame_ no_ less_ than_ was_ his_ lo ss_ to_ course_ your_ f ly ing_ fla g s_and_ leave_ his_ na vy_ ga z ing </s>
+<s> cleopatra_ prithee_ pea ce </s>
+<s> enter_ mark_antony_ with_ e up h ron ius_ the_ a m ba ssa dor_ mark_antony_ is_ that_ his_ answ er </s>
+<s> e up h ron ius_ ay_ my_ lor d </s>
+<s> mark_antony_ the_ queen_ shall_ then_ have_ cour tes y_ so_ she_ will_ yi eld_ us_ up </s>
+<s> e up h ron ius_ he_ says_ so </s>
+<s> mark_antony_ let_ her_ know t </s>
+<s> to_the_ boy_ caesar_ send_ this_ gri z z led_ hea d_and_ he_ will_ fi ll_ thy_ wi shes_ to_the_ bri m_ with_ pr in ci pa li ti es </s>
+<s> cleopatra_ that_ head_ my_ lor d </s>
+<s> mark_antony_ to_him_ again_ tell_ him_ he_ w ears_ the_ ro se_ of_ youth_ upon_ him_ from_ which_ the_world_ should_ note_ something_ par ti cu la r_ his_ co in_ shi ps_ le gi ons_ may_be_ a_ co wards_ whose_ min i sters_ would_ pre va il_ under_ the_ service_ of_a_ child_ as_ soon_ as_ i_the_ command_ of_ caesar_ i_ d are_ him_ therefore_ to_ lay_ his_ g ay_ com par is ons_ a part_ and_ answer_ me_ de cl in ed_ sword_ against_ sword_ our selves_ al on e </s>
+<s> ill_ wri te_ it_ follow_ me </s>
+<s> exeunt_ mark_antony_ and_ e up h ron ius_ domitius_enobarbus_ aside_ yes_ like_ enough_ high bat t led_ caesar_ will_ un state_ his_ happ in ess_ and_ be_ st ag ed_ to_the_ show_ against_ a_ swor der </s>
+<s> i_see_ men s_ judg ments_ are_ a_ par ce l_ of_ their_ fortun es_and_ things_ out ward_ do_ draw_ the_ in ward_ qua li ty_ after_ them_ to_ suff er_ all_ a li ke </s>
+<s> that_he_ should_ dream_ kno wing_ all_ mea sur es_ the_ full_ caesar_ will_ answer_ his_ emp tin ess </s>
+<s> caesar_ thou_hast_ sub du ed_ his_ judgment_ t oo </s>
+<s> enter_ an_ atten d ant_ atten d ant_ a_ messenger_ from_ caes ar </s>
+<s> cleopatra_ what_ no_more_ c ere mon y </s>
+<s> see_ my_ wom en </s>
+<s> against_ the_ blo wn_ ro se_ may_ they_ st o p_ their_ no se_ that_ kne eld_ un to_the_ bu d s </s>
+<s> ad m it_ him_ si r </s>
+<s> exit_ atten d ant_ domitius_enobarbus_ aside_ mine_ hon es ty_ and_i_ beg in_ to_ s qu are </s>
+<s> the_ lo y al ty_ well_ he ld_ to_ foo ls_ does_ make_ our_ faith_ m ere_ fo lly_ yet_ he_ that_ can_ end ure_ to_ follow_ with_ a ll e gi ance_ a_ fa ll n_ lord_ does_ con qu er_ him_ that_ did_ his_ master_ con qu er_ and_ ear ns_ a_ place_ i_the_ st or y </s>
+<s> enter_ th y re us_ cleopatra_ caesars_ wi ll </s>
+<s> th y re us_ hear_ it_ a par t </s>
+<s> cleopatra_ none_ but_ friends_ say_ bo ld ly </s>
+<s> th y re us_ so_ ha p ly_ are_ they_ friends_ to_ anton y </s>
+<s> domitius_enobarbus_ he_ needs_ as_ many_ sir_ as_ caesar_ has_ or_ needs_ not_ u s </s>
+<s> if_ caesar_ please_ our_ master_ will_ lea p_ to_be_ his_ friend_ for_ us_ you_know_ whose_ he_is_ we_are_ and_that_ is_ caes ar s </s>
+<s> th y re us_ so </s>
+<s> thus_ then_ thou_ most_ ren o w nd_ caesar_ entrea ts_ not_to_ con si der_ in_ what_ ca se_ thou_ stan dst_ further_ than_ he_is_ caes ar </s>
+<s> cleopatra_ go_ on_ right_ roy al </s>
+<s> th y re us_ he_ knows_ that_you_ e mb ra ce_ not_ antony_ as_you_ did_ love_ but_ as_you_ fear d_ him </s>
+<s> cleopatra_ o </s>
+<s> th y re us_ the_ sc ars_ upon_ your_ honour_ therefore_ he_ does_ pity_ as_ con stra in ed_ ble mi shes_ not_ as_ deser ve d </s>
+<s> cleopatra_ he_is_ a_ go d_and_ knows_ what_is_ most_ right_ mine_ honour_ was_ not_ yi el ded_ but_ con qu erd_ m ere ly </s>
+<s> domitius_enobarbus_ aside_ to_be_ sure_ of_that_ i_will_ as k_ anton y </s>
+<s> sir_ sir_ thou_art_ so_ lea k y_ that_ we_ must_ leave_ thee_ to_ thy_ sin king_ for_ thy_ dear est_ qu it_ the e </s>
+<s> exit_ th y re us_ shall_ i_say_ to_ caesar_ what_ you_ re qu ire_ of_ him </s>
+<s> for_ he_ par tly_ beg s_ to_be_ des ir ed_ to_ gi ve </s>
+<s> it_ much_ would_ please_ him_ that_ of_his_ fortunes_ you_ should_ make_ a_ st af f_ to_ le an_ upon_ but_ it_ would_ war m_ his_ spiri ts_ to_hear_ from_ me_ you_ had_ left_ antony_ and_ put_ yourself_ under_ his_ sh ro wd_ the_ un i ver sa l_ lan d lor d </s>
+<s> cleopatra_ whats_ your_ na me </s>
+<s> th y re us_ my_ name_ is_ th y re u s </s>
+<s> cleopatra_ most_ kind_ messenger_ say_ to_ great_ caesar_ this_ in_ de pu tation_ i_ kiss_ his_ con qu ering_ hand_ tell_ him_ i_am_ prom pt_ to_ lay_ my_ crown_ at_ s_ fe et_ and_ there_ to_ kne el_ tell_ him_ from_his_ a llo be ying_ breath_ i_ hear_ the_ do om_ of_ egy p t </s>
+<s> th y re us_ tis_ your_ no bl est_ cour se </s>
+<s> wis dom_ and_ fortune_ com bat ing_ together_ if_ that_the_ for mer_ d are_ but_ what_ it_ can_ no_ chance_ may_ shake_ it </s>
+<s> give_me_ grace_ to_ lay_ my_ du ty_ on_ your_ hand </s>
+<s> cleopatra_ your_ caesars_ father_ oft_ when_ he_hath_ mu sed_ of_ ta king_ k ing dom s_ in_ bes to wd_ his_ lips_ on_ that_ un worthy_ place_ as_ it_ ra ind_ ki ss es </s>
+<s> reenter_ mark_antony_ and_ domitius_enobarbus_ mark_antony_ fa v ours_ by_ jo ve_ that_ th under s </s>
+<s> what_ art_thou_ fe llo w </s>
+<s> th y re us_ one_ that_ but_ per for ms_ the_ bi d ding_ of_the_ fu ll est_ man_ and_ wor thi est_ to_have_ command_ obe y d </s>
+<s> domitius_enobarbus_ aside_ you_ will_be_ whi pp d </s>
+<s> mark_antony_ app roa ch_ there </s>
+<s> ah_ you_ ki te </s>
+<s> now_ gods_ and_ devi l s </s>
+<s> au thor ity_ me lts_ from_ me_ of_ late_ when_i_ c ried_ ho_ like_ bo ys_ un to_a_ mu ss_ kings_ would_ st art_ forth_ and_ cry_ your_ will_ have_you_ no_ ear s </s>
+<s> i_am_ antony_ y e t </s>
+<s> enter_ attendants_ take_ hence_ this_ j a ck_ and_ whi p_ him </s>
+<s> domitius_enobarbus_ aside_ tis_ better_ pla ying_ with_a_ li ons_ wh el p_ than_ with_ an_ old_ one_ d y ing </s>
+<s> mark_antony_ mo on_ and_ star s </s>
+<s> whi p_ him </s>
+<s> w er et_ twenty_ of_the_ grea test_ tri bu tar ies_ that_ do_ a ck no w le dge_ caesar_ should_ i_ find_ them_ so_ sa u cy_ with_the_ hand_ of_ she_ h ere whats_ her_ name_ since_ she_ was_ cleopat ra </s>
+<s> whi p_ him_ fe llows_ till_ like_a_ boy_ you_ see_ him_ cr ing e_ his_ face_ and_ wh ine_ al oud_ for_ mercy_ take_ him_ h en ce </s>
+<s> th y re us_ mark_ anton y </s>
+<s> mark_antony_ tu g_ him_ away_ being_ whi pp d_ bring_ him_ again_ this_ j a ck_ of_ caesars_ shall_ bear_ us_ an_ a_ thousand_ sir_ ear ly_ thought_ be_ have_ on_ their_ ri ve ted_ tri m_ and_ at_the_ por t_ ex pe ct_ you </s>
+<s> sh out </s>
+<s> tru mp ets_ flourish_ enter_ cap ta in s_and_ soldiers_ cap ta in_the_ mor n_ is_ fair </s>
+<s> good_ mor row_ gener al </s>
+<s> all_ good_ mor row_ gener al </s>
+<s> mark_antony_ tis_ well_ blo wn_ la ds_ this_ morning_ like_the_ spirit_ of_a_ youth_ that_ means_ to_be_ of_ note_ beg ins_ be ti mes </s>
+<s> so_ so_ come_ give_me_ that_ this_ way_ well_ sa i d </s>
+<s> f are_ thee_ well_ da me_ wha te er_ be comes_ of_ me_ this_is_ a_ soldiers_ kiss_ re bu k ea ble_ ki ss es_ her_ and_ worthy_ sha me ful_ che qu e_ it_were_ to_ stand_ on_ more_ me ch ani c_ comp li ment_ ill_ leave_ thee_ now_ like_a_ man_ of_ st ee l </s>
+<s> you_ that_ will_ fight_ follow_ me_ clo se_ ill_ bring_ you_ to t </s>
+<s> adieu </s>
+<s> exeunt_ mark_antony_ eros_ cap ta in s_and_ soldiers_ charmian_ please_ you_ re ti re_ to_your_ cham ber </s>
+<s> cleopatra_ lead_ me </s>
+<s> he_ goes_ forth_ ga ll ant ly </s>
+<s> that_he_ and_ caesar_ might_ de ter mine_ this_ great_ war_ in_ sing le_ fi ght </s>
+<s> then_ anton y but_ no w well_ on </s>
+<s> exeunt_scene_ v </s>
+<s> alex an dri a </s>
+<s> mark_ anton ys_ ca mp </s>
+<s> tru mp ets_ s oun d </s>
+<s> enter_ mark_antony_ and_ eros_ a_ soldier_ me e ting_ them_ soldier_ the_ gods_ make_ this_ a_ happy_ day_ to_ anton y </s>
+<s> mark_antony_ would_ thou_ and_ those_ thy_ sc ars_ had_ once_ pre va i ld_ to_make_ me_ fight_ at_ lan d </s>
+<s> soldier_ ha d st_thou_ done_ so_ the_ kings_ that_ have_ re vol ted_ and_the_ soldier_ that_ has_ this_ morning_ left_ thee_ would_have_ still_ follo wd_ thy_ he el s </s>
+<s> mark_antony_ wh os_ gone_ this_ mor n ing </s>
+<s> soldier_ wh o </s>
+<s> one_ ever_ near_ thee_ call_ for_ enobarbus_ he_ shall_ not_ hear_ thee_ or_ from_ caesars_ ca mp_ say_ i_am_ none_ of_ thine_ mark_antony_ what_ say st_ thou </s>
+<s> soldier_ sir_ he_is_ with_ caes ar </s>
+<s> eros_ sir_ his_ ch es ts_and_ trea sure_ he_ has_ not_ with_ him </s>
+<s> mark_antony_ is_ he_ g on e </s>
+<s> soldier_ most_ cer ta in </s>
+<s> mark_antony_ go_ eros_ send_ his_ trea sure_ after_ do_ it_ de tain_ no_ jo t_ i_ charge_ thee_ wri te_ to_him_ i_will_ sub sc ri be gentle_ adi eus_ and_ gre e t ings_ say_ that_i_ wish_ he_ never_ find_ more_ cause_ to_ change_ a_ ma ster </s>
+<s> o_ my_ fortunes_ have_ cor ru p ted_ honest_ men </s>
+<s> disp at ch enob ar bu s </s>
+<s> exeunt_scene_ vi </s>
+<s> alex an dri a </s>
+<s> octavius_ caesars_ ca mp </s>
+<s> flouri sh </s>
+<s> enter_ octavius_caesar_ agrippa_ with_ domitius_enobarbus_ and_ others_ octavius_caesar_ go_ forth_ agrippa_ and_ beg in_the_ fight_ our_ will_ is_ antony_ be_ t ook_ a live_ make_ it_ so_ know n </s>
+<s> agrippa_ caesar_ i_ sha ll </s>
+<s> exit_ octavius_caesar_ the_time_ of_ un i ver sa l_ peace_ is_ near_ pro ve_ this_ a_ pro sp er ous_ day_ the_ th re en oo kd_ world_ shall_ bear_ the_ o live_ f re el y </s>
+<s> enter_a_ messenger_ messenger_ antony_ is_ come_ into_the_ fi el d </s>
+<s> octavius_caesar_ go_ charge_ agrippa_ p l ant_ those_ that_ have_ re vol ted_ in_the_ v an_ that_ antony_ may_ seem_ to_ sp end_ his_ fur y_ upon_ him sel f </s>
+<s> exeunt_ all_ but_ domitius_enobarbus_ domitius_enobarbus_ alexas_ did_ re vol t_and_ w ent_ to_ je w ry_ on_ af fair s_ of_ antony_ there_ did_ per su a de_ great_ her o d_ to_ in cl ine_ himself_ to_ caesar_ and_ leave_ his_ master_ antony_ for_this_ pa ins_ caesar_ hath_ han gd_ him </s>
+<s> c ani dius_ and_the_ rest_ that_ fell_ away_ have_ ent er ta in ment_ but_ no_ honourable_ tru st </s>
+<s> i_have_ done_ ill_ of_ which_ i_do_ ac cu se_ myself_ so_ sor e ly_ that_ i_will_ joy_ no_ mor e </s>
+<s> enter_a_ soldier_ of_ caesars_ soldier_ enobarbus_ antony_ hath_ after_ thee_ sent_ all_ thy_ trea sure_ with_his_ b oun ty_ over p l us_ the_ messenger_ came_ on_ my_ gu ar d_and_ at_ thy_ tent_ is_ now_ un lo a ding_ of_his_ mu l es </s>
+<s> domitius_enobarbus_ i_ give_ it_ you </s>
+<s> soldier_ mo ck_ not_ enob ar bu s </s>
+<s> i_ tell_you_ true_ best_ you_ sa f ed_ the_ b r ing er_ out_ of_the_ ho st_ i_must_ at tend_ mine_ offi ce_ or_ would_have_ d on et_ m y sel f </s>
+<s> your_ emp er or_ con tin u es_ still_ a_ jo ve </s>
+<s> exit_ domitius_enobarbus_ i_am_ alone_ the_ villain_ of_the_ earth_ and_ fe el_ i_am_ so_ mo st </s>
+<s> o_ antony_ thou_ mine_ of_ b oun ty_ how_ would st_thou_ have_ pa id_ my_ better_ service_ when_ my_ tur pi tu de_ thou_ dost_ so_ crown_ with_ go ld </s>
+<s> this_ blo ws_ my_heart_ if_ s wi ft_ thought_ break_ it_ not_a_ s wi f ter_ mean_ shall_ out strike_ thought_ but_ thought_ will_ do t_ i_ fe el </s>
+<s> i_ fight_ against_ the e </s>
+<s> no_ i_will_ go_ seek_ some_ di tch_ where in_ to_ die_ the_f ou l st_ best_ fi ts_ my_ la tter_ part_ of_ li fe </s>
+<s> exit_ scene_ vi i </s>
+<s> field_ of_ bat t le_ between_ the_ ca mp s </s>
+<s> al ar u m </s>
+<s> dru m s_and_ tru mp e t s </s>
+<s> enter_ agrippa_ and_ others_ agrippa_ re ti re_ we_have_ eng ag ed_ our selves_ too_ far_ caesar_ himself_ has_ work_ and_ our_ op pres sion_ exce eds_ what_ we_ ex pe c te d </s>
+<s> exeunt_ al ar u m s </s>
+<s> enter_ mark_antony_ and_ scar us_ w oun ded_ scar us_ o_ my_ bra ve_ emp er or_ this_is_ fou ght_ hand_ in_ hand_ and_ with_ that_ kind_ of_ f ru it_ as_ mai ds_ call_ me d l ars_ when_ they_ lau gh_ al on e </s>
+<s> romeo_ that_ she_ were_ o_ that_ she_ were_ an_ op en_ et_ ca e ter a_ thou_ a_ po per in_ p ear </s>
+<s> romeo_ good_night_ ill_ to_my_ tru ck le bed_ this_ fi el d bed_ is_ too_ cold_ for_ me_to_ sleep_ come_ shall_ we_ go </s>
+<s> benvolio_ go_ then_ for_ tis_ in_ va in_ to_ seek_ him_ here_ that_ means_ not_ to_be_ f oun d </s>
+<s> exeunt_scene_i i </s>
+<s> capu lets_ or char d </s>
+<s> enter_ romeo_ romeo_ he_ jes ts_ at_ sc ars_ that_ never_ fe lt_ a_ w oun d </s>
+<s> juliet_ app ears_ abo ve_ at_ a_ win do w_ but_ s of t </s>
+<s> what_ light_ through_ y on der_ win do w_ brea k s </s>
+<s> it_is_ the_ ea st_ and_ juliet_ is_the_ s un </s>
+<s> ar ise_ fair_ s un_ and_ kill_ the_ en vi ous_ mo on_ who_ is_ already_ sick_ and_ pale_ with_ grief_ that_ thou_ her_ ma id_ art_ far_ more_ fair_ than_ she_ be_ not_ her_ ma id_ since_ she_is_ en vi ous_ her_ v es tal_ li very_ is_ but_ sick_ and_ gre en_ and_ none_ but_ foo ls_ do_ wear_ it_ ca st_ it_ off </s>
+<s> it_is_ my_ lady_ o_ it_is_ my_ lo ve </s>
+<s> o_ that_ she_ k new_ she_ w ere </s>
+<s> she_ spea ks_ yet_ she_ says_ nothing_ what_ of_ th at </s>
+<s> her_ eye_ disc our ses_ i_will_ answer_ it </s>
+<s> i_am_ too_ bo ld_ tis_ not_ to_me_ she_ spea ks_ two_ of_the_ fair est_ st ars_ in_ all_the_ heaven_ having_ some_ business_ do_ entrea t_ her_ eyes_ to_ tw in k le_ in_their_ sp heres_ till_ they_ re tur n </s>
+<s> what_ if_ her_ eyes_ were_ there_ they_ in_her_ hea d </s>
+<s> the_ bri ght ness_ of_her_ ch ee k_ would_ shame_ those_ st ars_ as_ da y light_ doth_ a_ la mp_ her_ eyes_ in_ heaven_ would_ through_ the_ a ir y_ re gi on_ st rea m_ so_ bri ght_ that_ bir ds_ would_ sing_ and_ think_ it_were_ not_ ni ght </s>
+<s> see_ how_ she_ le ans_ her_ ch ee k_ upon_ her_ hand </s>
+<s> o_ that_i_ were_ a_ g love_ upon_ that_ hand_ that_i_ might_ tou ch_ that_ ch ee k </s>
+<s> juliet_ ay_ me </s>
+<s> romeo_ she_ spea ks_ o_ speak_ again_ bri ght_ ang el </s>
+<s> for_ thou_art_ as_ g lor i ous_ to_this_ night_ being_ oer_ my_ head_ as_ is_a_ w ing ed_ messenger_ of_ heaven_ un to_the_ whi te up tur ned_ won der ing_ eyes_ of_ mor ta ls_ that_ fall_ back_ to_ ga ze_ on_ him_ when_ he_ bes tri des_ the_ la z y pa c ing_ cl ou ds_ and_ sa ils_ upon_the_ bo som_ of_the_ a ir </s>
+<s> juliet_ o_ romeo_ rome o </s>
+<s> where fore_ art_thou_ rome o </s>
+<s> deny_ thy_ father_ and_ re fu se_ thy_ name_ or_ if_thou_ wilt_ not_be_ but_ swor n_ my_ love_and_ ill_ no_ lon ger_ be_ a_ capu le t </s>
+<s> romeo_ aside_ shall_i_ hear_ more_ or_ shall_i_ speak_ at_ this </s>
+<s> juliet_ tis_ but_ thy_ name_ that_is_ my_ en e my_ thou_art_ th yself_ though_ not_a_ monta gu e </s>
+<s> whats_ monta gu e </s>
+<s> it_is_ nor_ hand_ nor_ foo t_ nor_ arm_ nor_ face_ nor_ any_ other_ part_ be lon g ing_ to_a_ man </s>
+<s> o_ be_ some_ other_ na me </s>
+<s> whats_ in_a_ na me </s>
+<s> that_which_ we_ call_ a_ ro se_ by_ any_ other_ name_ would_ s me ll_ as_ sweet_ so_ romeo_ would_ were_ he_ not_ romeo_ ca lld_ re tain_ that_ dear_ per fe ction_ which_ he_ o w es_ without_ that_ tit le </s>
+<s> romeo_ do ff_ thy_ name_ and_ for_ that_ name_ which_ is_ no_ part_ of_ thee_ take_ all_ m y sel f </s>
+<s> romeo_ i_ take_ thee_ at_ thy_ word_ call_ me_ but_ love_and_ ill_ be_ new_ ba p ti z ed_ h en ce forth_ i_ never_ will_be_ rome o </s>
+<s> juliet_ what_ man_ art_thou_ that_ thus_ bes cre end_ in_ night_ so_ stu mb l est_ on_ my_ coun sel </s>
+<s> romeo_ by_ a_ name_ i_know_not_ how_ to_ tell_ thee_ who_ i_am_ my_ name_ dear_ sa int_ is_ ha te ful_ to_ myself_ be cause_ it_is_ an_ en e my_ to_ thee_ had_ i_ it_ wri tt en_ i_would_ t ear_ the_ wor d </s>
+<s> juliet_ my_ ears_ have_ not_ yet_ dr un k_ a_ h un dr ed_ words_ of_that_ ton gu es_ u tt er ance_ yet_ i_know_ the_s ound_ art_thou_ not_ romeo_ and_a_ monta gu e </s>
+<s> romeo_ neither_ fair_ sa int_ if_ either_ thee_ dis li ke </s>
+<s> juliet_ how_ ca m est_ thou_ hither_ tell_me_ and_ where for e </s>
+<s> the_ or char d_ wa lls_ are_ high_ and_ hard_ to_ cli mb _ and_the_ place_ death_ con si der ing_ who_ thou_art_ if_ any_ of_my_ kin s men_ find_ thee_ h ere </s>
+<s> romeo_ with_ loves_ light_ w ings_ did_ i_ oer per ch_ these_ wa lls_ for_ st on y_ li mi ts_ cannot_ hold_ love_ out_ and_ what_ love_ can_ do_ that_ dar es_ love_ at temp t_ therefore_ thy_ kin s men_ are_ no_ let_ to_ me </s>
+<s> juliet_ if_ they_ do_ see_ thee_ they_ will_ murder_ the e </s>
+<s> romeo_ ala ck_ there_ lies_ more_ per il_ in_ thine_ eye_ than_ twenty_ of_ their_ s words_ look_ thou_ but_ sweet_ and_ i_am_ pro of_ against_ their_ en mi ty </s>
+<s> juliet_ i_would_ not_ for_the_ world_ they_ saw_ thee_ h ere </s>
+<s> romeo_ i_have_ ni ghts_ clo a k_ to_ hi de_ me_ from_ their_ sight_ and_ but_ thou_ love_ me_ let_ them_ find_ me_ here_ my_ life_ were_ better_ en ded_ by_ their_ hate_ than_ death_ pr or o gu ed_ w ant ing_ of_thy_ lo ve </s>
+<s> juliet_ by_ whose_ dire ction_ f oun d st_thou_ out_ this_ pla ce </s>
+<s> romeo_ by_ love_ who_ first_ did_ prom pt_ me_to_ in qu ire_ he_ l ent_ me_ coun sel_ and_i_ l ent_ him_ ey es </s>
+<s> i_am_ no_ pi lot_ yet_ w er t_ thou_ as_ far_ as_ that_ va st_ sh ore_ wa shd_ with_the_ f ar th est_ sea_ i_would_ ad v ent ure_ for_ such_ mer chan di se </s>
+<s> juliet_ thou_ know st_ the_ ma s k_ of_ night_ is_ on_ my_ face_ else_ would_ a_ mai d en_ b lu sh_ be pa int_ my_ ch ee k_ for_ that_which_ thou_hast_ heard_ me_ speak_ tonight_ fa in_ would_ i_ d well_ on_ form_ fa in_ fa in_ deny_ what_ i_have_ spoke_ but_ farewell_ comp li m ent </s>
+<s> dost_thou_ love_ me </s>
+<s> i_know_ thou_ wilt_ say_ ay_ and_ i_will_ take_ thy_ word_ yet_ if_thou_ sw ear st_thou_ ma y st_ pro ve_ false_ at_ lo vers_ per ju ries_ then_ say_ jo ve_ laugh s </s>
+<s> o_ gentle_ romeo_ if_thou_ dost_ love_ pr on oun ce_ it_ fai th fu lly_ or_ if_thou_ thin k st_ i_am_ too_ qui ck ly_ w on_ ill_ f ro wn_ and_ be_ per ver se_ an_ say_ thee_ nay_ so_ thou_ wilt_ wo o_ but_ else_ not_ for_the_ wor ld </s>
+<s> in_ truth_ fair_ montague_ i_am_ too_ f on d_and_ therefore_ thou_ ma y st_ think_ my_ ha vi or_ light_ but_ tru st_ me_ gentleman_ ill_ pro ve_ more_ true_ than_ those_ that_ have_ more_ c un ning_ to_be_ stran ge </s>
+<s> i_should_ have_ been_ more_ strange_ i_must_ confess_ but_ that_ thou_ over hear dst_ ere_ i_was_ w are_ my_ true_ loves_ passion_ therefore_ pardon_ me_and_ not_ im pu te_ this_ yi el ding_ to_ light_ love_ which_ the_ dar k_ night_ hath_ so_ disc over e d </s>
+<s> romeo_ lady_ by_ y on der_ bles sed_ mo on_ i_ swear_ that_ ti ps_ with_ sil ver_ all_ these_ f ru i tt ree_ to ps_ juliet_ o_ swear_ not_ by_the_ mo on_the_ in con stant_ mo on_ that_ mon th ly_ chan g es_ in_her_ c ir c led_ or b_ l est_ that_ thy_ love_ pro ve_ li ke wise_ v ar i ab le </s>
+<s> romeo_ what_ shall_i_ swear_ b y </s>
+<s> juliet_ do_not_ swear_ at_ all_ or_ if_thou_ wilt_ swear_ by_ thy_ gracious_ self_ which_ is_the_ god_ of_my_ i dola try_ and_ ill_ believe_ the e </s>
+<s> romeo_ if_ my_ hearts_ dear_ love_ juliet_ well_ do_not_ swear_ al though_ i_ joy_ in_ thee_ i_have_ no_ joy_ of_this_ con tra ct_ tonight_ it_is_ too_ ra sh_ too_ un ad vi sed_ too_ su dd en_ too_ like_the_ li ght ning_ which_ doth_ c ea se_ to_be_ ere_ one_ can_ say_ it_ li gh ten s_ sweet_ good_ ni ght </s>
+<s> this_ bu d_ of_love_ by_ su m m ers_ ri pen ing_ breath_ may_ pro ve_ a_ beau teous_ flo wer_ when_ ne xt_ we_ me e t </s>
+<s> good_night_ good_ ni ght </s>
+<s> as_ sweet_ re po se_and_ rest_ come_to_ thy_ heart_ as_ that_ with in_my_ brea st </s>
+<s> romeo_ o_ wilt_ thou_ leave_ me_ so_ un satis fi e d </s>
+<s> juliet_ what_ satis fa ction_ can st_thou_ have_ ton i ght </s>
+<s> romeo_ the_ ex change_ of_thy_ loves_ fai th ful_ v ow_ for_ min e </s>
+<s> juliet_ i_ gave_ thee_ mine_ before_ thou_ di dst_ re qu est_ it_and_ yet_ i_would_ it_were_ to_ give_ aga in </s>
+<s> romeo_ would st_thou_ with draw_ it </s>
+<s> for_ what_ purpose_ lo ve </s>
+<s> juliet_ but_ to_be_ fran k_ and_ give_ it_ thee_ aga in </s>
+<s> and_yet_ i_ wish_ but_ for_the_ thing_ i_have_ my_ b oun ty_ is_ as_ b oun d less_ as_the_ sea_ my_love_ as_ de ep_ the_ more_ i_ give_ to_ thee_ the_ more_ i_have_ for_ both_ are_ in f ini te </s>
+<s> nurse_ ca lls_ within_ i_ hear_ some_ noise_ within_ dear_ love_ adieu </s>
+<s> an on_ good_ n ur se </s>
+<s> sweet_ montague_ be_ tru e </s>
+<s> stay_ but_a_ little_ i_will_ come_ aga in </s>
+<s> exit_ abo ve_ romeo_ o_ bles sed_ bles sed_ ni ght </s>
+<s> i_am_ af ear d </s>
+<s> being_ in_ night_ all_ this_is_ but_a_ dream_ too_ fla tt er ing sweet_ to_be_ sub stan ti al </s>
+<s> reenter_ juliet_ abo ve_ juliet_ three_ words_ dear_ romeo_ and_ good_night_ in de e d </s>
+<s> if_ that_ thy_ b ent_ of_love_ be_ honourable_ thy_ purpose_ mar ri age_ send_ me_ word_ tomorrow_ by_ one_ that_ ill_ pro c ure_ to_ come_to_ thee_ where_ and_ what_ time_ thou_ wilt_ per form_ the_ ri te_ and_all_ my_ fortunes_ at_ thy_ foo t_ ill_ lay_ and_ follow_ thee_ my_lord_ th rou gh out_ the_ wor ld </s>
+<s> nurse_ within_ ma dam </s>
+<s> juliet_ i_ come_ an on but_ if_thou_ me an st_ not_ well_ i_do_ beseech_ thee_ nurse_ within_ ma dam </s>
+<s> juliet_ by_ and_ by_ i_ come_to_ c ea se_ thy_ su it_and_ leave_ me_ to_my_ grief_ tomorrow_ will_i_ sen d </s>
+<s> romeo_ so_ thri ve_ my_ soul_ juliet_ a_ thousand_ times_ good_ ni ght </s>
+<s> exit_ abo ve_ romeo_ a_ thousand_ times_ the_ wor se_ to_ w ant_ thy_ li ght </s>
+<s> love_ goes_ to ward_ love_ as_ s choo l bo ys_ from_ their_ b oo ks_ but_ love_ from_ love_ to ward_ s choo l_ with_ heavy_ loo k s </s>
+<s> re ti ring_ reenter_ juliet_ abo ve_ juliet_ hi st </s>
+<s> romeo_ hi st </s>
+<s> o_ for_a_ fal con ers_ voice_ to_ l ure_ this_ ta s sel gentle_ back_ aga in </s>
+<s> bon d age_ is_ ho ar se_and_ may_ not_ speak_ al oud_ else_ would_ i_ t ear_ the_ ca ve_ where_ e ch o_ li es_and_ make_ her_ a ir y_ tongue_ more_ ho ar se_ than_ mine_ with_ re pe ti tion_ of_my_ rome os_ na me </s>
+<s> romeo_ it_is_ my_ soul_ that_ ca lls_ upon_ my_ name_ how_ sil ver sweet_ sound_ lo vers_ ton gu es_ by_ night_ like_ s of test_ music_ to_ atten ding_ ear s </s>
+<s> juliet_ rome o </s>
+<s> romeo_ my_ dear </s>
+<s> juliet_ at_ what_ oc lock_ tomorrow_ shall_i_ send_ to_ the e </s>
+<s> romeo_ at_the_ hour_ of_ n in e </s>
+<s> juliet_ i_will_not_ fa il_ tis_ twenty_ y ears_ till_ th en </s>
+<s> i_have_ for got_ why_ i_did_ call_ thee_ ba ck </s>
+<s> romeo_ let_me_ stand_ here_ till_ thou_ remember_ it </s>
+<s> juliet_ i_shall_ for get_ to_have_ thee_ still_ stand_ there_ reme mb ering_ how_ i_ love_ thy_ comp an y </s>
+<s> romeo_ and_ ill_ still_ stay_ to_have_ thee_ still_ for get_ for ge tt ing_ any_ other_ home_ but_ this </s>
+<s> juliet_ tis_ almost_ morning_ i_would_ have_ thee_ gone_ and_yet_ no_ further_ than_ a_ w anton s_ b ird_ who_ lets_ it_ ho p_ a_little_ from_ her_ hand_ like_a_ poor_ pri son er_ in_his_ t wi st ed_ g y ves_ and_ with_a_ sil k_ th read_ plu cks_ it_ back_ again_ so_ lo v ing jeal ous_ of_his_ li ber ty </s>
+<s> romeo_ i_would_ i_ were_ thy_ bir d </s>
+<s> juliet_ sweet_ so_ would_ i_ yet_ i_should_ kill_ thee_ with_ much_ ch er i sh ing </s>
+<s> good_night_ good_ ni ght </s>
+<s> par ting_ is_ such_ sweet_ sorrow_ that_i_ shall_ say_ good_night_ till_ it_be_ mor ro w </s>
+<s> exit_ abo ve_ romeo_ sleep_ d well_ upon_ thine_ eyes_ peace_ in_thy_ brea st </s>
+<s> would_ i_ were_ sleep_ and_ peace_ so_ sweet_ to_ res t </s>
+<s> hence_ will_i_ to_my_ gho st ly_ fathers_ ce ll_ his_ help_ to_ cra ve_ and_my_ dear_ ha p_ to_ te ll </s>
+<s> exit_ scene_ i i i </s>
+<s> friar_laur en ces_ ce ll </s>
+<s> enter_ friar_laurence_ with_a_ ba sk et_ friar_laurence_ the_ gre y ey ed_ mor n_ smi les_ on_the_ f ro w ning_ night_ che qu ering_ the_ ea stern_ cl ou ds_ with_ st rea ks_ of_ light_ and_ fle ck ed_ dar k ness_ like_a_ dr un k ard_ re els_ from_ forth_ days_ pa th_ and_ tit ans_ fi ery_ wh ee ls_ now_ ere_ the_s un_ ad v ance_ his_ bur ning_ eye_ the_ day_ to_ che er_ and_ ni ghts_ dan k_ de w_ to_ d ry_ i_must_ up fi ll_ this_ o si er_ ca ge_ of_ ours_ with_ ba le ful_ we eds_ and_ pre ci ou s ju i ced_ flo w er s </s>
+<s> the_ earth_ thats_ nat ures_ mother_ is_ her_ tom b_ what_is_ her_ bur ying_ grave_ that_is_ her_ wom b_ and_ from_ her_ wom b_ chi ldr en_ of_ di vers_ kind_ we_ su cking_ on_ her_ nat u ra l_ bo som_ find_ many_ for_ many_ virtu es_ exce ll ent_ none_ but_ for_ some_ and_yet_ all_ di ff er ent </s>
+<s> o_ mi ck le_ is_the_ po w er ful_ grace_ that_ lies_ in_ her b s_ p lan ts_ st on es_and_ their_ true_ qua li ties_ for_ n ou ght_ so_ vile_ that_ on_the_ earth_ doth_ live_ but_ to_the_ earth_ some_ spe ci al_ good_ doth_ give_ nor_ au ght_ so_ good_ but_ stra ind_ from_ that_ fair_ use_ re vol ts_ from_ true_ bir th_ stu mb ling_ on_ a bu se_ virtue_ itself_ tur ns_ vice_ being_ mi sa pp li ed_and_ vice_ some times_ by_ ac tion_ di gni fi e d </s>
+<s> with in_the_ in f ant_ r ind_ of_this_ s ma ll_ flo wer_ poi son </s>

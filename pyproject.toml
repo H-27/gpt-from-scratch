@@ -9,5 +9,6 @@ dependencies = [
     "nltk",
     "tqdm",
     "matplotlib",
-    "pytest"
+    "pytest",
+    "torch"
 ]

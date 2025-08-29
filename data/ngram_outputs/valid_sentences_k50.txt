@@ -1,0 +1,1364 @@
+<s> h e_ ha th_ a_ p er s on_ and_ a_ s m o o th_ d i s p o s e_ to_ b e_ s u s p e c t ed_ f r a m ed_ to_ m a k e_ w om en_ f a l s e </s>
+<s> the_ m o o r_ is_ of_ a_ f r e e_ and_ o p en_ n a t u r e_ th at_ th in k s_ m en_ h on es t_ th at_ b u t_ s e e m_ to_ b e_ s o_ and_ wi ll_ a s_ t en d er l y_ b e_ l ed_ b y_ the_ no s e_ a s_ a s s es_ ar e </s>
+<s> i_ ha v e t </s>
+<s> i t_ is_ en g en d er d </s>
+<s> h e ll_ and_ n i g h t_ m u s t_ b r ing_ th is_ m on s t r ou s_ b i r th_ to_ the_ w or l d s_ l i g h t </s>
+<s> e x i t_ a c t_ i i_ s c en e_ i </s>
+<s> a_ s ea p or t_ in_ c y p r u s </s>
+<s> an _ o p en_ p l a c e_ n ea r_ the_ q u a y </s>
+<s> en t er_ m on t an o_ and_ t w o_ g en t l e m en_ m on t an o_ w ha t_ f r om _ the_ c a p e_ c an _ you_ d i s c er n _ at_ s ea </s>
+<s> f i r s t_ g en t l e m an _ no th ing_ at_ a ll_ i t_ is_ a_ h i g h w r ou g h t_ f l o o d_ i_ c an no t_ t wi x t_ the_ h ea v en_ and_ the_ m a in_ d es c r y_ a_ s a i l </s>
+<s> m on t an o_ m e th in k s_ the_ w in d_ ha th_ s p o k e_ a l ou d_ at_ l and_ a_ f u ll er_ b l a s t_ n e er_ s h o o k _ ou r_ b a t t l e m en t s_ i f_ i t_ ha th_ r u f f i and_ s o_ u p on_ the_ s ea _ w ha t_ r i b s_ of_ o a k _ wh en_ m ou n t a in s_ m e l t_ on_ th e m_ c an _ h o l d_ the_ m or ti s e </s>
+<s> w ha t_ s ha ll_ w e_ h ea r_ of_ th i s </s>
+<s> s e c on d_ g en t l e m an _ a_ s e g r e g a ti on_ of_ the_ t u r k i s h _ f l e e t_ f o r_ d o_ b u t_ s t and_ u p on_ the_ f o a m ing_ s h or e_ the_ ch i d d en_ b i ll o w _ s e e m s_ to_ p e l t_ the_ c l ou d s_ the_ w in d s ha k ed_ s u r g e_ wi th_ h i g h _ and_ m on s t r ou s_ m an e_ s e e m s_ to_ c a s t_ w a t er_ on_ the_ b u r n ing_ b ea r_ and_ q u en ch _ the_ g u ar d s_ of_ the_ e v er f i x ed_ p o l e_ i_ n e v er_ d i d_ l i k e_ m o l es t a ti on_ v i e w _ on_ the_ en c ha f ed_ f l o o d </s>
+<s> m on t an o_ i f_ th at_ the_ t u r k i s h _ f l e e t_ b e_ no t_ en s h e l t er d_ and_ e m b a y d_ th e y_ ar e_ d r o w n d_ i t_ is_ i m p o s s i b l e_ th e y_ b ea r_ i t_ ou t </s>
+<s> en t er_ a_ th i r d_ g en t l e m an _ th i r d_ g en t l e m an _ n e w s_ l a d s </s>
+<s> ou r_ w ar s_ ar e_ d on e </s>
+<s> the_ d es p er a t e_ t e m p es t_ ha th_ s o_ b an g d_ the_ t u r k s_ th at_ th e i r_ d es i g n m en t_ ha l t s_ a_ no b l e_ s h i p _ of_ v en i c e_ ha th_ s e en_ a_ g r i e v ou s_ w r e c k _ and_ s u f f er an c e_ on_ m o s t_ p ar t_ of_ th e i r_ f l e e t </s>
+<s> m on t an o_ h o w </s>
+<s> is_ th is_ t r u e </s>
+<s> th i r d_ g en t l e m an _ the_ s h i p _ is_ h er e_ p u t_ in_ a_ v er on es a_ m i c ha e l _ c a s s i o_ l i e u t en an t_ to_ the_ w ar l i k e_ m o o r_ o th e ll o_ is_ c om e_ on_ s h or e_ the_ m o o r_ h i m s e l f_ at_ s ea _ and_ is_ in_ f u ll_ c om m i s s i on_ h er e_ f o r_ c y p r u s </s>
+<s> m on t an o_ i_ a m_ g l a d_ on t_ t is_ a_ w or th y_ g o v er n or </s>
+<s> th i r d_ g en t l e m an _ b u t_ th is_ s a m e_ c a s s i o_ th ou g h _ h e_ s p ea k _ of_ c om f or t_ t ou ch ing_ the_ t u r k i s h _ l o s s_ y e t_ h e_ l o o k s_ s a d l y_ and_ p r a y s_ the_ m o o r_ b e_ s a f e_ f o r_ th e y_ w er e_ p ar t ed_ wi th_ f ou l _ and_ v i o l en t_ t e m p es t </s>
+<s> m on t an o_ p r a y_ h ea v en s_ h e_ b e_ f o r_ i_ ha ve_ s er v ed_ h i m_ and_ the_ m an _ c om m an d s_ l i k e_ a_ f u ll_ s o l d i er </s>
+<s> l e t s_ to_ the_ s ea s i d e_ h o </s>
+<s> a s_ w e ll_ to_ s e e_ the_ v es s e l _ th a t s_ c om e_ in_ a s_ to_ th r o w _ ou t_ ou r_ e y es_ f o r_ b r a ve_ o th e ll o_ e v en_ ti ll_ w e_ m a k e_ the_ m a in_ and_ the_ a er i a l _ b l u e_ an _ in d i s t in c t_ r e g ar d </s>
+<s> th i r d_ g en t l e m an _ c om e_ l e t s_ d o_ s o_ f o r_ e v er y_ m in u t e_ is_ e x p e c t an c y_ of_ m or e_ ar r i v an c e </s>
+<s> en t er_ c a s s i o_ c a s s i o_ th an k s_ you_ the_ v a l i an t_ of_ th is_ w ar l i k e_ i s l e_ th at_ s o_ a p p r o ve_ the_ m o or </s>
+<s> o_ l e t_ the_ h ea v en s_ g i ve_ h i m_ d e f en c e_ a g a in s t_ the_ e l e m en t s_ f o r_ i_ ha ve_ l o s t_ us_ h i m_ on_ a_ d an g er ou s_ s ea </s>
+<s> m on t an o_ is_ h e_ w e ll_ s h i p p d </s>
+<s> c a s s i o_ h is_ b ar k _ is_ s t ou t l y_ ti m b er d_ h is_ p i l o t_ of_ v er y_ e x p er t_ and_ a p p r o v ed_ a ll o w an c e_ th er e f or e_ m y_ h o p es_ no t_ s u r f e i t ed_ to_ d ea th_ s t and_ in_ b o l d_ c u r e </s>
+<s> a_ c r y_ wi th in_ a_ s a i l _ a_ s a i l _ a_ s a i l _ en t er_ a_ f ou r th_ g en t l e m an _ c a s s i o_ w ha t_ no i s e </s>
+<s> f ou r th_ g en t l e m an _ the_ t o w n _ is_ e m p t y_ on_ the_ b r o w _ o_ the_ s ea _ s t and_ r an k s_ of_ p e o p l e_ and_ th e y_ c r y_ a_ s a i l _ c a s s i o_ m y_ h o p es_ d o_ s ha p e_ h i m_ f o r_ the_ g o v er n or </s>
+<s> g u n s_ h ea r d_ s e c on d_ g en t l e m en_ th e y_ d o_ d i s c ha r g e_ th e i r_ s h o t_ of_ c ou r t es y_ ou r_ f r i en d s_ at_ l ea s t </s>
+<s> c a s s i o_ i_ p r a y_ you_ s i r_ g o_ f or th_ and_ g i ve_ us_ t r u th_ wh o_ t is_ th at_ is_ ar r i v e d </s>
+<s> s e c on d_ g en t l e m an _ i_ s ha ll </s>
+<s> e x i t_ m on t an o_ b u t_ g o o d_ l i e u t en an t_ is_ you r_ g en er a l _ wi v e d </s>
+<s> c a s s i o_ m o s t_ f or t u n a t e l y_ h e_ ha th_ a ch i e v ed_ a_ m a i d_ th at_ p ar a g on s_ d es c r i p ti on_ and_ wi l d_ f a m e_ on e_ th at_ e x c e l s_ the_ q u i r k s_ of_ b l a z on ing_ p en s_ and_ in_ the_ es s en ti a l _ v es t u r e_ of_ c r ea ti on_ d o es_ ti r e_ the_ in g en er </s>
+<s> r e en t er_ s e c on d_ g en t l e m an _ h o w _ no w </s>
+<s> wh o_ ha s_ p u t_ in </s>
+<s> s e c on d_ g en t l e m an _ t is_ on e_ i a g o_ an c i en t_ to_ the_ g en er a l </s>
+<s> c a s s i o_ ha s_ ha d_ m o s t_ f a v ou r a b l e_ and_ ha p p y_ s p e ed_ t e m p es t s_ th e m s e l v es_ h i g h _ s ea s_ and_ h o w l ing_ w in d s_ the_ g u t t er d_ r o c k s_ and_ c on g r e g a t ed_ s an d s_ t r a i t or s_ en s t e e p d_ to_ c l o g_ the_ g u i l t l es s_ k e e l _ a s_ ha v ing_ s en s e_ of_ b ea u t y_ d o_ om i t_ th e i r_ m or t a l _ n a t u r es_ l e t t ing_ g o_ s a f e l y_ b y_ the_ d i v in e_ d es d e m on a </s>
+<s> m on t an o_ w ha t_ is_ s h e </s>
+<s> c a s s i o_ s h e_ th at_ i_ s p a k e_ of_ ou r_ g r ea t_ c a p t a in s_ c a p t a in_ l e f t_ in_ the_ c on d u c t_ of_ the_ b o l d_ i a g o_ wh o s e_ f o o t ing_ h er e_ an ti c i p a t es_ ou r_ th ou g h t s_ a_ s en n i g h t s_ s p e e d </s>
+<s> g r ea t_ j o ve_ o th e ll o_ g u ar d_ and_ s w e ll_ h is_ s a i l _ wi th_ th in e_ o w n _ p o w er f u l _ b r ea th_ th at_ h e_ m a y_ b l es s_ th is_ b a y_ wi th_ h is_ t a ll_ s h i p _ m a k e_ l o v es_ q u i c k _ p an t s_ in_ d es d e m on a s_ ar m s_ g i ve_ r en e w d_ f i r e_ to_ ou r_ e x t in c t ed_ s p i r i t s_ and_ b r ing_ a ll_ c y p r us_ c om f or t </s>
+<s> en t er_ d es d e m on a_ e m i l i a_ i a g o_ r o d er i g o_ and_ a t t en d an t s_ o_ b e h o l d_ the_ r i ch es_ of_ the_ s h i p _ is_ c om e_ on_ s h or e </s>
+<s> y e_ m en_ of_ c y p r us_ l e t_ h er_ ha ve_ you r_ k n e es </s>
+<s> ha i l _ to_ th e e_ l a d y </s>
+<s> and_ the_ g r a c e_ of_ h ea v en_ b e f or e_ b e h in d_ th e e_ and_ on_ e v er y_ h and_ en wh e e l _ th e e_ r ou n d </s>
+<s> d es d e m on a_ i_ th an k _ you_ v a l i an t_ c a s s i o </s>
+<s> w ha t_ ti d in g s_ c an _ you_ t e ll_ m e_ of_ m y_ l or d </s>
+<s> c a s s i o_ h e_ is_ no t_ y e t_ ar r i v ed_ no r_ k no w _ i_ a u g h t_ b u t_ th at_ h es_ w e ll_ and_ wi ll_ b e_ s h or t l y_ h er e </s>
+<s> d es d e m on a_ o_ b u t_ i_ f ea r h o w _ l o s t_ you_ c om p an y </s>
+<s> c a s s i o_ the_ g r ea t_ c on t en ti on_ of_ the_ s ea _ and_ s k i es_ p ar t ed_ ou r_ f e ll o w s h i p b u t_ ha r k </s>
+<s> a_ s a i l </s>
+<s> wi th in_ a_ s a i l _ a_ s a i l _ g u n s_ h ea r d_ s e c on d_ g en t l e m an _ th e y_ g i ve_ th e i r_ g r e e t ing_ to_ the_ c i t a d e l _ th is_ l i k e wi s e_ is_ a_ f r i en d </s>
+<s> c a s s i o_ s e e_ f o r_ the_ n e w s </s>
+<s> e x i t_ g en t l e m an _ g o o d_ an c i en t_ you_ ar e_ w e l c om e </s>
+<s> to_ e m i l i a_ w e l c om e_ m i s t r es s </s>
+<s> l e t_ i t_ no t_ g a ll_ you r_ p a ti en c e_ g o o d_ i a g o_ th at_ i_ e x t en d_ m y_ m an n er s_ t is_ m y_ b r e e d ing_ th at_ g i v es_ m e_ th is_ b o l d_ s h o w _ of_ c ou r t es y </s>
+<s> k i s s ing_ h er_ i a g o_ s i r_ w ou l d_ s h e_ g i ve_ you_ s o_ m u ch _ of_ h er_ l i p s_ a s_ of_ h er_ t on g u e_ s h e_ o f t_ b es t o w s_ on_ m e_ you ll_ ha ve_ en ou g h </s>
+<s> d es d e m on a_ a l a s_ s h e_ ha s_ n o_ s p e e ch </s>
+<s> i a g o_ in_ f a i th_ t o o_ m u ch _ i_ f in d_ i t_ s ti ll_ wh en_ i_ ha ve_ l i s t_ to_ s l e e p _ m ar r y_ b e f or e_ you r_ l a d y s h i p _ i_ g r an t_ s h e_ p u t s_ h er_ t on g u e_ a_ l i t t l e_ in_ h er_ h ea r t_ and_ ch i d es_ wi th_ th in k in g </s>
+<s> e m i l i a_ you_ ha ve_ l i t t l e_ c a u s e_ to_ s a y_ s o </s>
+<s> i a g o_ c om e_ on_ c om e_ on_ you_ ar e_ p i c t u r es_ ou t_ of_ d o or s_ b e ll s_ in_ you r_ p ar l or s_ wi l d c a t s_ in_ you r_ k i t ch en s_ s a in t s_ m_ you r_ in j u r i es_ d e v i l s_ b e ing_ o f f en d ed_ p l a y er s_ in_ you r_ h ou s e wi f er y_ and_ h ou s e wi v es_ in_ you r_ b e d s </s>
+<s> d es d e m on a_ o_ f i e_ u p on_ th e e_ s l an d er er </s>
+<s> i a g o_ n a y_ i t_ is_ t r u e_ o r_ e l s e_ i_ a m_ a_ t u r k _ you_ r i s e_ to_ p l a y_ and_ g o_ to_ b ed_ to_ w or k </s>
+<s> e m i l i a_ you_ s ha ll_ no t_ w r i t e_ m y_ p r a i s e </s>
+<s> i a g o_ n o_ l e t_ m e_ no t </s>
+<s> d es d e m on a_ w ha t_ w ou l d s t_ th ou _ w r i t e_ of_ m e_ i f_ th ou _ s h ou l d s t_ p r a i s e_ m e </s>
+<s> i a g o_ o_ g en t l e_ l a d y_ d o_ no t_ p u t_ m e_ t o t_ f o r_ i_ a m_ no th ing_ i f_ no t_ c r i ti c a l </s>
+<s> d es d e m on a_ c om e_ on_ a s s a y </s>
+<s> th er es_ on e_ g on e_ to_ the_ ha r b ou r </s>
+<s> i a g o_ a y_ m a d a m </s>
+<s> d es d e m on a_ i_ a m_ no t_ m er r y_ b u t_ i_ d o_ b e g u i l e_ the_ th ing_ i_ a m_ b y_ s e e m ing_ o th er wi s e </s>
+<s> c om e_ h o w _ w ou l d s t_ th ou _ p r a i s e_ m e </s>
+<s> i a g o_ i_ a m_ a b ou t_ i t_ b u t_ in d e ed_ m y_ in v en ti on_ c om es_ f r om _ m y_ p a t e_ a s_ b i r d l i m e_ d o es_ f r om _ f r i z e_ i t_ p l u c k s_ ou t_ b r a in s_ and_ a ll_ b u t_ m y_ m u s e_ l a b ou r s_ and_ th us_ s h e_ is_ d e l i v er d </s>
+<s> i f_ s h e_ b e_ f a i r_ and_ wi s e_ f a i r n es s_ and_ wi t_ the_ on es_ f o r_ u s e_ the_ o th er_ u s e th_ i t </s>
+<s> d es d e m on a_ w e ll_ p r a i s e d </s>
+<s> h o w _ i f_ s h e_ b e_ b l a c k _ and_ wi t t y </s>
+<s> i a g o_ i f_ s h e_ b e_ b l a c k _ and_ th er e to_ ha ve_ a_ wi t_ s h e ll_ f in d_ a_ wh i t e_ th at_ s ha ll_ h er_ b l a c k n es s_ f i t </s>
+<s> d es d e m on a_ w or s e_ and_ w or s e </s>
+<s> e m i l i a_ h o w _ i f_ f a i r_ and_ f o o l i s h </s>
+<s> i a g o_ s h e_ n e v er_ y e t_ w a s_ f o o l i s h _ th at_ w a s_ f a i r_ f o r_ e v en_ h er_ f o ll y_ h e l p d_ h er_ to_ an _ h e i r </s>
+<s> d es d e m on a_ th es e_ ar e_ o l d_ f on d_ p ar a d o x es_ to_ m a k e_ f o o l s_ l a u g h _ i_ the_ a l e h ou s e </s>
+<s> w ha t_ m i s er a b l e_ p r a i s e_ ha s t_ th ou _ f o r_ h er_ th a t s_ f ou l _ and_ f o o l i s h </s>
+<s> i a g o_ th er es_ n on e_ s o_ f ou l _ and_ f o o l i s h _ th er e u n to_ b u t_ d o es_ f ou l _ p r an k s_ wh i ch _ f a i r_ and_ wi s e_ on es_ d o </s>
+<s> d es d e m on a_ o_ h ea v y_ i g n or an c e </s>
+<s> th ou _ p r a i s es t_ the_ w or s t_ b es t </s>
+<s> b u t_ w ha t_ p r a i s e_ c ou l d s t_ th ou _ b es t o w _ on_ a_ d es er v ing_ w om an _ in d e ed_ on e_ th at_ in_ the_ a u th or i t y_ of_ h er_ m er i t_ d i d_ j u s t l y_ p u t_ on_ the_ v ou ch _ of_ v er y_ m a l i c e_ i t s e l f </s>
+<s> i a g o_ s h e_ th at_ w a s_ e v er_ f a i r_ and_ n e v er_ p r ou d_ ha d_ t on g u e_ at_ wi ll_ and_ y e t_ w a s_ n e v er_ l ou d_ n e v er_ l a c k d_ g o l d_ and_ y e t_ w en t_ n e v er_ g a y_ f l ed_ f r om _ h er_ wi s h _ and_ y e t_ s a i d_ no w _ i_ m a y_ s h e_ th at_ b e ing_ an g er d_ h er_ r e v en g e_ b e ing_ n i g h _ b a d e_ h er_ w r on g_ s t a y_ and_ h er_ d i s p l ea s u r e_ f l y_ s h e_ th at_ in_ wi s d om _ n e v er_ w a s_ s o_ f r a i l _ to_ ch an g e_ the_ c o d s_ h ea d_ f o r_ the_ s a l m on s_ t a i l _ s h e_ th at_ c ou l d_ th in k _ and_ n e er_ d i s c l o s e_ h er_ m in d_ s e e_ s u i t or s_ f o ll o w ing_ and_ no t_ l o o k _ b e h in d_ s h e_ w a s_ a_ wi g h t_ i f_ e v er_ s u ch _ wi g h t_ w er e_ d es d e m on a_ to_ d o_ w ha t </s>
+<s> i a g o_ to_ s u c k l e_ f o o l s_ and_ ch r on i c l e_ s m a ll_ b e er </s>
+<s> d es d e m on a_ o_ m o s t_ l a m e_ and_ i m p o t en t_ c on c l u s i on </s>
+<s> d o_ no t_ l ea r n _ of_ h i m_ e m i l i a_ th ou g h _ h e_ b e_ th y_ h u s b an d </s>
+<s> h o w _ s a y_ you_ c a s s i o </s>
+<s> is_ h e_ no t_ a_ m o s t_ p r o f an e_ and_ l i b er a l _ c ou n s e ll or </s>
+<s> c a s s i o_ h e_ s p ea k s_ h om e_ m a d a m_ you_ m a y_ r e l i s h _ h i m_ m or e_ in_ the_ s o l d i er_ th an _ in_ the_ s ch o l ar </s>
+<s> i a g o_ a s i d e_ h e_ t a k es_ h er_ b y_ the_ p a l m_ a y_ w e ll_ s a i d_ wh i s p er_ wi th_ a s_ l i t t l e_ a_ w e b _ a s_ th is_ wi ll_ i_ en s n ar e_ a s_ g r ea t_ a_ f l y_ a s_ c a s s i o </s>
+<s> a y_ s m i l e_ u p on_ h er_ d o_ i_ wi ll_ g y ve_ th e e_ in_ th in e_ o w n _ c ou r t s h i p </s>
+<s> you_ s a y_ t r u e_ t is_ s o_ in d e ed_ i f_ s u ch _ t r i c k s_ a s_ th es e_ s t r i p _ you_ ou t_ of_ you r_ l i e u t en an t r y_ i t_ ha d_ b e en_ b e t t er_ you_ ha d_ no t_ k i s s ed_ you r_ th r e e_ f in g er s_ s o_ o f t_ wh i ch _ no w _ a g a in_ you_ ar e_ m o s t_ a p t_ to_ p l a y_ the_ s i r_ in </s>
+<s> v er y_ g o o d_ w e ll_ k i s s e d </s>
+<s> an _ e x c e ll en t_ c ou r t es y </s>
+<s> t is_ s o_ in d e e d </s>
+<s> y e t_ a g a in_ you r_ f in g er s_ to_ you r_ l i p s </s>
+<s> w ou l d_ th e y_ w er e_ c l y s t er p i p es_ f o r_ you r_ s a k e </s>
+<s> t r u m p e t_ wi th in_ the_ m o or </s>
+<s> i_ k no w _ h is_ t r u m p e t </s>
+<s> c a s s i o_ t is_ t r u l y_ s o </s>
+<s> d es d e m on a_ l e t s_ m e e t_ h i m_ and_ r e c e i ve_ h i m </s>
+<s> c a s s i o_ l o_ wh er e_ h e_ c om es </s>
+<s> en t er_ o th e ll o_ and_ a t t en d an t s_ o th e ll o_ o_ m y_ f a i r_ w ar r i or </s>
+<s> d es d e m on a_ m y_ d ea r_ o th e ll o </s>
+<s> o th e ll o_ i t_ g i v es_ m e_ w on d er_ g r ea t_ a s_ m y_ c on t en t_ to_ s e e_ you_ h er e_ b e f or e_ m e </s>
+<s> o_ m y_ s ou l s_ j o y </s>
+<s> i f_ a f t er_ e v er y_ t e m p es t_ c om e_ s u ch _ c a l m s_ m a y_ the_ w in d s_ b l o w _ ti ll_ th e y_ ha ve_ w a k en d_ d ea th </s>
+<s> and_ l e t_ the_ l a b ou r ing_ b ar k _ c l i m b _ h i ll s_ of_ s ea s_ o l y m p u s h i g h _ and_ d u c k _ a g a in_ a s_ l o w _ a s_ h e ll s_ f r om _ h ea v en </s>
+<s> i f_ i t_ w er e_ no w _ to_ d i e_ t w er e_ no w _ to_ b e_ m o s t_ ha p p y_ f o r_ i_ f ea r_ m y_ s ou l _ ha th_ h er_ c on t en t_ s o_ a b s o l u t e_ th at_ no t_ an o th er_ c om f or t_ l i k e_ to_ th is_ s u c c e e d s_ in_ u n k no w n _ f a t e </s>
+<s> d es d e m on a_ the_ h ea v en s_ f or b i d_ b u t_ th at_ ou r_ l o v es_ and_ c om f or t s_ s h ou l d_ in c r ea s e_ e v en_ a s_ ou r_ d a y s_ d o_ g r o w </s>
+<s> o th e ll o_ a m en_ to_ th at_ s w e e t_ p o w er s </s>
+<s> i_ c an no t_ s p ea k _ en ou g h _ of_ th is_ c on t en t_ i t_ s t o p s_ m e_ h er e_ i t_ is_ t o o_ m u ch _ of_ j o y_ and_ th is_ and_ th is_ the_ g r ea t es t_ d i s c or d s_ b e_ k i s s ing_ h er_ th at_ e er_ ou r_ h ea r t s_ s ha ll_ m a k e </s>
+<s> i a g o_ a s i d e_ o_ you_ ar e_ w e ll_ t u n ed_ no w </s>
+<s> b u t_ i ll_ s e t_ d o w n _ the_ p e g s_ th at_ m a k e_ th is_ m u s i c _ a s_ h on es t_ a s_ i_ a m </s>
+<s> o th e ll o_ c om e_ l e t_ us_ to_ the_ c a s t l e </s>
+<s> n e w s_ f r i en d s_ ou r_ w ar s_ ar e_ d on e_ the_ t u r k s_ ar e_ d r o w n d </s>
+<s> h o w _ d o es_ m y_ o l d_ a c q u a in t an c e_ of_ th is_ i s l e </s>
+<s> h on e y_ you_ s ha ll_ b e_ w e ll_ d es i r ed_ in_ c y p r us_ i_ ha ve_ f ou n d_ g r ea t_ l o ve_ a m on g s t_ th e m </s>
+<s> o_ m y_ s w e e t_ i_ p r a t t l e_ ou t_ of_ f a s h i on_ and_ i_ d o t e_ in_ m in e_ o w n _ c om f or t s </s>
+<s> i_ p r i th e e_ g o o d_ i a g o_ g o_ to_ the_ b a y_ and_ d i s e m b ar k _ m y_ c o f f er s_ b r ing_ th ou _ the_ m a s t er_ to_ the_ c i t a d e l _ h e_ is_ a_ g o o d_ on e_ and_ h is_ w or th in es s_ d o es_ c ha ll en g e_ m u ch _ r es p e c t </s>
+<s> c om e_ d es d e m on a_ on c e_ m or e_ w e ll_ m e t_ at_ c y p r u s </s>
+<s> e x e u n t_ o th e ll o_ d es d e m on a_ and_ a t t en d an t s_ i a g o_ d o_ th ou _ m e e t_ m e_ p r es en t l y_ at_ the_ ha r b ou r </s>
+<s> c om e_ h i th er </s>
+<s> i f_ th ou _ b es t_ v a l i an t_ a s_ th e y_ s a y_ b a s e_ m en_ b e ing_ in_ l o ve_ ha ve_ th en_ a_ no b i l i t y_ in_ th e i r_ in d e x _ and_ o b s c u r e_ p r o l o g u e_ to_ the_ h i s t or y_ of_ l u s t_ and_ f ou l _ th ou g h t s </s>
+<s> th e y_ m e t_ s o_ n ea r_ wi th_ th e i r_ l i p s_ th at_ th e i r_ b r ea th s_ e m b r a c ed_ t o g e th er </s>
+<s> v i ll an ou s_ th ou g h t s_ r o d er i g o </s>
+<s> wh en_ th es e_ m u t u a l i ti es_ s o_ m ar s ha l _ the_ w a y_ ha r d_ at_ h and_ c om es_ the_ m a s t er_ and_ m a in_ e x er c i s e_ the_ in c or p or a t e_ c on c l u s i on_ p i s h </s>
+<s> b u t_ s i r_ b e_ you_ r u l ed_ b y_ m e_ i_ ha ve_ b r ou g h t_ you_ f r om _ v en i c e </s>
+<s> w a t ch _ you_ t on i g h t_ f o r_ the_ c om m and_ i ll_ l a y t_ u p on_ you </s>
+<s> c a s s i o_ k no w s_ you_ no t </s>
+<s> i ll_ no t_ b e_ f a r_ f r om _ you_ d o_ you_ f in d_ s om e_ o c c a s i on_ to_ an g er_ c a s s i o_ e i th er_ b y_ s p ea k ing_ t o o_ l ou d_ o r_ t a in t ing_ h is_ d i s c i p l in e_ o r_ f r om _ w ha t_ o th er_ c ou r s e_ you_ p l ea s e_ wh i ch _ the_ ti m e_ s ha ll_ m or e_ f a v ou r a b l y_ m in i s t er </s>
+<s> r o d er i g o_ w e ll </s>
+<s> i a g o_ s i r_ h e_ is_ r a s h _ and_ v er y_ s u d d en_ in_ ch o l er_ and_ ha p l y_ m a y_ s t r i k e_ at_ you_ p r o v o k e_ h i m_ th at_ h e_ m a y_ f o r_ e v en_ ou t_ of_ th at_ wi ll_ i_ c a u s e_ th es e_ of_ c y p r us_ to_ m u t in y_ wh o s e_ q u a l i f i c a ti on_ s ha ll_ c om e_ in to_ n o_ t r u e_ t a s t e_ a g a in_ b u t_ b y_ the_ d i s p l an t ing_ of_ c a s s i o </s>
+<s> s o_ s ha ll_ you_ ha ve_ a_ s h or t er_ j ou r n e y_ to_ you r_ d es i r es_ b y_ the_ m e an s_ i_ s ha ll_ th en_ ha ve_ to_ p r e f er_ th e m_ and_ the_ i m p e d i m en t_ m o s t_ p r o f i t a b l y_ r e m o v ed_ wi th ou t_ the_ wh i ch _ th er e_ w er e_ n o_ e x p e c t a ti on_ of_ ou r_ p r o s p er i t y </s>
+<s> r o d er i g o_ i_ wi ll_ d o_ th is_ i f_ i_ c an _ b r ing_ i t_ to_ an y_ o p p or t u n i t y </s>
+<s> i a g o_ i_ w ar r an t_ th e e </s>
+<s> m e e t_ m e_ b y_ and_ b y_ at_ the_ c i t a d e l _ i_ m u s t_ f e t ch _ h is_ n e c es s ar i es_ a s h or e </s>
+<s> f ar e w e ll </s>
+<s> r o d er i g o_ a d i e u </s>
+<s> e x i t_ i a g o_ th at_ c a s s i o_ l o v es_ h er_ i_ d o_ w e ll_ b e l i e ve_ i t_ th at_ s h e_ l o v es_ h i m_ t is_ a p t_ and_ of_ g r ea t_ c r e d i t_ the_ m o o r_ h o w b e i t_ th at_ i_ en d u r e_ h i m_ no t_ is_ of_ a_ c on s t an t_ l o v ing_ no b l e_ n a t u r e_ and_ i_ d ar e_ th in k _ h e ll_ p r o ve_ to_ d es d e m on a_ a_ m o s t_ d ea r_ h u s b an d </s>
+<s> no w _ i_ d o_ l o ve_ h er_ t o o_ no t_ ou t_ of_ a b s o l u t e_ l u s t_ th ou g h _ p er a d v en t u r e_ i_ s t and_ a c c ou n t an t_ f o r_ a s_ g r ea t_ a_ s in_ b u t_ p ar t l y_ l ed_ to_ d i e t_ m y_ r e v en g e_ f o r_ th at_ i_ d o_ s u s p e c t_ the_ l u s t y_ m o o r_ ha th_ l ea p d_ in to_ m y_ s ea t_ the_ th ou g h t_ wh er e of_ d o th_ l i k e_ a_ p o i s on ou s_ m in er a l _ g n a w _ m y_ in w ar d s_ and_ no th ing_ c an _ o r_ s ha ll_ c on t en t_ m y_ s ou l _ ti ll_ i_ a m_ e v en d_ wi th_ h i m_ wi f e_ f o r_ wi f e_ o r_ f a i l ing_ s o_ y e t_ th at_ i_ p u t_ the_ m o o r_ at_ l ea s t_ in to_ a_ j ea l ou s y_ s o_ s t r on g_ th at_ j u d g m en t_ c an no t_ c u r e </s>
+<s> wh i ch _ th ing_ to_ d o_ i f_ th is_ p o o r_ t r a s h _ of_ v en i c e_ wh om _ i_ t r a s h _ f o r_ h is_ q u i c k _ h u n t ing_ s t and_ the_ p u t t ing_ on_ i ll_ ha ve_ ou r_ m i c ha e l _ c a s s i o_ on_ the_ h i p _ a b u s e_ h i m_ to_ the_ m o o r_ in_ the_ r an k _ g ar b _ f o r_ i_ f ea r_ c a s s i o_ wi th_ m y_ n i g h t c a p _ t o o_ m a k e_ the_ m o o r_ th an k _ m e_ l o ve_ m e_ and_ r e w ar d_ m e </s>
+<s> f o r_ m a k ing_ h i m_ e g r e g i ou s l y_ an _ a s s_ and_ p r a c ti s ing_ u p on_ h is_ p ea c e_ and_ q u i e t_ e v en_ to_ m a d n es s </s>
+<s> t is_ h er e_ b u t_ y e t_ c on f u s ed_ k n a v er y s_ p l a in_ f a c e_ is_ n e v er_ s e en_ t in_ u s e d </s>
+<s> e x i t_ s c en e_ i i </s>
+<s> a_ s t r e e t </s>
+<s> en t er_ a_ h er a l d_ wi th_ a_ p r o c l a m a ti on_ p e o p l e_ f o ll o w ing_ h er a l d_ i t_ is_ o th e ll o s_ p l ea s u r e_ ou r_ no b l e_ and_ v a l i an t_ g en er a l _ th at_ u p on_ c er t a in_ ti d in g s_ no w _ ar r i v ed_ i m p or t ing_ the_ m er e_ p er d i ti on_ of_ the_ t u r k i s h _ f l e e t_ e v er y_ m an _ p u t_ h i m s e l f_ in to_ t r i u m p h _ s om e_ to_ d an c e_ s om e_ to_ m a k e_ b on f i r es_ ea ch _ m an _ to_ w ha t_ s p or t_ and_ r e v e l s_ h is_ a d d i c ti on_ l ea d s_ h i m_ f o r_ b es i d es_ th es e_ b en e f i c i a l _ n e w s_ i t_ is_ the_ c e l e b r a ti on_ of_ h is_ n u p ti a l </s>
+<s> s o_ m u ch _ w a s_ h is_ p l ea s u r e_ s h ou l d_ b e_ p r o c l a i m e d </s>
+<s> a ll_ o f f i c es_ ar e_ o p en_ and_ th er e_ is_ f u ll_ l i b er t y_ of_ f ea s t ing_ f r om _ th is_ p r es en t_ h ou r_ of_ f i ve_ ti ll_ the_ b e ll_ ha ve_ t o l d_ e l e v en </s>
+<s> h ea v en_ b l es s_ the_ i s l e_ of_ c y p r us_ and_ ou r_ no b l e_ g en er a l _ o th e ll o </s>
+<s> e x e u n t_ s c en e_ i i i </s>
+<s> a_ ha ll_ in_ the_ c a s t l e </s>
+<s> en t er_ o th e ll o_ d es d e m on a_ c a s s i o_ and_ a t t en d an t s_ o th e ll o_ g o o d_ m i c ha e l _ l o o k _ you_ to_ the_ g u ar d_ t on i g h t_ l e t s_ t ea ch _ ou r s e l v es_ th at_ h on ou r a b l e_ s t o p _ no t_ to_ ou t s p or t_ d i s c r e ti on </s>
+<s> c a s s i o_ i a g o_ ha th_ d i r e c ti on_ w ha t_ to_ d o_ b u t_ no t wi th s t an d ing_ wi th_ m y_ p er s on a l _ e y e_ wi ll_ i_ l o o k _ t o t </s>
+<s> o th e ll o_ i a g o_ is_ m o s t_ h on es t </s>
+<s> m i c ha e l _ g o o d_ n i g h t_ t om or r o w _ wi th_ you r_ ea r l i es t_ l e t_ m e_ ha ve_ s p e e ch _ wi th_ you </s>
+<s> to_ d es d e m on a_ c om e_ m y_ d ea r_ l o ve_ the_ p u r c ha s e_ m a d e_ the_ f r u i t s_ ar e_ to_ en s u e_ th at_ p r o f i t s_ y e t_ to_ c om e_ t w e en_ m e_ and_ you </s>
+<s> g o o d_ n i g h t </s>
+<s> e x e u n t_ o th e ll o_ d es d e m on a_ and_ a t t en d an t s_ en t er_ i a g o_ c a s s i o_ w e l c om e_ i a g o_ w e_ m u s t_ to_ the_ w a t ch </s>
+<s> i a g o_ no t_ th is_ h ou r_ l i e u t en an t_ t is_ no t_ y e t_ t en_ o_ the_ c l o c k </s>
+<s> ou r_ g en er a l _ c a s t_ us_ th us_ ea r l y_ f o r_ the_ l o ve_ of_ h is_ d es d e m on a_ wh o_ l e t_ us_ no t_ th er e f or e_ b l a m e_ h e_ ha th_ no t_ y e t_ m a d e_ w an t on_ the_ n i g h t_ wi th_ h er_ and_ s h e_ is_ s p or t_ f o r_ j o v e </s>
+<s> c a s s i o_ s h es_ a_ m o s t_ e x q u i s i t e_ l a d y </s>
+<s> i a g o_ and_ i ll_ w ar r an t_ h er_ f u n _ of_ g a m e </s>
+<s> c a s s i o_ in d e ed_ s h es_ a_ m o s t_ f r es h _ and_ d e l i c a t e_ c r ea t u r e </s>
+<s> i a g o_ w ha t_ an _ e y e_ s h e_ ha s </s>
+<s> m e th in k s_ i t_ s ou n d s_ a_ p ar l e y_ of_ p r o v o c a ti on </s>
+<s> c a s s i o_ an _ in v i t ing_ e y e_ and_ y e t_ m e th in k s_ r i g h t_ m o d es t </s>
+<s> i a g o_ and_ wh en_ s h e_ s p ea k s_ is_ i t_ no t_ an _ a l ar u m_ to_ l o v e </s>
+<s> c a s s i o_ s h e_ is_ in d e ed_ p er f e c ti on </s>
+<s> i a g o_ w e ll_ ha p p in es s_ to_ th e i r_ s h e e t s </s>
+<s> c om e_ l i e u t en an t_ i_ ha ve_ a_ s t ou p _ of_ w in e_ and_ h er e_ wi th ou t_ ar e_ a_ b r a c e_ of_ c y p r us_ g a ll an t s_ th at_ w ou l d_ f a in_ ha ve_ a_ m ea s u r e_ to_ the_ h ea l th_ of_ b l a c k _ o th e ll o </s>
+<s> c a s s i o_ no t_ t on i g h t_ g o o d_ i a g o_ i_ ha ve_ v er y_ p o o r_ and_ u n ha p p y_ b r a in s_ f o r_ d r in k ing_ i_ c ou l d_ w e ll_ wi s h _ c ou r t es y_ w ou l d_ in v en t_ s om e_ o th er_ c u s t om _ of_ en t er t a in m en t </s>
+<s> i a g o_ o_ th e y_ ar e_ ou r_ f r i en d s_ b u t_ on e_ c u p _ i ll_ d r in k _ f o r_ you </s>
+<s> c a s s i o_ i_ ha ve_ d r u n k _ b u t_ on e_ c u p _ t on i g h t_ and_ th at_ w a s_ c r a f ti l y_ q u a l i f i ed_ t o o_ and_ b e h o l d_ w ha t_ in no v a ti on_ i t_ m a k es_ h er e_ i_ a m_ u n f or t u n a t e_ in_ the_ in f i r m i t y_ and_ d ar e_ no t_ t a s k _ m y_ w ea k n es s_ wi th_ an y_ m or e </s>
+<s> i a g o_ w ha t_ m an </s>
+<s> t is_ a_ n i g h t_ of_ r e v e l s_ the_ g a ll an t s_ d es i r e_ i t </s>
+<s> c a s s i o_ wh er e_ ar e_ th e y </s>
+<s> i a g o_ h er e_ at_ the_ d o o r_ i_ p r a y_ you_ c a ll_ th e m_ in </s>
+<s> c a s s i o_ i ll_ d o t_ b u t_ i t_ d i s l i k es_ m e </s>
+<s> e x i t_ i a g o_ i f_ i_ c an _ f a s t en_ b u t_ on e_ c u p _ u p on_ h i m_ wi th_ th at_ wh i ch _ h e_ ha th_ d r u n k _ t on i g h t_ a l r ea d y_ h e ll_ b e_ a s_ f u ll_ of_ q u ar r e l _ and_ o f f en c e_ a s_ m y_ you n g_ m i s t r es s_ d o g </s>
+<s> no w _ m y_ s i c k _ f o o l _ r o d er i g o_ wh om _ l o ve_ ha th_ t u r n d_ a l m o s t_ the_ w r on g_ s i d e_ ou t_ to_ d es d e m on a_ ha th_ t on i g h t_ c ar ou s ed_ p o t a ti on s_ p o t t l e d e e p _ and_ h es_ to_ w a t ch _ th r e e_ l a d s_ of_ c y p r us_ no b l e_ s w e ll ing_ s p i r i t s_ th at_ h o l d_ th e i r_ h on ou r s_ in_ a_ w ar y_ d i s t an c e_ the_ v er y_ e l e m en t s_ of_ th is_ w ar l i k e_ i s l e_ ha ve_ i_ t on i g h t_ f l u s t er d_ wi th_ f l o w ing_ c u p s_ and_ th e y_ w a t ch _ t o o </s>
+<s> no w _ m on g s t_ th is_ f l o c k _ of_ d r u n k ar d s_ a m_ i_ to_ p u t_ ou r_ c a s s i o_ in_ s om e_ a c ti on_ th at_ m a y_ o f f en d_ the_ i s l e b u t_ h er e_ th e y_ c om e_ i f_ c on s e q u en c e_ d o_ b u t_ a p p r o ve_ m y_ d r ea m_ m y_ b o at_ s a i l s_ f r e e l y_ b o th_ wi th_ w in d_ and_ s t r ea m </s>
+<s> r e en t er_ c a s s i o_ wi th_ h i m_ m on t an o_ and_ g en t l e m en_ s er v an t s_ f o ll o w ing_ wi th_ w in e_ c a s s i o_ f or e_ g o d_ th e y_ ha ve_ g i v en_ m e_ a_ r ou s e_ a l r ea d y </s>
+<s> m on t an o_ g o o d_ f a i th_ a_ l i t t l e_ on e_ no t_ p a s t_ a_ p in t_ a s_ i_ a m_ a_ s o l d i er </s>
+<s> i a g o_ s om e_ w in e_ h o </s>
+<s> s in g s_ and_ l e t_ m e_ the_ c an a k in_ c l in k _ c l in k _ and_ l e t_ m e_ the_ c an a k in_ c l in k _ a_ s o l d i er s_ a_ m an _ a_ l i f es_ b u t_ a_ s p an _ wh y_ th en_ l e t_ a_ s o l d i er_ d r in k </s>
+<s> s om e_ w in e_ b o y s </s>
+<s> c a s s i o_ f or e_ g o d_ an _ e x c e ll en t_ s on g </s>
+<s> i a g o_ i_ l ea r n ed_ i t_ in_ en g l and_ wh er e_ in d e ed_ th e y_ ar e_ m o s t_ p o t en t_ in_ p o t t ing_ you r_ d an e_ you r_ g er m an _ and_ you r_ s w a g b e ll i ed_ h o ll an d er d r in k _ h o ar e_ no th ing_ to_ you r_ en g l i s h </s>
+<s> c a s s i o_ is_ you r_ en g l i s h m an _ s o_ e x p er t_ in_ h is_ d r in k in g </s>
+<s> i a g o_ wh y_ h e_ d r in k s_ you_ wi th_ f a c i l i t y_ you r_ d an e_ d ea d_ d r u n k _ h e_ s w ea t s_ no t_ to_ o v er th r o w _ you r_ a l m a in_ h e_ g i v es_ you r_ h o ll an d er_ a_ v om i t_ er e_ the_ n e x t_ p o t t l e_ c an _ b e_ f i ll e d </s>
+<s> c a s s i o_ to_ the_ h ea l th_ of_ ou r_ g en er a l </s>
+<s> m on t an o_ i_ a m_ f o r_ i t_ l i e u t en an t_ and_ i ll_ d o_ you_ j u s ti c e </s>
+<s> i a g o_ o_ s w e e t_ en g l an d </s>
+<s> k ing_ s t e p h en_ w a s_ a_ w or th y_ p e er_ h is_ b r e e ch es_ c o s t_ h i m_ b u t_ a_ c r o w n _ h e_ h e l d_ th e m_ s i x p en c e_ a ll_ t o o_ d ea r_ wi th_ th at_ h e_ c a ll d_ the_ t a i l o r_ l o w n </s>
+<s> h e_ w a s_ a_ wi g h t_ of_ h i g h _ r en o w n _ and_ th ou _ ar t_ b u t_ of_ l o w _ d e g r e e_ t is_ p r i d e_ th at_ p u ll s_ the_ c ou n t r y_ d o w n _ th en_ t a k e_ th in e_ a u l d_ c l o a k _ a b ou t_ th e e </s>
+<s> s om e_ w in e_ h o </s>
+<s> c a s s i o_ wh y_ th is_ is_ a_ m or e_ e x q u i s i t e_ s on g_ th an _ the_ o th er </s>
+<s> i a g o_ wi ll_ you_ h ea r t_ a g a in </s>
+<s> c a s s i o_ n o_ f o r_ i_ h o l d_ h i m_ to_ b e_ u n w or th y_ of_ h is_ p l a c e_ th at_ d o es_ th o s e_ th in g s </s>
+<s> w e ll_ g o d s_ a b o ve_ a ll_ and_ th er e_ b e_ s ou l s_ m u s t_ b e_ s a v ed_ and_ th er e_ b e_ s ou l s_ m u s t_ no t_ b e_ s a v e d </s>
+<s> i a g o_ i t s_ t r u e_ g o o d_ l i e u t en an t </s>
+<s> c a s s i o_ f o r_ m in e_ o w n _ p ar t n o_ o f f en c e_ to_ the_ g en er a l _ no r_ an y_ m an _ of_ q u a l i t y i_ h o p e_ to_ b e_ s a v e d </s>
+<s> i a g o_ and_ s o_ d o_ i_ t o o_ l i e u t en an t </s>
+<s> c a s s i o_ a y_ b u t_ b y_ you r_ l ea ve_ no t_ b e f or e_ m e_ the_ l i e u t en an t_ is_ to_ b e_ s a v ed_ b e f or e_ the_ an c i en t </s>
+<s> l e t s_ ha ve_ n o_ m or e_ of_ th is_ l e t s_ to_ ou r_ a f f a i r s f or g i ve_ us_ ou r_ s in s g en t l e m en_ l e t s_ l o o k _ to_ ou r_ b u s in es s </s>
+<s> d o_ no t_ th in k _ g en t l e m en </s>
+<s> i_ a m_ d r u n k _ th is_ is_ m y_ an c i en t_ th is_ is_ m y_ r i g h t_ h and_ and_ th is_ is_ m y_ l e f t_ i_ a m_ no t_ d r u n k _ no w _ i_ c an _ s t and_ w e ll_ en ou g h _ and_ s p ea k _ w e ll_ en ou g h </s>
+<s> a ll_ e x c e ll en t_ w e ll </s>
+<s> c a s s i o_ wh y_ v er y_ w e ll_ th en_ you_ m u s t_ no t_ th in k _ th en_ th at_ i_ a m_ d r u n k </s>
+<s> e x i t_ m on t an o_ to_ the_ p l a t f or m_ m a s t er s_ c om e_ l e t s_ s e t_ the_ w a t ch </s>
+<s> i a g o_ you_ s e e_ th is_ f e ll o w _ th at_ is_ g on e_ b e f or e_ h e_ is_ a_ s o l d i er_ f i t_ to_ s t and_ b y_ c a es a r_ and_ g i ve_ d i r e c ti on_ and_ d o_ b u t_ s e e_ h is_ v i c e_ t is_ to_ h is_ v i r t u e_ a_ j u s t_ e q u in o x _ the_ on e_ a s_ l on g_ a s_ the_ o th er_ t is_ p i t y_ of_ h i m </s>
+<s> i_ f ea r_ the_ t r u s t_ o th e ll o_ p u t s_ h i m_ in </s>
+<s> on_ s om e_ o d d_ ti m e_ of_ h is_ in f i r m i t y_ wi ll_ s ha k e_ th is_ i s l an d </s>
+<s> m on t an o_ b u t_ is_ h e_ o f t en_ th u s </s>
+<s> i a g o_ t is_ e v er m or e_ the_ p r o l o g u e_ to_ h is_ s l e e p _ h e ll_ w a t ch _ the_ h or o l o g e_ a_ d ou b l e_ s e t_ i f_ d r in k _ r o c k _ no t_ h is_ c r a d l e </s>
+<s> m on t an o_ i t_ w er e_ w e ll_ the_ g en er a l _ w er e_ p u t_ in_ m in d_ of_ i t </s>
+<s> p er ha p s_ h e_ s e es_ i t_ no t_ o r_ h is_ g o o d_ n a t u r e_ p r i z es_ the_ v i r t u e_ th at_ a p p ea r s_ in_ c a s s i o_ and_ l o o k s_ no t_ on_ h is_ e v i l s_ is_ no t_ th is_ t r u e </s>
+<s> en t er_ r o d er i g o_ i a g o_ a s i d e_ to_ h i m_ h o w _ no w _ r o d er i g o </s>
+<s> i_ p r a y_ you_ a f t er_ the_ l i e u t en an t_ g o </s>
+<s> e x i t_ r o d er i g o_ m on t an o_ and_ t is_ g r ea t_ p i t y_ th at_ the_ no b l e_ m o o r_ s h ou l d_ ha z ar d_ s u ch _ a_ p l a c e_ a s_ h is_ o w n _ s e c on d_ wi th_ on e_ of_ an _ in g r a f t_ in f i r m i t y_ i t_ w er e_ an _ h on es t_ a c ti on_ to_ s a y_ s o_ to_ the_ m o or </s>
+<s> i a g o_ no t_ i_ f o r_ th is_ f a i r_ i s l and_ i_ d o_ l o ve_ c a s s i o_ w e ll_ and_ w ou l d_ d o_ m u ch _ to_ c u r e_ h i m_ of_ th is_ e v i l b u t_ ha r k </s>
+<s> w ha t_ no i s e </s>
+<s> c r y_ wi th in_ h e l p </s>
+<s> h e l p _ r e en t er_ c a s s i o_ d r i v ing_ in_ r o d er i g o_ c a s s i o_ you_ r o g u e </s>
+<s> you_ r a s c a l </s>
+<s> m on t an o_ w ha t s_ the_ m a t t er_ l i e u t en an t </s>
+<s> c a s s i o_ a_ k n a ve_ t ea ch _ m e_ m y_ d u t y </s>
+<s> i ll_ b ea t_ the_ k n a ve_ in to_ a_ t wi g g en_ b o t t l e </s>
+<s> r o d er i g o_ b ea t_ m e </s>
+<s> c a s s i o_ d o s t_ th ou _ p r a t e_ r o g u e </s>
+<s> s t r i k ing_ r o d er i g o_ m on t an o_ n a y_ g o o d_ l i e u t en an t_ s t a y ing_ h i m_ i_ p r a y_ you_ s i r_ h o l d_ you r_ h an d </s>
+<s> c a s s i o_ l e t_ m e_ g o_ s i r_ o r_ i ll_ k no c k _ you_ o er_ the_ m a z z ar d </s>
+<s> m on t an o_ c om e_ c om e_ you r e_ d r u n k </s>
+<s> c a s s i o_ d r u n k </s>
+<s> th e y_ f i g h t_ i a g o_ a s i d e_ to_ r o d er i g o_ a w a y_ i_ s a y_ g o_ ou t_ and_ c r y_ a_ m u t in y </s>
+<s> e x i t_ r o d er i g o_ n a y_ g o o d_ l i e u t en an t a l a s_ g en t l e m en_ h e l p _ h o l i e u t en an t s i r m on t an o s i r_ h e l p _ m a s t er s h er es_ a_ g o o d l y_ w a t ch _ in d e e d </s>
+<s> b e ll_ r in g s_ wh o s_ th at_ wh i ch _ r in g s_ the_ b e ll d i a b l o_ h o </s>
+<s> the_ t o w n _ wi ll_ r i s e_ g o d s_ wi ll_ l i e u t en an t_ h o l d </s>
+<s> you_ wi ll_ b e_ s ha m ed_ f o r_ e v er </s>
+<s> r e en t er_ o th e ll o_ and_ a t t en d an t s_ o th e ll o_ w ha t_ is_ the_ m a t t er_ h er e </s>
+<s> m on t an o_ z ou n d s_ i_ b l e ed_ s ti ll_ i_ a m_ h u r t_ to_ the_ d ea th </s>
+<s> f a in t s_ o th e ll o_ h o l d_ f o r_ you r_ l i v es </s>
+<s> i a g o_ h o l d_ h o </s>
+<s> l i e u t en an t s i r m on t an o g en t l e m en_ ha ve_ you_ f or g o t_ a ll_ s en s e_ of_ p l a c e_ and_ d u t y </s>
+<s> h o l d </s>
+<s> the_ g en er a l _ s p ea k s_ to_ you_ h o l d_ h o l d_ f o r_ s ha m e </s>
+<s> o th e ll o_ wh y_ h o w _ no w _ h o </s>
+<s> f r om _ wh en c e_ ar i s e th_ th i s </s>
+<s> ar e_ w e_ t u r n d_ t u r k s_ and_ to_ ou r s e l v es_ d o_ th at_ wh i ch _ h ea v en_ ha th_ f or b i d_ the_ o t t om i t es </s>
+<s> f o r_ ch r i s ti an _ s ha m e_ p u t_ b y_ th is_ b ar b ar ou s_ b r a w l _ h e_ th at_ s ti r s_ n e x t_ to_ c ar ve_ f o r_ h is_ o w n _ r a g e_ h o l d s_ h is_ s ou l _ l i g h t_ h e_ d i es_ u p on_ h is_ m o ti on </s>
+<s> s i l en c e_ th at_ d r ea d f u l _ b e ll_ i t_ f r i g h t s_ the_ i s l e_ f r om _ h er_ in d e e d </s>
+<s> ha d_ w e_ d on e_ s o_ at_ f i r s t_ w e_ ha d_ d r o v en_ th e m_ h om e_ wi th_ c l ou t s_ a b ou t_ th e i r_ h ea d s </s>
+<s> m ar k _ an t on y_ th ou _ b l e e d s t_ a p a c e </s>
+<s> s c ar us_ i_ ha d_ a_ w ou n d_ h er e_ th at_ w a s_ l i k e_ a_ t_ b u t_ no w _ t is_ m a d e_ an _ h </s>
+<s> m ar k _ an t on y_ th e y_ d o_ r e ti r e </s>
+<s> s c ar us_ w e ll_ b ea t_ e m_ in to_ b en ch h o l es_ i_ ha ve_ y e t_ r o om _ f o r_ s i x _ s c o t ch es_ m or e </s>
+<s> en t er_ er o s_ er o s_ th e y_ ar e_ b ea t en_ s i r_ and_ ou r_ a d v an t a g e_ s er v es_ f o r_ a_ f a i r_ v i c t or y </s>
+<s> s c ar us_ l e t_ us_ s c or e_ th e i r_ b a c k s_ and_ s n a t ch _ e m_ u p _ a s_ w e_ t a k e_ ha r es_ b e h in d_ t is_ s p or t_ to_ m a u l _ a_ r u n n er </s>
+<s> m ar k _ an t on y_ i_ wi ll_ r e w ar d_ th e e_ on c e_ f o r_ th y_ s p r i t e l y_ c om f or t_ and_ t en f o l d_ f o r_ th y_ g o o d_ v a l ou r </s>
+<s> c om e_ th e e_ on </s>
+<s> s c ar us_ i ll_ ha l t_ a f t er </s>
+<s> e x e u n t_ s c en e_ v i i i </s>
+<s> u n d er_ the_ w a ll s_ of_ a l e x an d r i a </s>
+<s> a l ar u m </s>
+<s> en t er_ m ar k _ an t on y_ in_ a_ m ar ch _ s c ar us_ wi th_ o th er s_ m ar k _ an t on y_ w e_ ha ve_ b ea t_ h i m_ to_ h is_ c a m p _ r u n _ on e_ b e f or e_ and_ l e t_ the_ q u e en_ k no w _ of_ ou r_ g es t s </s>
+<s> t om or r o w _ b e f or e_ the_ s u n _ s ha ll_ s e e_ s_ w e ll_ s p i ll_ the_ b l o o d_ th at_ ha s_ t o d a y_ es c a p e d </s>
+<s> i_ th an k _ you_ a ll_ f o r_ d ou g h t y h an d ed_ ar e_ you_ and_ ha ve_ f ou g h t_ no t_ a s_ you_ s er v ed_ the_ c a u s e_ b u t_ a s_ t_ ha d_ b e en_ ea ch _ m an s_ l i k e_ m in e_ you_ ha ve_ s h o w n _ a ll_ h e c t or s </s>
+<s> en t er_ the_ c i t y_ c l i p _ you r_ wi v es_ you r_ f r i en d s_ t e ll_ th e m_ you r_ f ea t s_ wh i l s t_ th e y_ wi th_ j o y f u l _ t ea r s_ w a s h _ the_ c on g ea l m en t_ f r om _ you r_ w ou n d s_ and_ k i s s_ the_ h on ou r d_ g a s h es_ wh o l e </s>
+<s> to_ s c ar us_ g i ve_ m e_ th y_ h and_ en t er_ c l e o p a t r a_ a t t en d ed_ to_ th is_ g r ea t_ f a i r y_ i ll_ c om m en d_ th y_ a c t s_ m a k e_ h er_ th an k s_ b l es s_ th e e </s>
+<s> to_ c l e o p a t r a_ o_ th ou _ d a y_ o_ the_ w or l d_ c ha in_ m in e_ ar m d_ n e c k _ l ea p _ th ou _ a t ti r e_ and_ a ll_ th r ou g h _ p r o of_ of_ ha r n es s_ to_ m y_ h ea r t_ and_ th er e_ r i d e_ on_ the_ p an t s_ t r i u m p h in g </s>
+<s> c l e o p a t r a_ l or d_ of_ l or d s </s>
+<s> o_ in f in i t e_ v i r t u e_ c om es t_ th ou _ s m i l ing_ f r om _ the_ w or l d s_ g r ea t_ s n ar e_ u n c a u g h t </s>
+<s> m ar k _ an t on y_ m y_ n i g h t in g a l e_ w e_ ha ve_ b ea t_ th e m_ to_ th e i r_ b e d s </s>
+<s> w ha t_ g i r l </s>
+<s> th ou g h _ g r e y_ d o_ s om e th ing_ m in g l e_ wi th_ ou r_ you n g er_ b r o w n _ y e t_ ha _ w e_ a_ b r a in_ th at_ n ou r i s h es_ ou r_ n er v es_ and_ c an _ g e t_ g o a l _ f o r_ g o a l _ of_ you th </s>
+<s> b e h o l d_ th is_ m an _ c om m en d_ u n to_ h is_ l i p s_ th y_ f a v ou r ing_ h and_ k i s s_ i t_ m y_ w ar r i o r_ h e_ ha th_ f ou g h t_ t o d a y_ a s_ i f_ a_ g o d_ in_ ha t e_ of_ m an k in d_ ha d_ d es t r o y d_ in_ s u ch _ a_ s ha p e </s>
+<s> c l e o p a t r a_ i ll_ g i ve_ th e e_ f r i en d_ an _ ar m ou r_ a ll_ of_ g o l d_ i t_ w a s_ a_ k in g s </s>
+<s> m ar k _ an t on y_ h e_ ha s_ d es er v ed_ i t_ w er e_ i t_ c ar b u n c l ed_ l i k e_ h o l y_ p h o e b us_ c ar </s>
+<s> g i ve_ m e_ th y_ h and_ th r ou g h _ a l e x an d r i a_ m a k e_ a_ j o ll y_ m ar ch _ b ea r_ ou r_ ha c k d_ t ar g e t s_ l i k e_ the_ m en_ th at_ o w e_ th e m_ ha d_ ou r_ g r ea t_ p a l a c e_ the_ c a p a c i t y_ to_ c a m p _ th is_ h o s t_ w e_ a ll_ w ou l d_ s u p _ t o g e th er_ and_ d r in k _ c ar ou s es_ to_ the_ n e x t_ d a y s_ f a t e_ wh i ch _ p r om i s es_ r o y a l _ p er i l </s>
+<s> t r u m p e t er s_ wi th_ b r a z en_ d in_ b l a s t_ you_ the_ c i t y s_ ea r_ m a k e_ m in g l e_ wi th_ r a t t l ing_ t a b ou r in es_ th at_ h ea v en_ and_ ea r th_ m a y_ s t r i k e_ th e i r_ s ou n d s_ t o g e th er_ a p p l a u d ing_ ou r_ a p p r o a ch </s>
+<s> e x e u n t_ s c en e_ i x </s>
+<s> o c t a v i us_ c a es ar s_ c a m p </s>
+<s> s en t in e l s_ at_ th e i r_ p o s t_ f i r s t_ s o l d i er_ i f_ w e_ b e_ no t_ r e l i e v ed_ wi th in_ th is_ h ou r_ w e_ m u s t_ r e t u r n _ to_ the_ c ou r t_ of_ g u ar d_ the_ n i g h t_ is_ s h in y_ and_ th e y_ s a y_ w e_ s ha ll_ e m b a t t l e_ b y_ the_ s e c on d_ h ou r_ i_ the_ m or n </s>
+<s> s e c on d_ s o l d i er_ th is_ l a s t_ d a y_ w a s_ a_ s h r e w d_ on e_ t o s </s>
+<s> en t er_ d om i ti us_ en o b ar b us_ d om i ti us_ en o b ar b us_ o_ b ea r_ m e_ wi t n es s_ n i g h t_ th i r d_ s o l d i er_ w ha t_ m an _ is_ th i s </s>
+<s> s e c on d_ s o l d i er_ s t and_ c l o s e_ and_ l i s t_ h i m </s>
+<s> d om i ti us_ en o b ar b us_ b e_ wi t n es s_ to_ m e_ o_ th ou _ b l es s ed_ m o on_ wh en_ m en_ r e v o l t ed_ s ha ll_ u p on_ r e c or d_ b ea r_ ha t e f u l _ m e m or y_ p o o r_ en o b ar b us_ d i d_ b e f or e_ th y_ f a c e_ r e p en t </s>
+<s> f i r s t_ s o l d i er_ en o b ar b u s </s>
+<s> th i r d_ s o l d i er_ p ea c e </s>
+<s> ha r k _ f u r th er </s>
+<s> d om i ti us_ en o b ar b us_ o_ s o v er e i g n _ m i s t r es s_ of_ t r u e_ m e l an ch o l y_ the_ p o i s on ou s_ d a m p _ of_ n i g h t_ d i s p on g e_ u p on_ m e_ th at_ l i f e_ a_ v er y_ r e b e l _ to_ m y_ wi ll_ m a y_ h an g_ n o_ l on g er_ on_ m e_ th r o w _ m y_ h ea r t_ a g a in s t_ the_ f l in t_ and_ ha r d n es s_ of_ m y_ f a u l t_ wh i ch _ b e ing_ d r i ed_ wi th_ g r i e f_ wi ll_ b r ea k _ to_ p o w d er_ and_ f in i s h _ a ll_ f ou l _ th ou g h t s </s>
+<s> o_ an t on y_ no b l er_ th an _ m y_ r e v o l t_ is_ in f a m ou s_ f or g i ve_ m e_ in_ th in e_ o w n _ p ar ti c u l a r_ b u t_ l e t_ the_ w or l d_ r an k _ m e_ in_ r e g i s t er_ a_ m a s t er l ea v er_ and_ a_ f u g i ti ve_ o_ an t on y </s>
+<s> o_ an t on y </s>
+<s> d i es_ s e c on d_ s o l d i er_ l e t s_ s p ea k _ to_ h i m </s>
+<s> f i r s t_ s o l d i er_ l e t s_ h ea r_ h i m_ f o r_ the_ th in g s_ h e_ s p ea k s_ m a y_ c on c er n _ c a es ar </s>
+<s> th i r d_ s o l d i er_ l e t s_ d o_ s o </s>
+<s> b u t_ h e_ s l e e p s </s>
+<s> f i r s t_ s o l d i er_ s w o on s_ r a th er_ f o r_ s o_ b a d_ a_ p r a y er_ a s_ h is_ w a s_ n e v er_ y e t_ f o r_ s l e e p </s>
+<s> s e c on d_ s o l d i er_ g o_ w e_ to_ h i m </s>
+<s> th i r d_ s o l d i er_ a w a k e_ s i r_ a w a k e_ s p ea k _ to_ u s </s>
+<s> s e c on d_ s o l d i er_ h ea r_ you_ s i r </s>
+<s> f i r s t_ s o l d i er_ the_ h and_ of_ d ea th_ ha th_ r a u g h t_ h i m </s>
+<s> d r u m s_ a f a r_ o f f_ ha r k </s>
+<s> the_ d r u m s_ d e m u r e l y_ w a k e_ the_ s l e e p er s </s>
+<s> l e t_ us_ b ea r_ h i m_ to_ the_ c ou r t_ of_ g u ar d_ h e_ is_ of_ no t e_ ou r_ h ou r_ is_ f u ll y_ ou t </s>
+<s> th i r d_ s o l d i er_ c om e_ on_ th en_ h e_ m a y_ r e c o v er_ y e t </s>
+<s> e x e u n t_ wi th_ the_ b o d y_ s c en e_ x </s>
+<s> b e t w e en_ the_ t w o_ c a m p s </s>
+<s> en t er_ m ar k _ an t on y_ and_ s c ar us_ wi th_ th e i r_ ar m y_ m ar k _ an t on y_ th e i r_ p r e p ar a ti on_ is_ t o d a y_ b y_ s ea _ w e_ p l ea s e_ th e m_ no t_ b y_ l an d </s>
+<s> s c ar us_ f o r_ b o th_ m y_ l or d </s>
+<s> m ar k _ an t on y_ i_ w ou l d_ th e y l d_ f i g h t_ i_ the_ f i r e_ o r_ i_ the_ a i r_ w e l d_ f i g h t_ th er e_ t o o </s>
+<s> b u t_ th is_ i t_ is_ ou r_ f o o t_ u p on_ the_ h i ll s_ a d j o in ing_ to_ the_ c i t y_ s ha ll_ s t a y_ wi th_ us_ or d er_ f o r_ s ea _ is_ g i v en_ th e y_ ha ve_ p u t_ f or th_ the_ ha v en_ wh er e_ th e i r_ a p p o in t m en t_ w e_ m a y_ b es t_ d i s c o v er_ and_ l o o k _ on_ th e i r_ en d ea v ou r </s>
+<s> e x e u n t_ s c en e_ x i </s>
+<s> an o th er_ p ar t_ of_ the_ s a m e </s>
+<s> en t er_ o c t a v i us_ c a es a r_ and_ h is_ ar m y_ o c t a v i us_ c a es a r_ b u t_ b e ing_ c ha r g ed_ w e_ wi ll_ b e_ s ti ll_ b y_ l and_ wh i ch _ a s_ i_ t a k e t_ w e_ s ha ll_ f o r_ h is_ b es t_ f or c e_ is_ f or th_ to_ m an _ h is_ g a ll e y s </s>
+<s> to_ the_ v a l es_ and_ h o l d_ ou r_ b es t_ a d v an t a g e </s>
+<s> e x e u n t_ s c en e_ x i i </s>
+<s> an o th er_ p ar t_ of_ the_ s a m e </s>
+<s> en t er_ m ar k _ an t on y_ and_ s c ar us_ m ar k _ an t on y_ y e t_ th e y_ ar e_ no t_ j o in d_ wh er e_ y on d_ p in e_ d o es_ s t and_ i_ s ha ll_ d i s c o v er_ a ll_ i ll_ b r ing_ th e e_ w or d_ s t r a i g h t_ h o w _ t is_ l i k e_ to_ g o </s>
+<s> e x i t_ s c ar us_ s w a ll o w s_ ha ve_ b u i l t_ in_ c l e o p a t r a s_ s a i l s_ th e i r_ n es t s_ the_ a u g u r er s_ s a y_ th e y_ k no w _ no t_ th e y_ c an no t_ t e ll_ l o o k _ g r i m l y_ and_ d ar e_ no t_ s p ea k _ th e i r_ k no w l e d g e </s>
+<s> an t on y_ is_ v a l i an t_ and_ d e j e c t ed_ and_ b y_ s t ar t s_ h is_ f r e t t ed_ f or t u n es_ g i ve_ h i m_ h o p e_ and_ f ea r_ of_ w ha t_ h e_ ha s_ and_ ha s_ no t </s>
+<s> a l ar u m_ a f a r_ o f f_ a s_ at_ a_ s ea f i g h t_ r e en t er_ m ar k _ an t on y_ m ar k _ an t on y_ a ll_ is_ l o s t_ th is_ f ou l _ e g y p ti an _ ha th_ b e t r a y ed_ m e_ m y_ f l e e t_ ha th_ y i e l d ed_ to_ the_ f o e_ and_ y on d er_ th e y_ c a s t_ th e i r_ c a p s_ u p _ and_ c ar ou s e_ t o g e th er_ l i k e_ f r i en d s_ l on g_ l o s t </s>
+<s> t r i p l e t u r n d_ wh or e </s>
+<s> t is_ th ou _ ha s t_ s o l d_ m e_ to_ th is_ no v i c e_ and_ m y_ h ea r t_ m a k es_ on l y_ w ar s_ on_ th e e </s>
+<s> b i d_ th e m_ a ll_ f l y_ f o r_ wh en_ i_ a m_ r e v en g ed_ u p on_ m y_ c ha r m_ i_ ha ve_ d on e_ a ll </s>
+<s> b i d_ th e m_ a ll_ f l y_ b e g on e </s>
+<s> e x i t_ s c ar us_ o_ s u n _ th y_ u p r i s e_ s ha ll_ i_ s e e_ n o_ m or e_ f or t u n e_ and_ an t on y_ p ar t_ h er e_ e v en_ h er e_ d o_ w e_ s ha k e_ h an d s </s>
+<s> a ll_ c om e_ to_ th i s </s>
+<s> the_ h ea r t s_ th at_ s p an i e l d_ m e_ at_ h e e l s_ to_ wh om _ i_ g a ve_ th e i r_ wi s h es_ d o_ d i s c an d y_ m e l t_ th e i r_ s w e e t s_ on_ b l o s s om ing_ c a es a r_ and_ th is_ p in e_ is_ b ar k d_ th at_ o v er t o p p d_ th e m_ a ll </s>
+<s> b e t r a y d_ i_ a m_ o_ th is_ f a l s e_ s ou l _ of_ e g y p t </s>
+<s> th is_ g r a ve_ c ha r m_ wh o s e_ e y e_ b e c k d_ f or th_ m y_ w ar s_ and_ c a ll d_ th e m_ h om e_ wh o s e_ b o s om _ w a s_ m y_ c r o w n e t_ m y_ ch i e f_ en d_ l i k e_ a_ r i g h t_ g i p s y_ ha th_ at_ f a s t_ and_ l o o s e_ b e g u i l ed_ m e_ to_ the_ v er y_ h ea r t_ of_ l o s s </s>
+<s> w ha t_ er o s_ er o s </s>
+<s> en t er_ c l e o p a t r a_ a h _ th ou _ s p e ll </s>
+<s> a v a u n t </s>
+<s> c l e o p a t r a_ wh y_ is_ m y_ l or d_ en r a g ed_ a g a in s t_ h is_ l o v e </s>
+<s> m ar k _ an t on y_ v an i s h _ o r_ i_ s ha ll_ g i ve_ th e e_ th y_ d es er v ing_ and_ b l e m i s h _ c a es ar s_ t r i u m p h </s>
+<s> l e t_ h i m_ t a k e_ th e e_ and_ h o i s t_ th e e_ u p _ to_ the_ s h ou t ing_ p l e b e i an s_ f o ll o w _ h is_ c ha r i o t_ l i k e_ the_ g r ea t es t_ s p o t_ of_ a ll_ th y_ s e x _ m o s t_ m on s t er l i k e_ b e_ s h o w n _ f o r_ p o or s t_ d i m in u ti v es_ f o r_ d o i t s_ and_ l e t_ p a ti en t_ o c t a v i a_ p l ou g h _ th y_ v i s a g e_ u p _ wi th_ h er_ p r e p ar ed_ n a i l s </s>
+<s> e x i t_ c l e o p a t r a_ t is_ w e ll_ th ou r t_ g on e_ i f_ i t_ b e_ w e ll_ to_ l i ve_ b u t_ b e t t er_ t w er e_ th ou _ f e ll s t_ in to_ m y_ f u r y_ f o r_ on e_ d ea th_ m i g h t_ ha ve_ p r e v en t ed_ m an y </s>
+<s> er o s_ h o </s>
+<s> the_ s h i r t_ of_ n es s us_ is_ u p on_ m e_ t ea ch _ m e_ a l c i d es_ th ou _ m in e_ an c es t o r_ th y_ r a g e_ l e t_ m e_ l o d g e_ l i c ha s_ on_ the_ h or n s_ o_ the_ m o on_ and_ wi th_ th o s e_ h an d s_ th at_ g r a s p d_ the_ h ea v i es t_ c l u b _ s u b d u e_ m y_ w or th i es t_ s e l f </s>
+<s> the_ wi t ch _ s ha ll_ d i e_ to_ the_ you n g_ r om an _ b o y_ s h e_ ha th_ s o l d_ m e_ and_ i_ f a ll_ u n d er_ th is_ p l o t_ s h e_ d i es_ f or t </s>
+<s> er o s_ h o </s>
+<s> e x i t_ s c en e_ x i i i </s>
+<s> a l e x an d r i a </s>
+<s> c l e o p a t r a s_ p a l a c e </s>
+<s> en t er_ c l e o p a t r a_ c ha r m i an _ i r a s_ and_ m ar d i an _ c l e o p a t r a_ h e l p _ m e_ m y_ w om en </s>
+<s> o_ h e_ is_ m or e_ m a d_ th an _ t e l a m on_ f o r_ h is_ s h i e l d_ the_ b o a r_ of_ th es s a l y_ w a s_ n e v er_ s o_ e m b o s s d </s>
+<s> c ha r m i an _ to_ the_ m on u m en t </s>
+<s> th er e_ l o c k _ you r s e l f_ and_ s en d_ h i m_ w or d_ you_ ar e_ d ea d </s>
+<s> the_ s ou l _ and_ b o d y_ r i ve_ no t_ m or e_ in_ p ar t ing_ th an _ g r ea t n es s_ g o ing_ o f f </s>
+<s> c l e o p a t r a_ to_ the_ m on u m en t </s>
+<s> m ar d i an _ g o_ t e ll_ h i m_ i_ ha ve_ s l a in_ m y s e l f_ s a y_ th at_ the_ l a s t_ i_ s p o k e_ w a s_ an t on y_ and_ w or d_ i t_ p r i th e e_ p i t e ou s l y_ h en c e_ m ar d i an _ and_ b r ing_ m e_ h o w _ h e_ t a k es_ m y_ d ea th </s>
+<s> to_ the_ m on u m en t </s>
+<s> e x e u n t_ s c en e_ x i v </s>
+<s> the_ s a m e </s>
+<s> an o th er_ r o om </s>
+<s> en t er_ m ar k _ an t on y_ and_ er o s_ m ar k _ an t on y_ er o s_ th ou _ y e t_ b e h o l d s t_ m e </s>
+<s> er o s_ a y_ no b l e_ l or d </s>
+<s> m ar k _ an t on y_ s om e ti m es_ w e_ s e e_ a_ c l ou d_ th a t s_ d r a g on i s h _ a_ v a p ou r_ s om e ti m e_ l i k e_ a_ b ea r_ o r_ l i on_ a_ t o w er d_ c i t a d e l _ a_ p en d en t_ r o c k _ a_ f or k ed_ m ou n t a in_ o r_ b l u e_ p r om on t or y_ wi th_ t r e es_ u p on t_ th at_ no d_ u n to_ the_ w or l d_ and_ m o c k _ ou r_ e y es_ wi th_ a i r_ th ou _ ha s t_ s e en_ th es e_ s i g n s_ th e y_ ar e_ b l a c k _ v es p er s_ p a g e an t s </s>
+<s> er o s_ a y_ m y_ l or d_ m ar k _ an t on y_ th at_ wh i ch _ is_ no w _ a_ h or s e_ e v en_ wi th_ a_ th ou g h t_ the_ r a c k _ d i s l i m n s_ and_ m a k es_ i t_ in d i s t in c t_ a s_ w a t er_ is_ in_ w a t er </s>
+<s> er o s_ i t_ d o es_ m y_ l or d </s>
+<s> m ar k _ an t on y_ m y_ g o o d_ k n a ve_ er o s_ no w _ th y_ c a p t a in_ is_ e v en_ s u ch _ a_ b o d y_ h er e_ i_ a m_ an t on y_ y e t_ c an no t_ h o l d_ th is_ v i s i b l e_ s ha p e_ m y_ k n a v e </s>
+<s> i_ m a d e_ th es e_ w ar s_ f o r_ e g y p t_ and_ the_ q u e en_ wh o s e_ h ea r t_ i_ th ou g h t_ i_ ha d_ f o r_ s h e_ ha d_ m in e_ wh i ch _ wh i l s t_ i t_ w a s_ m in e_ ha d_ an n e x d_ u n t o t_ a_ m i ll i on_ m or e_ no w _ l o s t s h e_ er o s_ ha s_ p a c k d_ c ar d s_ wi th_ c a es a r_ and_ f a l s e p l a y d_ m y_ g l or y_ u n to_ an _ en e m y s_ t r i u m p h </s>
+<s> n a y_ w e e p _ no t_ g en t l e_ er o s_ th er e_ is_ l e f t_ us_ ou r s e l v es_ to_ en d_ ou r s e l v es </s>
+<s> en t er_ m ar d i an _ o </s>
+<s> th y_ v i l e_ l a d y </s>
+<s> s h e_ ha s_ r o b b d_ m e_ of_ m y_ s w or d </s>
+<s> m ar d i an _ n o_ an t on y_ m y_ m i s t r es s_ l o v ed_ th e e_ and_ h er_ f or t u n es_ m in g l ed_ wi th_ th in e_ en ti r e l y </s>
+<s> m ar k _ an t on y_ h en c e_ s a u c y_ e u n u ch _ p ea c e </s>
+<s> s h e_ ha th_ b e t r a y d_ m e_ and_ s ha ll_ d i e_ the_ d ea th </s>
+<s> m ar d i an _ d ea th_ of_ on e_ p er s on_ c an _ b e_ p a i d_ b u t_ on c e_ and_ th at_ s h e_ ha s_ d i s c ha r g ed_ w ha t_ th ou _ w ou l d s t_ d o_ is_ d on e_ u n to_ th y_ h and_ the_ l a s t_ s h e_ s p a k e_ w a s_ an t on y </s>
+<s> m o s t_ no b l e_ an t on y_ th en_ in_ the_ m i d s t_ a_ t ea r ing_ g r o an _ d i d_ b r ea k _ the_ n a m e_ of_ an t on y_ i t_ w a s_ d i v i d ed_ b e t w e en_ h er_ h ea r t_ and_ l i p s_ s h e_ r en d er d_ l i f e_ th y_ n a m e_ s o_ b u r i ed_ in_ h er </s>
+<s> m ar k _ an t on y_ d ea d_ th en </s>
+<s> m ar d i an _ d ea d </s>
+<s> m ar k _ an t on y_ u n ar m_ er o s_ the_ l on g_ d a y s_ t a s k _ is_ d on e_ and_ w e_ m u s t_ s l e e p </s>
+<s> to_ m ar d i an _ th at_ th ou _ d e p ar t s t_ h en c e_ s a f e_ d o es_ p a y_ th y_ l a b ou r_ r i ch l y_ g o </s>
+<s> e x i t_ m ar d i an _ o f f_ p l u c k _ o f f_ the_ s e v en f o l d_ s h i e l d_ of_ a j a x _ c an no t_ k e e p _ the_ b a t t er y_ f r om _ m y_ h ea r t </s>
+<s> o_ c l ea ve_ m y_ s i d es </s>
+<s> h ea r t_ on c e_ b e_ s t r on g er_ th an _ th y_ c on t in en t_ c r a c k _ th y_ f r a i l _ c a s e </s>
+<s> a p a c e_ er o s_ a p a c e </s>
+<s> n o_ m or e_ a_ s o l d i er_ b r u i s ed_ p i e c es_ g o_ you_ ha ve_ b e en_ no b l y_ b or n e </s>
+<s> f r om _ m e_ a wh i l e </s>
+<s> e x i t_ er o s_ i_ wi ll_ o er t a k e_ th e e_ c l e o p a t r a_ and_ w e e p _ f o r_ m y_ p ar d on </s>
+<s> s o_ i t_ m u s t_ b e_ f o r_ no w _ a ll_ l en g th_ is_ t or t u r e_ s in c e_ the_ t or ch _ is_ ou t_ l i e_ d o w n _ and_ s t r a y_ n o_ f ar th er_ no w _ a ll_ l a b ou r_ m ar s_ w ha t_ i t_ d o es_ y ea _ v er y_ f or c e_ en t an g l es_ i t s e l f_ wi th_ s t r en g th_ s ea l _ th en_ and_ a ll_ is_ d on e </s>
+<s> er o s i_ c om e_ m y_ q u e en er o s s t a y_ f o r_ m e_ wh er e_ s ou l s_ d o_ c ou ch _ on_ f l o w er s_ w e ll_ f e t ch _ d r i er_ l o g s_ c a ll_ p e t er_ h e_ wi ll_ s h o w _ th e e_ wh er e_ th e y_ ar e </s>
+<s> s e c on d_ s er v an t_ i_ ha ve_ a_ h ea d_ s i r_ th at_ wi ll_ f in d_ ou t_ l o g s_ and_ n e v er_ t r ou b l e_ p e t er_ f o r_ the_ m a t t er </s>
+<s> e x i t_ c a p u l e t_ m a s s_ and_ w e ll_ s a i d_ a_ m er r y_ wh or es on_ ha </s>
+<s> th ou _ s ha l t_ b e_ l o g g er h ea d </s>
+<s> g o o d_ f a i th_ t is_ d a y_ the_ c ou n t y_ wi ll_ b e_ h er e_ wi th_ m u s i c _ s t r a i g h t_ f o r_ s o_ h e_ s a i d_ h e_ w ou l d_ i_ h ea r_ h i m_ n ea r </s>
+<s> m u s i c _ wi th in_ n u r s e </s>
+<s> wi f e </s>
+<s> w ha t_ h o </s>
+<s> w ha t_ n u r s e_ i_ s a y </s>
+<s> r e en t er_ n u r s e_ g o_ w a k en_ j u l i e t_ g o_ and_ t r i m_ h er_ u p _ i ll_ g o_ and_ c ha t_ wi th_ p ar is_ h i e_ m a k e_ ha s t e_ m a k e_ ha s t e_ the_ b r i d e g r o om _ h e_ is_ c om e_ a l r ea d y_ m a k e_ ha s t e_ i_ s a y </s>
+<s> e x e u n t_ s c en e_ v </s>
+<s> j u l i e t s_ c ha m b er </s>
+<s> en t er_ n u r s e_ n u r s e_ m i s t r es s </s>
+<s> w ha t_ m i s t r es s </s>
+<s> j u l i e t </s>
+<s> f a s t_ i_ w ar r an t_ h er_ s h e_ wh y_ l a m b </s>
+<s> wh y_ l a d y </s>
+<s> f i e_ you_ s l u g a b e d </s>
+<s> wh y_ l o ve_ i_ s a y </s>
+<s> m a d a m </s>
+<s> s w e e th ea r t </s>
+<s> wh y_ b r i d e </s>
+<s> w ha t_ no t_ a_ w or d </s>
+<s> you_ t a k e_ you r_ p en n y w or th s_ no w _ s l e e p _ f o r_ a_ w e e k _ f o r_ the_ n e x t_ n i g h t_ i_ w ar r an t_ the_ c ou n t y_ p ar is_ ha th_ s e t_ u p _ h is_ r es t_ th at_ you_ s ha ll_ r es t_ b u t_ l i t t l e </s>
+<s> g o d_ f or g i ve_ m e_ m ar r y_ and_ a m en_ h o w _ s ou n d_ is_ s h e_ a s l e e p </s>
+<s> i_ m u s t_ n e e d s_ w a k e_ h er </s>
+<s> m a d a m_ m a d a m_ m a d a m </s>
+<s> a y_ l e t_ the_ c ou n t y_ t a k e_ you_ in_ you r_ b ed_ h e ll_ f r i g h t_ you_ u p _ i_ f a i th </s>
+<s> wi ll_ i t_ no t_ b e </s>
+<s> u n d r a w s_ the_ c u r t a in s_ w ha t_ d r es s d </s>
+<s> and_ in_ you r_ c l o th es </s>
+<s> and_ d o w n _ a g a in </s>
+<s> i_ m u s t_ n e e d s_ w a k e_ you_ l a d y </s>
+<s> l a d y </s>
+<s> l a d y </s>
+<s> a l a s_ a l a s </s>
+<s> h e l p _ h e l p </s>
+<s> m y_ l a d y s_ d ea d </s>
+<s> o_ w e ll a d a y_ th at_ e v er_ i_ w a s_ b or n </s>
+<s> s om e_ a q u a_ v i t a e_ h o </s>
+<s> m y_ l or d </s>
+<s> m y_ l a d y </s>
+<s> en t er_ l a d y_ c a p u l e t_ l a d y_ c a p u l e t_ w ha t_ no i s e_ is_ h er e </s>
+<s> n u r s e_ o_ l a m en t a b l e_ d a y </s>
+<s> l a d y_ c a p u l e t_ w ha t_ is_ the_ m a t t er </s>
+<s> n u r s e_ l o o k _ l o o k </s>
+<s> o_ h ea v y_ d a y </s>
+<s> l a d y_ c a p u l e t_ o_ m e_ o_ m e </s>
+<s> m y_ ch i l d_ m y_ on l y_ l i f e_ r e v i ve_ l o o k _ u p _ o r_ i_ wi ll_ d i e_ wi th_ th e e </s>
+<s> h e l p _ h e l p </s>
+<s> c a ll_ h e l p </s>
+<s> en t er_ c a p u l e t_ c a p u l e t_ f o r_ s ha m e_ b r ing_ j u l i e t_ f or th_ h er_ l or d_ is_ c om e </s>
+<s> n u r s e_ s h es_ d ea d_ d e c ea s ed_ s h es_ d ea d_ a l a c k _ the_ d a y </s>
+<s> l a d y_ c a p u l e t_ a l a c k _ the_ d a y_ s h es_ d ea d_ s h es_ d ea d_ s h es_ d ea d </s>
+<s> c a p u l e t_ ha </s>
+<s> l e t_ m e_ s e e_ h er_ ou t_ a l a s </s>
+<s> s h es_ c o l d_ h er_ b l o o d_ is_ s e t t l ed_ and_ h er_ j o in t s_ ar e_ s ti f f_ l i f e_ and_ th es e_ l i p s_ ha ve_ l on g_ b e en_ s e p ar a t ed_ d ea th_ l i es_ on_ h er_ l i k e_ an _ u n ti m e l y_ f r o s t_ u p on_ the_ s w e e t es t_ f l o w er_ of_ a ll_ the_ f i e l d </s>
+<s> n u r s e_ o_ l a m en t a b l e_ d a y </s>
+<s> l a d y_ c a p u l e t_ o_ w o f u l _ ti m e </s>
+<s> c a p u l e t_ d ea th_ th at_ ha th_ t a en_ h er_ h en c e_ to_ m a k e_ m e_ w a i l _ ti es_ u p _ m y_ t on g u e_ and_ wi ll_ no t_ l e t_ m e_ s p ea k </s>
+<s> en t er_ f r i a r_ l a u r en c e_ and_ p ar is_ wi th_ m u s i c i an s_ f r i a r_ l a u r en c e_ c om e_ is_ the_ b r i d e_ r ea d y_ to_ g o_ to_ ch u r ch </s>
+<s> c a p u l e t_ r ea d y_ to_ g o_ b u t_ n e v er_ to_ r e t u r n </s>
+<s> o_ s on </s>
+<s> the_ n i g h t_ b e f or e_ th y_ w e d d in g d a y_ ha th_ d ea th_ l a in_ wi th_ th y_ wi f e </s>
+<s> th er e_ s h e_ l i es_ f l o w er_ a s_ s h e_ w a s_ d e f l o w er ed_ b y_ h i m </s>
+<s> d ea th_ is_ m y_ s on in l a w _ d ea th_ is_ m y_ h e i r_ m y_ d a u g h t er_ h e_ ha th_ w e d d ed_ i_ wi ll_ d i e_ and_ l ea ve_ h i m_ a ll_ l i f e_ l i v ing_ a ll_ is_ d ea th s </s>
+<s> p ar is_ ha ve_ i_ th ou g h t_ l on g_ to_ s e e_ th is_ m or n in g s_ f a c e_ and_ d o th_ i t_ g i ve_ m e_ s u ch _ a_ s i g h t_ a s_ th i s </s>
+<s> l a d y_ c a p u l e t_ a c c u r s ed_ u n ha p p y_ w r e t ch ed_ ha t e f u l _ d a y </s>
+<s> m o s t_ m i s er a b l e_ h ou r_ th at_ e er_ ti m e_ s a w _ in_ l a s t ing_ l a b ou r_ of_ h is_ p i l g r i m a g e </s>
+<s> b u t_ on e_ p o o r_ on e_ on e_ p o o r_ and_ l o v ing_ ch i l d_ b u t_ on e_ th ing_ to_ r e j o i c e_ and_ s o l a c e_ in_ and_ c r u e l _ d ea th_ ha th_ c a t ch d_ i t_ f r om _ m y_ s i g h t </s>
+<s> n u r s e_ o_ w o e </s>
+<s> o_ w o f u l _ w o f u l _ w o f u l _ d a y </s>
+<s> m o s t_ l a m en t a b l e_ d a y_ m o s t_ w o f u l _ d a y_ th at_ e v er_ e v er_ i_ d i d_ y e t_ b e h o l d </s>
+<s> o_ d a y </s>
+<s> o_ d a y </s>
+<s> o_ d a y </s>
+<s> o_ ha t e f u l _ d a y </s>
+<s> n e v er_ w a s_ s e en_ s o_ b l a c k _ a_ d a y_ a s_ th is_ o_ w o f u l _ d a y_ o_ w o f u l _ d a y </s>
+<s> p ar is_ b e g u i l ed_ d i v or c ed_ w r on g ed_ s p i t ed_ s l a in </s>
+<s> m o s t_ d e t es t a b l e_ d ea th_ b y_ th e e_ b e g u i l d_ b y_ c r u e l _ c r u e l _ th e e_ q u i t e_ o v er th r o w n </s>
+<s> o_ l o v e </s>
+<s> o_ l i f e </s>
+<s> no t_ l i f e_ b u t_ l o ve_ in_ d ea th </s>
+<s> c a p u l e t_ d es p i s ed_ d i s t r es s ed_ ha t ed_ m ar t y r d_ k i ll d </s>
+<s> u n c om f or t a b l e_ ti m e_ wh y_ c a m es t_ th ou _ no w _ to_ m u r d er_ m u r d er_ ou r_ s o l e m n i t y </s>
+<s> o_ ch i l d </s>
+<s> o_ ch i l d </s>
+<s> m y_ s ou l _ and_ no t_ m y_ ch i l d </s>
+<s> d ea d_ ar t_ th ou </s>
+<s> a l a c k </s>
+<s> m y_ ch i l d_ is_ d ea d_ and_ wi th_ m y_ ch i l d_ m y_ j o y s_ ar e_ b u r i e d </s>
+<s> f r i a r_ l a u r en c e_ p ea c e_ h o_ f o r_ s ha m e </s>
+<s> c on f u s i on s_ c u r e_ l i v es_ no t_ in_ th es e_ c on f u s i on s </s>
+<s> h ea v en_ and_ you r s e l f_ ha d_ p ar t_ in_ th is_ f a i r_ m a i d_ no w _ h ea v en_ ha th_ a ll_ and_ a ll_ the_ b e t t er_ is_ i t_ f o r_ the_ m a i d_ you r_ p ar t_ in_ h er_ you_ c ou l d_ no t_ k e e p _ f r om _ d ea th_ b u t_ h ea v en_ k e e p s_ h is_ p ar t_ in_ e t er n a l _ l i f e </s>
+<s> the_ m o s t_ you_ s ou g h t_ w a s_ h er_ p r om o ti on_ f o r_ t w a s_ you r_ h ea v en_ s h e_ s h ou l d_ b e_ a d v an c ed_ and_ w e e p _ y e_ no w _ s e e ing_ s h e_ is_ a d v an c ed_ a b o ve_ the_ c l ou d s_ a s_ h i g h _ a s_ h ea v en_ i t s e l f </s>
+<s> o_ in_ th is_ l o ve_ you_ l o ve_ you r_ ch i l d_ s o_ i ll_ th at_ you_ r u n _ m a d_ s e e ing_ th at_ s h e_ is_ w e ll_ s h es_ no t_ w e ll_ m ar r i ed_ th at_ l i v es_ m ar r i ed_ l on g_ b u t_ s h es_ b es t_ m ar r i ed_ th at_ d i es_ m ar r i ed_ you n g </s>
+<s> d r y_ u p _ you r_ t ea r s_ and_ s ti c k _ you r_ r o s e m ar y_ on_ th is_ f a i r_ c or s e_ and_ a s_ the_ c u s t om _ is_ in_ a ll_ h er_ b es t_ ar r a y_ b ea r_ h er_ to_ ch u r ch _ f o r_ th ou g h _ f on d_ n a t u r e_ b i d s_ us_ an _ l a m en t_ y e t_ n a t u r es_ t ea r s_ ar e_ r ea s on s_ m er r i m en t </s>
+<s> c a p u l e t_ a ll_ th in g s_ th at_ w e_ or d a in ed_ f es ti v a l _ t u r n _ f r om _ th e i r_ o f f i c e_ to_ b l a c k _ f u n er a l _ ou r_ in s t r u m en t s_ to_ m e l an ch o l y_ b e ll s_ ou r_ w e d d ing_ ch e er_ to_ a_ s a d_ b u r i a l _ f ea s t_ ou r_ s o l e m n _ h y m n s_ to_ s u ll en_ d i r g es_ ch an g e_ ou r_ b r i d a l _ f l o w er s_ s er ve_ f o r_ a_ b u r i ed_ c or s e_ and_ a ll_ th in g s_ ch an g e_ th e m_ to_ the_ c on t r ar y </s>
+<s> f r i a r_ l a u r en c e_ s i r_ g o_ you_ in_ and_ m a d a m_ g o_ wi th_ h i m_ and_ g o_ s i r_ p ar is_ e v er y_ on e_ p r e p ar e_ to_ f o ll o w _ th is_ f a i r_ c or s e_ u n to_ h er_ g r a ve_ the_ h ea v en s_ d o_ l ou r_ u p on_ you_ f o r_ s om e_ i ll_ m o ve_ th e m_ n o_ m or e_ b y_ c r o s s ing_ th e i r_ h i g h _ wi ll </s>
+<s> e x e u n t_ c a p u l e t_ l a d y_ c a p u l e t_ p ar is_ and_ f r i a r_ l a u r en c e_ f i r s t_ m u s i c i an _ f a i th_ w e_ m a y_ p u t_ u p _ ou r_ p i p es_ and_ b e_ g on e </s>
+<s> n u r s e_ h on es t_ g o o d f e ll o w s_ a h _ p u t_ u p _ p u t_ u p _ f o r_ w e ll_ you_ k no w _ th is_ is_ a_ p i ti f u l _ c a s e </s>
+<s> e x i t_ f i r s t_ m u s i c i an _ a y_ b y_ m y_ t r o th_ the_ c a s e_ m a y_ b e_ a m en d e d </s>
+<s> en t er_ p e t er_ p e t er_ m u s i c i an s_ o_ m u s i c i an s_ h ea r t s_ ea s e_ h ea r t s_ ea s e_ o_ an _ you_ wi ll_ ha ve_ m e_ l i ve_ p l a y_ h ea r t s_ ea s e_ f i r s t_ m u s i c i an _ wh y_ h ea r t s_ ea s e_ p e t er_ o_ m u s i c i an s_ b e c a u s e_ m y_ h ea r t_ i t s e l f_ p l a y s_ m y_ h ea r t_ is_ f u ll_ of_ w o e_ o_ p l a y_ m e_ s om e_ m er r y_ d u m p _ to_ c om f or t_ m e </s>
+<s> f i r s t_ m u s i c i an _ no t_ a_ d u m p _ w e_ t is_ n o_ ti m e_ to_ p l a y_ no w </s>
+<s> p e t er_ you_ wi ll_ no t_ th en </s>
+<s> f i r s t_ m u s i c i an _ no </s>
+<s> p e t er_ i_ wi ll_ th en_ g i ve_ i t_ you_ s ou n d l y </s>
+<s> f i r s t_ m u s i c i an _ w ha t_ wi ll_ you_ g i ve_ u s </s>
+<s> p e t er_ n o_ m on e y_ on_ m y_ f a i th_ b u t_ the_ g l e e k _ i_ wi ll_ g i ve_ you_ the_ m in s t r e l </s>
+<s> f i r s t_ m u s i c i an _ th en_ i_ wi ll_ g i ve_ you_ the_ s er v in g c r ea t u r e </s>
+<s> p e t er_ th en_ wi ll_ i_ l a y_ the_ s er v in g c r ea t u r es_ d a g g er_ on_ you r_ p a t e </s>
+<s> i_ wi ll_ c ar r y_ n o_ c r o t ch e t s_ i ll_ r e_ you_ i ll_ f a_ you_ d o_ you_ no t e_ m e </s>
+<s> f i r s t_ m u s i c i an _ an _ you_ r e_ us_ and_ f a_ us_ you_ no t e_ u s </s>
+<s> s e c on d_ m u s i c i an _ p r a y_ you_ p u t_ u p _ you r_ d a g g er_ and_ p u t_ ou t_ you r_ wi t </s>
+<s> p e t er_ th en_ ha ve_ at_ you_ wi th_ m y_ wi t </s>
+<s> i_ wi ll_ d r y b ea t_ you_ wi th_ an _ i r on_ wi t_ and_ p u t_ u p _ m y_ i r on_ d a g g er </s>
+<s> an s w er_ m e_ l i k e_ m en_ wh en_ g r i p ing_ g r i e f_ the_ h ea r t_ d o th_ w ou n d_ and_ d o l e f u l _ d u m p s_ the_ m in d_ o p p r es s_ th en_ m u s i c _ wi th_ h er_ s i l v er_ s ou n d_ wh y_ s i l v er_ s ou n d </s>
+<s> wh y_ m u s i c _ wi th_ h er_ s i l v er_ s ou n d </s>
+<s> w ha t_ s a y_ you_ s i m on_ c a t l in g </s>
+<s> m u s i c i an _ m ar r y_ s i r_ b e c a u s e_ s i l v er_ ha th_ a_ s w e e t_ s ou n d </s>
+<s> p e t er_ p r e t t y </s>
+<s> w ha t_ s a y_ you_ h u g h _ r e b e c k </s>
+<s> s e c on d_ m u s i c i an _ i_ s a y_ s i l v er_ s ou n d_ b e c a u s e_ m u s i c i an s_ s ou n d_ f o r_ s i l v er </s>
+<s> p e t er_ p r e t t y_ t o o </s>
+<s> w ha t_ s a y_ you_ j a m es_ s ou n d p o s t </s>
+<s> th i r d_ m u s i c i an _ f a i th_ i_ k no w _ no t_ w ha t_ to_ s a y </s>
+<s> p e t er_ o_ i_ c r y_ you_ m er c y_ you_ ar e_ the_ s in g er_ i_ wi ll_ s a y_ f o r_ you </s>
+<s> i t_ is_ m u s i c _ wi th_ h er_ s i l v er_ s ou n d_ b e c a u s e_ m u s i c i an s_ ha ve_ n o_ g o l d_ f o r_ s ou n d ing_ th en_ m u s i c _ wi th_ h er_ s i l v er_ s ou n d_ wi th_ s p e e d y_ h e l p _ d o th_ l en d_ r e d r es s_ e x i t_ f i r s t_ m u s i c i an _ w ha t_ a_ p es ti l en t_ k n a ve_ is_ th is_ s a m e </s>
+<s> s e c on d_ m u s i c i an _ h an g_ h i m_ j a c k </s>
+<s> c om e_ w e ll_ in_ h er e_ t ar r y_ f o r_ the_ m ou r n er s_ and_ s t a y_ d in n er </s>
+<s> e x e u n t_ a c t_ v _ s c en e_ i </s>
+<s> m an t u a </s>
+<s> a_ s t r e e t </s>
+<s> en t er_ r om e o_ r om e o_ i f_ i_ m a y_ t r u s t_ the_ f l a t t er ing_ t r u th_ of_ s l e e p _ m y_ d r ea m s_ p r es a g e_ s om e_ j o y f u l _ n e w s_ at_ h and_ m y_ b o s om s_ l or d_ s i t s_ l i g h t l y_ in_ h is_ th r on e_ and_ a ll_ th is_ d a y_ an _ u n a c c u s t om d_ s p i r i t_ l i f t s_ m e_ a b o ve_ the_ g r ou n d_ wi th_ ch e er f u l _ th ou g h t s </s>
+<s> i_ d r ea m t_ m y_ l a d y_ c a m e_ and_ f ou n d_ m e_ d ea d_ s t r an g e_ d r ea m_ th at_ g i v es_ a_ d ea d_ m an _ l ea ve_ to_ th in k _ and_ b r ea th ed_ s u ch _ l i f e_ wi th_ k i s s es_ in_ m y_ l i p s_ th at_ i_ r e v i v ed_ and_ w a s_ an _ e m p er or </s>
+<s> a h _ m e </s>
+<s> h o w _ s w e e t_ is_ l o ve_ i t s e l f_ p o s s es s d_ wh en_ b u t_ l o v es_ s ha d o w s_ ar e_ s o_ r i ch _ in_ j o y </s>
+<s> en t er_ b a l th a s a r_ b o o t ed_ n e w s_ f r om _ v er on a h o w _ no w _ b a l th a s ar </s>
+<s> d o s t_ th ou _ no t_ b r ing_ m e_ l e t t er s_ f r om _ the_ f r i ar </s>
+<s> h o w _ d o th_ m y_ l a d y </s>
+<s> is_ m y_ f a th er_ w e ll </s>
+<s> h o w _ f ar es_ m y_ j u l i e t </s>
+<s> th at_ i_ a s k _ a g a in_ f o r_ no th ing_ c an _ b e_ i ll_ i f_ s h e_ b e_ w e ll </s>
+<s> b a l th a s a r_ th en_ s h e_ is_ w e ll_ and_ no th ing_ c an _ b e_ i ll_ h er_ b o d y_ s l e e p s_ in_ c a p e l s_ m on u m en t_ and_ h er_ i m m or t a l _ p ar t_ wi th_ an g e l s_ l i v es </s>
+<s> i_ s a w _ h er_ l a i d_ l o w _ in_ h er_ k in d r e d s_ v a u l t_ and_ p r es en t l y_ t o o k _ p o s t_ to_ t e ll_ i t_ you_ o_ p ar d on_ m e_ f o r_ b r in g ing_ th es e_ i ll_ n e w s_ s in c e_ you_ d i d_ l ea ve_ i t_ f o r_ m y_ o f f i c e_ s i r </s>
+<s> r om e o_ is_ i t_ e v en_ s o </s>
+<s> th en_ i_ d e f y_ you_ s t ar s </s>
+<s> th ou _ k no w s t_ m y_ l o d g ing_ g e t_ m e_ in k _ and_ p a p er_ and_ h i r e_ p o s th or s es_ i_ wi ll_ h en c e_ t on i g h t </s>
+<s> b a l th a s a r_ i_ d o_ b es e e ch _ you_ s i r_ ha ve_ p a ti en c e_ you r_ l o o k s_ ar e_ p a l e_ and_ wi l d_ and_ d o_ i m p or t_ s om e_ m i s a d v en t u r e </s>
+<s> r om e o_ t u s h _ th ou _ ar t_ d e c e i v ed_ l ea ve_ m e_ and_ d o_ the_ th ing_ i_ b i d_ th e e_ d o </s>
+<s> ha s t_ th ou _ n o_ l e t t er s_ to_ m e_ f r om _ the_ f r i ar </s>
+<s> b a l th a s a r_ n o_ m y_ g o o d_ l or d </s>
+<s> r om e o_ n o_ m a t t er_ g e t_ th e e_ g on e_ and_ h i r e_ th o s e_ h or s es_ i ll_ b e_ wi th_ th e e_ s t r a i g h t </s>
+<s> e x i t_ b a l th a s a r_ w e ll_ j u l i e t_ i_ wi ll_ l i e_ wi th_ th e e_ t on i g h t </s>
+<s> l e t s_ s e e_ f o r_ m e an s_ o_ m i s ch i e f_ th ou _ ar t_ s wi f t_ to_ en t er_ in_ the_ th ou g h t s_ of_ d es p er a t e_ m en </s>
+<s> i_ d o_ r e m e m b er_ an _ a p o th e c ar y_ and_ h er ea b ou t s_ h e_ d w e ll s wh i ch _ l a t e_ i_ no t ed_ in_ t a t t er d_ w e e d s_ wi th_ o v er wh e l m ing_ b r o w s_ c u ll ing_ of_ s i m p l es_ m ea g r e_ w er e_ h is_ l o o k s_ s ha r p _ m i s er y_ ha d_ w or n _ h i m_ to_ the_ b on es_ and_ in_ h is_ n e e d y_ s h o p _ a_ t or t o i s e_ h u n g_ an _ a ll i g a t o r_ s t u f f d_ and_ o th er_ s k in s_ of_ i ll s ha p ed_ f i s h es_ and_ a b ou t_ h is_ s h e l v es_ a_ b e g g ar l y_ a c c ou n t_ of_ e m p t y_ b o x es_ g r e en_ ea r th en_ p o t s_ b l a d d er s_ and_ m u s t y_ s e e d s_ r e m n an t s_ of_ p a c k th r ea d_ and_ o l d_ c a k es_ of_ r o s es_ w er e_ th in l y_ s c a t t er d_ to_ m a k e_ u p _ a_ s h o w </s>
+<s> no t ing_ th is_ p en u r y_ to_ m y s e l f_ i_ s a i d_ an _ i f_ a_ m an _ d i d_ n e ed_ a_ p o i s on_ no w _ wh o s e_ s a l e_ is_ p r es en t_ d ea th_ in_ m an t u a_ h er e_ l i v es_ a_ c a i ti f f_ w r e t ch _ w ou l d_ s e ll_ i t_ h i m_ o_ th is_ s a m e_ th ou g h t_ d i d_ b u t_ f or er u n _ m y_ n e ed_ and_ th is_ s a m e_ n e e d y_ m an _ m u s t_ s e ll_ i t_ m e </s>
+<s> a s_ i_ r e m e m b er_ th is_ s h ou l d_ b e_ the_ h ou s e </s>
+<s> b e ing_ h o l i d a y_ the_ b e g g ar s_ s h o p _ is_ s h u t </s>
+<s> w ha t_ h o </s>
+<s> a p o th e c ar y </s>
+<s> en t er_ a p o th e c ar y_ a p o th e c ar y_ wh o_ c a ll s_ s o_ l ou d </s>
+<s> r om e o_ c om e_ h i th er_ m an </s>
+<s> i_ s e e_ th at_ th ou _ ar t_ p o o r_ h o l d_ th er e_ is_ f or t y_ d u c a t s_ l e t_ m e_ ha ve_ a_ d r a m_ of_ p o i s on_ s u ch _ s o on s p e e d ing_ g ea r_ a s_ wi ll_ d i s p er s e_ i t s e l f_ th r ou g h _ a ll_ the_ v e in s_ th at_ the_ l i f e w ea r y_ t a k er_ m a y_ f a ll_ d ea d_ and_ th at_ the_ t r u n k _ m a y_ b e_ d i s c ha r g ed_ of_ b r ea th_ a s_ v i o l en t l y_ a s_ ha s t y_ p o w d er_ f i r ed_ d o th_ h u r r y_ f r om _ the_ f a t a l _ c an n on s_ w om b </s>
+<s> a p o th e c ar y_ s u ch _ m or t a l _ d r u g s_ i_ ha ve_ b u t_ m an t u a s_ l a w _ is_ d ea th_ to_ an y_ h e_ th at_ u t t er s_ th e m </s>
+<s> r om e o_ ar t_ th ou _ s o_ b ar e_ and_ f u ll_ of_ w r e t ch e d n es s_ and_ f ea r s t_ to_ d i e </s>
+<s> f a m in e_ is_ in_ th y_ ch e e k s_ n e ed_ and_ o p p r es s i on_ s t ar v e th_ in_ th in e_ e y es_ c on t e m p t_ and_ b e g g ar y_ h an g s_ u p on_ th y_ b a c k _ the_ w or l d_ is_ no t_ th y_ f r i en d_ no r_ the_ w or l d s_ l a w _ the_ w or l d_ a f f or d s_ n o_ l a w _ to_ m a k e_ th e e_ r i ch _ th en_ b e_ no t_ p o o r_ b u t_ b r ea k _ i t_ and_ t a k e_ th i s </s>
+<s> h o b b y h or s e_ wh er es o e v er_ you_ ha d_ i t_ i ll_ t a k e_ ou t_ n o_ w or k _ on t </s>
+<s> c a s s i o_ h o w _ no w _ m y_ s w e e t_ b i an c a </s>
+<s> h o w _ no w </s>
+<s> h o w _ no w </s>
+<s> o th e ll o_ b y_ h ea v en_ th at_ s h ou l d_ b e_ m y_ h an d k er ch i e f </s>
+<s> b i an c a_ an _ you ll_ c om e_ to_ s u p p er_ t on i g h t_ you_ m a y_ an _ you_ wi ll_ no t_ c om e_ wh en_ you_ ar e_ n e x t_ p r e p ar ed_ f or </s>
+<s> e x i t_ i a g o_ a f t er_ h er_ a f t er_ h er </s>
+<s> c a s s i o_ f a i th_ i_ m u s t_ s h e ll_ r a i l _ in_ the_ s t r e e t_ e l s e </s>
+<s> i a g o_ wi ll_ you_ s u p _ th er e </s>
+<s> c a s s i o_ f a i th_ i_ in t en d_ s o </s>
+<s> i a g o_ w e ll_ i_ m a y_ ch an c e_ to_ s e e_ you_ f o r_ i_ w ou l d_ v er y_ f a in_ s p ea k _ wi th_ you </s>
+<s> c a s s i o_ p r i th e e_ c om e_ wi ll_ you </s>
+<s> i a g o_ g o_ to_ s a y_ n o_ m or e </s>
+<s> e x i t_ c a s s i o_ o th e ll o_ a d v an c ing_ h o w _ s ha ll_ i_ m u r d er_ h i m_ i a g o </s>
+<s> i a g o_ d i d_ you_ p er c e i ve_ h o w _ h e_ l a u g h ed_ at_ h is_ v i c e </s>
+<s> o th e ll o_ o_ i a g o </s>
+<s> i a g o_ and_ d i d_ you_ s e e_ the_ h an d k er ch i e f </s>
+<s> o th e ll o_ w a s_ th at_ m in e </s>
+<s> i a g o_ you r s_ b y_ th is_ h and_ and_ to_ s e e_ h o w _ h e_ p r i z es_ the_ f o o l i s h _ w om an _ you r_ wi f e </s>
+<s> s h e_ g a ve_ i t_ h i m_ and_ h e_ ha th_ g i v en_ i t_ h is_ wh or e </s>
+<s> o th e ll o_ i_ w ou l d_ ha ve_ h i m_ n in e_ y ea r s_ a k i ll in g </s>
+<s> a_ f in e_ w om an </s>
+<s> a_ f a i r_ w om an </s>
+<s> a_ s w e e t_ w om an </s>
+<s> i a g o_ n a y_ you_ m u s t_ f or g e t_ th a t </s>
+<s> o th e ll o_ a y_ l e t_ h er_ r o t_ and_ p er i s h _ and_ b e_ d a m n ed_ t on i g h t_ f o r_ s h e_ s ha ll_ no t_ l i ve_ n o_ m y_ h ea r t_ is_ t u r n ed_ to_ s t on e_ i_ s t r i k e_ i t_ and_ i t_ h u r t s_ m y_ h an d </s>
+<s> o_ the_ w or l d_ ha th_ no t_ a_ s w e e t er_ c r ea t u r e_ s h e_ m i g h t_ l i e_ b y_ an _ e m p er or s_ s i d e_ and_ c om m and_ h i m_ t a s k s </s>
+<s> i a g o_ n a y_ th a t s_ no t_ you r_ w a y </s>
+<s> o th e ll o_ h an g_ h er </s>
+<s> i_ d o_ b u t_ s a y_ w ha t_ s h e_ is_ s o_ d e l i c a t e_ wi th_ h er_ n e e d l e_ an _ a d m i r a b l e_ m u s i c i an _ o </s>
+<s> s h e_ wi ll_ s ing_ the_ s a v a g en es s_ ou t_ of_ a_ b ea r_ of_ s o_ h i g h _ and_ p l en t e ou s_ wi t_ and_ in v en ti on_ i a g o_ s h es_ the_ w or s e_ f o r_ a ll_ th i s </s>
+<s> o th e ll o_ o_ a_ th ou s and_ th ou s and_ ti m es_ and_ th en_ of_ s o_ g en t l e_ a_ c on d i ti on </s>
+<s> i a g o_ a y_ t o o_ g en t l e </s>
+<s> o th e ll o_ n a y_ th a t s_ c er t a in_ b u t_ y e t_ the_ p i t y_ of_ i t_ i a g o </s>
+<s> o_ i a g o_ the_ p i t y_ of_ i t_ i a g o </s>
+<s> i a g o_ i f_ you_ ar e_ s o_ f on d_ o v er_ h er_ in i q u i t y_ g i ve_ h er_ p a t en t_ to_ o f f en d_ f o r_ i f_ i t_ t ou ch _ no t_ you_ i t_ c om es_ n ea r_ no b o d y </s>
+<s> o th e ll o_ i_ wi ll_ ch o p _ h er_ in to_ m es s es_ c u c k o l d_ m e </s>
+<s> i a g o_ o_ t is_ f ou l _ in_ h er </s>
+<s> o th e ll o_ wi th_ m in e_ o f f i c er </s>
+<s> i a g o_ th a t s_ f ou l er </s>
+<s> o th e ll o_ g e t_ m e_ s om e_ p o i s on_ i a g o_ th is_ n i g h t_ i ll_ no t_ e x p o s t u l a t e_ wi th_ h er_ l es t_ h er_ b o d y_ and_ b ea u t y_ u n p r o v i d e_ m y_ m in d_ a g a in_ th is_ n i g h t_ i a g o </s>
+<s> i a g o_ d o_ i t_ no t_ wi th_ p o i s on_ s t r an g l e_ h er_ in_ h er_ b ed_ e v en_ the_ b ed_ s h e_ ha th_ c on t a m in a t e d </s>
+<s> o th e ll o_ g o o d_ g o o d_ the_ j u s ti c e_ of_ i t_ p l ea s es_ v er y_ g o o d </s>
+<s> i a g o_ and_ f o r_ c a s s i o_ l e t_ m e_ b e_ h is_ u n d er t a k er_ you_ s ha ll_ h ea r_ m or e_ b y_ m i d n i g h t </s>
+<s> o th e ll o_ e x c e ll en t_ g o o d </s>
+<s> a_ t r u m p e t_ wi th in_ w ha t_ t r u m p e t_ is_ th at_ s a m e </s>
+<s> i a g o_ s om e th ing_ f r om _ v en i c e_ s u r e </s>
+<s> t is_ l o d o v i c o_ c om e_ f r om _ the_ d u k e_ and_ s e e_ you r_ wi f e_ is_ wi th_ h i m </s>
+<s> en t er_ l o d o v i c o_ d es d e m on a_ and_ a t t en d an t s_ l o d o v i c o_ s a ve_ you_ w or th y_ g en er a l </s>
+<s> o th e ll o_ wi th_ a ll_ m y_ h ea r t_ s i r </s>
+<s> l o d o v i c o_ the_ d u k e_ and_ s en a t or s_ of_ v en i c e_ g r e e t_ you </s>
+<s> g i v es_ h i m_ a_ l e t t er_ o th e ll o_ i_ k i s s_ the_ in s t r u m en t_ of_ th e i r_ p l ea s u r es </s>
+<s> o p en s_ the_ l e t t er_ and_ r ea d s_ d es d e m on a_ and_ w ha t s_ the_ n e w s_ g o o d_ c ou s in_ l o d o v i c o </s>
+<s> i a g o_ i_ a m_ v er y_ g l a d_ to_ s e e_ you_ s i g n i o r_ w e l c om e_ to_ c y p r u s </s>
+<s> l o d o v i c o_ i_ th an k _ you </s>
+<s> h o w _ d o es_ l i e u t en an t_ c a s s i o </s>
+<s> i a g o_ l i v es_ s i r </s>
+<s> d es d e m on a_ c ou s in_ th er es_ f a ll n _ b e t w e en_ h i m_ and_ m y_ l or d_ an _ u n k in d_ b r ea ch _ b u t_ you_ s ha ll_ m a k e_ a ll_ w e ll </s>
+<s> o th e ll o_ ar e_ you_ s u r e_ of_ th a t </s>
+<s> d es d e m on a_ m y_ l or d </s>
+<s> o th e ll o_ r ea d s_ th is_ f a i l _ you_ no t_ to_ d o_ a s_ you_ wi ll_ l o d o v i c o_ h e_ d i d_ no t_ c a ll_ h es_ b u s y_ in_ the_ p a p er </s>
+<s> is_ th er e_ d i v i s i on_ t wi x t_ m y_ l or d_ and_ c a s s i o </s>
+<s> d es d e m on a_ a_ m o s t_ u n ha p p y_ on e_ i_ w ou l d_ d o_ m u ch _ to_ a t on e_ th e m_ f o r_ the_ l o ve_ i_ b ea r_ to_ c a s s i o </s>
+<s> o th e ll o_ f i r e_ and_ b r i m s t on e </s>
+<s> d es d e m on a_ m y_ l or d </s>
+<s> o th e ll o_ ar e_ you_ wi s e </s>
+<s> d es d e m on a_ w ha t_ is_ h e_ an g r y </s>
+<s> l o d o v i c o_ m a y_ b e_ the_ l e t t er_ m o v ed_ h i m_ f o r_ a s_ i_ th in k _ th e y_ d o_ c om m and_ h i m_ h om e_ d e p u t ing_ c a s s i o_ in_ h is_ g o v er n m en t </s>
+<s> d es d e m on a_ t r u s t_ m e_ i_ a m_ g l a d_ on t </s>
+<s> o th e ll o_ in d e e d </s>
+<s> d es d e m on a_ m y_ l or d </s>
+<s> o th e ll o_ i_ a m_ g l a d_ to_ s e e_ you_ m a d </s>
+<s> d es d e m on a_ wh y_ s w e e t_ o th e ll o_ o th e ll o_ s t r i k ing_ h er_ d e v i l </s>
+<s> d es d e m on a_ i_ ha ve_ no t_ d es er v ed_ th i s </s>
+<s> l o d o v i c o_ m y_ l or d_ th is_ w ou l d_ no t_ b e_ b e l i e v ed_ in_ v en i c e_ th ou g h _ i_ s h ou l d_ s w ea r_ i_ s a w t_ t is_ v er y_ m u ch _ m a k e_ h er_ a m en d s_ s h e_ w e e p s </s>
+<s> o th e ll o_ o_ d e v i l _ d e v i l </s>
+<s> i f_ th at_ the_ ea r th_ c ou l d_ t e e m_ wi th_ w om an s_ t ea r s_ ea ch _ d r o p _ s h e_ f a ll s_ w ou l d_ p r o ve_ a_ c r o c o d i l e </s>
+<s> ou t_ of_ m y_ s i g h t </s>
+<s> d es d e m on a_ i_ ar e_ n o_ k in_ t o g e th er </s>
+<s> i a g o_ you_ c ha r g e_ m e_ m o s t_ u n j u s t l y </s>
+<s> r o d er i g o_ wi th_ n ou g h t_ b u t_ t r u th </s>
+<s> i_ ha ve_ w a s t ed_ m y s e l f_ ou t_ of_ m y_ m e an s </s>
+<s> the_ j e w e l s_ you_ ha ve_ ha d_ f r om _ m e_ to_ d e l i v er_ to_ d es d e m on a_ w ou l d_ ha l f_ ha ve_ c or r u p t ed_ a_ v o t ar i s t_ you_ ha ve_ t o l d_ m e_ s h e_ ha th_ r e c e i v ed_ th e m_ and_ r e t u r n ed_ m e_ e x p e c t a ti on s_ and_ c om f or t s_ of_ s u d d en_ r es p e c t_ and_ a c q u a in t an c e_ b u t_ i_ f in d_ n on e </s>
+<s> i a g o_ w e ll_ g o_ to_ v er y_ w e ll </s>
+<s> r o d er i g o_ v er y_ w e ll </s>
+<s> g o_ t o </s>
+<s> i_ c an no t_ g o_ to_ m an _ no r_ t is_ no t_ v er y_ w e ll_ n a y_ i_ th in k _ i t_ is_ s c u r v y_ and_ b e g in_ to_ f in d_ m y s e l f_ f o b b ed_ in_ i t </s>
+<s> i a g o_ v er y_ w e ll </s>
+<s> r o d er i g o_ i_ t e ll_ you_ t is_ no t_ v er y_ w e ll </s>
+<s> i_ wi ll_ m a k e_ m y s e l f_ k no w n _ to_ d es d e m on a_ i f_ s h e_ wi ll_ r e t u r n _ m e_ m y_ j e w e l s_ i_ wi ll_ g i ve_ o v er_ m y_ s u i t_ and_ r e p en t_ m y_ u n l a w f u l _ s o l i c i t a ti on_ i f_ no t_ a s s u r e_ you r s e l f_ i_ wi ll_ s e e k _ s a ti s f a c ti on_ of_ you </s>
+<s> i a g o_ you_ ha ve_ s a i d_ no w </s>
+<s> r o d er i g o_ a y_ and_ s a i d_ no th ing_ b u t_ w ha t_ i_ p r o t es t_ in t en d m en t_ of_ d o in g </s>
+<s> i a g o_ wh y_ no w _ i_ s e e_ th er es_ m e t t l e_ in_ th e e_ and_ e v en_ f r om _ th is_ in s t an t_ to_ b u i l d_ on_ th e e_ a_ b e t t er_ o p in i on_ th an _ e v er_ b e f or e </s>
+<s> g i ve_ m e_ th y_ h and_ r o d er i g o_ th ou _ ha s t_ t a k en_ a g a in s t_ m e_ a_ m o s t_ j u s t_ e x c e p ti on_ b u t_ y e t_ i_ p r o t es t_ i_ ha ve_ d ea l t_ m o s t_ d i r e c t l y_ in_ th y_ a f f a i r </s>
+<s> r o d er i g o_ i t_ ha th_ no t_ a p p ea r e d </s>
+<s> i a g o_ i_ g r an t_ in d e ed_ i t_ ha th_ no t_ a p p ea r ed_ and_ you r_ s u s p i c i on_ is_ no t_ wi th ou t_ wi t_ and_ j u d g m en t </s>
+<s> b u t_ r o d er i g o_ i f_ th ou _ ha s t_ th at_ in_ th e e_ in d e ed_ wh i ch _ i_ ha ve_ g r ea t er_ r ea s on_ to_ b e l i e ve_ no w _ th an _ e v er_ i_ m e an _ p u r p o s e_ c ou r a g e_ and_ v a l ou r_ th is_ n i g h t_ s h o w _ i t_ i f_ th ou _ the_ n e x t_ n i g h t_ f o ll o w ing_ en j o y_ no t_ d es d e m on a_ t a k e_ m e_ f r om _ th is_ w or l d_ wi th_ t r ea ch er y_ and_ d e v i s e_ en g in es_ f o r_ m y_ l i f e </s>
+<s> r o d er i g o_ w e ll_ w ha t_ is_ i t </s>
+<s> is_ i t_ wi th in_ r ea s on_ and_ c om p a s s </s>
+<s> i a g o_ s i r_ th er e_ is_ es p e c i a l _ c om m i s s i on_ c om e_ f r om _ v en i c e_ to_ d e p u t e_ c a s s i o_ in_ o th e ll o s_ p l a c e </s>
+<s> r o d er i g o_ is_ th at_ t r u e </s>
+<s> wh y_ th en_ o th e ll o_ and_ d es d e m on a_ r e t u r n _ a g a in_ to_ v en i c e </s>
+<s> i a g o_ o_ n o_ h e_ g o es_ in to_ m a u r i t an i a_ and_ t a k es_ a w a y_ wi th_ h i m_ the_ f a i r_ d es d e m on a_ u n l es s_ h is_ a b o d e_ b e_ l in g er ed_ h er e_ b y_ s om e_ a c c i d en t_ wh er e in_ n on e_ c an _ b e_ s o_ d e t er m in a t e_ a s_ the_ r e m o v ing_ of_ c a s s i o </s>
+<s> r o d er i g o_ h o w _ d o_ you_ m e an _ r e m o v ing_ of_ h i m </s>
+<s> i a g o_ wh y_ b y_ m a k ing_ h i m_ u n c a p a b l e_ of_ o th e ll o s_ p l a c e_ k no c k ing_ ou t_ h is_ b r a in s </s>
+<s> r o d er i g o_ and_ th at_ you_ w ou l d_ ha ve_ m e_ to_ d o </s>
+<s> i a g o_ a y_ i f_ you_ d ar e_ d o_ you r s e l f_ a_ p r o f i t_ and_ a_ r i g h t </s>
+<s> h e_ s u p s_ t on i g h t_ wi th_ a_ ha r l o t r y_ and_ th i th er_ wi ll_ i_ g o_ to_ h i m_ h e_ k no w s_ no t_ y e t_ of_ h is_ h or r or a b l e_ f or t u n e </s>
+<s> i f_ you_ wi ll_ w a t ch _ h is_ g o ing_ th en c e_ wh i ch _ i_ wi ll_ f a s h i on_ to_ f a ll_ ou t_ b e t w e en_ t w e l ve_ and_ on e_ you_ m a y_ t a k e_ h i m_ at_ you r_ p l ea s u r e_ i_ wi ll_ b e_ n ea r_ to_ s e c on d_ you r_ a t t e m p t_ and_ h e_ s ha ll_ f a ll_ b e t w e en_ u s </s>
+<s> c om e_ s t and_ no t_ a m a z ed_ at_ i t_ b u t_ g o_ a l on g_ wi th_ m e_ i_ wi ll_ s h o w _ you_ s u ch _ a_ n e c es s i t y_ in_ h is_ d ea th_ th at_ you_ s ha ll_ th in k _ you r s e l f_ b ou n d_ to_ p u t_ i t_ on_ h i m </s>
+<s> i t_ is_ no w _ h i g h _ s u p p er ti m e_ and_ the_ n i g h t_ g r o w s_ to_ w a s t e_ a b ou t_ i t </s>
+<s> r o d er i g o_ i_ wi ll_ h ea r_ f u r th er_ r ea s on_ f o r_ th i s </s>
+<s> i a g o_ and_ you_ s ha ll_ b e_ s a ti s f i e d </s>
+<s> e x e u n t_ s c en e_ i i i </s>
+<s> an o th er_ r o om _ in_ the_ c a s t l e </s>
+<s> en t er_ o th e ll o_ l o d o v i c o_ d es d e m on a_ e m i l i a_ and_ a t t en d an t s_ l o d o v i c o_ i_ d o_ b es e e ch _ you_ s i r_ t r ou b l e_ you r s e l f_ n o_ f u r th er </s>
+<s> o th e ll o_ o_ p ar d on_ m e_ t wi ll_ d o_ m e_ g o o d_ to_ w a l k </s>
+<s> l o d o v i c o_ m a d a m_ g o o d_ n i g h t_ i_ h u m b l y_ th an k _ you r_ l a d y s h i p </s>
+<s> d es d e m on a_ you r_ h on ou r_ is_ m o s t_ w e l c om e </s>
+<s> o th e ll o_ wi ll_ you_ w a l k _ s i r </s>
+<s> o d es d e m on a_ d es d e m on a_ m y_ l or d </s>
+<s> o th e ll o_ g e t_ you_ to_ b ed_ on_ the_ in s t an t_ i_ wi ll_ b e_ r e t u r n ed_ f or th wi th_ d i s m i s s_ you r_ a t t en d an t_ th er e_ l o o k _ i t_ b e_ d on e </s>
+<s> d es d e m on a_ i_ wi ll_ m y_ l or d </s>
+<s> e x e u n t_ o th e ll o_ l o d o v i c o_ and_ a t t en d an t s_ e m i l i a_ h o w _ g o es_ i t_ no w </s>
+<s> h e_ l o o k s_ g en t l er_ th an _ h e_ d i d </s>
+<s> d es d e m on a_ h e_ s a y s_ h e_ wi ll_ r e t u r n _ in c on t in en t_ h e_ ha th_ c om m an d ed_ m e_ to_ g o_ to_ b ed_ and_ b a d e_ m e_ to_ d i s m i s s_ you </s>
+<s> e m i l i a_ d i s m i s s_ m e </s>
+<s> d es d e m on a_ i t_ w a s_ h is_ b i d d ing_ th er e f or e_ g o o d_ e m i l i a </s>
+<s> g i ve_ m e_ m y_ n i g h t l y_ w ea r ing_ and_ a d i e u _ w e_ m u s t_ no t_ no w _ d i s p l ea s e_ h i m </s>
+<s> e m i l i a_ i_ w ou l d_ you_ ha d_ n e v er_ s e en_ h i m </s>
+<s> d es d e m on a_ s o_ w ou l d_ no t_ i_ m y_ l o ve_ d o th_ s o_ a p p r o ve_ h i m_ th at_ e v en_ h is_ s t u b b or n n es s_ h is_ ch e q u es_ h is_ f r o w n s_ p r i th e e_ u n p in_ m e ha ve_ g r a c e_ and_ f a v ou r_ in_ th e m </s>
+<s> e m i l i a_ i_ ha ve_ l a i d_ th o s e_ s h e e t s_ you_ b a d e_ m e_ on_ the_ b e d </s>
+<s> d es d e m on a_ a ll s_ on e </s>
+<s> g o o d_ f a i th_ h o w _ f o o l i s h _ ar e_ ou r_ m in d s </s>
+<s> i f_ i_ d o_ d i e_ b e f or e_ th e e_ p r i th e e_ s h r ou d_ m e_ in_ on e_ of_ th o s e_ s a m e_ s h e e t s </s>
+<s> e m i l i a_ c om e_ c om e_ you_ t a l k </s>
+<s> d es d e m on a_ m y_ m o th er_ ha d_ a_ m a i d_ c a ll d_ b ar b ar a_ s h e_ w a s_ in_ l o ve_ and_ h e_ s h e_ l o v ed_ p r o v ed_ m a d_ and_ d i d_ f or s a k e_ h er_ s h e_ ha d_ a_ s on g_ of_ wi ll o w _ an _ o l d_ th ing_ t w a s_ b u t_ i t_ e x p r es s d_ h er_ f or t u n e_ and_ s h e_ d i ed_ s in g ing_ i t_ th at_ s on g_ t on i g h t_ wi ll_ no t_ g o_ f r om _ m y_ m in d_ i_ ha ve_ m u ch _ to_ d o_ b u t_ to_ g o_ h an g_ m y_ h ea d_ a ll_ at_ on e_ s i d e_ and_ s ing_ i t_ l i k e_ p o o r_ b ar b ar a </s>
+<s> p r i th e e_ d i s p a t ch </s>
+<s> e m i l i a_ s ha ll_ i_ g o_ f e t ch _ you r_ n i g h t g o w n </s>
+<s> d es d e m on a_ n o_ u n p in_ m e_ h er e </s>
+<s> th is_ l o d o v i c o_ is_ a_ p r o p er_ m an </s>
+<s> e m i l i a_ a_ v er y_ h an d s om e_ m an </s>
+<s> d es d e m on a_ h e_ s p ea k s_ w e ll </s>
+<s> e m i l i a_ i_ k no w _ a_ l a d y_ in_ v en i c e_ w ou l d_ ha ve_ w a l k ed_ b ar e f o o t_ to_ p a l es t in e_ f o r_ a_ t ou ch _ of_ h is_ n e th er_ l i p </s>
+<s> d es d e m on a_ s in g ing_ the_ p o o r_ s ou l _ s at_ s i g h ing_ b y_ a_ s y c a m or e_ t r e e_ s ing_ a ll_ a_ g r e en_ wi ll o w _ h er_ h and_ on_ h er_ b o s om _ h er_ h ea d_ on_ h er_ k n e e_ s ing_ wi ll o w _ wi ll o w _ wi ll o w _ the_ f r es h _ s t r ea m s_ r an _ b y_ h er_ and_ m u r m u r d_ h er_ m o an s_ s ing_ wi ll o w _ wi ll o w _ wi ll o w _ h er_ s a l t_ t ea r s_ f e ll_ f r om _ h er_ and_ s o f t en d_ the_ s t on es_ l a y_ b y_ th es e_ s in g ing_ s ing_ wi ll o w _ wi ll o w _ wi ll o w _ p r i th e e_ h i e_ th e e_ h e ll_ c om e_ an on_ s in g ing_ s ing_ a ll_ a_ g r e en_ wi ll o w _ m u s t_ b e_ m y_ g ar l an d </s>
+<s> l e t_ no b o d y_ b l a m e_ h i m_ h is_ s c or n _ i_ a p p r o ve_ n a y_ th a t s_ no t_ n e x th ar k </s>
+<s> wh o_ i s t_ th at_ k no c k s </s>
+<s> e m i l i a_ i t s_ the_ w in d </s>
+<s> d es d e m on a_ s in g ing_ i_ c a ll d_ m y_ l o ve_ f a l s e_ l o ve_ b u t_ w ha t_ s a i d_ h e_ th en </s>
+<s> s ing_ wi ll o w _ wi ll o w _ wi ll o w _ i f_ i_ c ou r t_ m o e_ w om en_ you ll_ c ou ch _ wi th_ m o e_ m en </s>
+<s> s o_ g e t_ th e e_ g on e_ g o o d_ n i g h t_ a t e_ e y es_ d o_ i t ch _ d o th_ th at_ b o d e_ w e e p in g </s>
+<s> e m i l i a_ t is_ n e i th er_ h er e_ no r_ th er e </s>
+<s> d es d e m on a_ i_ ha ve_ h ea r d_ i t_ s a i d_ s o </s>
+<s> o_ th es e_ m en_ th es e_ m en </s>
+<s> d o s t_ th ou _ in_ c on s c i en c e_ th in k t e ll_ m e_ e m i l i a_ th at_ th er e_ b e_ w om en_ d o_ a b u s e_ th e i r_ h u s b an d s_ in_ s u ch _ g r o s s_ k in d </s>
+<s> e m i l i a_ th er e_ b e_ s om e_ s u ch _ n o_ q u es ti on </s>
+<s> d es d e m on a_ w ou l d s t_ th ou _ d o_ s u ch _ a_ d e ed_ f o r_ a ll_ the_ w or l d </s>
+<s> e m i l i a_ wh y_ w ou l d_ no t_ you </s>
+<s> d es d e m on a_ n o_ b y_ th is_ h ea v en l y_ l i g h t </s>
+<s> e m i l i a_ no r_ i_ n e i th er_ b y_ th is_ h ea v en l y_ l i g h t_ i_ m i g h t_ d o t_ a s_ w e ll_ i_ the_ d ar k </s>
+<s> d es d e m on a_ w ou l d s t_ th ou _ d o_ s u ch _ a_ d e ed_ f o r_ a ll_ the_ w or l d </s>
+<s> e m i l i a_ the_ w or l d s_ a_ h u g e_ th ing_ i t_ is_ a_ g r ea t_ p r i c e </s>
+<s> f o r_ a_ s m a ll_ v i c e </s>
+<s> d es d e m on a_ in_ t r o th_ i_ th in k _ th ou _ w ou l d s t_ no t </s>
+<s> e m i l i a_ in_ t r o th_ i_ th in k _ i_ s h ou l d_ and_ u n d o t_ wh en_ i_ ha d_ d on e </s>
+<s> m ar r y_ i_ w ou l d_ no t_ d o_ s u ch _ a_ th ing_ f o r_ a_ j o in t r ing_ no r_ f o r_ m ea s u r es_ of_ l a w n _ no r_ f o r_ g o w n s_ p e t ti c o a t s_ no r_ c a p s_ no r_ an y_ p e t t y_ e x h i b i ti on_ b u t_ f o r_ the_ wh o l e_ w or l d wh y_ wh o_ w ou l d_ no t_ m a k e_ h er_ h u s b and_ a_ c u c k o l d_ to_ m a k e_ h i m_ a_ m on ar ch </s>
+<s> i_ s h ou l d_ on e_ f l es h _ and_ s o_ m y_ m o th er </s>
+<s> c om e_ f o r_ en g l an d </s>
+<s> e x i t_ k ing_ c l a u d i us_ f o ll o w _ h i m_ at_ f o o t_ t e m p t_ h i m_ wi th_ s p e ed_ a b o ar d_ d e l a y_ i t_ no t_ i ll_ ha ve_ h i m_ h en c e_ t on i g h t_ a w a y </s>
+<s> f o r_ e v er y_ th ing_ is_ s ea l d_ and_ d on e_ th at_ e l s e_ l e an s_ on_ the_ a f f a i r_ p r a y_ you_ m a k e_ ha s t e </s>
+<s> e x e u n t_ r o s en c r an t z _ and_ g u i l d en s t er n _ and_ en g l and_ i f_ m y_ l o ve_ th ou _ h o l d s t_ at_ a u g h t_ a s_ m y_ g r ea t_ p o w er_ th er e of_ m a y_ g i ve_ th e e_ s en s e_ s in c e_ y e t_ th y_ c i c a t r i c e_ l o o k s_ r a w _ and_ r ed_ a f t er_ the_ d an i s h _ s w or d_ and_ th y_ f r e e_ a w e_ p a y s_ h om a g e_ to_ u s th ou _ m a y s t_ no t_ c o l d l y_ s e t_ ou r_ s o v er e i g n _ p r o c es s_ wh i ch _ i m p or t s_ at_ f u ll_ b y_ l e t t er s_ c on g r u ing_ to_ th at_ e f f e c t_ the_ p r es en t_ d ea th_ of_ ha m l e t </s>
+<s> d o_ i t_ en g l and_ f o r_ l i k e_ the_ h e c ti c _ in_ m y_ b l o o d_ h e_ r a g es_ and_ th ou _ m u s t_ c u r e_ m e_ ti ll_ i_ k no w _ t is_ d on e_ h o w e er_ m y_ ha p s_ m y_ j o y s_ w er e_ n e er_ b e g u n </s>
+<s> e x i t_ s c en e_ i v </s>
+<s> a_ p l a in_ in_ d en m ar k </s>
+<s> en t er_ f or t in b r a s_ a_ c a p t a in_ and_ s o l d i er s_ m ar ch ing_ p r in c e_ f or t in b r a s_ g o_ c a p t a in_ f r om _ m e_ g r e e t_ the_ d an i s h _ k ing_ t e ll_ h i m_ th at_ b y_ h is_ l i c en c e_ f or t in b r a s_ c r a v es_ the_ c on v e y an c e_ of_ a_ p r om i s ed_ m ar ch _ o v er_ h is_ k in g d om </s>
+<s> you_ k no w _ the_ r en d e z v ou s </s>
+<s> i f_ th at_ h is_ m a j es t y_ w ou l d_ a u g h t_ wi th_ us_ w e_ s ha ll_ e x p r es s_ ou r_ d u t y_ in_ h is_ e y e_ and_ l e t_ h i m_ k no w _ s o </s>
+<s> c a p t a in_ i_ wi ll_ d o t_ m y_ l or d </s>
+<s> p r in c e_ f or t in b r a s_ g o_ s o f t l y_ on </s>
+<s> e x e u n t_ f or t in b r a s_ and_ s o l d i er s_ en t er_ ha m l e t_ r o s en c r an t z _ g u i l d en s t er n _ and_ o th er s_ ha m l e t_ g o o d_ s i r_ wh o s e_ p o w er s_ ar e_ th es e </s>
+<s> c a p t a in_ th e y_ ar e_ of_ n or w a y_ s i r </s>
+<s> ha m l e t_ h o w _ p u r p o s ed_ s i r_ i_ p r a y_ you </s>
+<s> c a p t a in_ a g a in s t_ s om e_ p ar t_ of_ p o l an d </s>
+<s> ha m l e t_ wh o_ c om m an d s_ th e m_ s i r </s>
+<s> c a p t a in_ the_ n e p h e w s_ to_ o l d_ n or w a y_ f or t in b r a s </s>
+<s> ha m l e t_ g o es_ i t_ a g a in s t_ the_ m a in_ of_ p o l and_ s i r_ o r_ f o r_ s om e_ f r on ti er </s>
+<s> c a p t a in_ t r u l y_ to_ s p ea k _ and_ wi th_ n o_ a d d i ti on_ w e_ g o_ to_ g a in_ a_ l i t t l e_ p a t ch _ of_ g r ou n d_ th at_ ha th_ in_ i t_ n o_ p r o f i t_ b u t_ the_ n a m e </s>
+<s> to_ p a y_ f i ve_ d u c a t s_ f i ve_ i_ w ou l d_ no t_ f ar m_ i t_ no r_ wi ll_ i t_ y i e l d_ to_ n or w a y_ o r_ the_ p o l e_ a_ r an k er_ r a t e_ s h ou l d_ i t_ b e_ s o l d_ in_ f e e </s>
+<s> ha m l e t_ wh y_ th en_ the_ p o l a c k _ n e v er_ wi ll_ d e f en d_ i t </s>
+<s> c a p t a in_ y es_ i t_ is_ a l r ea d y_ g ar r i s on d </s>
+<s> ha m l e t_ t w o_ th ou s and_ s ou l s_ and_ t w en t y_ th ou s and_ d u c a t s_ wi ll_ no t_ d e b a t e_ the_ q u es ti on_ of_ th is_ s t r a w _ th is_ is_ the_ i m p o s th u m e_ of_ m u ch _ w ea l th_ and_ p ea c e_ th at_ in w ar d_ b r ea k s_ and_ s h o w s_ n o_ c a u s e_ wi th ou t_ wh y_ the_ m an _ d i es </s>
+<s> i_ h u m b l y_ th an k _ you_ s i r </s>
+<s> c a p t a in_ g o d_ b e_ w i_ you_ s i r </s>
+<s> e x i t_ r o s en c r an t z _ wi l t_ p l ea s e_ you_ g o_ m y_ l or d </s>
+<s> ha m l e t_ i ll_ b e_ wi th_ you_ s t r a i g h t_ g o_ a_ l i t t l e_ b e f or e </s>
+<s> e x e u n t_ a ll_ e x c e p t_ ha m l e t_ h o w _ a ll_ o c c a s i on s_ d o_ in f or m_ a g a in s t_ m e_ and_ s p u r_ m y_ d u ll_ r e v en g e </s>
+<s> w ha t_ is_ a_ m an _ i f_ h is_ ch i e f_ g o o d_ and_ m ar k e t_ of_ h is_ ti m e_ b e_ b u t_ to_ s l e e p _ and_ f e e d </s>
+<s> a_ b ea s t_ n o_ m or e </s>
+<s> s u r e_ h e_ th at_ m a d e_ us_ wi th_ s u ch _ l ar g e_ d i s c ou r s e_ l o o k ing_ b e f or e_ and_ a f t er_ g a ve_ us_ no t_ th at_ c a p a b i l i t y_ and_ g o d l i k e_ r ea s on_ to_ f u s t_ in_ us_ u n u s e d </s>
+<s> no w _ wh e th er_ i t_ b e_ b es ti a l _ o b l i v i on_ o r_ s om e_ c r a v en_ s c r u p l e_ of_ th in k ing_ t o o_ p r e c i s e l y_ on_ the_ e v en t_ a_ th ou g h t_ wh i ch _ q u ar t er d_ ha th_ b u t_ on e_ p ar t_ wi s d om _ and_ e v er_ th r e e_ p ar t s_ c o w ar d_ i_ d o_ no t_ k no w _ wh y_ y e t_ i_ l i ve_ to_ s a y_ th is_ th in g s_ to_ d o_ s i th_ i_ ha ve_ c a u s e_ and_ wi ll_ and_ s t r en g th_ and_ m e an s_ to_ d o t </s>
+<s> e x a m p l es_ g r o s s_ a s_ ea r th_ e x h or t_ m e_ wi t n es s_ th is_ ar m y_ of_ s u ch _ m a s s_ and_ c ha r g e_ l ed_ b y_ a_ d e l i c a t e_ and_ t en d er_ p r in c e_ wh o s e_ s p i r i t_ wi th_ d i v in e_ a m b i ti on_ p u f f d_ m a k es_ m ou th s_ at_ the_ in v i s i b l e_ e v en t_ e x p o s ing_ w ha t_ is_ m or t a l _ and_ u n s u r e_ to_ a ll_ th at_ f or t u n e_ d ea th_ and_ d an g er_ d ar e_ e v en_ f o r_ an _ e g g s h e ll </s>
+<s> r i g h t l y_ to_ b e_ g r ea t_ is_ no t_ to_ s ti r_ wi th ou t_ g r ea t_ ar g u m en t_ b u t_ g r ea t l y_ to_ f in d_ q u ar r e l _ in_ a_ s t r a w _ wh en_ h on ou r s_ at_ the_ s t a k e </s>
+<s> h o w _ s t and_ i_ th en_ th at_ ha ve_ a_ f a th er_ k i ll d_ a_ m o th er_ s t a in d_ e x c i t e m en t s_ of_ m y_ r ea s on_ and_ m y_ b l o o d_ and_ l e t_ a ll_ s l e e p </s>
+<s> wh i l e_ to_ m y_ s ha m e_ i_ s e e_ the_ i m m in en t_ d ea th_ of_ t w en t y_ th ou s and_ m en_ th at_ f o r_ a_ f an t a s y_ and_ t r i c k _ of_ f a m e_ g o_ to_ th e i r_ g r a v es_ l i k e_ b e d s_ f i g h t_ f o r_ a_ p l o t_ wh er e on_ the_ n u m b er s_ c an no t_ t r y_ the_ c a u s e_ wh i ch _ is_ no t_ t om b _ en ou g h _ and_ c on t in en t_ to_ h i d e_ the_ s l a in </s>
+<s> o_ f r om _ th is_ ti m e_ f or th_ m y_ th ou g h t s_ b e_ b l o o d y_ o r_ b e_ no th ing_ w or th </s>
+<s> e x i t_ s c en e_ v </s>
+<s> e l s in or e </s>
+<s> a_ r o om _ in_ the_ c a s t l e </s>
+<s> en t er_ q u e en_ g er t r u d e_ h or a ti o_ and_ a_ g en t l e m an _ q u e en_ g er t r u d e_ i_ wi ll_ no t_ s p ea k _ wi th_ h er </s>
+<s> g en t l e m an _ s h e_ is_ i m p or t u n a t e_ in d e ed_ d i s t r a c t_ h er_ m o o d_ wi ll_ n e e d s_ b e_ p i ti e d </s>
+<s> q u e en_ g er t r u d e_ w ha t_ w ou l d_ s h e_ ha v e </s>
+<s> g en t l e m an _ s h e_ s p ea k s_ m u ch _ of_ h er_ f a th er_ s a y s_ s h e_ h ea r s_ th er es_ t r i c k s_ i_ the_ w or l d_ and_ h e m s_ and_ b ea t s_ h er_ h ea r t_ s p u r n s_ en v i ou s l y_ at_ s t r a w s_ s p ea k s_ th in g s_ in_ d ou b t_ th at_ c ar r y_ b u t_ ha l f_ s en s e_ h er_ s p e e ch _ is_ no th ing_ y e t_ the_ u n s ha p ed_ u s e_ of_ i t_ d o th_ m o ve_ the_ h ea r er s_ to_ c o ll e c ti on_ th e y_ a i m_ at_ i t_ and_ b o t ch _ the_ w or d s_ u p _ f i t_ to_ th e i r_ o w n _ th ou g h t s_ wh i ch _ a s_ h er_ w in k s_ and_ no d s_ and_ g es t u r es_ y i e l d_ th e m_ in d e ed_ w ou l d_ m a k e_ on e_ th in k _ th er e_ m i g h t_ b e_ th ou g h t_ th ou g h _ no th ing_ s u r e_ y e t_ m u ch _ u n ha p p i l y </s>
+<s> h or a ti o_ t w er e_ g o o d_ s h e_ w er e_ s p o k en_ wi th_ f o r_ s h e_ m a y_ s t r e w _ d an g er ou s_ c on j e c t u r es_ in_ i ll b r e e d ing_ m in d s </s>
+<s> q u e en_ g er t r u d e_ l e t_ h er_ c om e_ in </s>
+<s> e x i t_ h or a ti o_ to_ m y_ s i c k _ s ou l _ a s_ s in s_ t r u e_ n a t u r e_ is_ ea ch _ t o y_ s e e m s_ p r o l o g u e_ to_ s om e_ g r ea t_ a m i s s_ s o_ f u ll_ of_ ar t l es s_ j ea l ou s y_ is_ g u i l t_ i t_ s p i ll s_ i t s e l f_ in_ f ea r ing_ to_ b e_ s p i l t </s>
+<s> r e en t er_ h or a ti o_ wi th_ o p h e l i a_ o p h e l i a_ wh er e_ is_ the_ b ea u t e ou s_ m a j es t y_ of_ d en m ar k </s>
+<s> q u e en_ g er t r u d e_ h o w _ no w _ o p h e l i a </s>
+<s> o p h e l i a_ s in g s_ h o w _ s h ou l d_ i_ you r_ t r u e_ l o ve_ k no w _ f r om _ an o th er_ on e </s>
+<s> b y_ h is_ c o c k l e_ ha t_ and_ s t a f f_ and_ h is_ s an d a l _ s h o on </s>
+<s> q u e en_ g er t r u d e_ a l a s_ s w e e t_ l a d y_ w ha t_ i m p or t s_ th is_ s on g </s>
+<s> o p h e l i a_ s a y_ you </s>
+<s> n a y_ p r a y_ you_ m ar k </s>
+<s> s in g s_ h e_ is_ d ea d_ and_ g on e_ l a d y_ h e_ is_ d ea d_ and_ g on e_ at_ h is_ h ea d_ a_ g r a s s g r e en_ t u r f_ at_ h is_ h e e l s_ a_ s t on e </s>
+<s> q u e en_ g er t r u d e_ n a y_ b u t_ o p h e l i a_ o p h e l i a_ p r a y_ you_ m ar k </s>
+<s> s in g s_ wh i t e_ h is_ s h r ou d_ a s_ the_ m ou n t a in_ s no w _ en t er_ k ing_ c l a u d i us_ q u e en_ g er t r u d e_ a l a s_ l o o k _ h er e_ m y_ l or d </s>
+<s> o p h e l i a_ s in g s_ l ar d ed_ wi th_ s w e e t_ f l o w er s_ wh i ch _ b e w e p t_ to_ the_ g r a ve_ d i d_ g o_ wi th_ t r u e l o ve_ s h o w er s </s>
+<s> k ing_ c l a u d i us_ h o w _ d o_ you_ p r e t t y_ l a d y </s>
+<s> o p h e l i a_ w e ll_ g o d_ i l d_ you </s>
+<s> th e y_ s a y_ the_ o w l _ w a s_ a_ b a k er s_ d a u g h t er </s>
+<s> l or d_ w e_ k no w _ w ha t_ w e_ ar e_ b u t_ k no w _ no t_ w ha t_ w e_ m a y_ b e </s>
+<s> g o d_ b e_ at_ you r_ t a b l e </s>
+<s> k ing_ c l a u d i us_ c on c e i t_ u p on_ h er_ f a th er </s>
+<s> o p h e l i a_ p r a y_ you_ l e t s_ ha ve_ n o_ w or d s_ of_ th is_ b u t_ wh en_ th e y_ a s k _ you_ w ha t_ i t_ m e an s_ s a y_ you_ th is_ s in g s_ t om or r o w _ is_ s a in t_ v a l en t in es_ d a y_ a ll_ in_ the_ m or n ing_ b e ti m e_ and_ i_ a_ m a i d_ at_ you r_ w in d o w _ to_ b e_ you r_ v a l en t in e </s>
+<s> th en_ u p _ h e_ r o s e_ and_ d on n d_ h is_ c l o th es_ and_ d u p p d_ the_ c ha m b er d o o r_ l e t_ in_ the_ m a i d_ th at_ ou t_ a_ m a i d_ n e v er_ d e p ar t ed_ m or e </s>
+<s> k ing_ c l a u d i us_ p r e t t y_ o p h e l i a </s>
+<s> o p h e l i a_ in d e ed_ l a_ wi th ou t_ an _ o a th_ i ll_ m a k e_ an _ en d_ on t_ s in g s_ b y_ g is_ and_ b y_ s a in t_ c ha r i t y_ a l a c k _ and_ f i e_ f o r_ s ha m e </s>
+<s> you n g_ m en_ wi ll_ d o t_ i f_ th e y_ c om e_ t o t_ b y_ c o c k _ th e y_ ar e_ to_ b l a m e </s>
+<s> q u o th_ s h e_ b e f or e_ you_ t u m b l ed_ m e_ you_ p r om i s ed_ m e_ to_ w e d </s>
+<s> s o_ w ou l d_ i_ ha _ d on e_ b y_ y on d er_ s u n _ an _ th ou _ ha d s t_ no t_ c om e_ to_ m y_ b e d </s>
+<s> k ing_ c l a u d i us_ h o w _ l on g_ ha th_ s h e_ b e en_ th u s </s>
+<s> o p h e l i a_ i_ h o p e_ a ll_ wi ll_ b e_ w e ll </s>
+<s> w e_ m u s t_ b e_ p a ti en t_ b u t_ i_ c an no t_ ch o o s e_ b u t_ w e e p _ to_ th in k _ th e y_ s h ou l d_ l a y_ h i m_ i_ the_ c o l d_ g r ou n d </s>
+<s> m y_ b r o th er_ s ha ll_ k no w _ of_ i t_ and_ s o_ i_ th an k _ you_ f o r_ you r_ g o o d_ c ou n s e l </s>
+<s> c om e_ m y_ c o a ch </s>
+<s> g o o d_ n i g h t_ l a d i es_ g o o d_ n i g h t_ s w e e t_ l a d i es_ g o o d_ n i g h t_ g o o d_ n i g h t </s>
+<s> e x i t_ k ing_ c l a u d i us_ f o ll o w _ h er_ c l o s e_ g i ve_ h er_ g o o d_ w a t ch _ i_ p r a y_ you </s>
+<s> e x i t_ h or a ti o_ o_ th is_ is_ the_ p o i s on_ of_ d e e p _ g r i e f_ i t_ s p r in g s_ a ll_ f r om _ h er_ f a th er s_ d ea th </s>
+<s> o_ g er t r u d e_ g er t r u d e_ wh en_ s or r o w s_ c om e_ th e y_ c om e_ no t_ s in g l e_ s p i es_ b u t_ in_ b a t t a l i on s </s>
+<s> f i r s t_ h er_ f a th er_ s l a in_ n e x t_ you r_ s on_ g on e_ and_ h e_ m o s t_ v i o l en t_ a u th o r_ of_ h is_ o w n _ j u s t_ r e m o ve_ the_ p e o p l e_ m u d d i ed_ th i c k _ and_ u n wh o l es om e_ in_ th e i r_ th ou g h t s_ and_ wh i s p er s_ f o r_ g o o d_ p o l on i us_ d ea th_ and_ w e_ ha ve_ d on e_ b u t_ g r e en l y_ in_ h u g g er m u g g er_ to_ in t er_ h i m_ p o o r_ o p h e l i a_ d i v i d ed_ f r om _ h er s e l f_ and_ h er_ f a i r_ j u d g m en t_ wi th ou t_ the_ wh i ch _ w e_ ar e_ p i c t u r es_ o r_ m er e_ b ea s t s_ l a s t_ and_ a s_ m u ch _ c on t a in ing_ a s_ a ll_ th es e_ h er_ b r o th er_ is_ in_ s e c r e t_ c om e_ f r om _ f r an c e_ f e e d s_ on_ h is_ w on d er_ k e e p s_ h i m s e l f_ in_ c l ou d s_ and_ w an t s_ no t_ b u z z er s_ to_ in f e c t_ h is_ ea r_ wi th_ p es ti l en t_ s p e e ch es_ of_ h is_ f a th er s_ d ea th_ wh er e in_ n e c es s i t y_ of_ m a t t er_ b e g g ar d_ wi ll_ no th ing_ s ti c k _ ou r_ p er s on_ to_ ar r a i g n _ in_ ea r_ and_ ea r </s>
+<s> o_ m y_ d ea r_ g er t r u d e_ th is_ l i k e_ to_ a_ m u r d er in g p i e c e_ in_ m an y_ p l a c es_ g i v es_ m e_ s u p er f l u ou s_ d ea th </s>
+<s> a_ no i s e_ wi th in_ q u e en_ g er t r u d e_ a l a c k _ w ha t_ no i s e_ is_ th i s </s>
+<s> k ing_ c l a u d i us_ wh er e_ ar e_ m y_ s wi t z er s </s>
+<s> l e t_ th e m_ g u ar d_ the_ d o or </s>
+<s> en t er_ an o th er_ g en t l e m an _ w ha t_ is_ the_ m a t t er </s>
+<s> g en t l e m an _ s a ve_ you r s e l f_ m y_ l or d_ the_ o c e an _ o v er p e er ing_ of_ h is_ l i s t_ ea t s_ no t_ the_ f l a t s_ wi th_ m or e_ i m p e t u ou s_ ha s t e_ th an _ you n g_ l a er t es_ in_ a_ r i o t ou s_ h ea d_ o er b ea r s_ you r_ o f f i c er s </s>
+<s> the_ r a b b l e_ c a ll_ h i m_ l or d_ and_ a s_ the_ w or l d_ w er e_ no w _ b u t_ to_ b e g in_ an ti q u i t y_ f or g o t_ c u s t om _ no t_ k no w n _ the_ r a ti f i er s_ and_ p r o p s_ of_ e v er y_ w or d_ th e y_ c r y_ ch o o s e_ w e_ l a er t es_ s ha ll_ b e_ k ing_ c a p s_ h an d s_ and_ t on g u es_ a p p l a u d_ i t_ to_ the_ c l ou d s_ l a er t es_ s ha ll_ b e_ k ing_ l a er t es_ k ing_ q u e en_ g er t r u d e_ h o w _ ch e er f u ll y_ on_ the_ f a l s e_ t r a i l _ th e y_ c r y </s>
+<s> o_ th is_ is_ c ou n t er_ you_ f a l s e_ d an i s h _ d o g s </s>
+<s> k ing_ c l a u d i us_ the_ d o or s_ ar e_ b r o k e </s>
+<s> no i s e_ wi th in_ en t er_ l a er t es_ ar m ed_ d an es_ f o ll o w ing_ l a er t es_ wh er e_ is_ th is_ k in g </s>
+<s> s i r s_ s t and_ you_ a ll_ wi th ou t </s>
+<s> d an es_ n o_ l e t s_ c om e_ in </s>
+<s> l a er t es_ i_ p r a y_ you_ g i ve_ m e_ l ea v e </s>
+<s> d an es_ w e_ wi ll_ w e_ wi ll </s>
+<s> th e y_ r e ti r e_ wi th ou t_ the_ d o o r_ l a er t es_ i_ th an k _ you_ k e e p _ the_ d o or </s>
+<s> o_ th ou _ v i l e_ k ing_ g i ve_ m e_ m y_ f a th er </s>
+<s> q u e en_ g er t r u d e_ c a l m l y_ g o o d_ l a er t es </s>
+<s> l a er t es_ th at_ d r o p _ of_ b l o o d_ th a t s_ c a l m_ p r o c l a i m s_ m e_ b a s t ar d_ c r i es_ c u c k o l d_ to_ m y_ f a th er_ b r an d s_ the_ ha r l o t_ e v en_ h er e_ b e t w e en_ the_ c ha s t e_ u n s m i r ch ed_ b r o w _ of_ m y_ t r u e_ m o th er </s>
+<s> k ing_ c l a u d i us_ w ha t_ is_ the_ c a u s e_ l a er t es_ th at_ th y_ r e b e ll i on_ l o o k s_ s o_ g i an t l i k e </s>
+<s> l e t_ h i m_ g o_ g er t r u d e_ d o_ no t_ f ea r_ ou r_ p er s on_ th er es_ s u ch _ d i v in i t y_ d o th_ h e d g e_ a_ k ing_ th at_ t r ea s on_ c an _ b u t_ p e e p _ to_ w ha t_ i t_ w ou l d_ a c t s_ l i t t l e_ of_ h is_ wi ll </s>
+<s> t e ll_ m e_ l a er t es_ wh y_ th ou _ ar t_ th us_ in c en s e d </s>
+<s> l e t_ h i m_ g o_ g er t r u d e </s>
+<s> s p ea k _ m an </s>
+<s> l a er t es_ wh er e_ is_ m y_ f a th er </s>
+<s> k ing_ c l a u d i us_ d ea d </s>
+<s> q u e en_ g er t r u d e_ b u t_ no t_ b y_ h i m </s>
+<s> k ing_ c l a u d i us_ l e t_ h i m_ d e m and_ h is_ f i ll </s>
+<s> l a er t es_ h o w _ c a m e_ h e_ d ea d </s>
+<s> i ll_ no t_ b e_ j u g g l ed_ wi th_ to_ h e ll_ a ll e g i an c e </s>
+<s> v o w s_ to_ the_ b l a c k es t_ d e v i l </s>
+<s> c on s c i en c e_ and_ g r a c e_ to_ the_ p r o f ou n d es t_ p i t </s>
+<s> i_ d ar e_ d a m n a ti on </s>
+<s> to_ th is_ p o in t_ i_ s t and_ th at_ b o th_ the_ w or l d s_ i_ g i ve_ to_ n e g l i g en c e_ l e t_ c om e_ w ha t_ c om es_ on l y_ i ll_ b e_ r e v en g ed_ m o s t_ th or ou g h l y_ f o r_ m y_ f a th er </s>
+<s> k ing_ c l a u d i us_ wh o_ s ha ll_ s t a y_ you </s>
+<s> l a er t es_ m y_ wi ll_ no t_ a ll_ the_ w or l d_ and_ f o r_ m y_ m e an s_ i ll_ h u s b and_ th e m_ s o_ w e ll_ th e y_ s ha ll_ g o_ f a r_ wi th_ l i t t l e </s>
+<s> k ing_ c l a u d i us_ g o o d_ l a er t es_ i f_ you_ d es i r e_ to_ k no w _ the_ c er t a in t y_ of_ you r_ d ea r_ f a th er s_ d ea th_ i s t_ w r i t_ in_ you r_ r e v en g e_ th at_ s w o o p s t a k e_ you_ wi ll_ d r a w _ b o th_ f r i en d_ and_ f o e_ w in n er_ and_ l o s er </s>
+<s> l a er t es_ n on e_ b u t_ h is_ en e m i es </s>
+<s> k ing_ c l a u d i us_ wi ll_ you_ k no w _ th e m_ th en </s>
+<s> l a er t es_ to_ h is_ g o o d_ f r i en d s_ th us_ wi d e_ i ll_ o p e_ m y_ ar m s_ and_ l i k e_ the_ k in d_ l i f er en d er ing_ p e l i c an _ r e p a s t_ th e m_ wi th_ m y_ b l o o d </s>
+<s> k ing_ c l a u d i us_ wh y_ no w _ you_ s p ea k _ l i k e_ a_ g o o d_ ch i l d_ and_ a_ t r u e_ g en t l e m an </s>
+<s> th at_ i_ a m_ g u i l t l es s_ of_ you r_ f a th er s_ d ea th_ and_ a m_ m o s t_ s en s i b l e_ in_ g r i e f_ f o r_ i t_ i t_ s ha ll_ a s_ l e v e l _ to_ you r_ j u d g m en t_ p i er c e_ a s_ d a y_ d o es_ to_ s e e k _ ha p p y_ n i g h t s_ to_ ha p p y_ d a y s </s>
+<s> e x e u n t_ s c en e_ i v </s>
+<s> a_ s t r e e t </s>
+<s> en t er_ r om e o_ m er c u ti o_ b en v o l i o_ wi th_ f i ve_ o r_ s i x _ m a s k er s_ t or ch b ea r er s_ and_ o th er s_ r om e o_ w ha t_ s ha ll_ th is_ s p e e ch _ b e_ s p o k e_ f o r_ ou r_ e x c u s e </s>
+<s> o r_ s ha ll_ w e_ on_ wi th ou t_ a_ a p o l o g y </s>
+<s> b en v o l i o_ the_ d a t e_ is_ ou t_ of_ s u ch _ p r o l i x i t y_ w e ll_ ha ve_ n o_ c u p i d_ h o o d w in k d_ wi th_ a_ s c ar f_ b ea r ing_ a_ t ar t ar s_ p a in t ed_ b o w _ of_ l a th_ s c ar ing_ the_ l a d i es_ l i k e_ a_ c r o w k e e p er_ no r_ n o_ wi th ou t b o o k _ p r o l o g u e_ f a in t l y_ s p o k e_ a f t er_ the_ p r om p t er_ f o r_ ou r_ en t r an c e_ b u t_ l e t_ th e m_ m ea s u r e_ us_ b y_ w ha t_ th e y_ wi ll_ w e ll_ m ea s u r e_ th e m_ a_ m ea s u r e_ and_ b e_ g on e </s>
+<s> r om e o_ g i ve_ m e_ a_ t or ch _ i_ a m_ no t_ f o r_ th is_ a m b l ing_ b e ing_ b u t_ h ea v y_ i_ wi ll_ b ea r_ the_ l i g h t </s>
+<s> m er c u ti o_ n a y_ g en t l e_ r om e o_ w e_ m u s t_ ha ve_ you_ d an c e </s>
+<s> r om e o_ no t_ i_ b e l i e ve_ m e_ you_ ha ve_ d an c ing_ s h o es_ wi th_ n i m b l e_ s o l es_ i_ ha ve_ a_ s ou l _ of_ l ea d_ s o_ s t a k es_ m e_ to_ the_ g r ou n d_ i_ c an no t_ m o v e </s>
+<s> m er c u ti o_ you_ ar e_ a_ l o v er_ b or r o w _ c u p i d s_ w in g s_ and_ s o a r_ wi th_ th e m_ a b o ve_ a_ c om m on_ b ou n d </s>
+<s> r om e o_ i_ a m_ t o o_ s or e_ en p i er c ed_ wi th_ h is_ s ha f t_ to_ s o a r_ wi th_ h is_ l i g h t_ f ea th er s_ and_ s o_ b ou n d_ i_ c an no t_ b ou n d_ a_ p i t ch _ a b o ve_ d u ll_ w o e_ u n d er_ l o v es_ h ea v y_ b u r d en_ d o_ i_ s in k </s>
+<s> m er c u ti o_ and_ to_ s in k _ in_ i t_ s h ou l d_ you_ b u r d en_ l o ve_ t o o_ g r ea t_ o p p r es s i on_ f o r_ a_ t en d er_ th in g </s>
+<s> r om e o_ is_ l o ve_ a_ t en d er_ th in g </s>
+<s> i t_ is_ t o o_ r ou g h _ t o o_ r u d e_ t o o_ b o i s t er ou s_ and_ i t_ p r i c k s_ l i k e_ th or n </s>
+<s> m er c u ti o_ i f_ l o ve_ b e_ r ou g h _ wi th_ you_ b e_ r ou g h _ wi th_ l o ve_ p r i c k _ l o ve_ f o r_ p r i c k ing_ and_ you_ b ea t_ l o ve_ d o w n </s>
+<s> g i ve_ m e_ a_ c a s e_ to_ p u t_ m y_ v i s a g e_ in_ a_ v i s o r_ f o r_ a_ v i s or </s>
+<s> w ha t_ c ar e_ i_ w ha t_ c u r i ou s_ e y e_ d o th_ q u o t e_ d e f or m i ti es </s>
+<s> h er e_ ar e_ the_ b e e t l e_ b r o w s_ s ha ll_ b l u s h _ f o r_ m e </s>
+<s> b en v o l i o_ c om e_ k no c k _ and_ en t er_ and_ n o_ s o on er_ in_ b u t_ e v er y_ m an _ b e t a k e_ h i m_ to_ h is_ l e g s </s>
+<s> r om e o_ a_ t or ch _ f o r_ m e_ l e t_ w an t on s_ l i g h t_ of_ h ea r t_ ti c k l e_ the_ s en s e l es s_ r u s h es_ wi th_ th e i r_ h e e l s_ f o r_ i_ a m_ p r o v er b d_ wi th_ a_ g r an d s i r e_ p h r a s e_ i ll_ b e_ a_ c an d l e h o l d er_ and_ l o o k _ on </s>
+<s> the_ g a m e_ w a s_ n e er_ s o_ f a i r_ and_ i_ a m_ d on e </s>
+<s> m er c u ti o_ t u t_ d u n s_ the_ m ou s e_ the_ c on s t a b l es_ o w n _ w or d_ i f_ th ou _ ar t_ d u n _ w e ll_ d r a w _ th e e_ f r om _ the_ m i r e_ of_ th is_ s i r r e v er en c e_ l o ve_ wh er e in_ th ou _ s ti c k s t_ u p _ to_ the_ ea r s </s>
+<s> c om e_ w e_ b u r n _ d a y l i g h t_ h o </s>
+<s> r om e o_ n a y_ th a t s_ no t_ s o </s>
+<s> m er c u ti o_ i_ m e an _ s i r_ in_ d e l a y_ w e_ w a s t e_ ou r_ l i g h t s_ in_ v a in_ l i k e_ l a m p s_ b y_ d a y </s>
+<s> t a k e_ ou r_ g o o d_ m e an ing_ f o r_ ou r_ j u d g m en t_ s i t s_ f i ve_ ti m es_ in_ th at_ er e_ on c e_ in_ ou r_ f i ve_ wi t s </s>
+<s> r om e o_ and_ w e_ m e an _ w e ll_ in_ g o ing_ to_ th is_ m a s k _ b u t_ t is_ n o_ wi t_ to_ g o </s>
+<s> m er c u ti o_ wh y_ m a y_ on e_ a s k </s>
+<s> r om e o_ i_ d r ea m d_ a_ d r ea m_ t on i g h t </s>
+<s> m er c u ti o_ and_ s o_ d i d_ i </s>
+<s> r om e o_ w e ll_ w ha t_ w a s_ you r s </s>
+<s> m er c u ti o_ th at_ d r ea m er s_ o f t en_ l i e </s>
+<s> r om e o_ in_ b ed_ a s l e e p _ wh i l e_ th e y_ d o_ d r ea m_ th in g s_ t r u e </s>
+<s> m er c u ti o_ o_ th en_ i_ s e e_ q u e en_ m a b _ ha th_ b e en_ wi th_ you </s>
+<s> s h e_ is_ the_ f a i r i es_ m i d wi f e_ and_ s h e_ c om es_ in_ s ha p e_ n o_ b i g g er_ th an _ an _ a g a t es t on e_ on_ the_ f or e f in g er_ of_ an _ a l d er m an _ d r a w n _ wi th_ a_ t ea m_ of_ l i t t l e_ a t om i es_ a th w ar t_ m en s_ no s es_ a s_ th e y_ l i e_ a s l e e p _ h er_ w a g on s p o k es_ m a d e_ of_ l on g_ s p i d er s_ l e g s_ the_ c o v er_ of_ the_ w in g s_ of_ g r a s s h o p p er s_ the_ t r a c es_ of_ the_ s m a ll es t_ s p i d er s_ w e b _ the_ c o ll ar s_ of_ the_ m o on s h in es_ w a t er y_ b ea m s_ h er_ wh i p _ of_ c r i c k e t s_ b on e_ the_ l a s h _ of_ f i l m_ h er_ w a g on er_ a_ s m a ll_ g r e y c o a t ed_ g n at_ no t_ s o_ b i g_ a s_ a_ r ou n d_ l i t t l e_ w or m_ p r i c k d_ f r om _ the_ l a z y_ f in g er_ of_ a_ m a i d_ h er_ c ha r i o t_ is_ an _ e m p t y_ ha z e l n u t_ m a d e_ b y_ the_ j o in er_ s q u i r r e l _ o r_ o l d_ g r u b _ ti m e_ ou t_ o_ m in d_ the_ f a i r i es_ c o a ch m a k er s </s>
+<s> and_ in_ th is_ s t a t e_ s h e_ g a ll o p s_ n i g h t_ b y_ n i g h t_ th r ou g h _ l o v er s_ b r a in s_ and_ th en_ th e y_ d r ea m_ of_ l o ve_ o er_ c ou r ti er s_ k n e es_ th at_ d r ea m_ on_ c ou r t s i es_ s t r a i g h t_ o er_ l a w y er s_ f in g er s_ wh o_ s t r a i g h t_ d r ea m_ on_ f e es_ o er_ l a d i es_ _ l i p s_ wh o_ s t r a i g h t_ on_ k i s s es_ d r ea m_ wh i ch _ o f t_ the_ an g r y_ m a b _ wi th_ b l i s t er s_ p l a g u es_ b e c a u s e_ th e i r_ b r ea th s_ wi th_ s w e e t m ea t s_ t a in t ed_ ar e_ s om e ti m e_ s h e_ g a ll o p s_ o er_ a_ c ou r ti er s_ no s e_ and_ th en_ d r ea m s_ h e_ of_ s m e ll ing_ ou t_ a_ s u i t_ and_ s om e ti m e_ c om es_ s h e_ wi th_ a_ ti th e p i g s_ t a i l _ ti c k l ing_ a_ p ar s on s_ no s e_ a s_ a_ l i es_ a s l e e p _ th en_ d r ea m s_ h e_ of_ an o th er_ b en e f i c e_ s om e ti m e_ s h e_ d r i v e th_ o er_ a_ s o l d i er s_ n e c k _ and_ th en_ d r ea m s_ h e_ of_ c u t t ing_ f or e i g n _ th r o a t s_ of_ b r ea ch es_ a m b u s c a d o es_ s p an i s h _ b l a d es_ of_ h ea l th s_ f i v e f a th om _ d e e p _ and_ th en_ an on_ d r u m s_ in_ h is_ ea r_ at_ wh i ch _ h e_ s t ar t s_ and_ w a k es_ and_ b e ing_ th us_ f r i g h t ed_ s w ea r s_ a_ p r a y er_ o r_ t w o_ and_ s l e e p s_ a g a in </s>
+<s> th is_ is_ th at_ v er y_ m a b _ th at_ p l a t s_ the_ m an es_ of_ h or s es_ in_ the_ n i g h t_ and_ b a k es_ the_ e l f l o c k s_ in_ f ou l _ s l u t ti s h _ ha i r s_ wh i ch _ on c e_ u n t an g l ed_ m u ch _ m i s f or t u n e_ b o d es_ th is_ is_ the_ ha g_ wh en_ m a i d s_ l i e_ on_ th e i r_ b a c k s_ th at_ p r es s es_ th e m_ and_ l ea r n s_ th e m_ f i r s t_ to_ b ea r_ m a k ing_ th e m_ w om en_ of_ g o o d_ c ar r i a g e_ th is_ is_ s h e_ r om e o_ p ea c e_ p ea c e_ m er c u ti o_ p ea c e </s>
+<s> th ou _ t a l k s t_ of_ no th in g </s>
+<s> m er c u ti o_ t r u e_ i_ t a l k _ of_ d r ea m s_ wh i ch _ ar e_ the_ ch i l d r en_ of_ an _ i d l e_ b r a in_ b e g o t_ of_ no th ing_ b u t_ v a in_ f an t a s y_ wh i ch _ is_ a s_ th in_ of_ s u b s t an c e_ a s_ the_ a i r_ and_ m or e_ in c on s t an t_ th an _ the_ w in d_ wh o_ w o o es_ e v en_ no w _ the_ f r o z en_ b o s om _ of_ the_ n or th_ and_ b e ing_ an g er d_ p u f f s_ a w a y_ f r om _ th en c e_ t u r n ing_ h is_ f a c e_ to_ the_ d e w d r o p p ing_ s ou th </s>
+<s> b en v o l i o_ th is_ w in d_ you_ t a l k _ of_ b l o w s_ us_ f r om _ ou r s e l v es_ s u p p er_ is_ d on e_ and_ w e_ s ha ll_ c om e_ t o o_ l a t e </s>
+<s> r om e o_ i_ f ea r_ t o o_ ea r l y_ f o r_ m y_ m in d_ m i s g i v es_ s om e_ c on s e q u en c e_ y e t_ h an g ing_ in_ the_ s t ar s_ s ha ll_ b i t t er l y_ b e g in_ h is_ f ea r f u l _ d a t e_ wi th_ th is_ n i g h t s_ r e v e l s_ and_ e x p i r e_ the_ t er m_ of_ a_ d es p i s ed_ l i f e_ c l o s ed_ in_ m y_ b r ea s t_ b y_ s om e_ v i l e_ f or f e i t_ of_ u n ti m e l y_ d ea th </s>
+<s> b u t_ h e_ th at_ ha th_ the_ s t e er a g e_ of_ m y_ c ou r s e_ d i r e c t_ m y_ s a i l </s>
+<s> on_ l u s t y_ g en t l e m en </s>
+<s> b en v o l i o_ s t r i k e_ d r u m </s>
+<s> e x e u n t_ s c en e_ v </s>
+<s> a_ ha ll_ in_ c a p u l e t s_ h ou s e </s>
+<s> m u s i c i an s_ w a i t in g </s>
+<s> en t er_ s er v in g m en_ wi th_ n a p k in s_ f i r s t_ s er v an t_ wh er es_ p o t p an _ th at_ h e_ h e l p s_ no t_ to_ t a k e_ a w a y </s>
+<s> h e_ s h i f t_ a_ t r en ch er </s>
+<s> h e_ s c r a p e_ a_ t r en ch er </s>
+<s> s e c on d_ s er v an t_ wh en_ g o o d_ m an n er s_ s ha ll_ l i e_ a ll_ in_ on e_ o r_ t w o_ m en s_ h an d s_ and_ th e y_ u n w a s h ed_ t o o_ t is_ a_ f ou l _ th in g </s>
+<s> f i r s t_ s er v an t_ a w a y_ wi th_ the_ j o in t s t o o l s_ r e m o ve_ the_ c ou r t c u p b o ar d_ l o o k _ to_ the_ p l a t e </s>
+<s> g o o d_ th ou _ s a ve_ m e_ a_ p i e c e_ of_ m ar ch p an e_ and_ a s_ th ou _ l o v es t_ m e_ l e t_ the_ p or t er_ l e t_ in_ s u s an _ g r in d s t on e_ and_ n e ll </s>
+<s> an t on y_ and_ p o t p an </s>
+<s> s e c on d_ s er v an t_ a y_ b o y_ r ea d y </s>
+<s> f i r s t_ s er v an t_ you_ ar e_ l o o k ed_ f o r_ and_ c a ll ed_ f o r_ a s k ed_ f o r_ and_ s ou g h t_ f o r_ in_ the_ g r ea t_ c ha m b er </s>
+<s> s e c on d_ s er v an t_ w e_ c an no t_ b e_ h er e_ and_ th er e_ t o o </s>
+<s> ch e er l y_ b o y s_ b e_ b r i s k _ a wh i l e_ and_ the_ l on g er_ l i v er_ t a k e_ a ll </s>
+<s> en t er_ c a p u l e t_ wi th_ j u l i e t_ and_ o th er s_ of_ h is_ h ou s e_ m e e t ing_ the_ g u es t s_ and_ m a s k er s_ c a p u l e t_ w e l c om e_ g en t l e m en </s>
+<s> l a d i es_ th at_ ha ve_ th e i r_ t o es_ u n p l a g u ed_ wi th_ c or n s_ wi ll_ ha ve_ a_ b ou t_ wi th_ you </s>
+<s> a h _ ha _ m y_ m i s t r es s es </s>
+<s> wh i ch _ of_ you_ a ll_ wi ll_ no w _ d en y_ to_ d an c e </s>
+<s> s h e_ th at_ m a k es_ d a in t y_ s h e_ i ll_ s w ea r_ ha th_ c or n s_ a m_ i_ c om e_ n ea r_ y e_ no w </s>
+<s> w e l c om e_ g en t l e m en </s>
+<s> i_ ha ve_ s e en_ the_ d a y_ th at_ i_ ha ve_ w or n _ a_ v i s o r_ and_ c ou l d_ t e ll_ a_ wh i s p er ing_ t a l e_ in_ a_ f a i r_ l a d y s_ ea r_ s u ch _ a s_ w ou l d_ p l ea s e_ t is_ g on e_ t is_ g on e_ t is_ g on e_ you_ ar e_ w e l c om e_ g en t l e m en </s>
+<s> c om e_ m u s i c i an s_ p l a y </s>
+<s> a_ ha ll_ a_ ha ll </s>
+<s> g i ve_ r o om </s>
+<s> and_ f o o t_ i t_ g i r l s </s>
+<s> m u s i c _ p l a y s_ and_ th e y_ d an c e_ m or e_ l i g h t_ you_ k n a v es_ and_ t u r n _ the_ t a b l es_ u p _ and_ q u en ch _ the_ f i r e_ the_ r o om _ is_ g r o w n _ t o o_ h o t </s>
+<s> a h _ s i r r a h _ th is_ u n l o o k d f o r_ s p or t_ c om es_ w e ll </s>
+<s> n a y_ s i t_ n a y_ s i t_ g o o d_ c ou s in_ c a p u l e t_ f o r_ you_ and_ i_ ar e_ p a s t_ ou r_ d an c ing_ d a y s_ h o w _ l on g_ i s t_ no w _ s in c e_ l a s t_ you r s e l f_ and_ i_ w er e_ in_ a_ m a s k </s>
+<s> s e c on d_ c a p u l e t_ b y r_ l a d y_ th i r t y_ y ea r s </s>
+<s> c a p u l e t_ w ha t_ m an </s>
+<s> t is_ no t_ s o_ m u ch _ t is_ no t_ s o_ m u ch _ t is_ s in c e_ the_ n u p ti a l s_ of_ l u c en ti o_ c om e_ p en t e c o s t_ a s_ q u i c k l y_ a s_ i t_ wi ll_ s om e_ f i ve_ and_ t w en t y_ y ea r s_ and_ th en_ w e_ m a s k d </s>
+<s> s e c on d_ c a p u l e t_ t is_ m or e_ t is_ m or e_ h is_ s on_ is_ e l d er_ s i r_ h is_ s on_ is_ th i r t y </s>
+<s> c a p u l e t_ wi ll_ you_ t e ll_ m e_ th a t </s>
+<s> h is_ s on_ w a s_ b u t_ a_ w ar d_ t w o_ y ea r s_ a g o </s>
+<s> r om e o_ to_ a_ s er v in g m an _ w ha t_ l a d y_ is_ th at_ wh i ch _ d o th_ en r i ch _ the_ h and_ of_ y on d er_ k n i g h t </s>
+<s> s er v an t_ i_ k no w _ no t_ s i r </s>
+<s> r om e o_ o_ s h e_ d o th_ t ea ch _ the_ t or ch es_ to_ b u r n _ b r i g h t </s>
+<s> i t_ s e e m s_ s h e_ h an g s_ u p on_ the_ ch e e k _ of_ n i g h t_ l i k e_ a_ r i ch _ j e w e l _ in_ an _ e th i o p es_ ea r_ b ea u t y_ t o o_ r i ch _ f o r_ u s e_ f o r_ ea r th_ t o o_ d ea r </s>
+<s> s o_ s h o w s_ a_ s no w y_ d o ve_ t r o o p ing_ wi th_ c r o w s_ a s_ y on d er_ l a d y_ o er_ h er_ f e ll o w s_ s h o w s </s>
+<s> the_ m ea s u r e_ d on e_ i ll_ w a t ch _ h er_ p l a c e_ of_ s t and_ and_ t ou ch ing_ h er s_ m a k e_ b l es s ed_ m y_ r u d e_ h an d </s>
+<s> d i d_ m y_ h ea r t_ l o ve_ ti ll_ no w </s>
+<s> f or s w ea r_ i t_ s i g h t </s>
+<s> f o r_ i_ n e er_ s a w _ t r u e_ b ea u t y_ ti ll_ th is_ n i g h t </s>
+<s> t y b a l t_ th is_ b y_ h is_ v o i c e_ s h ou l d_ b e_ a_ m on t a g u e </s>
+<s> f e t ch _ m e_ m y_ r a p i er_ b o y </s>
+<s> w ha t_ d ar es_ the_ s l a ve_ c om e_ h i th er_ c o v er d_ wi th_ an _ an ti c _ f a c e_ to_ f l e er_ and_ s c or n _ at_ ou r_ s o l e m n i t y </s>
+<s> no w _ b y_ the_ s t o c k _ and_ h on ou r_ of_ m y_ k in_ to_ s t r i k e_ h i m_ d ea d_ i_ h o l d_ i t_ no t_ a_ s in </s>
+<s> c a p u l e t_ wh y_ h o w _ no w _ k in s m an </s>
+<s> wh er e f or e_ s t or m_ you_ s o </s>
+<s> t y b a l t_ u n c l e_ th is_ is_ a_ m on t a g u e_ ou r_ f o e_ a_ v i ll a in_ th at_ is_ h i th er_ c om e_ in_ s p i t e_ to_ s c or n _ at_ ou r_ s o l e m n i t y_ th is_ n i g h t </s>
+<s> c a p u l e t_ you n g_ r om e o_ is_ i t </s>
+<s> t y b a l t_ t is_ h e_ th at_ v i ll a in_ r om e o </s>
+<s> c a p u l e t_ c on t en t_ th e e_ g en t l e_ c o z _ l e t_ h i m_ a l on e_ h e_ b ea r s_ h i m_ l i k e_ a_ p or t l y_ g en t l e m an _ and_ to_ s a y_ t r u th_ v er on a_ b r a g s_ of_ h i m_ to_ b e_ a_ v i r t u ou s_ and_ w e ll g o v er n d_ you th_ i_ w ou l d_ no t_ f o r_ the_ w ea l th_ of_ a ll_ the_ t o w n _ h er e_ in_ m y_ h ou s e_ d o_ h i m_ d i s p ar a g e m en t_ th er e f or e_ b e_ p a ti en t_ t a k e_ n o_ no t e_ of_ h i m_ i t_ is_ m y_ wi ll_ the_ wh i ch _ i f_ th ou _ r es p e c t_ s h o w _ a_ f a i r_ p r es en c e_ and_ p u t_ o f f_ th es e_ f r o w n s_ and_ i ll b es e e m ing_ s e m b l an c e_ f o r_ a_ f ea s t </s>
+<s> t y b a l t_ i t_ f i t s_ wh en_ s u ch _ a_ v i ll a in_ is_ a_ g u es t_ i ll_ no t_ en d u r e_ h i m </s>
+<s> c a p u l e t_ h e_ s ha ll_ b e_ en d u r ed_ w ha t_ g o o d m an _ b o y </s>
+<s> i_ s a y_ h e_ s ha ll_ g o_ to_ a m_ i_ the_ m a s t er_ h er e_ o r_ you </s>
+<s> g o_ t o </s>
+<s> you ll_ no t_ en d u r e_ h i m </s>
+<s> g o d_ s ha ll_ m en d_ m y_ s ou l </s>
+<s> you ll_ m a k e_ a_ m u t in y_ a m on g_ m y_ g u es t s </s>
+<s> you_ wi ll_ s e t_ c o c k a h o o p </s>
+<s> you ll_ b e_ the_ m an </s>
+<s> t y b a l t_ wh y_ u n c l e_ t is_ a_ s ha m e </s>
+<s> c a p u l e t_ g o_ to_ g o_ to_ you_ ar e_ a_ s a u c y_ b o y_ i s t_ s o_ in d e e d </s>
+<s> th is_ t r i c k _ m a y_ ch an c e_ to_ s c a the_ you_ i_ k no w _ w ha t_ you_ m u s t_ c on t r ar y_ m e </s>
+<s> m ar r y_ t is_ ti m e </s>
+<s> w e ll_ s a i d_ m y_ h ea r t s </s>
+<s> you_ ar e_ a_ p r in c o x _ g o_ b e_ q u i e t_ or m or e_ l i g h t_ m or e_ l i g h t </s>
+<s> f o r_ s ha m e </s>
+<s> i ll_ m a k e_ you_ q u i e t </s>
+<s> w ha t_ ch e er l y_ m y_ h ea r t s </s>
+<s> t y b a l t_ p a ti en c e_ p er f or c e_ wi th_ wi l f u l _ ch o l er_ m e e t ing_ m a k es_ m y_ f l es h _ t r e m b l e_ in_ th e i r_ d i f f er en t_ g r e e t in g </s>
+<s> i_ wi ll_ wi th d r a w _ b u t_ th is_ in t r u s i on_ s ha ll_ no w _ s e e m ing_ s w e e t_ c on v er t_ to_ b i t t er_ g a ll </s>
+<s> e x i t_ r om e o_ to_ j u l i e t_ i f_ i_ p r o f an e_ wi th_ m y_ u n w or th i es t_ h and_ th is_ h o l y_ s h r in e_ the_ g en t l e_ f in e_ is_ th is_ m y_ l i p s_ t w o_ b l u s h ing_ p i l g r i m s_ r ea d y_ s t and_ to_ s m o o th_ th at_ r ou g h _ t ou ch _ wi th_ a_ t en d er_ k i s s </s>
+<s> j u l i e t_ g o o d_ p i l g r i m_ you_ d o_ w r on g_ you r_ h and_ t o o_ m u ch _ wh i ch _ m an n er l y_ d e v o ti on_ s h o w s_ in_ th is_ f o r_ s a in t s_ ha ve_ h an d s_ th at_ p i l g r i m s_ h an d s_ d o_ t ou ch _ and_ p a l m_ to_ p a l m_ is_ h o l y_ p a l m er s_ k i s s </s>
+<s> r om e o_ ha ve_ no t_ s a in t s_ l i p s_ and_ h o l y_ p a l m er s_ t o o </s>
+<s> j u l i e t_ a y_ p i l g r i m_ l i p s_ th at_ th e y_ m u s t_ u s e_ in_ p r a y er </s>
+<s> r om e o_ o_ th en_ d ea r_ s a in t_ l e t_ l i p s_ d o_ w ha t_ h an d s_ d o_ th e y_ p r a y_ g r an t_ th ou _ l es t_ f a i th_ t u r n _ to_ d es p a i r </s>
+<s> j u l i e t_ s a in t s_ d o_ no t_ m o ve_ th ou g h _ g r an t_ f o r_ p r a y er s_ s a k e </s>
+<s> r om e o_ th en_ m o ve_ no t_ wh i l e_ m y_ p r a y er s_ e f f e c t_ i_ t a k e </s>
+<s> th us_ f r om _ m y_ l i p s_ b y_ you r s_ m y_ s in_ is_ p u r g e d </s>
+<s> j u l i e t_ th en_ ha ve_ m y_ l i p s_ the_ s in_ th at_ th e y_ ha ve_ t o o k </s>
+<s> r om e o_ s in_ f r om _ w en ch _ th ou _ p ou t s t_ u p on_ th y_ f or t u n e_ and_ th y_ l o ve_ t a k e_ h e ed_ t a k e_ h e ed_ f o r_ s u ch _ d i e_ m i s er a b l e </s>
+<s> g o_ g e t_ th e e_ to_ th y_ l o ve_ a s_ w a s_ d e c r e ed_ a s c en d_ h er_ c ha m b er_ h en c e_ and_ c om f or t_ h er_ b u t_ l o o k _ th ou _ s t a y_ no t_ ti ll_ the_ w a t ch _ b e_ s e t_ f o r_ th en_ th ou _ c an s t_ no t_ p a s s_ to_ m an t u a_ wh er e_ th ou _ s ha l t_ l i ve_ ti ll_ w e_ c an _ f in d_ a_ ti m e_ to_ b l a z e_ you r_ m ar r i a g e_ r e c on c i l e_ you r_ f r i en d s_ b e g_ p ar d on_ of_ the_ p r in c e_ and_ c a ll_ th e e_ b a c k _ wi th_ t w en t y_ h u n d r ed_ th ou s and_ ti m es_ m or e_ j o y_ th an _ th ou _ w en t s t_ f or th_ in_ l a m en t a ti on </s>
+<s> g o_ b e f or e_ n u r s e_ c om m en d_ m e_ to_ th y_ l a d y_ and_ b i d_ h er_ ha s t en_ a ll_ the_ h ou s e_ to_ b ed_ wh i ch _ h ea v y_ s or r o w _ m a k es_ th e m_ a p t_ u n to_ r om e o_ is_ c om in g </s>
+<s> n u r s e_ o_ l or d_ i_ c ou l d_ ha ve_ s t a y d_ h er e_ a ll_ the_ n i g h t_ to_ h ea r_ g o o d_ c ou n s e l _ o_ w ha t_ l ea r n ing_ i s </s>
+<s> m y_ l or d_ i ll_ t e ll_ m y_ l a d y_ you_ wi ll_ c om e </s>
+<s> r om e o_ d o_ s o_ and_ b i d_ m y_ s w e e t_ p r e p ar e_ to_ ch i d e </s>
+<s> n u r s e_ h er e_ s i r_ a_ r ing_ s h e_ b i d_ m e_ g i ve_ you_ s i r_ h i e_ you_ m a k e_ ha s t e_ f o r_ i t_ g r o w s_ v er y_ l a t e </s>
+<s> e x i t_ r om e o_ h o w _ w e ll_ m y_ c om f or t_ is_ r e v i v ed_ b y_ th i s </s>
+<s> f r i a r_ l a u r en c e_ g o_ h en c e_ g o o d_ n i g h t_ and_ h er e_ s t an d s_ a ll_ you r_ s t a t e_ e i th er_ b e_ g on e_ b e f or e_ the_ w a t ch _ b e_ s e t_ o r_ b y_ the_ b r ea k _ of_ d a y_ d i s g u i s ed_ f r om _ h en c e_ s o j ou r n _ in_ m an t u a_ i ll_ f in d_ ou t_ you r_ m an _ and_ h e_ s ha ll_ s i g n i f y_ f r om _ ti m e_ to_ ti m e_ e v er y_ g o o d_ ha p _ to_ you_ th at_ ch an c es_ h er e_ g i ve_ m e_ th y_ h and_ t is_ l a t e_ f ar e w e ll_ g o o d_ n i g h t </s>
+<s> r om e o_ b u t_ th at_ a_ j o y_ p a s t_ j o y_ c a ll s_ ou t_ on_ m e_ i t_ w er e_ a_ g r i e f_ s o_ b r i e f_ to_ p ar t_ wi th_ th e e_ f ar e w e ll </s>
+<s> e x e u n t_ s c en e_ i v </s>
+<s> a_ r o om _ in_ c a p u l e t s_ h ou s e </s>
+<s> en t er_ c a p u l e t_ l a d y_ c a p u l e t_ and_ p ar is_ c a p u l e t_ th in g s_ ha ve_ f a ll n _ ou t_ s i r_ s o_ u n l u c k i l y_ th at_ w e_ ha ve_ ha d_ n o_ ti m e_ to_ m o ve_ ou r_ d a u g h t er_ l o o k _ you_ s h e_ l o v ed_ h er_ k in s m an _ t y b a l t_ d ea r l y_ and_ s o_ d i d_ i w e ll_ w e_ w er e_ b or n _ to_ d i e </s>
+<s> t is_ v er y_ l a t e_ s h e ll_ no t_ c om e_ d o w n _ t on i g h t_ i_ p r om i s e_ you_ b u t_ f o r_ you r_ c om p an y_ i_ w ou l d_ ha ve_ b e en_ a b ed_ an _ h ou r_ a g o </s>
+<s> p ar is_ th es e_ ti m es_ of_ w o e_ a f f or d_ n o_ ti m e_ to_ w o o </s>
+<s> m a d a m_ g o o d_ n i g h t_ c om m en d_ m e_ to_ you r_ d a u g h t er </s>
+<s> l a d y_ c a p u l e t_ i_ wi ll_ and_ k no w _ h er_ m in d_ ea r l y_ t om or r o w _ t on i g h t_ s h e_ is_ m e w d_ u p _ to_ h er_ h ea v in es s </s>
+<s> c a p u l e t_ s i r_ p ar is_ i_ wi ll_ m a k e_ a_ d es p er a t e_ t en d er_ of_ m y_ ch i l d s_ l o ve_ i_ th in k _ s h e_ wi ll_ b e_ r u l ed_ in_ a ll_ r es p e c t s_ b y_ m e_ n a y_ m or e_ i_ d ou b t_ i t_ no t </s>
+<s> wi f e_ g o_ you_ to_ h er_ er e_ you_ g o_ to_ b ed_ a c q u a in t_ h er_ h er e_ of_ m y_ s on_ p ar is_ l o ve_ and_ b i d_ h er_ m ar k _ you_ m e_ on_ w e d n es d a y_ n e x t_ b u t_ s o f t </s>
+<s> w ha t_ d a y_ is_ th i s </s>
+<s> p ar is_ m on d a y_ m y_ l or d_ c a p u l e t_ m on d a y </s>
+<s> ha _ ha </s>
+<s> w e ll_ w e d n es d a y_ is_ t o o_ s o on_ o_ th u r s d a y_ l e t_ i t_ b e_ o_ th u r s d a y_ t e ll_ h er_ s h e_ s ha ll_ b e_ m ar r i ed_ to_ th is_ no b l e_ ea r l </s>
+<s> wi ll_ you_ b e_ r ea d y </s>
+<s> d o_ you_ l i k e_ th is_ ha s t e </s>
+<s> w e ll_ k e e p _ n o_ g r ea t_ a d o a_ f r i en d_ o r_ t w o_ f o r_ ha r k _ you_ t y b a l t_ b e ing_ s l a in_ s o_ l a t e_ i t_ m a y_ b e_ th ou g h t_ w e_ h e l d_ h i m_ c ar e l es s l y_ b e ing_ ou r_ k in s m an _ i f_ w e_ r e v e l _ m u ch _ th er e f or e_ w e ll_ ha ve_ s om e_ ha l f_ a_ d o z en_ f r i en d s_ and_ th er e_ an _ en d </s>
+<s> b u t_ w ha t_ s a y_ you_ to_ th u r s d a y </s>
+<s> p ar is_ m y_ l or d_ i_ w ou l d_ th at_ th u r s d a y_ w er e_ t om or r o w </s>
+<s> c a p u l e t_ w e ll_ g e t_ you_ g on e_ o_ th u r s d a y_ b e_ i t_ th en </s>
+<s> g o_ you_ to_ j u l i e t_ er e_ you_ g o_ to_ b ed_ p r e p ar e_ h er_ wi f e_ a g a in s t_ th is_ w e d d in g d a y </s>
+<s> f ar e w e ll_ m y_ l or d </s>
+<s> l i g h t_ to_ m y_ c ha m b er_ h o </s>
+<s> a f or e_ m e </s>
+<s> i t_ is_ s o_ v er y_ v er y_ l a t e_ th at_ w e_ m a y_ c a ll_ i t_ ea r l y_ b y_ and_ b y </s>
+<s> g o o d_ n i g h t </s>
+<s> e x e u n t_ s c en e_ v </s>
+<s> c a p u l e t s_ or c ha r d </s>
+<s> en t er_ r om e o_ and_ j u l i e t_ a b o ve_ at_ the_ w in d o w _ j u l i e t_ wi l t_ th ou _ b e_ g on e </s>
+<s> i t_ is_ no t_ y e t_ n ea r_ d a y_ i t_ w a s_ the_ n i g h t in g a l e_ and_ no t_ the_ l ar k _ th at_ p i er c ed_ the_ f ea r f u l _ h o ll o w _ of_ th in e_ ea r_ n i g h t l y_ s h e_ s in g s_ on_ y on_ p om e g r an a t e t r e e_ b e l i e ve_ m e_ l o ve_ i t_ w a s_ the_ n i g h t in g a l e </s>
+<s> r om e o_ i t_ w a s_ the_ l ar k _ the_ h er a l d_ of_ the_ m or n _ n o_ n i g h t in g a l e_ l o o k _ l o ve_ w ha t_ en v i ou s_ s t r ea k s_ d o_ l a c e_ the_ s e v er ing_ c l ou d s_ in_ y on d er_ ea s t_ n i g h t s_ c an d l es_ ar e_ b u r n t_ ou t_ and_ j o c u n d_ d a y_ s t an d s_ ti p t o e_ on_ the_ m i s t y_ m ou n t a in_ t o p s </s>
+<s> i_ m u s t_ b e_ g on e_ and_ l i ve_ o r_ s t a y_ and_ d i e </s>
+<s> j u l i e t_ y on_ l i g h t_ is_ no t_ d a y l i g h t_ i_ k no w _ i t_ i_ i t_ is_ s om e_ m e t e o r_ th at_ the_ s u n _ e x ha l es_ to_ b e_ to_ th e e_ th is_ n i g h t_ a_ t or ch b ea r er_ and_ l i g h t_ th e e_ on_ th y_ w a y_ to_ m an t u a_ th er e f or e_ s t a y_ y e t_ th ou _ n e e d s t_ no t_ to_ b e_ g on e </s>
+<s> r om e o_ l e t_ m e_ b e_ t a en_ l e t_ m e_ b e_ p u t_ to_ d ea th_ i_ a m_ c on t en t_ s o_ th ou _ wi l t_ ha ve_ i t_ s o </s>
+<s> i ll_ s a y_ y on_ g r e y_ is_ no t_ the_ m or n in g s_ e y e_ t is_ b u t_ the_ p a l e_ r e f l e x _ of_ c y n th i a s_ b r o w _ no r_ th at_ is_ no t_ the_ l ar k _ wh o s e_ no t es_ d o_ b ea t_ the_ v a u l t y_ h ea v en_ s o_ h i g h _ a b o ve_ ou r_ h ea d s_ i_ ha ve_ m or e_ c ar e_ to_ s t a y_ th an _ wi ll_ to_ g o_ c om e_ d ea th_ and_ w e l c om e </s>
+<s> j u l i e t_ wi ll s_ i t_ s o </s>
+<s> h o w _ i s t_ m y_ s ou l </s>
+<s> l e t s_ t a l k _ i t_ is_ no t_ d a y </s>
+<s> j u l i e t_ i t_ is_ i t_ is_ h i e_ h en c e_ b e_ g on e_ a w a y </s>
+<s> i t_ is_ the_ l ar k _ th at_ s in g s_ s o_ ou t_ of_ t u n e_ s t r a in ing_ ha r s h _ d i s c or d s_ and_ u n p l ea s ing_ s ha r p s </s>
+<s> s om e_ s a y_ the_ l ar k _ m a k es_ s w e e t_ d i v i s i on_ th is_ d o th_ no t_ s o_ f o r_ s h e_ d i v i d e th_ us_ s om e_ s a y_ the_ l ar k _ and_ l o a th ed_ t o a d_ ch an g e_ e y es_ o_ no w _ i_ w ou l d_ th e y_ ha d_ ch an g ed_ v o i c es_ t o o </s>
+<s> s in c e_ ar m_ f r om _ ar m_ th at_ v o i c e_ d o th_ us_ a f f r a y_ h u n t ing_ th e e_ h en c e_ wi th_ h u n t s u p _ to_ the_ d a y_ o_ no w _ b e_ g on e_ m or e_ l i g h t_ and_ l i g h t_ i t_ g r o w s </s>
+<s> r om e o_ m or e_ l i g h t_ and_ l i g h t_ m or e_ d ar k _ and_ d ar k _ ou r_ w o es </s>
+<s> en t er_ n u r s e_ to_ the_ c ha m b er_ n u r s e_ m a d a m </s>
+<s> j u l i e t_ n u r s e </s>
+<s> n u r s e_ you r_ l a d y_ m o th er_ is_ c om ing_ to_ you r_ c ha m b er_ the_ d a y_ is_ b r o k e_ b e_ w ar y_ l o o k _ a b ou t </s>
+<s> e x i t_ j u l i e t_ th en_ w in d o w _ l e t_ d a y_ in_ and_ l e t_ l i f e_ ou t </s>
+<s> r om e o_ f ar e w e ll_ f ar e w e ll </s>
+<s> on e_ k i s s_ and_ i ll_ d es c en d </s>
+<s> h e_ g o e th_ d o w n _ j u l i e t_ ar t_ th ou _ g on e_ s o </s>
+<s> l o ve_ l or d_ a y_ h u s b and_ f r i en d </s>
+<s> i_ m u s t_ h ea r_ f r om _ th e e_ e v er y_ d a y_ in_ the_ h ou r_ f o r_ in_ a_ m in u t e_ th er e_ ar e_ m an y_ d a y s_ o_ b y_ th is_ c ou n t_ i_ s ha ll_ b e_ m u ch _ in_ y ea r s_ er e_ i_ a g a in_ b e h o l d_ m y_ r om e o </s>
+<s> r om e o_ f ar e w e ll </s>
+<s> i_ wi ll_ om i t_ n o_ o p p or t u n i t y_ th at_ m a y_ c on v e y_ m y_ g r e e t in g s_ l o ve_ to_ th e e </s>
+<s> j u l i e t_ o_ th in k s t_ th ou _ w e_ s ha ll_ e v er_ m e e t_ a g a in </s>
+<s> r om e o_ i_ d ou b t_ i t_ no t_ and_ a ll_ th es e_ w o es_ s ha ll_ s er ve_ f o r_ s w e e t_ d i s c ou r s es_ in_ ou r_ ti m e_ to_ c om e </s>
+<s> j u l i e t_ o_ g o d_ i_ ha ve_ an _ i ll d i v in ing_ s ou l </s>
+<s> m e th in k s_ i_ s e e_ th e e_ no w _ th ou _ ar t_ b e l o w _ a s_ on e_ d ea d_ in_ the_ b o t t om _ of_ a_ t om b _ e i th er_ m y_ e y es i g h t_ f a i l s_ o r_ th ou _ l o o k s t_ p a l e </s>
+<s> r om e o_ and_ t r u s t_ m e_ l o ve_ in_ m y_ e y e_ s o_ d o_ you_ d r y_ s or r o w _ d r in k s_ ou r_ b l o o d </s>
+<s> a d i e u _ a d i e u </s>
+<s> e x i t_ j u l i e t_ o_ f or t u n e_ f or t u n e </s>
+<s> a ll_ m en_ c a ll_ th e e_ f i c k l e_ i f_ th ou _ ar t_ f i c k l e_ w ha t_ d o s t_ th ou _ wi th_ h i m </s>
+<s> th at_ is_ r en o w n d_ f o r_ f a i th </s>
+<s> b e_ f i c k l e_ f or t u n e_ f o r_ th en_ i_ h o p e_ th ou _ wi l t_ no t_ k e e p _ h i m_ l on g_ b u t_ s en d_ h i m_ b a c k </s>
+<s> l a d y_ c a p u l e t_ wi th in_ h o_ d a u g h t er </s>
+<s> ar e_ you_ u p </s>
+<s> j u l i e t_ wh o_ i s t_ th at_ c a ll s </s>
+<s> is_ i t_ m y_ l a d y_ m o th er </s>
+<s> is_ s h e_ no t_ d o w n _ s o_ l a t e_ o r_ u p _ s o_ ea r l y </s>
+<s> w ha t_ u n a c c u s t om d_ c a u s e_ p r o c u r es_ h er_ h i th er </s>
+<s> en t er_ l a d y_ c a p u l e t_ l a d y_ c a p u l e t_ wh y_ h o w _ no w _ j u l i e t </s>
+<s> j u l i e t_ m a d a m_ i_ a m_ no t_ w e ll </s>
+<s> l a d y_ c a p u l e t_ e v er m or e_ w e e p ing_ f o r_ you r_ c ou s in s_ d ea th </s>
+<s> w ha t_ wi l t_ th ou _ w a s h _ h i m_ f r om _ h is_ g r a ve_ wi th_ t ea r s </s>
+<s> an _ i f_ th ou _ c ou l d s t_ th ou _ c ou l d s t_ no t_ m a k e_ h i m_ l i ve_ th er e f or e_ ha ve_ d on e_ s om e_ g r i e f_ s h o w s_ m u ch _ of_ l o ve_ b u t_ m u ch _ of_ g r i e f_ s h o w s_ s ti ll_ s om e_ w an t_ of_ wi t </s>
+<s> j u l i e t_ y e t_ l e t_ m e_ w e e p _ f o r_ s u ch _ a_ f e e l ing_ l o s s </s>
+<s> l a d y_ c a p u l e t_ s o_ s ha ll_ you_ f e e l _ the_ l o s s_ b u t_ no t_ the_ f r i en d_ wh i ch _ you_ w e e p _ f or </s>
+<s> j u l i e t_ f e e l ing_ s o_ the_ l o s s_ c an no t_ ch o o s e_ b u t_ e v er_ w e e p _ the_ f r i en d </s>
+<s> l a d y_ c a p u l e t_ w e ll_ g i r l _ th ou _ w e e p s t_ no t_ s o_ m u ch _ f o r_ h is_ d ea th_ a s_ th at_ the_ v i ll a in_ l i v es_ wh i ch _ s l a u g h t er d_ h i m </s>
+<s> j u l i e t_ w ha t_ v i ll a in_ m a d a m </s>
+<s> l a d y_ c a p u l e t_ th at_ s a m e_ v i ll a in_ r om e o </s>
+<s> j u l i e t_ a s i d e_ v i ll a in_ and_ h e_ b e_ m an y_ m i l es_ a s u n d er_ g o d_ p ar d on_ h i m </s>
+<s> i_ d o_ wi th_ a ll_ m y_ h ea r t_ and_ y e t_ n o_ m an _ l i k e_ h e_ d o th_ g r i e ve_ m y_ h ea r t </s>
+<s> l a d y_ c a p u l e t_ th at_ is_ b e c a u s e_ the_ t r a i t o r_ m u r d er er_ l i v es </s>
+<s> j u l i e t_ a y_ m a d a m_ f r om _ the_ r ea ch _ of_ th es e_ m y_ h an d s_ w ou l d_ n on e_ b u t_ i_ m i g h t_ v en g e_ m y_ c ou s in s_ d ea th </s>
+<s> l a d y_ c a p u l e t_ w e_ wi ll_ ha ve_ v en g e an c e_ f o r_ i t_ f ea r_ th ou _ no t_ th en_ w e e p _ n o_ m or e </s>
+<s> i ll_ s en d_ to_ on e_ in_ m an t u a_ wh er e_ th at_ s a m e_ b an i s h d_ r u n a g a t e_ d o th_ l i ve_ s ha ll_ g i ve_ h i m_ s u ch _ an _ u n a c c u s t om d_ d r a m_ th at_ h e_ s ha ll_ s o on_ k e e p _ t y b a l t_ c om p an y_ and_ th en_ i_ h o p e_ th ou _ wi l t_ b e_ s a ti s f i e d </s>
+<s> j u l i e t_ in d e ed_ i_ n e v er_ s ha ll_ b e_ s a ti s f i ed_ wi th_ r om e o_ ti ll_ i_ b e h o l d_ h i m d ea d_ is_ m y_ p o o r_ h ea r t_ f o r_ a_ k in s m an _ v e x d </s>
+<s> m a d a m_ i f_ you_ c ou l d_ f in d_ ou t_ b u t_ a_ m an _ to_ b ea r_ a_ p o i s on_ i_ w ou l d_ t e m p er_ i t_ th at_ r om e o_ s h ou l d_ u p on_ r e c e i p t_ th er e of_ s o on_ s l e e p _ in_ q u i e t </s>
+<s> o_ h o w _ m y_ h ea r t_ a b h or s_ to_ h ea r_ h i m_ n a m ed_ and_ c an no t_ c om e_ to_ h i m </s>
+<s> to_ w r ea k _ the_ l o ve_ i_ b or e_ m y_ c ou s in_ u p on_ h is_ b o d y_ th at_ s l a u g h t er d_ h i m </s>
+<s> l a d y_ c a p u l e t_ f in d_ th ou _ the_ m e an s_ and_ i ll_ f in d_ s u ch _ a_ m an </s>
+<s> b u t_ no w _ i ll_ t e ll_ th e e_ j o y f u l _ ti d in g s_ g i r l </s>
+<s> j u l i e t_ and_ j o y_ c om es_ w e ll_ in_ s u ch _ a_ n e e d y_ ti m e_ w ha t_ ar e_ th e y_ i_ b es e e ch _ you r_ l a d y s h i p </s>
+<s> l a d y_ c a p u l e t_ w e ll_ w e ll_ th ou _ ha s t_ a_ c ar e f u l _ f a th er_ ch i l d_ on e_ wh o_ to_ p u t_ th e e_ f r om _ th y_ h ea v in es s_ ha th_ s or t ed_ ou t_ a_ s u d d en_ d a y_ of_ j o y_ th at_ th ou _ e x p e c t s t_ no t_ no r_ i_ l o o k d_ no t_ f or </s>
+<s> j u l i e t_ m a d a m_ in_ ha p p y_ ti m e_ w ha t_ d a y_ is_ th a t </s>
+<s> l a d y_ c a p u l e t_ m ar r y_ m y_ ch i l d_ ea r l y_ n e x t_ th u r s d a y_ m or n _ the_ g a ll an t_ you n g_ and_ no b l e_ g en t l e m an _ the_ c ou n t y_ p ar is_ at_ s a in t_ p e t er s_ ch u r ch _ s ha ll_ ha p p i l y_ m a k e_ th e e_ th er e_ a_ j o y f u l _ b r i d e </s>
+<s> j u l i e t_ no w _ b y_ s a in t_ p e t er s_ ch u r ch _ and_ p e t er_ t o o_ h e_ s ha ll_ no t_ m a k e_ m e_ th er e_ a_ j o y f u l _ b r i d e </s>
+<s> i_ w on d er_ at_ th is_ ha s t e_ th at_ i_ m u s t_ w ed_ er e_ h e_ th at_ s h ou l d_ b e_ h u s b and_ c om es_ to_ w o o </s>
+<s> i_ p r a y_ you_ t e ll_ m y_ l or d_ and_ f a th er_ m a d a m_ i_ wi ll_ no t_ m ar r y_ y e t_ and_ wh en_ i_ d o_ i_ s w ea r_ i t_ s ha ll_ b e_ r om e o_ wh om _ you_ k no w _ i_ ha t e_ r a th er_ th an _ p ar i s </s>
+<s> th es e_ ar e_ n e w s_ in d e e d </s>
+<s> l a d y_ c a p u l e t_ h er e_ c om es_ you r_ f a th er_ t e ll_ h i m_ s o_ you r s e l f_ and_ s e e_ h o w _ h e_ wi ll_ t a k e_ i t_ at_ you r_ h an d s </s>
+<s> en t er_ c a p u l e t_ and_ n u r s e_ c a p u l e t_ wh en_ the_ s u n _ s e t s_ the_ a i r_ d o th_ d r i z z l e_ d e w _ b u t_ f o r_ the_ s u n s e t_ of_ m y_ b r o th er s_ s on_ i t_ r a in s_ d o w n r i g h t </s>
+<s> h o w _ no w </s>
+<s> a_ c on d u i t_ g i r l </s>
+<s> w ha t_ s ti ll_ in_ t ea r s </s>
+<s> e v er m or e_ s h o w er in g </s>
+<s> in_ on e_ l i t t l e_ b o d y_ th ou _ c ou n t er f e i t s t_ a_ b ar k _ a_ s ea _ a_ w in d_ f o r_ s ti ll_ th y_ e y es_ wh i ch _ i_ m a y_ c a ll_ the_ s ea _ d o_ e b b _ and_ f l o w _ wi th_ t ea r s_ the_ b ar k _ th y_ b o d y_ is_ s a i l ing_ in_ th is_ s a l t_ f l o o d_ the_ w in d s_ th y_ s i g h s_ wh o_ r a g ing_ wi th_ th y_ t ea r s_ and_ th e y_ wi th_ th e m_ wi th ou t_ a_ s u d d en_ c a l m_ wi ll_ o v er s e t_ th y_ t e m p es t t o s s ed_ b o d y </s>
+<s> h o w _ no w _ wi f e </s>
+<s> ha ve_ you_ d e l i v er d_ to_ h er_ ou r_ d e c r e e </s>
+<s> l a d y_ c a p u l e t_ a y_ s i r_ b u t_ s h e_ wi ll_ n on e_ s h e_ g i v es_ you_ th an k s </s>
+<s> i_ w ou l d_ the_ f o o l _ w er e_ m ar r i ed_ to_ h er_ g r a v e </s>
+<s> c a p u l e t_ s o f t </s>
+<s> t a k e_ m e_ wi th_ you_ t a k e_ m e_ wi th_ you_ wi f e </s>
+<s> h o w </s>
+<s> wi ll_ s h e_ n on e </s>
+<s> d o th_ s h e_ no t_ g i ve_ us_ th an k s </s>
+<s> is_ s h e_ no t_ p r ou d </s>
+<s> d o th_ s h e_ no t_ c ou n t_ h er_ b l es t_ u n w or th y_ a s_ s h e_ is_ th at_ w e_ ha ve_ w r ou g h t_ s o_ w or th y_ a_ g en t l e m an _ to_ b e_ h er_ b r i d e g r o om </s>
+<s> j u l i e t_ no t_ p r ou d_ you_ ha ve_ b u t_ th an k f u l _ th at_ you_ ha ve_ p r ou d_ c an _ i_ n e v er_ b e_ of_ w ha t_ i_ ha t e_ b u t_ th an k f u l _ e v en_ f o r_ ha t e_ th at_ is_ m e an t_ l o v e </s>
+<s> c a p u l e t_ h o w _ no w _ h o w _ no w _ ch o p l o g i c </s>
+<s> w ha t_ is_ th i s </s>
+<s> p r ou d_ and_ i_ th an k _ you_ and_ i_ a p p r o a ch _ and_ s p ea k </s>
+<s> e u p h r on i us_ s u ch _ a s_ i_ a m_ i_ c om e_ f r om _ an t on y_ i_ w a s_ of_ l a t e_ a s_ p e t t y_ to_ h is_ en d s_ a s_ is_ the_ m or n d e w _ on_ the_ m y r t l e l ea f_ to_ h is_ g r and_ s ea </s>
+<s> o c t a v i us_ c a es a r_ b e t_ s o_ d e c l ar e_ th in e_ o f f i c e </s>
+<s> e u p h r on i us_ l or d_ of_ h is_ f or t u n es_ h e_ s a l u t es_ th e e_ and_ r e q u i r es_ to_ l i ve_ in_ e g y p t_ wh i ch _ no t_ g r an t ed_ h e_ l es s en s_ h is_ r e q u es t s_ and_ to_ th e e_ s u es_ to_ l e t_ h i m_ b r ea the_ b e t w e en_ the_ h ea v en s_ and_ ea r th_ a_ p r i v a t e_ m an _ in_ a th en s_ th is_ f o r_ h i m </s>
+<s> n e x t_ c l e o p a t r a_ d o es_ c on f es s_ th y_ g r ea t n es s_ s u b m i t s_ h er_ to_ th y_ m i g h t_ and_ of_ th e e_ c r a v es_ the_ c i r c l e_ of_ the_ p t o l e m i es_ f o r_ h er_ h e i r s_ no w _ ha z ar d ed_ to_ th y_ g r a c e </s>
+<s> o c t a v i us_ c a es a r_ f o r_ an t on y_ i_ ha ve_ n o_ ea r s_ to_ h is_ r e q u es t </s>
+<s> the_ q u e en_ of_ a u d i en c e_ no r_ d es i r e_ s ha ll_ f a i l _ s o_ s h e_ f r om _ e g y p t_ d r i ve_ h er_ a ll d i s g r a c ed_ f r i en d_ o r_ t a k e_ h is_ l i f e_ th er e_ th is_ i f_ s h e_ p er f or m_ s h e_ s ha ll_ no t_ s u e_ u n h ea r d </s>
+<s> s o_ to_ th e m_ b o th </s>
+<s> e u p h r on i us_ f or t u n e_ p u r s u e_ th e e </s>
+<s> o c t a v i us_ c a es a r_ b r ing_ h i m_ th r ou g h _ the_ b an d s </s>
+<s> e x i t_ e u p h r on i us_ to_ th y r e us_ to_ t r y_ e l o q u en c e_ no w _ t is_ ti m e_ d i s p a t ch _ f r om _ an t on y_ w in_ c l e o p a t r a_ p r om i s e_ and_ in_ ou r_ n a m e_ w ha t_ s h e_ r e q u i r es_ a d d_ m or e_ f r om _ th in e_ in v en ti on_ o f f er s_ w om en_ ar e_ no t_ in_ th e i r_ b es t_ f or t u n es_ s t r on g_ b u t_ w an t_ wi ll_ p er j u r e_ the_ n e er_ t ou ch d_ v es t a l _ t r y_ th y_ c u n n ing_ th y r e us_ m a k e_ th in e_ o w n _ e d i c t_ f o r_ th y_ p a in s_ wh i ch _ w e_ wi ll_ an s w er_ a s_ a_ l a w </s>
+<s> th y r e us_ c a es a r_ i_ g o </s>
+<s> o c t a v i us_ c a es a r_ o b s er ve_ h o w _ an t on y_ b e c om es_ h is_ f l a w _ and_ w ha t_ th ou _ th in k s t_ h is_ v er y_ a c ti on_ s p ea k s_ in_ e v er y_ p o w er_ th at_ m o v es </s>
+<s> th y r e us_ c a es a r_ i_ s ha ll </s>
+<s> e x e u n t_ s c en e_ x i i i </s>
+<s> a l e x an d r i a </s>
+<s> c l e o p a t r a s_ p a l a c e </s>
+<s> en t er_ c l e o p a t r a_ d om i ti us_ en o b ar b us_ c ha r m i an _ and_ i r a s_ c l e o p a t r a_ w ha t_ s ha ll_ w e_ d o_ en o b ar b u s </s>
+<s> d om i ti us_ en o b ar b us_ th in k _ and_ d i e </s>
+<s> c l e o p a t r a_ is_ an t on y_ o r_ w e_ in_ f a u l t_ f o r_ th i s </s>
+<s> d om i ti us_ en o b ar b us_ an t on y_ on l y_ th at_ w ou l d_ m a k e_ h is_ wi ll_ l or d_ of_ h is_ r ea s on </s>
+<s> w ha t_ th ou g h _ you_ f l ed_ f r om _ th at_ g r ea t_ f a c e_ of_ w a r_ wh o s e_ s e v er a l _ r an g es_ f r i g h t ed_ ea ch _ o th er </s>
+<s> wh y_ s h ou l d_ h e_ f o ll o w </s>
+<s> the_ i t ch _ of_ h is_ a f f e c ti on_ s h ou l d_ no t_ th en_ ha ve_ n i c k d_ h is_ c a p t a in s h i p _ at_ s u ch _ a_ p o in t_ wh en_ ha l f_ to_ ha l f_ the_ w or l d_ o p p o s ed_ h e_ b e ing_ the_ m e er ed_ q u es ti on_ t w a s_ a_ s ha m e_ n o_ l es s_ th an _ w a s_ h is_ l o s s_ to_ c ou r s e_ you r_ f l y ing_ f l a g s_ and_ l ea ve_ h is_ n a v y_ g a z in g </s>
+<s> c l e o p a t r a_ p r i th e e_ p ea c e </s>
+<s> en t er_ m ar k _ an t on y_ wi th_ e u p h r on i us_ the_ a m b a s s a d o r_ m ar k _ an t on y_ is_ th at_ h is_ an s w er </s>
+<s> e u p h r on i us_ a y_ m y_ l or d </s>
+<s> m ar k _ an t on y_ the_ q u e en_ s ha ll_ th en_ ha ve_ c ou r t es y_ s o_ s h e_ wi ll_ y i e l d_ us_ u p </s>
+<s> e u p h r on i us_ h e_ s a y s_ s o </s>
+<s> m ar k _ an t on y_ l e t_ h er_ k no w t </s>
+<s> to_ the_ b o y_ c a es a r_ s en d_ th is_ g r i z z l ed_ h ea d_ and_ h e_ wi ll_ f i ll_ th y_ wi s h es_ to_ the_ b r i m_ wi th_ p r in c i p a l i ti es </s>
+<s> c l e o p a t r a_ th at_ h ea d_ m y_ l or d </s>
+<s> m ar k _ an t on y_ to_ h i m_ a g a in_ t e ll_ h i m_ h e_ w ea r s_ the_ r o s e_ of_ you th_ u p on_ h i m_ f r om _ wh i ch _ the_ w or l d_ s h ou l d_ no t e_ s om e th ing_ p ar ti c u l a r_ h is_ c o in_ s h i p s_ l e g i on s_ m a y_ b e_ a_ c o w ar d s_ wh o s e_ m in i s t er s_ w ou l d_ p r e v a i l _ u n d er_ the_ s er v i c e_ of_ a_ ch i l d_ a s_ s o on_ a s_ i_ the_ c om m and_ of_ c a es a r_ i_ d ar e_ h i m_ th er e f or e_ to_ l a y_ h is_ g a y_ c om p ar i s on s_ a p ar t_ and_ an s w er_ m e_ d e c l in ed_ s w or d_ a g a in s t_ s w or d_ ou r s e l v es_ a l on e </s>
+<s> i ll_ w r i t e_ i t_ f o ll o w _ m e </s>
+<s> e x e u n t_ m ar k _ an t on y_ and_ e u p h r on i us_ d om i ti us_ en o b ar b us_ a s i d e_ y es_ l i k e_ en ou g h _ h i g h b a t t l ed_ c a es a r_ wi ll_ u n s t a t e_ h is_ ha p p in es s_ and_ b e_ s t a g ed_ to_ the_ s h o w _ a g a in s t_ a_ s w or d er </s>
+<s> i_ s e e_ m en s_ j u d g m en t s_ ar e_ a_ p ar c e l _ of_ th e i r_ f or t u n es_ and_ th in g s_ ou t w ar d_ d o_ d r a w _ the_ in w ar d_ q u a l i t y_ a f t er_ th e m_ to_ s u f f er_ a ll_ a l i k e </s>
+<s> th at_ h e_ s h ou l d_ d r ea m_ k no w ing_ a ll_ m ea s u r es_ the_ f u ll_ c a es a r_ wi ll_ an s w er_ h is_ e m p t in es s </s>
+<s> c a es a r_ th ou _ ha s t_ s u b d u ed_ h is_ j u d g m en t_ t o o </s>
+<s> en t er_ an _ a t t en d an t_ a t t en d an t_ a_ m es s en g er_ f r om _ c a es ar </s>
+<s> c l e o p a t r a_ w ha t_ n o_ m or e_ c er e m on y </s>
+<s> s e e_ m y_ w om en </s>
+<s> a g a in s t_ the_ b l o w n _ r o s e_ m a y_ th e y_ s t o p _ th e i r_ no s e_ th at_ k n e e l d_ u n to_ the_ b u d s </s>
+<s> a d m i t_ h i m_ s i r </s>
+<s> e x i t_ a t t en d an t_ d om i ti us_ en o b ar b us_ a s i d e_ m in e_ h on es t y_ and_ i_ b e g in_ to_ s q u ar e </s>
+<s> the_ l o y a l t y_ w e ll_ h e l d_ to_ f o o l s_ d o es_ m a k e_ ou r_ f a i th_ m er e_ f o ll y_ y e t_ h e_ th at_ c an _ en d u r e_ to_ f o ll o w _ wi th_ a ll e g i an c e_ a_ f a ll n _ l or d_ d o es_ c on q u er_ h i m_ th at_ d i d_ h is_ m a s t er_ c on q u er_ and_ ea r n s_ a_ p l a c e_ i_ the_ s t or y </s>
+<s> en t er_ th y r e us_ c l e o p a t r a_ c a es ar s_ wi ll </s>
+<s> th y r e us_ h ea r_ i t_ a p ar t </s>
+<s> c l e o p a t r a_ n on e_ b u t_ f r i en d s_ s a y_ b o l d l y </s>
+<s> th y r e us_ s o_ ha p l y_ ar e_ th e y_ f r i en d s_ to_ an t on y </s>
+<s> d om i ti us_ en o b ar b us_ h e_ n e e d s_ a s_ m an y_ s i r_ a s_ c a es a r_ ha s_ o r_ n e e d s_ no t_ u s </s>
+<s> i f_ c a es a r_ p l ea s e_ ou r_ m a s t er_ wi ll_ l ea p _ to_ b e_ h is_ f r i en d_ f o r_ us_ you_ k no w _ wh o s e_ h e_ is_ w e_ ar e_ and_ th at_ is_ c a es ar s </s>
+<s> th y r e us_ s o </s>
+<s> th us_ th en_ th ou _ m o s t_ r en o w n d_ c a es a r_ en t r ea t s_ no t_ to_ c on s i d er_ in_ w ha t_ c a s e_ th ou _ s t an d s t_ f u r th er_ th an _ h e_ is_ c a es ar </s>
+<s> c l e o p a t r a_ g o_ on_ r i g h t_ r o y a l </s>
+<s> th y r e us_ h e_ k no w s_ th at_ you_ e m b r a c e_ no t_ an t on y_ a s_ you_ d i d_ l o ve_ b u t_ a s_ you_ f ea r d_ h i m </s>
+<s> c l e o p a t r a_ o </s>
+<s> th y r e us_ the_ s c ar s_ u p on_ you r_ h on ou r_ th er e f or e_ h e_ d o es_ p i t y_ a s_ c on s t r a in ed_ b l e m i s h es_ no t_ a s_ d es er v e d </s>
+<s> c l e o p a t r a_ h e_ is_ a_ g o d_ and_ k no w s_ w ha t_ is_ m o s t_ r i g h t_ m in e_ h on ou r_ w a s_ no t_ y i e l d ed_ b u t_ c on q u er d_ m er e l y </s>
+<s> d om i ti us_ en o b ar b us_ a s i d e_ to_ b e_ s u r e_ of_ th at_ i_ wi ll_ a s k _ an t on y </s>
+<s> s i r_ s i r_ th ou _ ar t_ s o_ l ea k y_ th at_ w e_ m u s t_ l ea ve_ th e e_ to_ th y_ s in k ing_ f o r_ th y_ d ea r es t_ q u i t_ th e e </s>
+<s> e x i t_ th y r e us_ s ha ll_ i_ s a y_ to_ c a es a r_ w ha t_ you_ r e q u i r e_ of_ h i m </s>
+<s> f o r_ h e_ p ar t l y_ b e g s_ to_ b e_ d es i r ed_ to_ g i v e </s>
+<s> i t_ m u ch _ w ou l d_ p l ea s e_ h i m_ th at_ of_ h is_ f or t u n es_ you_ s h ou l d_ m a k e_ a_ s t a f f_ to_ l e an _ u p on_ b u t_ i t_ w ou l d_ w ar m_ h is_ s p i r i t s_ to_ h ea r_ f r om _ m e_ you_ ha d_ l e f t_ an t on y_ and_ p u t_ you r s e l f_ u n d er_ h is_ s h r o w d_ the_ u n i v er s a l _ l an d l or d </s>
+<s> c l e o p a t r a_ w ha t s_ you r_ n a m e </s>
+<s> th y r e us_ m y_ n a m e_ is_ th y r e u s </s>
+<s> c l e o p a t r a_ m o s t_ k in d_ m es s en g er_ s a y_ to_ g r ea t_ c a es a r_ th is_ in_ d e p u t a ti on_ i_ k i s s_ h is_ c on q u er ing_ h and_ t e ll_ h i m_ i_ a m_ p r om p t_ to_ l a y_ m y_ c r o w n _ at_ s_ f e e t_ and_ th er e_ to_ k n e e l _ t e ll_ h i m_ f r om _ h is_ a ll o b e y ing_ b r ea th_ i_ h ea r_ the_ d o om _ of_ e g y p t </s>
+<s> th y r e us_ t is_ you r_ no b l es t_ c ou r s e </s>
+<s> wi s d om _ and_ f or t u n e_ c om b a t ing_ t o g e th er_ i f_ th at_ the_ f or m er_ d ar e_ b u t_ w ha t_ i t_ c an _ n o_ ch an c e_ m a y_ s ha k e_ i t </s>
+<s> g i ve_ m e_ g r a c e_ to_ l a y_ m y_ d u t y_ on_ you r_ h an d </s>
+<s> c l e o p a t r a_ you r_ c a es ar s_ f a th er_ o f t_ wh en_ h e_ ha th_ m u s ed_ of_ t a k ing_ k in g d om s_ in_ b es t o w d_ h is_ l i p s_ on_ th at_ u n w or th y_ p l a c e_ a s_ i t_ r a in d_ k i s s es </s>
+<s> r e en t er_ m ar k _ an t on y_ and_ d om i ti us_ en o b ar b us_ m ar k _ an t on y_ f a v ou r s_ b y_ j o ve_ th at_ th u n d er s </s>
+<s> w ha t_ ar t_ th ou _ f e ll o w </s>
+<s> th y r e us_ on e_ th at_ b u t_ p er f or m s_ the_ b i d d ing_ of_ the_ f u ll es t_ m an _ and_ w or th i es t_ to_ ha ve_ c om m and_ o b e y d </s>
+<s> d om i ti us_ en o b ar b us_ a s i d e_ you_ wi ll_ b e_ wh i p p d </s>
+<s> m ar k _ an t on y_ a p p r o a ch _ th er e </s>
+<s> a h _ you_ k i t e </s>
+<s> no w _ g o d s_ and_ d e v i l s </s>
+<s> a u th or i t y_ m e l t s_ f r om _ m e_ of_ l a t e_ wh en_ i_ c r i ed_ h o_ l i k e_ b o y s_ u n to_ a_ m u s s_ k in g s_ w ou l d_ s t ar t_ f or th_ and_ c r y_ you r_ wi ll_ ha ve_ you_ n o_ ea r s </s>
+<s> i_ a m_ an t on y_ y e t </s>
+<s> en t er_ a t t en d an t s_ t a k e_ h en c e_ th is_ j a c k _ and_ wh i p _ h i m </s>
+<s> d om i ti us_ en o b ar b us_ a s i d e_ t is_ b e t t er_ p l a y ing_ wi th_ a_ l i on s_ wh e l p _ th an _ wi th_ an _ o l d_ on e_ d y in g </s>
+<s> m ar k _ an t on y_ m o on_ and_ s t ar s </s>
+<s> wh i p _ h i m </s>
+<s> w er e t_ t w en t y_ of_ the_ g r ea t es t_ t r i b u t ar i es_ th at_ d o_ a c k no w l e d g e_ c a es a r_ s h ou l d_ i_ f in d_ th e m_ s o_ s a u c y_ wi th_ the_ h and_ of_ s h e_ h er e w ha t s_ h er_ n a m e_ s in c e_ s h e_ w a s_ c l e o p a t r a </s>
+<s> wh i p _ h i m_ f e ll o w s_ ti ll_ l i k e_ a_ b o y_ you_ s e e_ h i m_ c r in g e_ h is_ f a c e_ and_ wh in e_ a l ou d_ f o r_ m er c y_ t a k e_ h i m_ h en c e </s>
+<s> th y r e us_ m ar k _ an t on y </s>
+<s> m ar k _ an t on y_ t u g_ h i m_ a w a y_ b e ing_ wh i p p d_ b r ing_ h i m_ a g a in_ th is_ j a c k _ of_ c a es ar s_ s ha ll_ b ea r_ us_ an _ a_ th ou s and_ s i r_ ea r l y_ th ou g h t_ b e_ ha ve_ on_ th e i r_ r i v e t ed_ t r i m_ and_ at_ the_ p or t_ e x p e c t_ you </s>
+<s> s h ou t </s>
+<s> t r u m p e t s_ f l ou r i s h _ en t er_ c a p t a in s_ and_ s o l d i er s_ c a p t a in_ the_ m or n _ is_ f a i r </s>
+<s> g o o d_ m or r o w _ g en er a l </s>
+<s> a ll_ g o o d_ m or r o w _ g en er a l </s>
+<s> m ar k _ an t on y_ t is_ w e ll_ b l o w n _ l a d s_ th is_ m or n ing_ l i k e_ the_ s p i r i t_ of_ a_ you th_ th at_ m e an s_ to_ b e_ of_ no t e_ b e g in s_ b e ti m es </s>
+<s> s o_ s o_ c om e_ g i ve_ m e_ th at_ th is_ w a y_ w e ll_ s a i d </s>
+<s> f ar e_ th e e_ w e ll_ d a m e_ w ha t e er_ b e c om es_ of_ m e_ th is_ is_ a_ s o l d i er s_ k i s s_ r e b u k ea b l e_ k i s s es_ h er_ and_ w or th y_ s ha m e f u l _ ch e q u e_ i t_ w er e_ to_ s t and_ on_ m or e_ m e ch an i c _ c om p l i m en t_ i ll_ l ea ve_ th e e_ no w _ l i k e_ a_ m an _ of_ s t e e l </s>
+<s> you_ th at_ wi ll_ f i g h t_ f o ll o w _ m e_ c l o s e_ i ll_ b r ing_ you_ t o t </s>
+<s> a d i e u </s>
+<s> e x e u n t_ m ar k _ an t on y_ er o s_ c a p t a in s_ and_ s o l d i er s_ c ha r m i an _ p l ea s e_ you_ r e ti r e_ to_ you r_ c ha m b er </s>
+<s> c l e o p a t r a_ l ea d_ m e </s>
+<s> h e_ g o es_ f or th_ g a ll an t l y </s>
+<s> th at_ h e_ and_ c a es a r_ m i g h t_ d e t er m in e_ th is_ g r ea t_ w a r_ in_ s in g l e_ f i g h t </s>
+<s> th en_ an t on y b u t_ no w w e ll_ on </s>
+<s> e x e u n t_ s c en e_ v </s>
+<s> a l e x an d r i a </s>
+<s> m ar k _ an t on y s_ c a m p </s>
+<s> t r u m p e t s_ s ou n d </s>
+<s> en t er_ m ar k _ an t on y_ and_ er o s_ a_ s o l d i er_ m e e t ing_ th e m_ s o l d i er_ the_ g o d s_ m a k e_ th is_ a_ ha p p y_ d a y_ to_ an t on y </s>
+<s> m ar k _ an t on y_ w ou l d_ th ou _ and_ th o s e_ th y_ s c ar s_ ha d_ on c e_ p r e v a i l d_ to_ m a k e_ m e_ f i g h t_ at_ l an d </s>
+<s> s o l d i er_ ha d s t_ th ou _ d on e_ s o_ the_ k in g s_ th at_ ha ve_ r e v o l t ed_ and_ the_ s o l d i er_ th at_ ha s_ th is_ m or n ing_ l e f t_ th e e_ w ou l d_ ha ve_ s ti ll_ f o ll o w d_ th y_ h e e l s </s>
+<s> m ar k _ an t on y_ wh o s_ g on e_ th is_ m or n in g </s>
+<s> s o l d i er_ wh o </s>
+<s> on e_ e v er_ n ea r_ th e e_ c a ll_ f o r_ en o b ar b us_ h e_ s ha ll_ no t_ h ea r_ th e e_ o r_ f r om _ c a es ar s_ c a m p _ s a y_ i_ a m_ n on e_ of_ th in e_ m ar k _ an t on y_ w ha t_ s a y s t_ th ou </s>
+<s> s o l d i er_ s i r_ h e_ is_ wi th_ c a es ar </s>
+<s> er o s_ s i r_ h is_ ch es t s_ and_ t r ea s u r e_ h e_ ha s_ no t_ wi th_ h i m </s>
+<s> m ar k _ an t on y_ is_ h e_ g on e </s>
+<s> s o l d i er_ m o s t_ c er t a in </s>
+<s> m ar k _ an t on y_ g o_ er o s_ s en d_ h is_ t r ea s u r e_ a f t er_ d o_ i t_ d e t a in_ n o_ j o t_ i_ c ha r g e_ th e e_ w r i t e_ to_ h i m_ i_ wi ll_ s u b s c r i b e g en t l e_ a d i e us_ and_ g r e e t in g s_ s a y_ th at_ i_ wi s h _ h e_ n e v er_ f in d_ m or e_ c a u s e_ to_ ch an g e_ a_ m a s t er </s>
+<s> o_ m y_ f or t u n es_ ha ve_ c or r u p t ed_ h on es t_ m en </s>
+<s> d i s p a t ch en o b ar b u s </s>
+<s> e x e u n t_ s c en e_ v i </s>
+<s> a l e x an d r i a </s>
+<s> o c t a v i us_ c a es ar s_ c a m p </s>
+<s> f l ou r i s h </s>
+<s> en t er_ o c t a v i us_ c a es a r_ a g r i p p a_ wi th_ d om i ti us_ en o b ar b us_ and_ o th er s_ o c t a v i us_ c a es a r_ g o_ f or th_ a g r i p p a_ and_ b e g in_ the_ f i g h t_ ou r_ wi ll_ is_ an t on y_ b e_ t o o k _ a l i ve_ m a k e_ i t_ s o_ k no w n </s>
+<s> a g r i p p a_ c a es a r_ i_ s ha ll </s>
+<s> e x i t_ o c t a v i us_ c a es a r_ the_ ti m e_ of_ u n i v er s a l _ p ea c e_ is_ n ea r_ p r o ve_ th is_ a_ p r o s p er ou s_ d a y_ the_ th r e en o o k d_ w or l d_ s ha ll_ b ea r_ the_ o l i ve_ f r e e l y </s>
+<s> en t er_ a_ m es s en g er_ m es s en g er_ an t on y_ is_ c om e_ in to_ the_ f i e l d </s>
+<s> o c t a v i us_ c a es a r_ g o_ c ha r g e_ a g r i p p a_ p l an t_ th o s e_ th at_ ha ve_ r e v o l t ed_ in_ the_ v an _ th at_ an t on y_ m a y_ s e e m_ to_ s p en d_ h is_ f u r y_ u p on_ h i m s e l f </s>
+<s> e x e u n t_ a ll_ b u t_ d om i ti us_ en o b ar b us_ d om i ti us_ en o b ar b us_ a l e x a s_ d i d_ r e v o l t_ and_ w en t_ to_ j e w r y_ on_ a f f a i r s_ of_ an t on y_ th er e_ d i d_ p er s u a d e_ g r ea t_ h er o d_ to_ in c l in e_ h i m s e l f_ to_ c a es a r_ and_ l ea ve_ h is_ m a s t er_ an t on y_ f o r_ th is_ p a in s_ c a es a r_ ha th_ h an g d_ h i m </s>
+<s> c an i d i us_ and_ the_ r es t_ th at_ f e ll_ a w a y_ ha ve_ en t er t a in m en t_ b u t_ n o_ h on ou r a b l e_ t r u s t </s>
+<s> i_ ha ve_ d on e_ i ll_ of_ wh i ch _ i_ d o_ a c c u s e_ m y s e l f_ s o_ s or e l y_ th at_ i_ wi ll_ j o y_ n o_ m or e </s>
+<s> en t er_ a_ s o l d i er_ of_ c a es ar s_ s o l d i er_ en o b ar b us_ an t on y_ ha th_ a f t er_ th e e_ s en t_ a ll_ th y_ t r ea s u r e_ wi th_ h is_ b ou n t y_ o v er p l us_ the_ m es s en g er_ c a m e_ on_ m y_ g u ar d_ and_ at_ th y_ t en t_ is_ no w _ u n l o a d ing_ of_ h is_ m u l es </s>
+<s> d om i ti us_ en o b ar b us_ i_ g i ve_ i t_ you </s>
+<s> s o l d i er_ m o c k _ no t_ en o b ar b u s </s>
+<s> i_ t e ll_ you_ t r u e_ b es t_ you_ s a f ed_ the_ b r in g er_ ou t_ of_ the_ h o s t_ i_ m u s t_ a t t en d_ m in e_ o f f i c e_ o r_ w ou l d_ ha ve_ d on e t_ m y s e l f </s>
+<s> you r_ e m p er o r_ c on t in u es_ s ti ll_ a_ j o v e </s>
+<s> e x i t_ d om i ti us_ en o b ar b us_ i_ a m_ a l on e_ the_ v i ll a in_ of_ the_ ea r th_ and_ f e e l _ i_ a m_ s o_ m o s t </s>
+<s> o_ an t on y_ th ou _ m in e_ of_ b ou n t y_ h o w _ w ou l d s t_ th ou _ ha ve_ p a i d_ m y_ b e t t er_ s er v i c e_ wh en_ m y_ t u r p i t u d e_ th ou _ d o s t_ s o_ c r o w n _ wi th_ g o l d </s>
+<s> th is_ b l o w s_ m y_ h ea r t_ i f_ s wi f t_ th ou g h t_ b r ea k _ i t_ no t_ a_ s wi f t er_ m e an _ s ha ll_ ou t s t r i k e_ th ou g h t_ b u t_ th ou g h t_ wi ll_ d o t_ i_ f e e l </s>
+<s> i_ f i g h t_ a g a in s t_ th e e </s>
+<s> n o_ i_ wi ll_ g o_ s e e k _ s om e_ d i t ch _ wh er e in_ to_ d i e_ the_ f ou l s t_ b es t_ f i t s_ m y_ l a t t er_ p ar t_ of_ l i f e </s>
+<s> e x i t_ s c en e_ v i i </s>
+<s> f i e l d_ of_ b a t t l e_ b e t w e en_ the_ c a m p s </s>
+<s> a l ar u m </s>
+<s> d r u m s_ and_ t r u m p e t s </s>
+<s> en t er_ a g r i p p a_ and_ o th er s_ a g r i p p a_ r e ti r e_ w e_ ha ve_ en g a g ed_ ou r s e l v es_ t o o_ f a r_ c a es a r_ h i m s e l f_ ha s_ w or k _ and_ ou r_ o p p r es s i on_ e x c e e d s_ w ha t_ w e_ e x p e c t e d </s>
+<s> e x e u n t_ a l ar u m s </s>
+<s> en t er_ m ar k _ an t on y_ and_ s c ar us_ w ou n d ed_ s c ar us_ o_ m y_ b r a ve_ e m p er o r_ th is_ is_ f ou g h t_ h and_ in_ h and_ and_ wi th_ th at_ k in d_ of_ f r u i t_ a s_ m a i d s_ c a ll_ m e d l ar s_ wh en_ th e y_ l a u g h _ a l on e </s>
+<s> r om e o_ th at_ s h e_ w er e_ o_ th at_ s h e_ w er e_ an _ o p en_ e t_ c a e t er a_ th ou _ a_ p o p er in_ p ea r </s>
+<s> r om e o_ g o o d_ n i g h t_ i ll_ to_ m y_ t r u c k l e b ed_ th is_ f i e l d b ed_ is_ t o o_ c o l d_ f o r_ m e_ to_ s l e e p _ c om e_ s ha ll_ w e_ g o </s>
+<s> b en v o l i o_ g o_ th en_ f o r_ t is_ in_ v a in_ to_ s e e k _ h i m_ h er e_ th at_ m e an s_ no t_ to_ b e_ f ou n d </s>
+<s> e x e u n t_ s c en e_ i i </s>
+<s> c a p u l e t s_ or c ha r d </s>
+<s> en t er_ r om e o_ r om e o_ h e_ j es t s_ at_ s c ar s_ th at_ n e v er_ f e l t_ a_ w ou n d </s>
+<s> j u l i e t_ a p p ea r s_ a b o ve_ at_ a_ w in d o w _ b u t_ s o f t </s>
+<s> w ha t_ l i g h t_ th r ou g h _ y on d er_ w in d o w _ b r ea k s </s>
+<s> i t_ is_ the_ ea s t_ and_ j u l i e t_ is_ the_ s u n </s>
+<s> ar i s e_ f a i r_ s u n _ and_ k i ll_ the_ en v i ou s_ m o on_ wh o_ is_ a l r ea d y_ s i c k _ and_ p a l e_ wi th_ g r i e f_ th at_ th ou _ h er_ m a i d_ ar t_ f a r_ m or e_ f a i r_ th an _ s h e_ b e_ no t_ h er_ m a i d_ s in c e_ s h e_ is_ en v i ou s_ h er_ v es t a l _ l i v er y_ is_ b u t_ s i c k _ and_ g r e en_ and_ n on e_ b u t_ f o o l s_ d o_ w ea r_ i t_ c a s t_ i t_ o f f </s>
+<s> i t_ is_ m y_ l a d y_ o_ i t_ is_ m y_ l o v e </s>
+<s> o_ th at_ s h e_ k n e w _ s h e_ w er e </s>
+<s> s h e_ s p ea k s_ y e t_ s h e_ s a y s_ no th ing_ w ha t_ of_ th a t </s>
+<s> h er_ e y e_ d i s c ou r s es_ i_ wi ll_ an s w er_ i t </s>
+<s> i_ a m_ t o o_ b o l d_ t is_ no t_ to_ m e_ s h e_ s p ea k s_ t w o_ of_ the_ f a i r es t_ s t ar s_ in_ a ll_ the_ h ea v en_ ha v ing_ s om e_ b u s in es s_ d o_ en t r ea t_ h er_ e y es_ to_ t w in k l e_ in_ th e i r_ s p h er es_ ti ll_ th e y_ r e t u r n </s>
+<s> w ha t_ i f_ h er_ e y es_ w er e_ th er e_ th e y_ in_ h er_ h ea d </s>
+<s> the_ b r i g h t n es s_ of_ h er_ ch e e k _ w ou l d_ s ha m e_ th o s e_ s t ar s_ a s_ d a y l i g h t_ d o th_ a_ l a m p _ h er_ e y es_ in_ h ea v en_ w ou l d_ th r ou g h _ the_ a i r y_ r e g i on_ s t r ea m_ s o_ b r i g h t_ th at_ b i r d s_ w ou l d_ s ing_ and_ th in k _ i t_ w er e_ no t_ n i g h t </s>
+<s> s e e_ h o w _ s h e_ l e an s_ h er_ ch e e k _ u p on_ h er_ h an d </s>
+<s> o_ th at_ i_ w er e_ a_ g l o ve_ u p on_ th at_ h and_ th at_ i_ m i g h t_ t ou ch _ th at_ ch e e k </s>
+<s> j u l i e t_ a y_ m e </s>
+<s> r om e o_ s h e_ s p ea k s_ o_ s p ea k _ a g a in_ b r i g h t_ an g e l </s>
+<s> f o r_ th ou _ ar t_ a s_ g l or i ou s_ to_ th is_ n i g h t_ b e ing_ o er_ m y_ h ea d_ a s_ is_ a_ w in g ed_ m es s en g er_ of_ h ea v en_ u n to_ the_ wh i t e u p t u r n ed_ w on d er ing_ e y es_ of_ m or t a l s_ th at_ f a ll_ b a c k _ to_ g a z e_ on_ h i m_ wh en_ h e_ b es t r i d es_ the_ l a z y p a c ing_ c l ou d s_ and_ s a i l s_ u p on_ the_ b o s om _ of_ the_ a i r </s>
+<s> j u l i e t_ o_ r om e o_ r om e o </s>
+<s> wh er e f or e_ ar t_ th ou _ r om e o </s>
+<s> d en y_ th y_ f a th er_ and_ r e f u s e_ th y_ n a m e_ o r_ i f_ th ou _ wi l t_ no t_ b e_ b u t_ s w or n _ m y_ l o ve_ and_ i ll_ n o_ l on g er_ b e_ a_ c a p u l e t </s>
+<s> r om e o_ a s i d e_ s ha ll_ i_ h ea r_ m or e_ o r_ s ha ll_ i_ s p ea k _ at_ th i s </s>
+<s> j u l i e t_ t is_ b u t_ th y_ n a m e_ th at_ is_ m y_ en e m y_ th ou _ ar t_ th y s e l f_ th ou g h _ no t_ a_ m on t a g u e </s>
+<s> w ha t s_ m on t a g u e </s>
+<s> i t_ is_ no r_ h and_ no r_ f o o t_ no r_ ar m_ no r_ f a c e_ no r_ an y_ o th er_ p ar t_ b e l on g ing_ to_ a_ m an </s>
+<s> o_ b e_ s om e_ o th er_ n a m e </s>
+<s> w ha t s_ in_ a_ n a m e </s>
+<s> th at_ wh i ch _ w e_ c a ll_ a_ r o s e_ b y_ an y_ o th er_ n a m e_ w ou l d_ s m e ll_ a s_ s w e e t_ s o_ r om e o_ w ou l d_ w er e_ h e_ no t_ r om e o_ c a ll d_ r e t a in_ th at_ d ea r_ p er f e c ti on_ wh i ch _ h e_ o w es_ wi th ou t_ th at_ ti t l e </s>
+<s> r om e o_ d o f f_ th y_ n a m e_ and_ f o r_ th at_ n a m e_ wh i ch _ is_ n o_ p ar t_ of_ th e e_ t a k e_ a ll_ m y s e l f </s>
+<s> r om e o_ i_ t a k e_ th e e_ at_ th y_ w or d_ c a ll_ m e_ b u t_ l o ve_ and_ i ll_ b e_ n e w _ b a p ti z ed_ h en c e f or th_ i_ n e v er_ wi ll_ b e_ r om e o </s>
+<s> j u l i e t_ w ha t_ m an _ ar t_ th ou _ th at_ th us_ b es c r e en d_ in_ n i g h t_ s o_ s t u m b l es t_ on_ m y_ c ou n s e l </s>
+<s> r om e o_ b y_ a_ n a m e_ i_ k no w _ no t_ h o w _ to_ t e ll_ th e e_ wh o_ i_ a m_ m y_ n a m e_ d ea r_ s a in t_ is_ ha t e f u l _ to_ m y s e l f_ b e c a u s e_ i t_ is_ an _ en e m y_ to_ th e e_ ha d_ i_ i t_ w r i t t en_ i_ w ou l d_ t ea r_ the_ w or d </s>
+<s> j u l i e t_ m y_ ea r s_ ha ve_ no t_ y e t_ d r u n k _ a_ h u n d r ed_ w or d s_ of_ th at_ t on g u es_ u t t er an c e_ y e t_ i_ k no w _ the_ s ou n d_ ar t_ th ou _ no t_ r om e o_ and_ a_ m on t a g u e </s>
+<s> r om e o_ n e i th er_ f a i r_ s a in t_ i f_ e i th er_ th e e_ d i s l i k e </s>
+<s> j u l i e t_ h o w _ c a m es t_ th ou _ h i th er_ t e ll_ m e_ and_ wh er e f or e </s>
+<s> the_ or c ha r d_ w a ll s_ ar e_ h i g h _ and_ ha r d_ to_ c l i m b _ and_ the_ p l a c e_ d ea th_ c on s i d er ing_ wh o_ th ou _ ar t_ i f_ an y_ of_ m y_ k in s m en_ f in d_ th e e_ h er e </s>
+<s> r om e o_ wi th_ l o v es_ l i g h t_ w in g s_ d i d_ i_ o er p er ch _ th es e_ w a ll s_ f o r_ s t on y_ l i m i t s_ c an no t_ h o l d_ l o ve_ ou t_ and_ w ha t_ l o ve_ c an _ d o_ th at_ d ar es_ l o ve_ a t t e m p t_ th er e f or e_ th y_ k in s m en_ ar e_ n o_ l e t_ to_ m e </s>
+<s> j u l i e t_ i f_ th e y_ d o_ s e e_ th e e_ th e y_ wi ll_ m u r d er_ th e e </s>
+<s> r om e o_ a l a c k _ th er e_ l i es_ m or e_ p er i l _ in_ th in e_ e y e_ th an _ t w en t y_ of_ th e i r_ s w or d s_ l o o k _ th ou _ b u t_ s w e e t_ and_ i_ a m_ p r o of_ a g a in s t_ th e i r_ en m i t y </s>
+<s> j u l i e t_ i_ w ou l d_ no t_ f o r_ the_ w or l d_ th e y_ s a w _ th e e_ h er e </s>
+<s> r om e o_ i_ ha ve_ n i g h t s_ c l o a k _ to_ h i d e_ m e_ f r om _ th e i r_ s i g h t_ and_ b u t_ th ou _ l o ve_ m e_ l e t_ th e m_ f in d_ m e_ h er e_ m y_ l i f e_ w er e_ b e t t er_ en d ed_ b y_ th e i r_ ha t e_ th an _ d ea th_ p r or o g u ed_ w an t ing_ of_ th y_ l o v e </s>
+<s> j u l i e t_ b y_ wh o s e_ d i r e c ti on_ f ou n d s t_ th ou _ ou t_ th is_ p l a c e </s>
+<s> r om e o_ b y_ l o ve_ wh o_ f i r s t_ d i d_ p r om p t_ m e_ to_ in q u i r e_ h e_ l en t_ m e_ c ou n s e l _ and_ i_ l en t_ h i m_ e y es </s>
+<s> i_ a m_ n o_ p i l o t_ y e t_ w er t_ th ou _ a s_ f a r_ a s_ th at_ v a s t_ s h or e_ w a s h d_ wi th_ the_ f ar th es t_ s ea _ i_ w ou l d_ a d v en t u r e_ f o r_ s u ch _ m er ch an d i s e </s>
+<s> j u l i e t_ th ou _ k no w s t_ the_ m a s k _ of_ n i g h t_ is_ on_ m y_ f a c e_ e l s e_ w ou l d_ a_ m a i d en_ b l u s h _ b e p a in t_ m y_ ch e e k _ f o r_ th at_ wh i ch _ th ou _ ha s t_ h ea r d_ m e_ s p ea k _ t on i g h t_ f a in_ w ou l d_ i_ d w e ll_ on_ f or m_ f a in_ f a in_ d en y_ w ha t_ i_ ha ve_ s p o k e_ b u t_ f ar e w e ll_ c om p l i m en t </s>
+<s> d o s t_ th ou _ l o ve_ m e </s>
+<s> i_ k no w _ th ou _ wi l t_ s a y_ a y_ and_ i_ wi ll_ t a k e_ th y_ w or d_ y e t_ i f_ th ou _ s w ea r s t_ th ou _ m a y s t_ p r o ve_ f a l s e_ at_ l o v er s_ p er j u r i es_ th en_ s a y_ j o ve_ l a u g h s </s>
+<s> o_ g en t l e_ r om e o_ i f_ th ou _ d o s t_ l o ve_ p r on ou n c e_ i t_ f a i th f u ll y_ o r_ i f_ th ou _ th in k s t_ i_ a m_ t o o_ q u i c k l y_ w on_ i ll_ f r o w n _ and_ b e_ p er v er s e_ an _ s a y_ th e e_ n a y_ s o_ th ou _ wi l t_ w o o_ b u t_ e l s e_ no t_ f o r_ the_ w or l d </s>
+<s> in_ t r u th_ f a i r_ m on t a g u e_ i_ a m_ t o o_ f on d_ and_ th er e f or e_ th ou _ m a y s t_ th in k _ m y_ ha v i o r_ l i g h t_ b u t_ t r u s t_ m e_ g en t l e m an _ i ll_ p r o ve_ m or e_ t r u e_ th an _ th o s e_ th at_ ha ve_ m or e_ c u n n ing_ to_ b e_ s t r an g e </s>
+<s> i_ s h ou l d_ ha ve_ b e en_ m or e_ s t r an g e_ i_ m u s t_ c on f es s_ b u t_ th at_ th ou _ o v er h ea r d s t_ er e_ i_ w a s_ w ar e_ m y_ t r u e_ l o v es_ p a s s i on_ th er e f or e_ p ar d on_ m e_ and_ no t_ i m p u t e_ th is_ y i e l d ing_ to_ l i g h t_ l o ve_ wh i ch _ the_ d ar k _ n i g h t_ ha th_ s o_ d i s c o v er e d </s>
+<s> r om e o_ l a d y_ b y_ y on d er_ b l es s ed_ m o on_ i_ s w ea r_ th at_ ti p s_ wi th_ s i l v er_ a ll_ th es e_ f r u i t t r e e_ t o p s_ j u l i e t_ o_ s w ea r_ no t_ b y_ the_ m o on_ the_ in c on s t an t_ m o on_ th at_ m on th l y_ ch an g es_ in_ h er_ c i r c l ed_ or b _ l es t_ th at_ th y_ l o ve_ p r o ve_ l i k e wi s e_ v ar i a b l e </s>
+<s> r om e o_ w ha t_ s ha ll_ i_ s w ea r_ b y </s>
+<s> j u l i e t_ d o_ no t_ s w ea r_ at_ a ll_ o r_ i f_ th ou _ wi l t_ s w ea r_ b y_ th y_ g r a c i ou s_ s e l f_ wh i ch _ is_ the_ g o d_ of_ m y_ i d o l a t r y_ and_ i ll_ b e l i e ve_ th e e </s>
+<s> r om e o_ i f_ m y_ h ea r t s_ d ea r_ l o ve_ j u l i e t_ w e ll_ d o_ no t_ s w ea r_ a l th ou g h _ i_ j o y_ in_ th e e_ i_ ha ve_ n o_ j o y_ of_ th is_ c on t r a c t_ t on i g h t_ i t_ is_ t o o_ r a s h _ t o o_ u n a d v i s ed_ t o o_ s u d d en_ t o o_ l i k e_ the_ l i g h t n ing_ wh i ch _ d o th_ c ea s e_ to_ b e_ er e_ on e_ c an _ s a y_ i t_ l i g h t en s_ s w e e t_ g o o d_ n i g h t </s>
+<s> th is_ b u d_ of_ l o ve_ b y_ s u m m er s_ r i p en ing_ b r ea th_ m a y_ p r o ve_ a_ b ea u t e ou s_ f l o w er_ wh en_ n e x t_ w e_ m e e t </s>
+<s> g o o d_ n i g h t_ g o o d_ n i g h t </s>
+<s> a s_ s w e e t_ r e p o s e_ and_ r es t_ c om e_ to_ th y_ h ea r t_ a s_ th at_ wi th in_ m y_ b r ea s t </s>
+<s> r om e o_ o_ wi l t_ th ou _ l ea ve_ m e_ s o_ u n s a ti s f i e d </s>
+<s> j u l i e t_ w ha t_ s a ti s f a c ti on_ c an s t_ th ou _ ha ve_ t on i g h t </s>
+<s> r om e o_ the_ e x ch an g e_ of_ th y_ l o v es_ f a i th f u l _ v o w _ f o r_ m in e </s>
+<s> j u l i e t_ i_ g a ve_ th e e_ m in e_ b e f or e_ th ou _ d i d s t_ r e q u es t_ i t_ and_ y e t_ i_ w ou l d_ i t_ w er e_ to_ g i ve_ a g a in </s>
+<s> r om e o_ w ou l d s t_ th ou _ wi th d r a w _ i t </s>
+<s> f o r_ w ha t_ p u r p o s e_ l o v e </s>
+<s> j u l i e t_ b u t_ to_ b e_ f r an k _ and_ g i ve_ i t_ th e e_ a g a in </s>
+<s> and_ y e t_ i_ wi s h _ b u t_ f o r_ the_ th ing_ i_ ha ve_ m y_ b ou n t y_ is_ a s_ b ou n d l es s_ a s_ the_ s ea _ m y_ l o ve_ a s_ d e e p _ the_ m or e_ i_ g i ve_ to_ th e e_ the_ m or e_ i_ ha ve_ f o r_ b o th_ ar e_ in f in i t e </s>
+<s> n u r s e_ c a ll s_ wi th in_ i_ h ea r_ s om e_ no i s e_ wi th in_ d ea r_ l o ve_ a d i e u </s>
+<s> an on_ g o o d_ n u r s e </s>
+<s> s w e e t_ m on t a g u e_ b e_ t r u e </s>
+<s> s t a y_ b u t_ a_ l i t t l e_ i_ wi ll_ c om e_ a g a in </s>
+<s> e x i t_ a b o ve_ r om e o_ o_ b l es s ed_ b l es s ed_ n i g h t </s>
+<s> i_ a m_ a f ea r d </s>
+<s> b e ing_ in_ n i g h t_ a ll_ th is_ is_ b u t_ a_ d r ea m_ t o o_ f l a t t er in g s w e e t_ to_ b e_ s u b s t an ti a l </s>
+<s> r e en t er_ j u l i e t_ a b o ve_ j u l i e t_ th r e e_ w or d s_ d ea r_ r om e o_ and_ g o o d_ n i g h t_ in d e e d </s>
+<s> i f_ th at_ th y_ b en t_ of_ l o ve_ b e_ h on ou r a b l e_ th y_ p u r p o s e_ m ar r i a g e_ s en d_ m e_ w or d_ t om or r o w _ b y_ on e_ th at_ i ll_ p r o c u r e_ to_ c om e_ to_ th e e_ wh er e_ and_ w ha t_ ti m e_ th ou _ wi l t_ p er f or m_ the_ r i t e_ and_ a ll_ m y_ f or t u n es_ at_ th y_ f o o t_ i ll_ l a y_ and_ f o ll o w _ th e e_ m y_ l or d_ th r ou g h ou t_ the_ w or l d </s>
+<s> n u r s e_ wi th in_ m a d a m </s>
+<s> j u l i e t_ i_ c om e_ an on b u t_ i f_ th ou _ m e an s t_ no t_ w e ll_ i_ d o_ b es e e ch _ th e e_ n u r s e_ wi th in_ m a d a m </s>
+<s> j u l i e t_ b y_ and_ b y_ i_ c om e_ to_ c ea s e_ th y_ s u i t_ and_ l ea ve_ m e_ to_ m y_ g r i e f_ t om or r o w _ wi ll_ i_ s en d </s>
+<s> r om e o_ s o_ th r i ve_ m y_ s ou l _ j u l i e t_ a_ th ou s and_ ti m es_ g o o d_ n i g h t </s>
+<s> e x i t_ a b o ve_ r om e o_ a_ th ou s and_ ti m es_ the_ w or s e_ to_ w an t_ th y_ l i g h t </s>
+<s> l o ve_ g o es_ t o w ar d_ l o ve_ a s_ s ch o o l b o y s_ f r om _ th e i r_ b o o k s_ b u t_ l o ve_ f r om _ l o ve_ t o w ar d_ s ch o o l _ wi th_ h ea v y_ l o o k s </s>
+<s> r e ti r ing_ r e en t er_ j u l i e t_ a b o ve_ j u l i e t_ h i s t </s>
+<s> r om e o_ h i s t </s>
+<s> o_ f o r_ a_ f a l c on er s_ v o i c e_ to_ l u r e_ th is_ t a s s e l g en t l e_ b a c k _ a g a in </s>
+<s> b on d a g e_ is_ h o ar s e_ and_ m a y_ no t_ s p ea k _ a l ou d_ e l s e_ w ou l d_ i_ t ea r_ the_ c a ve_ wh er e_ e ch o_ l i es_ and_ m a k e_ h er_ a i r y_ t on g u e_ m or e_ h o ar s e_ th an _ m in e_ wi th_ r e p e ti ti on_ of_ m y_ r om e o s_ n a m e </s>
+<s> r om e o_ i t_ is_ m y_ s ou l _ th at_ c a ll s_ u p on_ m y_ n a m e_ h o w _ s i l v er s w e e t_ s ou n d_ l o v er s_ t on g u es_ b y_ n i g h t_ l i k e_ s o f t es t_ m u s i c _ to_ a t t en d ing_ ea r s </s>
+<s> j u l i e t_ r om e o </s>
+<s> r om e o_ m y_ d ea r </s>
+<s> j u l i e t_ at_ w ha t_ o c l o c k _ t om or r o w _ s ha ll_ i_ s en d_ to_ th e e </s>
+<s> r om e o_ at_ the_ h ou r_ of_ n in e </s>
+<s> j u l i e t_ i_ wi ll_ no t_ f a i l _ t is_ t w en t y_ y ea r s_ ti ll_ th en </s>
+<s> i_ ha ve_ f or g o t_ wh y_ i_ d i d_ c a ll_ th e e_ b a c k </s>
+<s> r om e o_ l e t_ m e_ s t and_ h er e_ ti ll_ th ou _ r e m e m b er_ i t </s>
+<s> j u l i e t_ i_ s ha ll_ f or g e t_ to_ ha ve_ th e e_ s ti ll_ s t and_ th er e_ r e m e m b er ing_ h o w _ i_ l o ve_ th y_ c om p an y </s>
+<s> r om e o_ and_ i ll_ s ti ll_ s t a y_ to_ ha ve_ th e e_ s ti ll_ f or g e t_ f or g e t t ing_ an y_ o th er_ h om e_ b u t_ th i s </s>
+<s> j u l i e t_ t is_ a l m o s t_ m or n ing_ i_ w ou l d_ ha ve_ th e e_ g on e_ and_ y e t_ n o_ f u r th er_ th an _ a_ w an t on s_ b i r d_ wh o_ l e t s_ i t_ h o p _ a_ l i t t l e_ f r om _ h er_ h and_ l i k e_ a_ p o o r_ p r i s on er_ in_ h is_ t wi s t ed_ g y v es_ and_ wi th_ a_ s i l k _ th r ea d_ p l u c k s_ i t_ b a c k _ a g a in_ s o_ l o v in g j ea l ou s_ of_ h is_ l i b er t y </s>
+<s> r om e o_ i_ w ou l d_ i_ w er e_ th y_ b i r d </s>
+<s> j u l i e t_ s w e e t_ s o_ w ou l d_ i_ y e t_ i_ s h ou l d_ k i ll_ th e e_ wi th_ m u ch _ ch er i s h in g </s>
+<s> g o o d_ n i g h t_ g o o d_ n i g h t </s>
+<s> p ar t ing_ is_ s u ch _ s w e e t_ s or r o w _ th at_ i_ s ha ll_ s a y_ g o o d_ n i g h t_ ti ll_ i t_ b e_ m or r o w </s>
+<s> e x i t_ a b o ve_ r om e o_ s l e e p _ d w e ll_ u p on_ th in e_ e y es_ p ea c e_ in_ th y_ b r ea s t </s>
+<s> w ou l d_ i_ w er e_ s l e e p _ and_ p ea c e_ s o_ s w e e t_ to_ r es t </s>
+<s> h en c e_ wi ll_ i_ to_ m y_ g h o s t l y_ f a th er s_ c e ll_ h is_ h e l p _ to_ c r a ve_ and_ m y_ d ea r_ ha p _ to_ t e ll </s>
+<s> e x i t_ s c en e_ i i i </s>
+<s> f r i a r_ l a u r en c es_ c e ll </s>
+<s> en t er_ f r i a r_ l a u r en c e_ wi th_ a_ b a s k e t_ f r i a r_ l a u r en c e_ the_ g r e y e y ed_ m or n _ s m i l es_ on_ the_ f r o w n ing_ n i g h t_ ch e q u er ing_ the_ ea s t er n _ c l ou d s_ wi th_ s t r ea k s_ of_ l i g h t_ and_ f l e c k ed_ d ar k n es s_ l i k e_ a_ d r u n k ar d_ r e e l s_ f r om _ f or th_ d a y s_ p a th_ and_ ti t an s_ f i er y_ wh e e l s_ no w _ er e_ the_ s u n _ a d v an c e_ h is_ b u r n ing_ e y e_ the_ d a y_ to_ ch e er_ and_ n i g h t s_ d an k _ d e w _ to_ d r y_ i_ m u s t_ u p f i ll_ th is_ o s i er_ c a g e_ of_ ou r s_ wi th_ b a l e f u l _ w e e d s_ and_ p r e c i ou s j u i c ed_ f l o w er s </s>
+<s> the_ ea r th_ th a t s_ n a t u r es_ m o th er_ is_ h er_ t om b _ w ha t_ is_ h er_ b u r y ing_ g r a ve_ th at_ is_ h er_ w om b _ and_ f r om _ h er_ w om b _ ch i l d r en_ of_ d i v er s_ k in d_ w e_ s u c k ing_ on_ h er_ n a t u r a l _ b o s om _ f in d_ m an y_ f o r_ m an y_ v i r t u es_ e x c e ll en t_ n on e_ b u t_ f o r_ s om e_ and_ y e t_ a ll_ d i f f er en t </s>
+<s> o_ m i c k l e_ is_ the_ p o w er f u l _ g r a c e_ th at_ l i es_ in_ h er b s_ p l an t s_ s t on es_ and_ th e i r_ t r u e_ q u a l i ti es_ f o r_ n ou g h t_ s o_ v i l e_ th at_ on_ the_ ea r th_ d o th_ l i ve_ b u t_ to_ the_ ea r th_ s om e_ s p e c i a l _ g o o d_ d o th_ g i ve_ no r_ a u g h t_ s o_ g o o d_ b u t_ s t r a in d_ f r om _ th at_ f a i r_ u s e_ r e v o l t s_ f r om _ t r u e_ b i r th_ s t u m b l ing_ on_ a b u s e_ v i r t u e_ i t s e l f_ t u r n s_ v i c e_ b e ing_ m i s a p p l i ed_ and_ v i c e_ s om e ti m es_ b y_ a c ti on_ d i g n i f i e d </s>
+<s> wi th in_ the_ in f an t_ r in d_ of_ th is_ s m a ll_ f l o w er_ p o i s on </s>
