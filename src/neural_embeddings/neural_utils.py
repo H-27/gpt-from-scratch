@@ -5,6 +5,8 @@ from typing import Any, Dict, List, Optional, Tuple
 
 import torch
 
+from src.ngram_engine.nge_utils import apply_bpe
+
 
 def ensure_dir(path: str):
     """Create directory if it does not exist."""
@@ -224,3 +226,109 @@ def plot_aggregate_csv(
     if show:
         plt.show()
     plt.close()
+
+
+def apply_bpe_and_encode(self, text: str):
+    # track progress if train_ids not yet set
+    track_progress = not hasattr(self, "train_ids")
+    tokens = apply_bpe(text, self.merge_rules, track_progress=track_progress)
+    # tokens is list of token sequences (sentences); flatten
+    flat = []
+    for sent in tokens:
+        flat.extend(sent)
+    flat = [token for token in flat if token != "0"]
+    stoi = {c: i for i, c in enumerate(self.vocab)}
+
+    def encode_list(seq):
+        return [stoi[c] for c in seq]
+
+    return encode_list(flat)
+
+
+def load_vocab_and_merge_rules(self, k: int, suffix: str):
+    vocab = (
+        open(f"data/bpe_outputs/vocab_with_k{k}{suffix}.txt", "r").read().splitlines()
+    )
+    merge_rules = (
+        open(f"data/bpe_outputs/merges_k{k}{suffix}.txt", "r").read().splitlines()
+    )
+    return vocab, merge_rules
+
+
+def load_vocab_and_merge_rules(k: int, suffix: str):
+    vocab = (
+        open(f"data/bpe_outputs/vocab_with_k{k}{suffix}.txt", "r").read().splitlines()
+    )
+    merge_rules = (
+        open(f"data/bpe_outputs/merges_k{k}{suffix}.txt", "r").read().splitlines()
+    )
+    return vocab, merge_rules
+
+
+def get_or_build_bpe_cache(k: int, suffix: str):
+    vocab, merge_rules = load_vocab_and_merge_rules(k, suffix)
+    vocab.extend(["<s>", "</s>"])
+    os.makedirs("data/emb_lm/encoded_texts", exist_ok=True)
+    # Encode training set
+    train_ids = apply_bpe_and_encode(
+        open("data/corpora/Shakespeare_clean_train.txt", "r").read(),
+        vocab,
+        merge_rules,
+    )
+    with open(
+        f"data/emb_lm/encoded_texts/bpe_cache_k{k}{suffix}_train.txt",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        for token in train_ids:
+            f.write(str(token) + " ")
+    print("Encoding validation and test sets...")
+    # Encode validation set
+    val_ids = apply_bpe_and_encode(
+        open("data/corpora/Shakespeare_clean_valid.txt", "r").read(),
+        vocab,
+        merge_rules,
+    )
+    with open(
+        f"data/emb_lm/encoded_texts/bpe_cache_k{k}{suffix}_valid.txt",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        for token in val_ids:
+            f.write(str(token) + " ")
+    # Encode test set
+    test_ids = apply_bpe_and_encode(
+        open("data/corpora/Shakespeare_clean_test.txt", "r").read(),
+        vocab,
+        merge_rules,
+    )
+    with open(
+        f"data/emb_lm/encoded_texts/bpe_cache_k{k}{suffix}_test.txt",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        for token in test_ids:
+            f.write(str(token) + " ")
+
+
+def apply_bpe_and_encode(text: str, vocab: List[str], merge_rules: List[str]):
+    # track progress if train_ids not yet set
+    track_progress = True
+    tokens = apply_bpe(text, merge_rules, track_progress=track_progress)
+    # tokens is list of token sequences (sentences); flatten
+    flat = []
+    for sent in tokens:
+        flat.extend(sent)
+    flat = [token for token in flat if token != "0"]
+    stoi = {c: i for i, c in enumerate(vocab)}
+
+    encode = lambda s: [stoi[c] for c in s]
+    return encode(flat)
+
+
+if __name__ == "__main__":
+    # Example usage
+    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500]
+    suffix = "_adv"
+    for k in k_values:
+        bpe_cache = get_or_build_bpe_cache(k=k, suffix=suffix)
