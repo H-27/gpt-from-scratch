@@ -328,7 +328,7 @@ def apply_bpe_and_encode(text: str, vocab: List[str], merge_rules: List[str]):
 
 if __name__ == "__main__":
     # Example usage
-    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500]
+    k_values = [2000]
     suffix = "_adv"
     for k in k_values:
         bpe_cache = get_or_build_bpe_cache(k=k, suffix=suffix)

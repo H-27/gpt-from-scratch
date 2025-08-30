@@ -1,11 +1,18 @@
 import ast
 import os
 from collections import defaultdict
+from typing import List, Tuple  # moved to top
 
-import torch
+import torch  # ensure single import
 import torch.nn as nn
 import torch.nn.functional as F
 
+from src.neural_embeddings.neural_utils import (
+    append_run_result,
+    build_aggregate_from_checkpoints,
+    save_history_csv,
+    save_history_jsonl,
+)
 from src.ngram_engine import nge_utils
 from src.ngram_engine.nge_utils import apply_bpe
 
@@ -41,24 +48,32 @@ class NgramLM(nn.Module):
         self.fc1 = nn.Linear(embed_dim * (n - 1), hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, self.vocab_size)
         # dataset ids (convert once to tensors)
-        print("Encoding training set with k =", k, "...")
+        print("Loading training set with k =", k, "...")
         self.train_ids = torch.tensor(
-            self.apply_bpe_and_encode(
-                open("data/corpora/Shakespeare_clean_train.txt", "r").read()
-            ),
+            [
+                int(s)
+                for s in open(f"data/emb_lm/encoded_texts/bpe_cache_k{k}_adv_train.txt")
+                .read()
+                .split()
+            ],
             dtype=torch.long,
         )
-        print("Encoding validation and test sets...")
         self.val_ids = torch.tensor(
-            self.apply_bpe_and_encode(
-                open("data/corpora/Shakespeare_clean_valid.txt", "r").read()
-            ),
+            [
+                int(s)
+                for s in open(f"data/emb_lm/encoded_texts/bpe_cache_k{k}_adv_valid.txt")
+                .read()
+                .split()
+            ],
             dtype=torch.long,
         )
         self.test_ids = torch.tensor(
-            self.apply_bpe_and_encode(
-                open("data/corpora/Shakespeare_clean_test.txt", "r").read()
-            ),
+            [
+                int(s)
+                for s in open(f"data/emb_lm/encoded_texts/bpe_cache_k{k}_adv_test.txt")
+                .read()
+                .split()
+            ],
             dtype=torch.long,
         )
         if optimizer == "adam":
@@ -95,13 +110,19 @@ class NgramLM(nn.Module):
             flat.extend(sent)
         flat = [token for token in flat if token != "0"]
         stoi = {c: i for i, c in enumerate(self.vocab)}
-        encode = lambda s: [stoi[c] for c in s]
-        return encode(flat)
+
+        def encode_seq(seq):
+            return [stoi[c] for c in seq]
+
+        return encode_seq(flat)
 
     def decode(self, text):
         itos = {i: c for i, c in enumerate(self.vocab)}
-        decode = lambda l: "".join([itos[i] for i in l])
-        return decode(text)
+
+        def decode_indices(indices):
+            return "".join([itos[i] for i in indices])
+
+        return decode_indices(text)
 
     def encode_ngrams(self):
         stoi = {c: i for i, c in enumerate(self.vocab)}
@@ -343,106 +364,150 @@ class NgramLM(nn.Module):
             )
 
 
+# New: make early stopping utility importable (moved to module level)
+
+
+def train_with_early_stopping(
+    model: NgramLM,
+    max_epochs: int,
+    num_steps: int,
+    patience: int,
+    improvement_delta: float = 1e-2,
+) -> Tuple[float, dict, List[Tuple[int, float, float, float, float]]]:
+    """Train model with early stopping.
+    Returns (best_val_loss, best_state_dict (cpu tensors), history list of tuples).
+    history tuple schema: (epoch, avg_train_loss, val_loss, val_ppl, val_ppl_interpolated)
+    """
+    best_val = float("inf")
+    best_state = None
+    epochs_no_improve = 0
+    history: List[Tuple[int, float, float, float, float]] = []
+    for epoch in range(max_epochs):
+        model.train()
+        running = 0.0
+        for _ in range(num_steps):
+            xb, yb = model.get_batch()
+            logits, loss = model.forward(xb, yb)
+            model.optimizer.zero_grad(set_to_none=True)
+            loss.backward()
+            model.optimizer.step()
+            running += loss.item()
+        avg_train = running / num_steps
+        val_loss, val_ppl, val_ppl_interpolated = model.evaluate("val")
+        history.append(
+            (
+                epoch,
+                avg_train,
+                val_loss,
+                float(val_ppl),
+                float(val_ppl_interpolated),
+            )
+        )
+        print(
+            f"epoch {epoch} train {avg_train:.4f} val_loss {val_loss:.4f} val_ppl {val_ppl:.4f} val_ppl_interpolated {val_ppl_interpolated:.4f}"
+        )
+        if val_loss < best_val - improvement_delta:
+            best_val = val_loss
+            epochs_no_improve = 0
+            best_state = {k: v.cpu() for k, v in model.state_dict().items()}
+        else:
+            epochs_no_improve += 1
+            if epochs_no_improve >= patience:
+                print("Early stopping triggered.")
+                break
+    return best_val, best_state, history
+
+
 if __name__ == "__main__":
     # Hyperparameter value lists (adjust as needed)
     n_values = [1, 2, 3, 4, 5]  # keep n fixed here for simplicity
-    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500]
+    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500, 2000]
     a_values = [1e-1, 1e-2, 1e-3, 1e-4]  # learning rates
+    h_values = [128, 256]  # hidden layer sizes
     max_epochs = 30
     num_steps = 500  # steps (batches) per epoch
     patience = 4  # early stopping patience
     TOP_K = 3  # keep best K models by validation loss
 
-    os.makedirs("data/emb_lm/grid_ckpts", exist_ok=True)
-
-    def train_with_early_stopping(model: NgramLM, max_epochs, num_steps, patience):
-        best_val = float("inf")
-        best_state = None
-        epochs_no_improve = 0
-        history = []
-        for epoch in range(max_epochs):
-            model.train()
-            running = 0.0
-            for step in range(num_steps):
-                xb, yb = model.get_batch()
-                logits, loss = model.forward(xb, yb)
-                model.optimizer.zero_grad(set_to_none=True)
-                loss.backward()
-                model.optimizer.step()
-                running += loss.item()
-            avg_train = running / num_steps
-            val_loss, val_ppl, val_ppl_interpolated = model.evaluate("val")
-            history.append(
-                (
-                    epoch,
-                    avg_train,
-                    val_loss,
-                    float(val_ppl),
-                    float(val_ppl_interpolated),
-                )
-            )
-            print(
-                f"epoch {epoch} train {avg_train:.4f} val_loss {val_loss:.4f} val_ppl {val_ppl:.4f} val_ppl_interpolated {val_ppl_interpolated:.4f}"
-            )
-            if val_loss < best_val - 1e-2:
-                best_val = val_loss
-                epochs_no_improve = 0
-                best_state = {k: v.cpu() for k, v in model.state_dict().items()}
-            else:
-                epochs_no_improve += 1
-                if epochs_no_improve >= patience:
-                    print("Early stopping triggered.")
-                    break
-        return best_val, best_state, history
+    ckpt_root = "data/emb_lm/grid_ckpts"
+    os.makedirs(ckpt_root, exist_ok=True)
+    aggregate_csv = os.path.join(ckpt_root, "grid_results.csv")
 
     top_k_models = []  # list of (val_loss, ckpt_path, config)
 
     for n in n_values:
         for k in k_values:
             for lr in a_values:
-                print("\n=== Config n", n, "k", k, "lr", lr, "===")
-                model = NgramLM(
-                    n=n,
-                    k=k,
-                    hidden_dim=256,
-                    embed_dim=256,
-                    alpha=lr,
-                    lam=1.0,  # train pure neural model
-                    patience=patience,
-                )
-                best_val, best_state, history = train_with_early_stopping(
-                    model, max_epochs, num_steps, patience
-                )
-                ckpt_name = f"n{n}_k{k}_lr{lr:.0e}_val{best_val:.4f}.pt"
-                ckpt_path = os.path.join("data/emb_lm/grid_ckpts", ckpt_name)
-                torch.save(
-                    {
-                        "model_state": best_state,
-                        "config": {
-                            "n": n,
-                            "k": k,
-                            "lr": lr,
-                            "lam": 1.0,
-                        },
-                        "best_val_loss": best_val,
-                        "history": history,
-                    },
-                    ckpt_path,
-                )
-                top_k_models.append((best_val, ckpt_path, {"n": n, "k": k, "lr": lr}))
-                top_k_models.sort(key=lambda x: x[0])
-                if len(top_k_models) > TOP_K:
-                    worst = top_k_models.pop()  # remove worst
-                    try:
-                        os.remove(worst[1])
-                        print("Removed worst checkpoint", worst[1])
-                    except OSError:
-                        pass
-                print("Current top-k (best first):")
-                for rank, (vl, path, cfg) in enumerate(top_k_models, 1):
-                    print(
-                        f" {rank}. val_loss={vl:.4f} cfg={cfg} file={os.path.basename(path)}"
+                for h in h_values:
+                    print("\n=== Config n", n, "k", k, "lr", lr, "h", h, "===")
+                    model = NgramLM(
+                        n=n,
+                        k=k,
+                        hidden_dim=h,
+                        embed_dim=256,
+                        alpha=lr,
+                        lam=1.0,  # train pure neural model
+                        patience=patience,
                     )
+                    best_val, best_state, history = train_with_early_stopping(
+                        model, max_epochs, num_steps, patience
+                    )
+                    # derive metrics
+                    last_val_ppl = history[-1][3] if history else None
+                    ckpt_name = f"n{n}_k{k}_h{h}_lr{lr:.0e}_val{best_val:.4f}.pt"
+                    ckpt_path = os.path.join(ckpt_root, ckpt_name)
+                    torch.save(
+                        {
+                            "model_state": best_state,
+                            "config": {
+                                "n": n,
+                                "k": k,
+                                "h": h,
+                                "lr": lr,
+                                "lam": 1.0,
+                            },
+                            "best_val_loss": best_val,
+                            "history": history,
+                        },
+                        ckpt_path,
+                    )
+                    # save histories in CSV & JSONL
+                    base_hist = ckpt_name.replace(".pt", "")
+                    save_history_csv(
+                        history,
+                        os.path.join(ckpt_root, base_hist + "_history.csv"),
+                    )
+                    save_history_jsonl(
+                        history,
+                        os.path.join(ckpt_root, base_hist + "_history.jsonl"),
+                    )
+                    # append aggregate row
+                    append_run_result(
+                        aggregate_csv,
+                        {"n": n, "k": k, "h": h, "lr": lr, "lam": 1.0},
+                        best_val,
+                        last_val_ppl,
+                        len(history),
+                    )
+                    top_k_models.append(
+                        (best_val, ckpt_path, {"n": n, "k": k, "h": h, "lr": lr})
+                    )
+                    top_k_models.sort(key=lambda x: x[0])
+                    if len(top_k_models) > TOP_K:
+                        worst = top_k_models.pop()  # remove worst
+                        try:
+                            os.remove(worst[1])
+                            print("Removed worst checkpoint", worst[1])
+                        except OSError:
+                            pass
+                    print("Current top-k (best first):")
+                    for rank, (vl, path, cfg) in enumerate(top_k_models, 1):
+                        print(
+                            f" {rank}. val_loss={vl:.4f} cfg={cfg} file={os.path.basename(path)}"
+                        )
+
+    # build / refresh aggregate CSV from checkpoints (ensures consistency)
+    build_aggregate_from_checkpoints(ckpt_root, aggregate_csv)
 
     print("\nFinal top-k models:")
     for rank, (vl, path, cfg) in enumerate(top_k_models, 1):

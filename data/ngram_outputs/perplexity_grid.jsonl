@@ -98,3 +98,13 @@
 {"n": 3, "k": 1500, "advanced": false, "perplexity": 2139.6541}
 {"n": 4, "k": 1500, "advanced": false, "perplexity": 2828.6035}
 {"n": 5, "k": 1500, "advanced": false, "perplexity": 3098.6452}
+{"n": 1, "k": 2000, "advanced": true, "perplexity": 9999999999.989}
+{"n": 2, "k": 2000, "advanced": true, "perplexity": 1412.1152}
+{"n": 3, "k": 2000, "advanced": true, "perplexity": 3195.9825}
+{"n": 4, "k": 2000, "advanced": true, "perplexity": 4017.159}
+{"n": 5, "k": 2000, "advanced": true, "perplexity": 4327.9681}
+{"n": 1, "k": 2000, "advanced": false, "perplexity": 9999999999.989}
+{"n": 2, "k": 2000, "advanced": false, "perplexity": 1412.1155}
+{"n": 3, "k": 2000, "advanced": false, "perplexity": 3195.9825}
+{"n": 4, "k": 2000, "advanced": false, "perplexity": 4017.159}
+{"n": 5, "k": 2000, "advanced": false, "perplexity": 4327.9681}

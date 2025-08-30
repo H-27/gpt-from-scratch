@@ -10,7 +10,7 @@ from .nge_utils import apply_bpe, create_ngrams
 if __name__ == "__main__":
     # Grid definitions (original single values replaced by lists)
     n_values = [1, 2, 3, 4, 5]
-    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500]
+    k_values = [2000]
     adv_values = [True, False]
 
     os.makedirs("data/ngram_outputs", exist_ok=True)
