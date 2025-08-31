@@ -1,0 +1,1364 @@
+<s> he_ hath_ a_ per son_ and_ a_ s m oo th_ di sp ose_ to_be_ su sp e c ted_ f ra m ed_ to_ make_ w om en_ fa l se </s>
+<s> the_ mo or_ is_ of_ a_ f re e_ and_ op en_ n at ure_ that_ th in ks_ men_ hon est_ that_ but_ see m_ to_be_ so_ and_ will_ as_ ten der ly_ be_ l ed_ by_ the_ no se_ as_ a ss es_ ar e </s>
+<s> i_ ha v e t </s>
+<s> it_is_ en g en der d </s>
+<s> he ll_ and_ night_ must_ b ring_ this_ mon st r ous_ b ir th_ to_the_ wor l ds_ li gh t </s>
+<s> exit_ ac t_ i i_ scene_ i </s>
+<s> a_ s ea por t_ in_ c y p ru s </s>
+<s> an_ op en_ pla ce_ n ear_ the_ qu a y </s>
+<s> enter_ mon t an o_ and_ t w o_ gent le men_ mon t an o_ what_ from_ the_ ca p e_ can_ you_ di sc er n_ at_ s ea </s>
+<s> first_ gent le man_ no thing_ at_ all_ it_is_ a_ hi gh w rou ght_ f loo d_ i_ can not_ t wi x t_ the_ hea ven_ and_ the_ ma in_ des c ry_ a_ sa i l </s>
+<s> mon t an o_ me th in ks_ the_ w ind_ hath_ sp o ke_ al ou d_ at_ l and_ a_ fu ll er_ b la st_ ne er_ sh oo k_ our_ b at t le men ts_ if_ it_ hath_ ru f fi and_ so_ upon_ the_ s ea _ what_ ri b s_ of_ o a k_ when_ m oun ta in s_ me lt_ on_ them_ can_ ho ld_ the_ mor ti se </s>
+<s> what_ shall_ we_ hear_ of_ th i s </s>
+<s> se con d_ gent le man_ a_ se g re ga tion_ of_the_ tur k i sh_ f le et_ for_ do_ but_ st and_ upon_ the_ fo a m ing_ sh or e_ the_ ch i d d en_ b i llow_ see m s_ to_ pe lt_ the_ c l ou ds_ the_ w in d sha k ed_ s ur ge_ with_ hi gh_ and_ mon st r ous_ m an e_ see m s_ to_ ca st_ wa ter_ on_ the_ b ur n ing_ b ear_ and_ qu en ch_ the_ gu ar ds_ of_the_ e ver fi x ed_ po le_ i_ never_ did_ like_ mo l es ta tion_ vi e w_ on_ the_ en c ha f ed_ f loo d </s>
+<s> mon t an o_ if_ that_ the_ tur k i sh_ f le et_ be_ not_ en sh el ter d_ and_ e m ba y d_ they_ are_ d ro w n d_ it_is_ i m po ssi ble_ they_ b ear_ it_ ou t </s>
+<s> enter_ a_ th ir d_ gent le man_ th ir d_ gent le man_ ne ws_ la d s </s>
+<s> our_ war s_ are_ d on e </s>
+<s> the_ des per ate_ te mp est_ hath_ so_ ban g d_ the_ tur ks_ that_ their_ des i g n ment_ ha l ts_ a_ no ble_ sh i p_ of_ ven i ce_ hath_ se en_ a_ g ri e v ous_ w re ck_ and_ su f f er ance_ on_ most_ par t_ of_ their_ f le e t </s>
+<s> mon t an o_ ho w </s>
+<s> is_ this_ tru e </s>
+<s> th ir d_ gent le man_ the_ sh i p_ is_ here_ pu t_ in_ a_ ver on es a_ mi c ha e l_ cassio_ li e u ten ant_ to_the_ war like_ mo or_ othello_ is_ come_ on_ sh or e_ the_ mo or_ hi m self_ at_ s ea _ and_ is_ in_ fu ll_ com mi ssi on_ here_ for_ c y p ru s </s>
+<s> mon t an o_ i_am_ g la d_ on t_ tis_ a_ wor thy_ go ver n or </s>
+<s> th ir d_ gent le man_ but_ this_ sa me_ cassio_ thou gh_ he_ speak_ of_ com for t_ t ou ch ing_ the_ tur k i sh_ lo ss_ yet_ he_ loo ks_ sa d ly_ and_ pra ys_ the_ mo or_ be_ sa fe_ for_ they_ were_ par ted_ with_ f ou l_ and_ vi ol ent_ te mp es t </s>
+<s> mon t an o_ pra y_ hea ven s_ he_ be_ for_ i_have_ ser ved_ him_ and_ the_ man_ com m an ds_ like_ a_ fu ll_ s ol di er </s>
+<s> le ts_ to_the_ s ea si de_ ho </s>
+<s> as_ well_ to_ see_ the_ v es se l_ th a ts_ come_ in_ as_ to_ th row_ out_ our_ ey es_ for_ b ra ve_ othello_ e ven_ ti ll_ we_ make_ the_ ma in_ and_ the_ a er i al_ b lu e_ an_ in di st in c t_ re g ar d </s>
+<s> th ir d_ gent le man_ come_ le ts_ do_ so_ for_ e very_ m in u te_ is_ ex pe c t an c y_ of_ more_ ar ri v an ce </s>
+<s> enter_ cassio_ cassio_ th an ks_ you_ the_ v a li ant_ of_ this_ war like_ i s le_ that_ so_ a pp ro ve_ the_ mo or </s>
+<s> o_ let_ the_ hea ven s_ give_ him_ de f ence_ aga in st_ the_ e le men ts_ for_ i_have_ lo st_ us_ him_ on_ a_ d an g er ous_ s ea </s>
+<s> mon t an o_ is_ he_ well_ sh i pp d </s>
+<s> cassio_ his_ b ar k_ is_ st ou t ly_ ti mb er d_ his_ pi lo t_ of_ very_ ex per t_ and_ a pp ro ved_ a ll o w ance_ th ere fore_ my_ ho p es_ not_ s ur fe i ted_ to_ death_ st and_ in_ bo ld_ cu re </s>
+<s> a_ c ry_ with in_ a_ sa i l_ a_ sa i l_ a_ sa i l_ enter_ a_ f our th_ gent le man_ cassio_ what_ no i se </s>
+<s> f our th_ gent le man_ the_ to wn_ is_ e mp ty_ on_ the_ b row_ o_ the_ s ea _ st and_ ran ks_ of_ pe op le_ and_ they_ c ry_ a_ sa i l_ cassio_ my_ ho p es_ do_ sha p e_ him_ for_ the_ go ver n or </s>
+<s> g un s_ hear d_ se con d_ gent le men_ they_ do_ di sc har ge_ their_ sh o t_ of_ c our t es y_ our_ fri en ds_ at_ lea st </s>
+<s> cassio_ i_ pra y_ you_ sir_ go_ for th_ and_ give_ us_ tru th_ who_ tis_ that_ is_ ar ri v e d </s>
+<s> se con d_ gent le man_ i_ sha ll </s>
+<s> exit_ mon t an o_ but_ good_ li e u ten ant_ is_ your_ g en er al_ wi v e d </s>
+<s> cassio_ most_ for tun at e ly_ he_ hath_ a ch i e ved_ a_ ma id_ that_ par ag ons_ des c ri p tion_ and_ wi ld_ fa me_ one_ that_ ex ce ls_ the_ qu ir ks_ of_ b la z on ing_ p en s_and_ in_the_ es sen ti al_ v es t ure_ of_ c rea tion_ do es_ ti r e_ the_ ing en er </s>
+<s> re enter_ se con d_ gent le man_ how_ no w </s>
+<s> who_ ha s_ pu t_ in </s>
+<s> se con d_ gent le man_ tis_ one_ iago_ an ci ent_ to_the_ g en er al </s>
+<s> cassio_ ha s_ had_ most_ fa v ou ra ble_ and_ ha pp y_ sp e ed_ te mp es ts_ the m sel ves_ hi gh_ s ea s_and_ ho w l ing_ w in ds_ the_ gu tt er d_ ro ck s_and_ con g re g at ed_ s an ds_ t ra i t or s_ en st ee p d_ to_ c lo g_ the_ gu i l t l ess_ k ee l_ as_ ha v ing_ sen se_ of_ b ea u ty_ do_ om it_ their_ mor ta l_ n at ur es_ le tt ing_ go_ sa fe ly_ by_ the_ di v ine_ desdemon a </s>
+<s> mon t an o_ what_ is_ sh e </s>
+<s> cassio_ she_ that_ i_ sp a ke_ of_ our_ grea t_ ca p ta in s_ ca p ta in_ le f t_ in_the_ con du c t_ of_the_ bo ld_ iago_ wh ose_ f oo t ing_ here_ an ti ci p at es_ our_ thou gh ts_ a_ sen ni gh ts_ sp ee d </s>
+<s> grea t_ j o ve_ othello_ gu ar d_ and_ s well_ his_ sa i l_ with_ th ine_ o wn_ po w er fu l_ b rea th_ that_ he_ may_ b l ess_ this_ b ay_ with_ his_ ta ll_ sh i p_ make_ lo ves_ qu i ck_ p an ts_ in_ desdemon as_ ar m s_ give_ r en e w d_ fir e_ to_ our_ ex t in c ted_ sp i ri ts_ and_ b ring_ all_ c y pr us_ com for t </s>
+<s> enter_ desdemona_ e mi lia_ iago_ ro der i go_ and_ at ten d an ts_ o_ be ho ld_ the_ ri ch es_ of_the_ sh i p_ is_ come_ on_ sh or e </s>
+<s> y e_ men_ of_ c y pr us_ let_ her_ have_ your_ k ne es </s>
+<s> ha i l_ to_ thee_ la d y </s>
+<s> and_ the_ gra ce_ of_ hea ven_ be fore_ be h ind_ thee_ and_ on_ e very_ h and_ en wh ee l_ thee_ r oun d </s>
+<s> desdemona_ i_ th an k_ you_ v a li ant_ cassi o </s>
+<s> what_ ti d ings_ can_ you_ tell_ me_ of_ my_ l or d </s>
+<s> cassio_ he_ is_ not_ yet_ ar ri ved_ nor_ know_ i_ a u ght_ but_ that_ h es_ well_ and_ will_ be_ sh or t ly_ h ere </s>
+<s> desdemona_ o_ but_ i_ f ear how_ lo st_ you_ com p an y </s>
+<s> cassio_ the_ grea t_ con ten tion_ of_the_ s ea _ and_ s k i es_ par ted_ our_ fe ll o w sh i p but_ har k </s>
+<s> a_ sa i l </s>
+<s> with in_ a_ sa i l_ a_ sa i l_ g un s_ hear d_ se con d_ gent le man_ they_ give_ their_ g re e t ing_ to_the_ ci ta de l_ this_ li k e wi se_ is_ a_ fri en d </s>
+<s> cassio_ see_ for_ the_ ne w s </s>
+<s> exit_ gent le man_ good_ an ci ent_ you_ are_ we l com e </s>
+<s> to_ e mi lia_ we l come_ mi st r es s </s>
+<s> let_ it_ not_ g all_ your_ pa ti ence_ good_ iago_ that_ i_ ex t end_ my_ m an n ers_ tis_ my_ b re e d ing_ that_ gi ves_ me_ this_ bo ld_ sh ow_ of_ c our t es y </s>
+<s> k i ss ing_ her_ iago_ sir_ would_ she_ give_ you_ so_ much_ of_ her_ li p s_ as_ of_ her_ t on gu e_ she_ of t_ b es to ws_ on_ me_ you ll_ have_ en ou gh </s>
+<s> desdemona_ a la s_ she_ ha s_ no_ sp ee ch </s>
+<s> iago_ in_ fa i th_ too_ much_ i_ f ind_ it_ sti ll_ when_ i_have_ li st_ to_ sle ep_ mar ry_ be fore_ your_ la d y sh i p_ i_ g r ant_ she_ pu ts_ her_ t on gu e_ a_ li tt le_ in_ her_ heart_ and_ ch i d es_ with_ th in k ing </s>
+<s> e mi lia_ you_ have_ li tt le_ ca use_ to_ say_ s o </s>
+<s> iago_ come_ on_ come_ on_ you_ are_ pi c tur es_ out_ of_ do or s_ be ll s_ in_ your_ par l or s_ wi ld ca ts_ in_ your_ k i t ch en s_ sa in ts_ m_ your_ in ju ri es_ de vi ls_ be ing_ of f en d ed_ pla y ers_ in_ your_ h ou se wi f er y_ and_ h ou se wi ves_ in_ your_ be d s </s>
+<s> desdemona_ o_ fi e_ upon_ thee_ s l an der er </s>
+<s> iago_ n ay_ it_is_ tru e_ or_ el se_ i_am_ a_ tur k_ you_ ri se_ to_ pla y_ and_ go_ to_ b ed_ to_ wor k </s>
+<s> e mi lia_ you_ shall_ not_ w ri te_ my_ pra i se </s>
+<s> iago_ no_ let_ me_ no t </s>
+<s> desdemona_ what_ w ou ld st_ thou_ w ri te_ of_ me_ if_ thou_ sh ou ld st_ pra i se_ me </s>
+<s> iago_ o_ gent le_ lady_ do_ not_ pu t_ me_ to t_ for_ i_am_ no thing_ if_ not_ c ri ti ca l </s>
+<s> desdemona_ come_ on_ a s sa y </s>
+<s> th er es_ one_ g one_ to_the_ har b our </s>
+<s> iago_ ay_ ma da m </s>
+<s> desdemona_ i_am_ not_ mer ry_ but_ i_do_ be gu i le_ the_ thing_ i_am_ by_ see m ing_ o th er wi se </s>
+<s> come_ how_ w ou ld st_ thou_ pra i se_ me </s>
+<s> iago_ i_am_ ab out_ it_ but_ in de ed_ my_ in ven tion_ com es_ from_ my_ p ate_ as_ b ir d li me_ do es_ from_ fri z e_ it_ p lu ck s_ out_ b ra in s_and_ all_ but_ my_ mu se_ la b our s_and_ th us_ she_ is_ de li ver d </s>
+<s> if_ she_ be_ fa ir_ and_ wi se_ fa ir ness_ and_ wi t_ the_ on es_ for_ use_ the_ other_ u se th_ i t </s>
+<s> desdemona_ well_ pra i se d </s>
+<s> how_ if_ she_ be_ b la ck_ and_ wi tt y </s>
+<s> iago_ if_ she_ be_ b la ck_ and_ th ere to_ have_ a_ wi t_ sh e ll_ f ind_ a_ whi te_ that_ shall_ her_ b la ck ness_ fi t </s>
+<s> desdemona_ wor se_ and_ wor se </s>
+<s> e mi lia_ how_ if_ fa ir_ and_ f oo li sh </s>
+<s> iago_ she_ never_ yet_ was_ f oo li sh_ that_ was_ fa ir_ for_ e ven_ her_ fo ll y_ he l p d_ her_ to_ an_ he ir </s>
+<s> desdemona_ these_ are_ o ld_ f on d_ par a do x es_ to_ make_ f oo ls_ lau gh_ i_ the_ a le h ou se </s>
+<s> what_ mi ser a ble_ pra i se_ ha st_ thou_ for_ her_ th a ts_ f ou l_ and_ f oo li sh </s>
+<s> iago_ th er es_ n one_ so_ f ou l_ and_ f oo li sh_ th ere un to_ but_ do es_ f ou l_ pr an ks_ which_ fa ir_ and_ wi se_ on es_ do </s>
+<s> desdemona_ o_ hea v y_ i g n or an ce </s>
+<s> thou_ pra i s est_ the_ wor st_ b es t </s>
+<s> but_ what_ pra i se_ c ou ld st_ thou_ b es to w_ on_ a_ des er v ing_ w om an_ in de ed_ one_ that_ in_the_ a u th or i ty_ of_ her_ mer it_ did_ ju st ly_ pu t_ on_ the_ v ou ch_ of_ very_ ma li ce_ i t sel f </s>
+<s> iago_ she_ that_ was_ e ver_ fa ir_ and_ never_ pr ou d_ had_ t on gu e_ at_ will_ and_ yet_ was_ never_ l ou d_ never_ la ck d_ go ld_ and_ yet_ w ent_ never_ g ay_ f l ed_ from_ her_ wi sh_ and_ yet_ sa id_ now_ i_ may_ she_ that_ be ing_ an g er d_ her_ re ven ge_ be ing_ ni gh_ ba de_ her_ w ron g_ st ay_ and_ her_ di sp lea s ure_ f ly_ she_ that_ in_ wi s d om_ never_ was_ so_ f ra i l_ to_ ch an ge_ the_ co ds_ hea d_ for_ the_ sa l mon s_ ta i l_ she_ that_ c ould_ think_ and_ ne er_ di sc lo se_ her_ m ind_ see_ su i t or s_ fo ll o w ing_ and_ not_ look_ be h ind_ she_ was_ a_ wi ght_ if_ e ver_ such_ wi ght_ were_ desdemona_ to_ do_ wha t </s>
+<s> iago_ to_ su ck le_ f oo l s_and_ ch ron i c le_ s ma ll_ be er </s>
+<s> desdemona_ o_ most_ la me_ and_ i m po t ent_ con c lu si on </s>
+<s> do_ not_ l ear n_ of_ him_ e mi lia_ thou gh_ he_ be_ thy_ hu s ban d </s>
+<s> how_ say_ you_ cassi o </s>
+<s> is_ he_ not_ a_ most_ pro f an e_ and_ li b er al_ coun se ll or </s>
+<s> cassio_ he_ spea ks_ h om e_ ma d am_ you_ may_ re li sh_ him_ more_ in_the_ s ol di er_ than_ in_the_ s ch ol ar </s>
+<s> iago_ a si de_ he_ ta k es_ her_ by_ the_ pa l m_ ay_ well_ sa id_ whi sp er_ with_ as_ li tt le_ a_ we b _ as_ this_ will_ i_ en s n are_ as_ grea t_ a_ f ly_ as_ cassi o </s>
+<s> ay_ s mi le_ upon_ her_ do_ i_will_ g y ve_ thee_ in_ th ine_ o wn_ c our t sh i p </s>
+<s> you_ say_ tru e_ tis_ so_ in de ed_ if_ such_ tri ck s_ as_ these_ st ri p_ you_ out_ of_ your_ li e u ten ant ry_ it_ had_ be en_ be tter_ you_ had_ not_ k i ss ed_ your_ th re e_ f ing ers_ so_ of t_ which_ now_ aga in_ you_ are_ most_ a p t_ to_ pla y_ the_ sir_ in </s>
+<s> very_ good_ well_ k i s se d </s>
+<s> an_ ex ce ll ent_ c our t es y </s>
+<s> tis_ so_ in de e d </s>
+<s> yet_ aga in_ your_ f ing ers_ to_ your_ li p s </s>
+<s> would_ they_ were_ c l y st er pi p es_ for_ your_ sa k e </s>
+<s> tru mp et_ with in_the_ mo or </s>
+<s> i_ know_ his_ tru mp e t </s>
+<s> cassio_ tis_ tru ly_ s o </s>
+<s> desdemona_ le ts_ me et_ him_ and_ re ce i ve_ hi m </s>
+<s> cassio_ l o_ where_ he_ com es </s>
+<s> enter_ othello_ and_ at ten d an ts_ othello_ o_ my_ fa ir_ war ri or </s>
+<s> desdemona_ my_ d ear_ othell o </s>
+<s> othello_ it_ gi ves_ me_ w on der_ grea t_ as_ my_ con t ent_ to_ see_ you_ here_ be fore_ me </s>
+<s> o_ my_ s ou ls_ j o y </s>
+<s> if_ af ter_ e very_ te mp est_ come_ such_ ca l m s_ may_ the_ w in ds_ b lo w_ ti ll_ they_ have_ wa k end_ dea th </s>
+<s> and_ let_ the_ la b our ing_ b ar k_ c li mb _ hi ll s_ of_ s ea s_ ol y m pu sh i gh_ and_ du ck_ aga in_ as_ lo w_ as_ he ll s_ from_ hea ven </s>
+<s> if_ it_ were_ now_ to_ di e_ t were_ now_ to_be_ most_ ha pp y_ for_ i_ f ear_ my_ s ou l_ hath_ her_ con t ent_ so_ ab s ol u te_ that_ not_ an other_ com for t_ like_ to_ this_ su c ce e ds_ in_ un kno wn_ fa te </s>
+<s> desdemona_ the_ hea ven s_ for b id_ but_ that_ our_ lo ves_ and_ com for ts_ should_ in c rea se_ e ven_ as_ our_ da ys_ do_ g ro w </s>
+<s> othello_ a men_ to_ that_ swe et_ po w er s </s>
+<s> i_ can not_ speak_ en ou gh_ of_ this_ con t ent_ it_ st op s_ me_ here_ it_is_ too_ much_ of_ j o y_ and_ this_ and_ this_ the_ grea t est_ di sc or ds_ be_ k i ss ing_ her_ that_ e er_ our_ hear ts_ shall_ ma k e </s>
+<s> iago_ a si de_ o_ you_ are_ well_ tun ed_ no w </s>
+<s> but_ ill_ se t_ do wn_ the_ pe g s_ that_ make_ this_ mu si c _ as_ hon est_ as_ i_ a m </s>
+<s> othello_ come_ let_ us_ to_the_ ca st le </s>
+<s> ne ws_ fri en ds_ our_ war s_ are_ d one_ the_ tur ks_ are_ d ro w n d </s>
+<s> how_ do es_ my_ o ld_ ac qu a in t ance_ of_ this_ i sle </s>
+<s> hon e y_ you_ shall_ be_ well_ des ir ed_ in_ c y pr us_ i_have_ f ound_ grea t_ love_ a mon g st_ the m </s>
+<s> o_ my_ swe et_ i_ pra tt le_ out_ of_ fa sh i on_ and_ i_ do te_ in_ mine_ o wn_ com for t s </s>
+<s> i_ pri thee_ good_ iago_ go_ to_the_ b ay_ and_ di se mb ar k_ my_ c of f ers_ b ring_ thou_ the_ ma st er_ to_the_ ci ta de l_ he_ is_ a_ good_ one_ and_ his_ wor th in ess_ do es_ c ha ll en ge_ much_ r es pe c t </s>
+<s> come_ desdemona_ on ce_ more_ well_ m et_ at_ c y p ru s </s>
+<s> exeunt_ othello_ desdemona_ and_ at ten d an ts_ iago_ do_ thou_ me et_ me_ pr es ent ly_ at_ the_ har b our </s>
+<s> come_ hi th er </s>
+<s> if_ thou_ b est_ v a li ant_ as_ they_ say_ ba se_ men_ be ing_ in_ love_ have_ then_ a_ no b i li ty_ in_ their_ in de x _ and_ ob sc ure_ pro lo gu e_ to_the_ hi st or y_ of_ lu st_ and_ f ou l_ thou gh t s </s>
+<s> they_ m et_ so_ n ear_ with_ their_ li p s_ that_ their_ b rea th s_ e mb ra c ed_ to ge th er </s>
+<s> vi ll an ous_ thou gh ts_ ro der i go </s>
+<s> when_ these_ mu t u a li ti es_ so_ mar sha l_ the_ way_ har d_ at_ h and_ com es_ the_ ma st er_ and_ ma in_ ex er ci se_ the_ in c or por ate_ con c lu si on_ pi sh </s>
+<s> but_ sir_ be_ you_ ru l ed_ by_ me_ i_have_ b rou ght_ you_ from_ ven i ce </s>
+<s> w at ch_ you_ t on i ght_ for_ the_ com m and_ ill_ la y t_ upon_ you </s>
+<s> cassio_ kno ws_ you_ no t </s>
+<s> ill_ not_ be_ fa r_ from_ you_ do_ you_ f ind_ some_ oc ca si on_ to_ an ger_ cassio_ e i ther_ by_ spea king_ too_ l ou d_ or_ ta in t ing_ his_ di sc i p l ine_ or_ from_ what_ other_ c our se_ you_ p lea se_ which_ the_ time_ shall_ more_ fa v ou ra b ly_ m in i st er </s>
+<s> ro der i go_ we ll </s>
+<s> iago_ sir_ he_ is_ ra sh_ and_ very_ su d d en_ in_ ch ol er_ and_ ha p ly_ may_ st ri ke_ at_ you_ pro vo ke_ him_ that_ he_ may_ for_ e ven_ out_ of_ that_ will_ i_ ca use_ these_ of_ c y pr us_ to_ mu t in y_ wh ose_ qu a li fi ca tion_ shall_ come_ in to_ no_ tru e_ ta st e_ aga in_ but_ by_ the_ di sp l ant ing_ of_ cassi o </s>
+<s> so_ shall_ you_ have_ a_ sh or ter_ j our ne y_ to_ your_ des ir es_ by_ the_ me an s_ i_ shall_ then_ have_ to_ p re f er_ them_ and_ the_ i mp e di ment_ most_ pro fi ta b ly_ re mo ved_ wi thou t_ the_ which_ there_ were_ no_ ex pe c ta tion_ of_ our_ pro sp er i t y </s>
+<s> ro der i go_ i_will_ do_ this_ if_ i_ can_ b ring_ it_ to_ any_ op por tun i t y </s>
+<s> iago_ i_ war r ant_ the e </s>
+<s> me et_ me_ by_ and_ by_ at_ the_ ci ta de l_ i_ must_ fe t ch_ his_ ne c es s ar i es_ a sh or e </s>
+<s> f ar e we ll </s>
+<s> ro der i go_ a di e u </s>
+<s> exit_ iago_ that_ cassio_ lo ves_ her_ i_do_ well_ be li e ve_ it_ that_ she_ lo ves_ him_ tis_ a p t_ and_ of_ grea t_ c re d it_ the_ mo or_ ho w be it_ that_ i_ en d ure_ him_ not_ is_ of_ a_ con st ant_ lo v ing_ no ble_ n at ure_ and_ i_ d are_ think_ he ll_ pro ve_ to_ desdemona_ a_ most_ d ear_ hu s ban d </s>
+<s> now_ i_do_ love_ her_ too_ not_ out_ of_ ab s ol u te_ lu st_ thou gh_ per a d v ent ure_ i_ st and_ ac coun t ant_ for_ as_ grea t_ a_ s in_ but_ par t ly_ l ed_ to_ di et_ my_ re ven ge_ for_ that_ i_do_ su sp e c t_ the_ lu st y_ mo or_ hath_ lea p d_ in to_ my_ s ea t_ the_ thou ght_ wh ere of_ doth_ like_ a_ po i s on ous_ m in er al_ g na w_ my_ in war ds_ and_ no thing_ can_ or_ shall_ con t ent_ my_ s ou l_ ti ll_ i_am_ e v end_ with_ him_ wi fe_ for_ wi fe_ or_ fa i l ing_ so_ yet_ that_ i_ pu t_ the_ mo or_ at_ lea st_ in to_ a_ j ea l ou s y_ so_ st ron g_ that_ ju d g ment_ can not_ cu re </s>
+<s> which_ thing_ to_ do_ if_ this_ po or_ t ra sh_ of_ ven i ce_ wh om_ i_ t ra sh_ for_ his_ qu i ck_ h un t ing_ st and_ the_ pu tt ing_ on_ ill_ have_ our_ mi c ha e l_ cassio_ on_ the_ hi p_ a bu se_ him_ to_the_ mo or_ in_the_ ran k_ g arb _ for_ i_ f ear_ cassio_ with_ my_ ni gh t ca p_ too_ make_ the_ mo or_ th an k_ me_ love_ me_ and_ re war d_ me </s>
+<s> for_ ma king_ him_ e g re gi ou s ly_ an_ a s s_and_ pra c ti s ing_ upon_ his_ p ea ce_ and_ qu i et_ e ven_ to_ ma d n es s </s>
+<s> tis_ here_ but_ yet_ con fu sed_ k na ver ys_ pla in_ fa ce_ is_ never_ se en_ t in_ u se d </s>
+<s> exit_ scene_ i i </s>
+<s> a_ st re e t </s>
+<s> enter_ a_ her a ld_ with_ a_ pro c la ma tion_ pe op le_ fo ll o w ing_ her a ld_ it_is_ othell o s_ p lea s ure_ our_ no ble_ and_ v a li ant_ g en er al_ that_ upon_ c er ta in_ ti d ings_ now_ ar ri ved_ i mp or t ing_ the_ m ere_ per di tion_ of_the_ tur k i sh_ f le et_ e very_ man_ pu t_ hi m self_ in to_ tri u mp h _ some_ to_ d ance_ some_ to_ make_ b on fir es_ ea ch_ man_ to_ what_ sp or t_ and_ re v el s_ his_ a d di c tion_ lea ds_ him_ for_ b es i d es_ these_ b en e fi ci al_ ne ws_ it_is_ the_ ce le b ra tion_ of_ his_ n up ti al </s>
+<s> so_ much_ was_ his_ p lea s ure_ should_ be_ pro c la i me d </s>
+<s> all_ of fi c es_ are_ op en_ and_ there_ is_ fu ll_ li b er ty_ of_ f ea st ing_ from_ this_ pr es ent_ h our_ of_ fi ve_ ti ll_ the_ be ll_ have_ to ld_ e le ven </s>
+<s> hea ven_ b l ess_ the_ i s le_ of_ c y pr us_ and_ our_ no ble_ g en er al_ othell o </s>
+<s> exeunt_ scene_ i i i </s>
+<s> a_ ha ll_ in_the_ ca st le </s>
+<s> enter_ othello_ desdemona_ cassio_ and_ at ten d an ts_ othello_ good_ mi c ha e l_ look_ you_ to_the_ gu ar d_ t on i ght_ le ts_ t ea ch_ our sel ves_ that_ hon ou ra ble_ st o p_ not_ to_ ou t sp or t_ di sc re ti on </s>
+<s> cassio_ iago_ hath_ di re c tion_ what_ to_ do_ but_ no t with st an d ing_ with_ my_ per s on al_ ey e_ will_ i_ look_ to t </s>
+<s> othello_ iago_ is_ most_ hon es t </s>
+<s> mi c ha e l_ good_ night_ t om or row_ with_ your_ ear li est_ let_ me_ have_ sp ee ch_ with_ you </s>
+<s> to_ desdemona_ come_ my_ d ear_ love_ the_ p ur c ha se_ made_ the_ f ru i ts_ are_ to_ en su e_ that_ pro fi ts_ yet_ to_ come_ t we en_ me_ and_ you </s>
+<s> good_ ni gh t </s>
+<s> exeunt_ othello_ desdemona_ and_ at ten d an ts_ enter_ iago_ cassio_ we l come_ iago_ we_ must_ to_the_ w at ch </s>
+<s> iago_ not_ this_ h our_ li e u ten ant_ tis_ not_ yet_ t en_ o_ the_ c lo ck </s>
+<s> our_ g en er al_ ca st_ us_ th us_ ear ly_ for_ the_ love_ of_ his_ desdemona_ who_ let_ us_ not_ th ere fore_ b la me_ he_ hath_ not_ yet_ made_ w ant on_ the_ night_ with_ her_ and_ she_ is_ sp or t_ for_ j o v e </s>
+<s> cassio_ sh es_ a_ most_ ex qu i si te_ la d y </s>
+<s> iago_ and_ ill_ war r ant_ her_ f un _ of_ ga me </s>
+<s> cassio_ in de ed_ sh es_ a_ most_ f r es h _ and_ de li ca te_ c rea t u re </s>
+<s> iago_ what_ an_ ey e_ she_ ha s </s>
+<s> me th in ks_ it_ s oun ds_ a_ par le y_ of_ pro vo ca ti on </s>
+<s> cassio_ an_ in vi t ing_ ey e_ and_ yet_ me th in ks_ ri ght_ mo des t </s>
+<s> iago_ and_ when_ she_ spea ks_ is_ it_ not_ an_ al ar u m_ to_ lo v e </s>
+<s> cassio_ she_ is_ in de ed_ per fe c ti on </s>
+<s> iago_ well_ ha pp in ess_ to_ their_ sh ee t s </s>
+<s> come_ li e u ten ant_ i_have_ a_ st ou p_ of_ w ine_ and_ here_ wi thou t_ are_ a_ b ra ce_ of_ c y pr us_ ga ll an ts_ that_ would_ fa in_ have_ a_ m ea s ure_ to_the_ hea l th_ of_ b la ck_ othell o </s>
+<s> cassio_ not_ t on i ght_ good_ iago_ i_have_ very_ po or_ and_ un ha pp y_ b ra in s_ for_ d r in king_ i_ c ould_ well_ wi sh_ c our t es y_ would_ in v ent_ some_ other_ cu st om_ of_ ent er ta in m ent </s>
+<s> iago_ o_ they_ are_ our_ fri en ds_ but_ one_ cu p_ ill_ d r ink_ for_ you </s>
+<s> cassio_ i_have_ d r un k_ but_ one_ cu p_ t on i ght_ and_ that_ was_ c ra f ti ly_ qu a li fi ed_ too_ and_ be ho ld_ what_ in no v a tion_ it_ ma k es_ here_ i_am_ un for tun ate_ in_the_ in fir mi ty_ and_ d are_ not_ ta s k_ my_ w ea k ness_ with_ any_ mor e </s>
+<s> iago_ what_ m an </s>
+<s> tis_ a_ night_ of_ re v el s_ the_ ga ll an ts_ des ir e_ i t </s>
+<s> cassio_ where_ are_ the y </s>
+<s> iago_ here_ at_ the_ do or_ i_ pra y_ you_ ca ll_ them_ in </s>
+<s> cassio_ ill_ do t_ but_ it_ di s li k es_ me </s>
+<s> exit_ iago_ if_ i_ can_ fa st en_ but_ one_ cu p_ upon_ him_ with_ that_ which_ he_ hath_ d r un k_ t on i ght_ al rea dy_ he ll_ be_ as_ fu ll_ of_ qu ar re l_ and_ of f ence_ as_ my_ you n g_ mi st r ess_ do g </s>
+<s> now_ my_ si ck_ f oo l_ ro der i go_ wh om_ love_ hath_ tur n d_ al most_ the_ w ron g_ si de_ out_ to_ desdemona_ hath_ t on i ght_ c ar ou sed_ po ta ti ons_ po tt le de ep_ and_ h es_ to_ w at ch_ th re e_ la ds_ of_ c y pr us_ no ble_ swe ll ing_ sp i ri ts_ that_ ho ld_ their_ hon our s_ in_ a_ war y_ di st ance_ the_ very_ e le men ts_ of_ this_ war like_ i s le_ have_ i_ t on i ght_ f lu st er d_ with_ f lo w ing_ c up s_and_ they_ w at ch_ t oo </s>
+<s> now_ mon g st_ this_ f lo ck_ of_ d r un k ar ds_ am_ i_ to_ pu t_ our_ cassio_ in_ some_ ac tion_ that_ may_ of f end_ the_ i sle but_ here_ they_ come_ if_ con se qu ence_ do_ but_ a pp ro ve_ my_ d rea m_ my_ bo at_ sa i ls_ f re e ly_ bo th_ with_ w ind_ and_ st rea m </s>
+<s> re enter_ cassio_ with_ him_ mon t an o_ and_ gent le men_ ser v an ts_ fo ll o w ing_ with_ w ine_ cassio_ fore_ go d_ they_ have_ gi ven_ me_ a_ rou se_ al rea d y </s>
+<s> mon t an o_ good_ fa i th_ a_ li tt le_ one_ not_ pa st_ a_ p in t_ as_ i_am_ a_ s ol di er </s>
+<s> iago_ some_ w ine_ ho </s>
+<s> s ing s_and_ let_ me_ the_ can a k in_ c l ink_ c l ink_ and_ let_ me_ the_ can a k in_ c l ink_ a_ s ol di ers_ a_ man_ a_ li f es_ but_ a_ sp an_ why_ then_ let_ a_ s ol di er_ d r in k </s>
+<s> some_ w ine_ bo y s </s>
+<s> cassio_ fore_ go d_ an_ ex ce ll ent_ s on g </s>
+<s> iago_ i_ l ear n ed_ it_ in_ en g l and_ where_ in de ed_ they_ are_ most_ po t ent_ in_ po tt ing_ your_ d an e_ your_ g er man_ and_ your_ sw ag be ll i ed_ ho ll an der d r ink_ ho are_ no thing_ to_ your_ en g li sh </s>
+<s> cassio_ is_ your_ en g li sh man_ so_ ex per t_ in_ his_ d r in k ing </s>
+<s> iago_ why_ he_ d r in ks_ you_ with_ fa ci li ty_ your_ d an e_ dea d_ d r un k_ he_ sw ea ts_ not_ to_ o ver th row_ your_ al ma in_ he_ gi ves_ your_ ho ll an der_ a_ v om it_ ere_ the_ ne x t_ po tt le_ can_ be_ fi ll e d </s>
+<s> cassio_ to_the_ hea l th_ of_ our_ g en er al </s>
+<s> mon t an o_ i_am_ for_ it_ li e u ten ant_ and_ ill_ do_ you_ ju sti ce </s>
+<s> iago_ o_ swe et_ en g l an d </s>
+<s> king_ st e p h en_ was_ a_ wor thy_ pe er_ his_ b re e ch es_ co st_ him_ but_ a_ c ro wn_ he_ he ld_ them_ si x p ence_ all_ too_ d ear_ with_ that_ he_ ca ll d_ the_ ta i l or_ lo w n </s>
+<s> he_ was_ a_ wi ght_ of_ hi gh_ r en o wn_ and_ thou_ art_ but_ of_ lo w_ de g re e_ tis_ pri de_ that_ pu ll s_ the_ coun t ry_ do wn_ then_ take_ th ine_ a u ld_ c lo a k_ ab out_ the e </s>
+<s> some_ w ine_ ho </s>
+<s> cassio_ why_ this_ is_ a_ more_ ex qu i si te_ s on g_ than_ the_ o th er </s>
+<s> iago_ will_ you_ heart_ aga in </s>
+<s> cassio_ no_ for_ i_ ho ld_ him_ to_be_ un wor thy_ of_ his_ pla ce_ that_ do es_ th ose_ th ing s </s>
+<s> well_ go ds_ a bo ve_ all_ and_ there_ be_ s ou ls_ must_ be_ sa ved_ and_ there_ be_ s ou ls_ must_ not_ be_ sa v e d </s>
+<s> iago_ i ts_ tru e_ good_ li e u ten ant </s>
+<s> cassio_ for_ mine_ o wn_ par t no_ of f ence_ to_the_ g en er al_ nor_ any_ man_ of_ qu a li t y i_ ho p e_ to_be_ sa v e d </s>
+<s> iago_ and_ so_ do_ i_ too_ li e u ten ant </s>
+<s> cassio_ ay_ but_ by_ your_ lea ve_ not_ be fore_ me_ the_ li e u ten ant_ is_ to_be_ sa ved_ be fore_ the_ an ci ent </s>
+<s> le ts_ have_ no_ more_ of_ this_ le ts_ to_ our_ af fa ir s for give_ us_ our_ s in s gent le men_ le ts_ look_ to_ our_ bu s in es s </s>
+<s> do_ not_ think_ gent le men </s>
+<s> i_am_ d r un k_ this_ is_ my_ an ci ent_ this_ is_ my_ ri ght_ h and_ and_ this_ is_ my_ le f t_ i_am_ not_ d r un k_ now_ i_ can_ st and_ well_ en ou gh_ and_ speak_ well_ en ou gh </s>
+<s> all_ ex ce ll ent_ we ll </s>
+<s> cassio_ why_ very_ well_ then_ you_ must_ not_ think_ then_ that_ i_am_ d r un k </s>
+<s> exit_ mon t an o_ to_the_ pla t for m_ ma st ers_ come_ le ts_ se t_ the_ w at ch </s>
+<s> iago_ you_ see_ this_ fe llow_ that_ is_ g one_ be fore_ he_ is_ a_ s ol di er_ f it_ to_ st and_ by_ caesar_ and_ give_ di re c tion_ and_ do_ but_ see_ his_ vi ce_ tis_ to_ his_ vi r t u e_ a_ ju st_ e qu in o x _ the_ one_ as_ lon g_ as_ the_ other_ tis_ pi ty_ of_ hi m </s>
+<s> i_ f ear_ the_ tru st_ othello_ pu ts_ him_ in </s>
+<s> on_ some_ o d d_ time_ of_ his_ in fir mi ty_ will_ sha ke_ this_ i s l an d </s>
+<s> mon t an o_ but_ is_ he_ of t en_ th u s </s>
+<s> iago_ tis_ e ver more_ the_ pro lo gu e_ to_ his_ sle ep_ he ll_ w at ch_ the_ hor o lo ge_ a_ d ou ble_ se t_ if_ d r ink_ ro ck_ not_ his_ c ra d le </s>
+<s> mon t an o_ it_ were_ well_ the_ g en er al_ were_ pu t_ in_ m ind_ of_ i t </s>
+<s> per ha p s_ he_ se es_ it_ not_ or_ his_ good_ n at ure_ pri z es_ the_ vi r t u e_ that_ a pp ears_ in_ cassio_ and_ loo ks_ not_ on_ his_ e vi ls_ is_ not_ this_ tru e </s>
+<s> enter_ ro der i go_ iago_ a si de_ to_ him_ how_ now_ ro der i go </s>
+<s> i_ pra y_ you_ af ter_ the_ li e u ten ant_ go </s>
+<s> exit_ ro der i go_ mon t an o_ and_ tis_ grea t_ pi ty_ that_ the_ no ble_ mo or_ should_ ha z ar d_ such_ a_ pla ce_ as_ his_ o wn_ se con d_ with_ one_ of_ an_ ing ra f t_ in fir mi ty_ it_ were_ an_ hon est_ ac tion_ to_ say_ so_ to_the_ mo or </s>
+<s> iago_ not_ i_ for_ this_ fa ir_ i s l and_ i_do_ love_ cassio_ well_ and_ would_ do_ much_ to_ c ure_ him_ of_ this_ e vi l but_ har k </s>
+<s> what_ no i se </s>
+<s> c ry_ with in_ he l p </s>
+<s> he l p_ re enter_ cassio_ d ri v ing_ in_ ro der i go_ cassio_ you_ ro gu e </s>
+<s> you_ ra s ca l </s>
+<s> mon t an o_ wha ts_ the_ ma tter_ li e u ten ant </s>
+<s> cassio_ a_ k na ve_ t ea ch_ me_ my_ du t y </s>
+<s> ill_ b ea t_ the_ k na ve_ in to_ a_ t wi g g en_ bo tt le </s>
+<s> ro der i go_ b ea t_ me </s>
+<s> cassio_ do st_ thou_ pra te_ ro gu e </s>
+<s> st ri king_ ro der i go_ mon t an o_ n ay_ good_ li e u ten ant_ st a y ing_ him_ i_ pra y_ you_ sir_ ho ld_ your_ han d </s>
+<s> cassio_ let_ me_ go_ sir_ or_ ill_ kno ck_ you_ o er_ the_ ma z z ar d </s>
+<s> mon t an o_ come_ come_ you r e_ d r un k </s>
+<s> cassio_ d r un k </s>
+<s> they_ fi ght_ iago_ a si de_ to_ ro der i go_ a way_ i_ say_ go_ out_ and_ c ry_ a_ mu t in y </s>
+<s> exit_ ro der i go_ n ay_ good_ li e u ten an ta la s_ gent le men_ he l p_ ho li e u ten ant si r mon t an o sir_ he l p_ ma st er sh er es_ a_ g oo d ly_ w at ch_ in de e d </s>
+<s> be ll_ r ings_ wh o s_ that_ which_ r ings_ the_ be ll di ab l o_ ho </s>
+<s> the_ to wn_ will_ ri se_ go ds_ will_ li e u ten ant_ ho ld </s>
+<s> you_ will_ be_ sha m ed_ for_ e ver </s>
+<s> re enter_ othello_ and_ at ten d an ts_ othello_ what_ is_ the_ ma tter_ h ere </s>
+<s> mon t an o_ z oun ds_ i_ b le ed_ sti ll_ i_am_ h ur t_ to_the_ dea th </s>
+<s> fa in ts_ othello_ ho ld_ for_ your_ li v es </s>
+<s> iago_ ho ld_ ho </s>
+<s> li e u ten ant si r mon t an o gent le men_ have_ you_ for go t_ all_ sen se_ of_ pla ce_ and_ du t y </s>
+<s> ho ld </s>
+<s> the_ g en er al_ spea ks_ to_ you_ ho ld_ ho ld_ for_ sha me </s>
+<s> othello_ why_ how_ now_ ho </s>
+<s> from_ wh ence_ ar i se th_ th i s </s>
+<s> are_ we_ tur n d_ tur k s_and_ to_ our sel ves_ do_ that_ which_ hea ven_ hath_ for b id_ the_ o tt om i t es </s>
+<s> for_ ch ri sti an_ sha me_ pu t_ by_ this_ b arb ar ous_ b ra w l_ he_ that_ sti r s_ ne x t_ to_ c ar ve_ for_ his_ o wn_ ra ge_ ho l ds_ his_ s ou l_ li ght_ he_ di es_ upon_ his_ mo ti on </s>
+<s> si l ence_ that_ d rea d fu l_ be ll_ it_ fri gh ts_ the_ i s le_ from_ her_ in de e d </s>
+<s> had_ we_ d one_ so_ at_ first_ we_ had_ d ro ven_ them_ h om e_ with_ c l ou ts_ ab out_ their_ hea d s </s>
+<s> mark_antony_ thou_ b le e d st_ a pa ce </s>
+<s> sc ar us_ i_ had_ a_ w ound_ here_ that_ was_ like_ a_ t_ but_ now_ tis_ made_ an_ h </s>
+<s> mark_antony_ they_ do_ re ti re </s>
+<s> sc ar us_ well_ b ea t_ e m_ in to_ b en ch ho l es_ i_have_ yet_ ro om_ for_ si x _ sc o t ch es_ mor e </s>
+<s> enter_ er o s_ er o s_ they_ are_ b ea t en_ sir_ and_ our_ a d v an ta ge_ ser ves_ for_ a_ fa ir_ vi c t or y </s>
+<s> sc ar us_ let_ us_ sc or e_ their_ ba ck s_and_ s n at ch_ e m_ up_ as_ we_ take_ har es_ be h ind_ tis_ sp or t_ to_ ma u l_ a_ r un n er </s>
+<s> mark_antony_ i_will_ re war d_ thee_ on ce_ for_ thy_ sp ri te ly_ com for t_ and_ ten fo ld_ for_ thy_ good_ v al our </s>
+<s> come_ thee_ on </s>
+<s> sc ar us_ ill_ ha lt_ af ter </s>
+<s> exeunt_ scene_ vi i i </s>
+<s> un der_ the_ wa ll s_ of_ a le x an d ri a </s>
+<s> al ar u m </s>
+<s> enter_ mark_antony_ in_ a_ mar ch_ sc ar us_ with_ o th ers_ mark_antony_ we_ have_ b ea t_ him_ to_ his_ ca m p_ r un _ one_ be fore_ and_ let_ the_ queen_ know_ of_ our_ g es t s </s>
+<s> t om or row_ be fore_ the_ s un _ shall_ see_ s_ well_ sp ill_ the_ bloo d_ that_ ha s_ to day_ es ca pe d </s>
+<s> i_ th an k_ you_ all_ for_ d ou gh t y han d ed_ are_ you_ and_ have_ f ou ght_ not_ as_ you_ ser ved_ the_ ca use_ but_ as_ t_ had_ be en_ ea ch_ m an s_ like_ mine_ you_ have_ sh o wn_ all_ he c t or s </s>
+<s> enter_ the_ ci ty_ c li p_ your_ wi ves_ your_ fri en ds_ tell_ them_ your_ f ea ts_ whi l st_ they_ with_ j o y fu l_ t ears_ wa sh_ the_ con g ea l ment_ from_ your_ w oun ds_ and_ k i ss_ the_ hon our d_ ga sh es_ wh o le </s>
+<s> to_ sc ar us_ give_ me_ thy_ h and_ enter_ cleopatra_ at ten d ed_ to_ this_ grea t_ fa ir y_ ill_ com m end_ thy_ ac ts_ make_ her_ th an ks_ b l ess_ the e </s>
+<s> to_ cleopatra_ o_ thou_ day_ o_ the_ wor ld_ c ha in_ mine_ ar m d_ ne ck_ lea p_ thou_ at ti r e_ and_ all_ th rou gh_ pro of_ of_ har ness_ to_ my_ heart_ and_ there_ ri de_ on_ the_ p an ts_ tri u mp h ing </s>
+<s> cleopatra_ lord_ of_ l or d s </s>
+<s> o_ in f in i te_ vi r t u e_ com est_ thou_ s mi l ing_ from_ the_ wor l ds_ grea t_ s n are_ un ca u gh t </s>
+<s> mark_antony_ my_ ni gh t ing a le_ we_ have_ b ea t_ them_ to_ their_ be d s </s>
+<s> what_ g ir l </s>
+<s> thou gh_ g re y_ do_ som e thing_ m ing le_ with_ our_ you n ger_ b ro wn_ yet_ ha _ we_ a_ b ra in_ that_ n ou ri sh es_ our_ n er ves_ and_ can_ g et_ go al_ for_ go al_ of_ you th </s>
+<s> be ho ld_ this_ man_ com m end_ un to_ his_ li p s_ thy_ fa v our ing_ h and_ k i ss_ it_ my_ war ri or_ he_ hath_ f ou ght_ to day_ as_ if_ a_ go d_ in_ ha te_ of_ m an k ind_ had_ des t ro y d_ in_ such_ a_ sha pe </s>
+<s> cleopatra_ ill_ give_ thee_ fri end_ an_ ar m our_ all_ of_ go ld_ it_ was_ a_ k ing s </s>
+<s> mark_antony_ he_ ha s_ des er ved_ it_ were_ it_ c ar bu n c l ed_ like_ ho ly_ p ho e b us_ c ar </s>
+<s> give_ me_ thy_ h and_ th rou gh_ a le x an d ri a_ make_ a_ j o ll y_ mar ch_ b ear_ our_ ha ck d_ t ar ge ts_ like_ the_ men_ that_ o we_ them_ had_ our_ grea t_ pa la ce_ the_ ca pa ci ty_ to_ ca m p_ this_ ho st_ we_ all_ would_ su p_ to ge ther_ and_ d r ink_ c ar ou s es_ to_the_ ne x t_ da ys_ fa te_ which_ p rom i s es_ ro y al_ per i l </s>
+<s> tru mp e t ers_ with_ b ra z en_ d in_ b la st_ you_ the_ ci t ys_ ear_ make_ m ing le_ with_ ra tt l ing_ ta b our in es_ that_ hea ven_ and_ ear th_ may_ st ri ke_ their_ s oun ds_ to ge ther_ a pp lau d ing_ our_ a pp ro a ch </s>
+<s> exeunt_ scene_ i x </s>
+<s> octavius_ caes ar s_ ca mp </s>
+<s> s ent in el s_ at_ their_ po st_ first_ s ol di er_ if_ we_ be_ not_ re li e ved_ with in_ this_ h our_ we_ must_ re tur n_ to_the_ c our t_ of_ gu ar d_ the_ night_ is_ sh in y_ and_ they_ say_ we_ shall_ e mb at t le_ by_ the_ se con d_ h our_ i_ the_ mor n </s>
+<s> se con d_ s ol di er_ this_ la st_ day_ was_ a_ sh re w d_ one_ to s </s>
+<s> enter_ d om i ti us_ en ob arb us_ d om i ti us_ en ob arb us_ o_ b ear_ me_ wi t ness_ night_ th ir d_ s ol di er_ what_ man_ is_ th i s </s>
+<s> se con d_ s ol di er_ st and_ c lo se_ and_ li st_ hi m </s>
+<s> d om i ti us_ en ob arb us_ be_ wi t ness_ to_ me_ o_ thou_ b l es sed_ mo on_ when_ men_ re v ol ted_ shall_ upon_ re c ord_ b ear_ ha te fu l_ me mor y_ po or_ en ob arb us_ did_ be fore_ thy_ fa ce_ re p ent </s>
+<s> first_ s ol di er_ en ob ar bu s </s>
+<s> th ir d_ s ol di er_ p ea ce </s>
+<s> har k_ f ur th er </s>
+<s> d om i ti us_ en ob arb us_ o_ s o ver e i g n_ mi st r ess_ of_ tru e_ me l an ch o ly_ the_ po i s on ous_ da m p_ of_ night_ di sp on ge_ upon_ me_ that_ li fe_ a_ very_ re be l_ to_ my_ will_ may_ han g_ no_ lon ger_ on_ me_ th row_ my_ heart_ aga in st_ the_ f l in t_ and_ har d ness_ of_ my_ fa u lt_ which_ be ing_ d ri ed_ with_ g ri e f_ will_ b rea k_ to_ po w der_ and_ f in i sh_ all_ f ou l_ thou gh t s </s>
+<s> o_ antony_ no b l er_ than_ my_ re v ol t_ is_ in fa m ous_ for give_ me_ in_ th ine_ o wn_ par ti cu la r_ but_ let_ the_ wor ld_ ran k_ me_ in_ re gi st er_ a_ ma st er lea ver_ and_ a_ fu gi ti ve_ o_ anton y </s>
+<s> o_ anton y </s>
+<s> di es_ se con d_ s ol di er_ le ts_ speak_ to_ hi m </s>
+<s> first_ s ol di er_ le ts_ hear_ him_ for_ the_ th ings_ he_ spea ks_ may_ con c er n_ caes ar </s>
+<s> th ir d_ s ol di er_ le ts_ do_ s o </s>
+<s> but_ he_ sle e p s </s>
+<s> first_ s ol di er_ sw o ons_ ra ther_ for_ so_ ba d_ a_ pra y er_ as_ his_ was_ never_ yet_ for_ sle e p </s>
+<s> se con d_ s ol di er_ go_ we_ to_ hi m </s>
+<s> th ir d_ s ol di er_ a wa ke_ sir_ a wa ke_ speak_ to_ u s </s>
+<s> se con d_ s ol di er_ hear_ you_ si r </s>
+<s> first_ s ol di er_ the_ h and_ of_ death_ hath_ ra u ght_ hi m </s>
+<s> d ru m s_ a fa r_ of f_ har k </s>
+<s> the_ d ru m s_ de mu re ly_ wa ke_ the_ sle e per s </s>
+<s> let_ us_ b ear_ him_ to_the_ c our t_ of_ gu ar d_ he_ is_ of_ no te_ our_ h our_ is_ fu ll y_ ou t </s>
+<s> th ir d_ s ol di er_ come_ on_ then_ he_ may_ re co ver_ y e t </s>
+<s> exeunt_ with_ the_ bo dy_ scene_ x </s>
+<s> be t we en_ the_ t w o_ ca mp s </s>
+<s> enter_ mark_antony_ and_ sc ar us_ with_ their_ ar my_ mark_antony_ their_ p re par a tion_ is_ to day_ by_ s ea _ we_ p lea se_ them_ not_ by_ l an d </s>
+<s> sc ar us_ for_ bo th_ my_ l or d </s>
+<s> mark_antony_ i_ would_ the y ld_ fi ght_ i_ the_ fir e_ or_ i_ the_ a ir_ we ld_ fi ght_ there_ t oo </s>
+<s> but_ this_ it_is_ our_ f oo t_ upon_ the_ hi ll s_ a d j o in ing_ to_the_ ci ty_ shall_ st ay_ with_ us_ or der_ for_ s ea _ is_ gi ven_ they_ have_ pu t_ for th_ the_ ha ven_ where_ their_ a p po in t ment_ we_ may_ b est_ di sc o ver_ and_ look_ on_ their_ en dea v our </s>
+<s> exeunt_ scene_ x i </s>
+<s> an other_ par t_ of_the_ sa me </s>
+<s> enter_ octavius_ caesar_ and_ his_ ar my_ octavius_ caesar_ but_ be ing_ char g ed_ we_ will_ be_ sti ll_ by_ l and_ which_ as_ i_ ta k et_ we_ shall_ for_ his_ b est_ for ce_ is_ for th_ to_ man_ his_ ga ll ey s </s>
+<s> to_the_ v al es_and_ ho ld_ our_ b est_ a d v an ta ge </s>
+<s> exeunt_ scene_ x i i </s>
+<s> an other_ par t_ of_the_ sa me </s>
+<s> enter_ mark_antony_ and_ sc ar us_ mark_antony_ yet_ they_ are_ not_ j o ind_ where_ y on d_ p ine_ do es_ st and_ i_ shall_ di sc o ver_ all_ ill_ b ring_ thee_ w ord_ st ra i ght_ how_ tis_ like_ to_ go </s>
+<s> exit_ sc ar us_ sw a ll o ws_ have_ bu i lt_ in_ cleopat ra s_ sa i ls_ their_ n es ts_ the_ a u g ur ers_ say_ they_ know_ not_ they_ can not_ tell_ look_ g ri m ly_ and_ d are_ not_ speak_ their_ kno w le d ge </s>
+<s> antony_ is_ v a li ant_ and_ de j e c ted_ and_ by_ st ar ts_ his_ f re tt ed_ for tun es_ give_ him_ ho p e_ and_ f ear_ of_ what_ he_ ha s_and_ ha s_ no t </s>
+<s> al ar u m_ a fa r_ of f_ as_ at_ a_ s ea fi ght_ re enter_ mark_antony_ mark_antony_ all_ is_ lo st_ this_ f ou l_ e g y p ti an_ hath_ be t ra y ed_ me_ my_ f le et_ hath_ y i el d ed_ to_the_ fo e_ and_ y on der_ they_ ca st_ their_ ca p s_ up_ and_ c ar ou se_ to ge ther_ like_ fri en ds_ lon g_ lo st </s>
+<s> tri p le tur n d_ wh or e </s>
+<s> tis_ thou_ ha st_ s o ld_ me_ to_ this_ no vi ce_ and_ my_ heart_ ma k es_ on ly_ war s_ on_ the e </s>
+<s> b id_ them_ all_ f ly_ for_ when_ i_am_ re ven g ed_ upon_ my_ char m_ i_have_ d one_ a ll </s>
+<s> b id_ them_ all_ f ly_ be g on e </s>
+<s> exit_ sc ar us_ o_ s un _ thy_ up ri se_ shall_ i_ see_ no_ more_ for tun e_ and_ antony_ par t_ here_ e ven_ here_ do_ we_ sha ke_ han d s </s>
+<s> all_ come_ to_ th i s </s>
+<s> the_ hear ts_ that_ sp ani e ld_ me_ at_ he el s_ to_ wh om_ i_ ga ve_ their_ wi sh es_ do_ di sc an dy_ me lt_ their_ swe e ts_ on_ b lo s som ing_ caesar_ and_ this_ p ine_ is_ b ar k d_ that_ o ver to pp d_ them_ a ll </s>
+<s> be t ra y d_ i_am_ o_ this_ fa l se_ s ou l_ of_ e g y p t </s>
+<s> this_ gra ve_ char m_ wh ose_ ey e_ be ck d_ for th_ my_ war s_and_ ca ll d_ them_ h om e_ wh ose_ bo som _ was_ my_ c ro w n et_ my_ ch i e f_ end_ like_ a_ ri ght_ gi p s y_ hath_ at_ fa st_ and_ loo se_ be gu i l ed_ me_ to_the_ very_ heart_ of_ lo ss </s>
+<s> what_ er o s_ er o s </s>
+<s> enter_ cleopatra_ a h _ thou_ sp e ll </s>
+<s> a v a un t </s>
+<s> cleopatra_ why_ is_ my_lord_ en ra g ed_ aga in st_ his_ lo v e </s>
+<s> mark_antony_ v ani sh_ or_ i_ shall_ give_ thee_ thy_ des er v ing_ and_ b le mi sh_ caes ar s_ tri u mp h </s>
+<s> let_ him_ take_ thee_ and_ ho i st_ thee_ up_ to_the_ sh ou t ing_ p le be i an s_ fo llow_ his_ c ha ri o t_ like_ the_ grea t est_ sp o t_ of_ all_ thy_ se x _ most_ mon st er like_ be_ sh o wn_ for_ po or st_ di m in u ti ves_ for_ do i ts_ and_ let_ pa ti ent_ octavi a_ p l ou gh_ thy_ vi sa ge_ up_ with_ her_ p re par ed_ na i l s </s>
+<s> exit_ cleopatra_ tis_ well_ thou r t_ g one_ if_ it_ be_ well_ to_ li ve_ but_ be tter_ t were_ thou_ fe ll st_ in to_ my_ f ur y_ for_ one_ death_ mi ght_ have_ p re v ent ed_ m an y </s>
+<s> er o s_ ho </s>
+<s> the_ sh ir t_ of_ n es s us_ is_ upon_ me_ t ea ch_ me_ al ci d es_ thou_ mine_ an c es t or_ thy_ ra ge_ let_ me_ lo d ge_ li c ha s_ on_ the_ hor n s_ o_ the_ mo on_ and_ with_ th ose_ han ds_ that_ gra sp d_ the_ hea vi est_ c lu b _ su b du e_ my_ wor th i est_ sel f </s>
+<s> the_ wi t ch_ shall_ di e_ to_the_ you n g_ rom an_ bo y_ she_ hath_ s o ld_ me_ and_ i_ fa ll_ un der_ this_ p lo t_ she_ di es_ for t </s>
+<s> er o s_ ho </s>
+<s> exit_ scene_ x i i i </s>
+<s> a le x an d ri a </s>
+<s> cleopat ra s_ pa la ce </s>
+<s> enter_ cleopatra_ char mi an_ i ra s_and_ mar di an_ cleopatra_ he l p_ me_ my_ w om en </s>
+<s> o_ he_ is_ more_ ma d_ than_ te la m on_ for_ his_ sh i e ld_ the_ bo ar_ of_ thes sa ly_ was_ never_ so_ e m bo ss d </s>
+<s> char mi an_ to_the_ mon u m ent </s>
+<s> there_ lo ck_ you r self_ and_ s end_ him_ w ord_ you_ are_ dea d </s>
+<s> the_ s ou l_ and_ bo dy_ ri ve_ not_ more_ in_ par t ing_ than_ grea t ness_ go ing_ of f </s>
+<s> cleopatra_ to_the_ mon u m ent </s>
+<s> mar di an_ go_ tell_ him_ i_have_ s la in_ m y self_ say_ that_ the_ la st_ i_ sp o ke_ was_ antony_ and_ w ord_ it_ pri thee_ pi te ou s ly_ h ence_ mar di an_ and_ b ring_ me_ how_ he_ ta k es_ my_ dea th </s>
+<s> to_the_ mon u m ent </s>
+<s> exeunt_ scene_ x i v </s>
+<s> the_ sa me </s>
+<s> an other_ ro om </s>
+<s> enter_ mark_antony_ and_ er o s_ mark_antony_ er o s_ thou_ yet_ be ho ld st_ me </s>
+<s> er o s_ ay_ no ble_ l or d </s>
+<s> mark_antony_ som e ti m es_ we_ see_ a_ c l ou d_ th a ts_ d ra g on i sh_ a_ v a p our_ som e time_ like_ a_ b ear_ or_ li on_ a_ to w er d_ ci ta de l_ a_ p en d ent_ ro ck_ a_ for k ed_ m oun ta in_ or_ b lu e_ p rom on t or y_ with_ t re es_ up on t_ that_ no d_ un to_the_ wor ld_ and_ mo ck_ our_ ey es_ with_ a ir_ thou_ ha st_ se en_ these_ si g n s_ they_ are_ b la ck_ v es p ers_ p ag e ant s </s>
+<s> er o s_ ay_ my_lord_ mark_antony_ that_ which_ is_ now_ a_ hor se_ e ven_ with_ a_ thou ght_ the_ ra ck_ di s li m n s_and_ ma k es_ it_ in di st in c t_ as_ wa ter_ is_ in_ w at er </s>
+<s> er o s_ it_ do es_ my_ l or d </s>
+<s> mark_antony_ my_ good_ k na ve_ er o s_ now_ thy_ ca p ta in_ is_ e ven_ such_ a_ bo dy_ here_ i_am_ antony_ yet_ can not_ ho ld_ this_ vi si ble_ sha p e_ my_ k na v e </s>
+<s> i_ made_ these_ war s_ for_ e g y p t_ and_ the_ queen_ wh ose_ heart_ i_ thou ght_ i_ had_ for_ she_ had_ mine_ which_ whi l st_ it_ was_ mine_ had_ an ne x d_ un to t_ a_ mi ll i on_ more_ now_ lo st she_ er o s_ ha s_ pa ck d_ c ar ds_ with_ caesar_ and_ fa l se pla y d_ my_ g l or y_ un to_ an_ en e m ys_ tri u mp h </s>
+<s> n ay_ we ep_ not_ gent le_ er o s_ there_ is_ le f t_ us_ our sel ves_ to_ end_ our sel v es </s>
+<s> enter_ mar di an_ o </s>
+<s> thy_ vi le_ la d y </s>
+<s> she_ ha s_ ro b b d_ me_ of_ my_ s wor d </s>
+<s> mar di an_ no_ antony_ my_ mi st r ess_ lo ved_ thee_ and_ her_ for tun es_ m ing l ed_ with_ th ine_ en ti re l y </s>
+<s> mark_antony_ h ence_ sa u c y_ e un u ch_ p ea ce </s>
+<s> she_ hath_ be t ra y d_ me_ and_ shall_ di e_ the_ dea th </s>
+<s> mar di an_ death_ of_ one_ per son_ can_ be_ pa id_ but_ on ce_ and_ that_ she_ ha s_ di sc har g ed_ what_ thou_ w ou ld st_ do_ is_ d one_ un to_ thy_ h and_ the_ la st_ she_ sp a ke_ was_ anton y </s>
+<s> most_ no ble_ antony_ then_ in_the_ mi d st_ a_ t ear ing_ g ro an_ did_ b rea k_ the_ na me_ of_ antony_ it_ was_ di vi d ed_ be t we en_ her_ heart_ and_ li p s_ she_ r en der d_ li fe_ thy_ na me_ so_ bu ri ed_ in_ her </s>
+<s> mark_antony_ dea d_ th en </s>
+<s> mar di an_ dea d </s>
+<s> mark_antony_ un ar m_ er o s_ the_ lon g_ da ys_ ta s k_ is_ d one_ and_ we_ must_ sle e p </s>
+<s> to_ mar di an_ that_ thou_ de par t st_ h ence_ sa fe_ do es_ p ay_ thy_ la b our_ ri ch ly_ go </s>
+<s> exit_ mar di an_ of f_ p lu ck_ of f_ the_ se ven fo ld_ sh i e ld_ of_ a j a x _ can not_ k ee p_ the_ b at ter y_ from_ my_ hear t </s>
+<s> o_ c lea ve_ my_ si des </s>
+<s> heart_ on ce_ be_ st ron ger_ than_ thy_ con t in ent_ c ra ck_ thy_ f ra i l_ ca se </s>
+<s> a pa ce_ er o s_ a pa ce </s>
+<s> no_ more_ a_ s ol di er_ bru i sed_ pi e c es_ go_ you_ have_ be en_ no b ly_ b or ne </s>
+<s> from_ me_ a whi le </s>
+<s> exit_ er o s_ i_will_ o er take_ thee_ cleopatra_ and_ we ep_ for_ my_ par d on </s>
+<s> so_ it_ must_ be_ for_ now_ all_ len g th_ is_ t or t ure_ s ince_ the_ t or ch_ is_ out_ li e_ do wn_ and_ st ra y_ no_ f ar ther_ now_ all_ la b our_ mar s_ what_ it_ do es_ y ea _ very_ for ce_ ent an g l es_ i t self_ with_ st r en g th_ s ea l_ then_ and_ all_ is_ d on e </s>
+<s> er o s i_ come_ my_ qu e en er o s st ay_ for_ me_ where_ s ou ls_ do_ c ou ch_ on_ f lo w ers_ well_ fe t ch_ d ri er_ lo g s_ ca ll_ pe ter_ he_ will_ sh ow_ thee_ where_ they_ ar e </s>
+<s> se con d_ ser v ant_ i_have_ a_ hea d_ sir_ that_ will_ f ind_ out_ lo g s_and_ never_ t rou ble_ pe ter_ for_ the_ ma tt er </s>
+<s> exit_ ca pu let_ ma s s_and_ well_ sa id_ a_ mer ry_ wh or es on_ ha </s>
+<s> thou_ sha lt_ be_ lo g g er hea d </s>
+<s> good_ fa i th_ tis_ day_ the_ coun ty_ will_ be_ here_ with_ mu si c _ st ra i ght_ for_ so_ he_ sa id_ he_ would_ i_ hear_ him_ n ear </s>
+<s> mu si c _ with in_ n ur se </s>
+<s> wi fe </s>
+<s> what_ ho </s>
+<s> what_ n urse_ i_ sa y </s>
+<s> re enter_ n urse_ go_ wa k en_ ju li et_ go_ and_ tri m_ her_ up_ ill_ go_ and_ c ha t_ with_ par is_ hi e_ make_ ha st e_ make_ ha st e_ the_ b ri de g ro om_ he_ is_ come_ al rea dy_ make_ ha st e_ i_ sa y </s>
+<s> exeunt_ scene_ v </s>
+<s> ju li e ts_ c ham b er </s>
+<s> enter_ n urse_ n urse_ mi st r es s </s>
+<s> what_ mi st r es s </s>
+<s> ju li e t </s>
+<s> fa st_ i_ war r ant_ her_ she_ why_ la mb </s>
+<s> why_ la d y </s>
+<s> fi e_ you_ s lu ga be d </s>
+<s> why_ love_ i_ sa y </s>
+<s> ma da m </s>
+<s> swe e th ear t </s>
+<s> why_ b ri de </s>
+<s> what_ not_ a_ wor d </s>
+<s> you_ take_ your_ p en n y wor th s_ now_ sle ep_ for_ a_ we e k_ for_ the_ ne x t_ night_ i_ war r ant_ the_ coun ty_ par is_ hath_ se t_ up_ his_ r est_ that_ you_ shall_ r est_ but_ li tt le </s>
+<s> go d_ for give_ me_ mar ry_ and_ a men_ how_ s ound_ is_ she_ a sle e p </s>
+<s> i_ must_ ne e ds_ wa ke_ her </s>
+<s> ma d am_ ma d am_ ma da m </s>
+<s> ay_ let_ the_ coun ty_ take_ you_ in_ your_ b ed_ he ll_ fri ght_ you_ up_ i_ fa i th </s>
+<s> will_ it_ not_ be </s>
+<s> un d ra ws_ the_ c ur ta in s_ what_ d r es s d </s>
+<s> and_ in_ your_ c lo thes </s>
+<s> and_ do wn_ aga in </s>
+<s> i_ must_ ne e ds_ wa ke_ you_ la d y </s>
+<s> la d y </s>
+<s> la d y </s>
+<s> a la s_ a la s </s>
+<s> he l p_ he l p </s>
+<s> my_ la d ys_ dea d </s>
+<s> o_ we ll a day_ that_ e ver_ i_ was_ b or n </s>
+<s> some_ a qu a_ vi ta e_ ho </s>
+<s> my_ l or d </s>
+<s> my_ la d y </s>
+<s> enter_ lady_ ca pu let_ lady_ ca pu let_ what_ no i se_ is_ h ere </s>
+<s> n urse_ o_ la men ta ble_ da y </s>
+<s> lady_ ca pu let_ what_ is_ the_ ma tt er </s>
+<s> n urse_ look_ loo k </s>
+<s> o_ hea v y_ da y </s>
+<s> lady_ ca pu let_ o_ me_ o_ me </s>
+<s> my_ ch i ld_ my_ on ly_ li fe_ re vi ve_ look_ up_ or_ i_will_ di e_ with_ the e </s>
+<s> he l p_ he l p </s>
+<s> ca ll_ he l p </s>
+<s> enter_ ca pu let_ ca pu let_ for_ sha me_ b ring_ ju li et_ for th_ her_ lord_ is_ com e </s>
+<s> n urse_ sh es_ dea d_ de c ea sed_ sh es_ dea d_ a la ck_ the_ da y </s>
+<s> lady_ ca pu let_ a la ck_ the_ day_ sh es_ dea d_ sh es_ dea d_ sh es_ dea d </s>
+<s> ca pu let_ ha </s>
+<s> let_ me_ see_ her_ out_ a la s </s>
+<s> sh es_ co ld_ her_ bloo d_ is_ se tt l ed_ and_ her_ j o in ts_ are_ sti f f_ li fe_ and_ these_ li p s_ have_ lon g_ be en_ se par at ed_ death_ li es_ on_ her_ like_ an_ un ti me ly_ f ro st_ upon_ the_ swe e t est_ f lo w er_ of_ all_ the_ fi el d </s>
+<s> n urse_ o_ la men ta ble_ da y </s>
+<s> lady_ ca pu let_ o_ w of u l_ ti me </s>
+<s> ca pu let_ death_ that_ hath_ ta en_ her_ h ence_ to_ make_ me_ wa i l_ ti es_ up_ my_ t on gu e_ and_ will_ not_ let_ me_ spea k </s>
+<s> enter_ fri ar_ la ur ence_ and_ par is_ with_ mu si ci an s_ fri ar_ la ur ence_ come_ is_ the_ b ri de_ rea dy_ to_ go_ to_ ch ur ch </s>
+<s> ca pu let_ rea dy_ to_ go_ but_ never_ to_ re tur n </s>
+<s> o_ s on </s>
+<s> the_ night_ be fore_ thy_ we d d ing day_ hath_ death_ la in_ with_ thy_ wi fe </s>
+<s> there_ she_ li es_ f lo w er_ as_ she_ was_ de f lo w er ed_ by_ hi m </s>
+<s> death_ is_ my_ s on in la w_ death_ is_ my_ he ir_ my_ da u gh ter_ he_ hath_ we d d ed_ i_will_ di e_ and_ lea ve_ him_ all_ li fe_ li v ing_ all_ is_ dea th s </s>
+<s> par is_ have_ i_ thou ght_ lon g_ to_ see_ this_ mor n ings_ fa ce_ and_ doth_ it_ give_ me_ such_ a_ si ght_ as_ th i s </s>
+<s> lady_ ca pu let_ ac c ur sed_ un ha pp y_ w re t ch ed_ ha te fu l_ da y </s>
+<s> most_ mi ser a ble_ h our_ that_ e er_ time_ sa w_ in_ la st ing_ la b our_ of_ his_ pi l g ri ma ge </s>
+<s> but_ one_ po or_ one_ one_ po or_ and_ lo v ing_ ch i ld_ but_ one_ thing_ to_ re j o i ce_ and_ s o la ce_ in_ and_ c ru e l_ death_ hath_ ca t ch d_ it_ from_ my_ si gh t </s>
+<s> n urse_ o_ w o e </s>
+<s> o_ w of u l_ w of u l_ w of u l_ da y </s>
+<s> most_ la men ta ble_ day_ most_ w of u l_ day_ that_ e ver_ e ver_ i_ did_ yet_ be ho ld </s>
+<s> o_ da y </s>
+<s> o_ da y </s>
+<s> o_ da y </s>
+<s> o_ ha te fu l_ da y </s>
+<s> never_ was_ se en_ so_ b la ck_ a_ day_ as_ this_ o_ w of u l_ day_ o_ w of u l_ da y </s>
+<s> par is_ be gu i l ed_ di v or c ed_ w ron g ed_ sp i ted_ s la in </s>
+<s> most_ de t es ta ble_ death_ by_ thee_ be gu i ld_ by_ c ru e l_ c ru e l_ thee_ qu i te_ o ver th ro w n </s>
+<s> o_ lo v e </s>
+<s> o_ li fe </s>
+<s> not_ li fe_ but_ love_ in_ dea th </s>
+<s> ca pu let_ des pi sed_ di st r es sed_ ha ted_ mar t y r d_ k i ll d </s>
+<s> un com for ta ble_ time_ why_ ca m est_ thou_ now_ to_ m ur der_ m ur der_ our_ s o le m ni t y </s>
+<s> o_ ch i ld </s>
+<s> o_ ch i ld </s>
+<s> my_ s ou l_ and_ not_ my_ ch i ld </s>
+<s> dea d_ art_ thou </s>
+<s> a la ck </s>
+<s> my_ ch i ld_ is_ dea d_ and_ with_ my_ ch i ld_ my_ j o ys_ are_ bu ri e d </s>
+<s> fri ar_ la ur ence_ p ea ce_ h o_ for_ sha me </s>
+<s> con fu si ons_ c ure_ li ves_ not_ in_ these_ con fu si on s </s>
+<s> hea ven_ and_ you r self_ had_ par t_ in_ this_ fa ir_ ma id_ now_ hea ven_ hath_ all_ and_ all_ the_ be tter_ is_ it_ for_ the_ ma id_ your_ par t_ in_ her_ you_ c ould_ not_ k ee p_ from_ death_ but_ hea ven_ k ee p s_ his_ par t_ in_ e ter n al_ li fe </s>
+<s> the_ most_ you_ s ou ght_ was_ her_ p rom o tion_ for_ t was_ your_ hea ven_ she_ should_ be_ a d v an c ed_ and_ we ep_ y e_ now_ see ing_ she_ is_ a d v an c ed_ a bo ve_ the_ c l ou ds_ as_ hi gh_ as_ hea ven_ i t sel f </s>
+<s> o_ in_ this_ love_ you_ love_ your_ ch i ld_ so_ ill_ that_ you_ r un _ ma d_ see ing_ that_ she_ is_ well_ sh es_ not_ well_ mar ri ed_ that_ li ves_ mar ri ed_ lon g_ but_ sh es_ b est_ mar ri ed_ that_ di es_ mar ri ed_ you n g </s>
+<s> d ry_ up_ your_ t ear s_and_ sti ck_ your_ ro se mar y_ on_ this_ fa ir_ c or se_ and_ as_ the_ cu st om_ is_ in_ all_ her_ b est_ ar ra y_ b ear_ her_ to_ ch ur ch_ for_ thou gh_ f on d_ n at ure_ b i ds_ us_ an_ la ment_ yet_ n at ur es_ t ears_ are_ rea s ons_ mer ri m ent </s>
+<s> ca pu let_ all_ th ings_ that_ we_ or da in ed_ f es ti v al_ tur n_ from_ their_ of fi ce_ to_ b la ck_ f un er al_ our_ in st ru men ts_ to_ me l an ch o ly_ be ll s_ our_ we d d ing_ ch e er_ to_ a_ sa d_ bu ri al_ f ea st_ our_ s o le m n_ h y m n s_ to_ su ll en_ di r g es_ ch an ge_ our_ b ri d al_ f lo w ers_ ser ve_ for_ a_ bu ri ed_ c or se_ and_ all_ th ings_ ch an ge_ them_ to_the_ con t r ar y </s>
+<s> fri ar_ la ur ence_ sir_ go_ you_ in_ and_ ma d am_ go_ with_ him_ and_ go_ sir_ par is_ e very_ one_ p re p are_ to_ fo llow_ this_ fa ir_ c or se_ un to_ her_ gra ve_ the_ hea ven s_ do_ l our_ upon_ you_ for_ some_ ill_ mo ve_ them_ no_ more_ by_ c ro ss ing_ their_ hi gh_ wi ll </s>
+<s> exeunt_ ca pu let_ lady_ ca pu let_ par is_ and_ fri ar_ la ur ence_ first_ mu si ci an_ fa i th_ we_ may_ pu t_ up_ our_ pi p es_and_ be_ g on e </s>
+<s> n urse_ hon est_ g oo d fe ll o ws_ a h _ pu t_ up_ pu t_ up_ for_ well_ you_ know_ this_ is_ a_ pi ti fu l_ ca se </s>
+<s> exit_ first_ mu si ci an_ ay_ by_ my_ t ro th_ the_ ca se_ may_ be_ a men de d </s>
+<s> enter_ pe ter_ pe ter_ mu si ci an s_ o_ mu si ci an s_ hear ts_ ea se_ hear ts_ ea se_ o_ an_ you_ will_ have_ me_ li ve_ pla y_ hear ts_ ea se_ first_ mu si ci an_ why_ hear ts_ ea se_ pe ter_ o_ mu si ci an s_ be ca use_ my_ heart_ i t self_ pla ys_ my_ heart_ is_ fu ll_ of_ w o e_ o_ pla y_ me_ some_ mer ry_ du m p_ to_ com for t_ me </s>
+<s> first_ mu si ci an_ not_ a_ du m p_ we_ tis_ no_ time_ to_ pla y_ no w </s>
+<s> pe ter_ you_ will_ not_ th en </s>
+<s> first_ mu si ci an_ no </s>
+<s> pe ter_ i_will_ then_ give_ it_ you_ s oun d l y </s>
+<s> first_ mu si ci an_ what_ will_ you_ give_ u s </s>
+<s> pe ter_ no_ mon e y_ on_ my_ fa i th_ but_ the_ g le e k_ i_will_ give_ you_ the_ m in st re l </s>
+<s> first_ mu si ci an_ then_ i_will_ give_ you_ the_ ser v ing c rea t u re </s>
+<s> pe ter_ then_ will_ i_ la y_ the_ ser v ing c rea tur es_ d ag ger_ on_ your_ p at e </s>
+<s> i_will_ c ar ry_ no_ c ro t ch e ts_ ill_ r e_ you_ ill_ f a_ you_ do_ you_ no te_ me </s>
+<s> first_ mu si ci an_ an_ you_ r e_ us_ and_ f a_ us_ you_ no te_ u s </s>
+<s> se con d_ mu si ci an_ pra y_ you_ pu t_ up_ your_ d ag ger_ and_ pu t_ out_ your_ wi t </s>
+<s> pe ter_ then_ have_ at_ you_ with_ my_ wi t </s>
+<s> i_will_ d r y b ea t_ you_ with_ an_ ir on_ wi t_ and_ pu t_ up_ my_ ir on_ d ag g er </s>
+<s> an sw er_ me_ like_ men_ when_ g ri p ing_ g ri e f_ the_ heart_ doth_ w ound_ and_ do le fu l_ du mp s_ the_ m ind_ op pr ess_ then_ mu si c _ with_ her_ si l ver_ s ound_ why_ si l ver_ s oun d </s>
+<s> why_ mu si c _ with_ her_ si l ver_ s oun d </s>
+<s> what_ say_ you_ si m on_ ca t l ing </s>
+<s> mu si ci an_ mar ry_ sir_ be ca use_ si l ver_ hath_ a_ swe et_ s oun d </s>
+<s> pe ter_ p re tt y </s>
+<s> what_ say_ you_ hu gh_ re be ck </s>
+<s> se con d_ mu si ci an_ i_ say_ si l ver_ s ound_ be ca use_ mu si ci an s_ s ound_ for_ si l ver </s>
+<s> pe ter_ p re t ty_ t oo </s>
+<s> what_ say_ you_ j a m es_ s oun d po st </s>
+<s> th ir d_ mu si ci an_ fa i th_ i_ know_ not_ what_ to_ sa y </s>
+<s> pe ter_ o_ i_ c ry_ you_ mer c y_ you_ are_ the_ s ing er_ i_will_ say_ for_ you </s>
+<s> it_is_ mu si c _ with_ her_ si l ver_ s ound_ be ca use_ mu si ci an s_ have_ no_ go ld_ for_ s oun d ing_ then_ mu si c _ with_ her_ si l ver_ s ound_ with_ sp ee dy_ he l p_ doth_ l end_ re d r ess_ exit_ first_ mu si ci an_ what_ a_ p es ti l ent_ k na ve_ is_ this_ sa me </s>
+<s> se con d_ mu si ci an_ han g_ him_ j a ck </s>
+<s> come_ well_ in_ here_ t ar ry_ for_ the_ m our n ers_ and_ st ay_ d in n er </s>
+<s> exeunt_ ac t_ v _ scene_ i </s>
+<s> m ant u a </s>
+<s> a_ st re e t </s>
+<s> enter_ romeo_ romeo_ if_ i_ may_ tru st_ the_ f la tt er ing_ tru th_ of_ sle ep_ my_ d rea m s_ pr es ag e_ some_ j o y fu l_ ne ws_ at_ h and_ my_ bo som s_ lord_ si ts_ li gh t ly_ in_ his_ th r one_ and_ all_ this_ day_ an_ un ac cu st om d_ sp ir it_ li f ts_ me_ a bo ve_ the_ g r ound_ with_ ch e er fu l_ thou gh t s </s>
+<s> i_ d rea m t_ my_ lady_ ca me_ and_ f ound_ me_ dea d_ st ran ge_ d rea m_ that_ gi ves_ a_ dea d_ man_ lea ve_ to_ think_ and_ b rea th ed_ such_ li fe_ with_ k i ss es_ in_ my_ li p s_ that_ i_ re vi ved_ and_ was_ an_ e mp er or </s>
+<s> a h _ me </s>
+<s> how_ swe et_ is_ love_ i t self_ po ss es s d_ when_ but_ lo ves_ sha do ws_ are_ so_ ri ch_ in_ j o y </s>
+<s> enter_ ba l th a sa r_ b oo ted_ ne ws_ from_ ver on a how_ now_ ba l th a s ar </s>
+<s> do st_ thou_ not_ b ring_ me_ le tt ers_ from_ the_ fri ar </s>
+<s> how_ doth_ my_ la d y </s>
+<s> is_ my_ fa ther_ we ll </s>
+<s> how_ f ar es_ my_ ju li e t </s>
+<s> that_ i_ a s k_ aga in_ for_ no thing_ can_ be_ ill_ if_ she_ be_ we ll </s>
+<s> ba l th a sa r_ then_ she_ is_ well_ and_ no thing_ can_ be_ ill_ her_ bo dy_ sle e p s_ in_ ca pe ls_ mon u ment_ and_ her_ i m mor ta l_ par t_ with_ an g el s_ li v es </s>
+<s> i_ sa w_ her_ la id_ lo w_ in_ her_ k in d re ds_ v a u lt_ and_ pr es ent ly_ t oo k_ po st_ to_ tell_ it_ you_ o_ par d on_ me_ for_ b r ing ing_ these_ ill_ ne ws_ s ince_ you_ did_ lea ve_ it_ for_ my_ of fi ce_ si r </s>
+<s> romeo_ is_ it_ e ven_ s o </s>
+<s> then_ i_ de f y_ you_ st ar s </s>
+<s> thou_ kno w st_ my_ lo d g ing_ g et_ me_ ink_ and_ pa p er_ and_ hi r e_ po s th or s es_ i_will_ h ence_ t on i gh t </s>
+<s> ba l th a sa r_ i_do_ b es ee ch_ you_ sir_ have_ pa ti ence_ your_ loo ks_ are_ pa le_ and_ wi ld_ and_ do_ i mp or t_ some_ mi sa d v ent u re </s>
+<s> romeo_ t u sh_ thou_ art_ de ce i ved_ lea ve_ me_ and_ do_ the_ thing_ i_ b id_ thee_ do </s>
+<s> ha st_ thou_ no_ le tt ers_ to_ me_ from_ the_ fri ar </s>
+<s> ba l th a sa r_ no_ my_ good_ l or d </s>
+<s> romeo_ no_ ma tter_ g et_ thee_ g one_ and_ hi r e_ th ose_ hor s es_ ill_ be_ with_ thee_ st ra i gh t </s>
+<s> exit_ ba l th a sa r_ well_ ju li et_ i_will_ li e_ with_ thee_ t on i gh t </s>
+<s> le ts_ see_ for_ me an s_ o_ mi s ch i e f_ thou_ art_ s wi f t_ to_ enter_ in_the_ thou gh ts_ of_ des per ate_ men </s>
+<s> i_do_ re me mb er_ an_ a po the c ar y_ and_ her ea b ou ts_ he_ d we ll s which_ la te_ i_ no ted_ in_ ta tt er d_ we e ds_ with_ o ver wh el m ing_ b ro ws_ cu ll ing_ of_ si mp l es_ m ea g r e_ were_ his_ loo ks_ sha r p_ mi ser y_ had_ wor n_ him_ to_the_ b on es_and_ in_ his_ ne e dy_ sh o p_ a_ t or to i se_ h un g_ an_ a ll i g at or_ st u f f d_ and_ other_ s k in s_ of_ i ll sha p ed_ fi sh es_and_ ab out_ his_ sh el ves_ a_ be g g ar ly_ ac coun t_ of_ e mp ty_ bo x es_ g re en_ ear then_ po ts_ b la d d ers_ and_ mu st y_ see ds_ re m n an ts_ of_ pa ck th rea d_ and_ o ld_ ca k es_ of_ ro s es_ were_ th in ly_ s ca tt er d_ to_ make_ up_ a_ sh o w </s>
+<s> no t ing_ this_ p en ur y_ to_ m y self_ i_ sa id_ an_ if_ a_ man_ did_ ne ed_ a_ po i son_ now_ wh ose_ sa le_ is_ pr es ent_ death_ in_ m ant u a_ here_ li ves_ a_ ca i ti f f_ w re t ch_ would_ se ll_ it_ him_ o_ this_ sa me_ thou ght_ did_ but_ for er un _ my_ ne ed_ and_ this_ sa me_ ne e dy_ man_ must_ se ll_ it_ me </s>
+<s> as_ i_ re me mb er_ this_ should_ be_ the_ h ou se </s>
+<s> be ing_ ho li day_ the_ be g g ar s_ sh o p_ is_ sh u t </s>
+<s> what_ ho </s>
+<s> a po the c ar y </s>
+<s> enter_ a po the c ar y_ a po the c ar y_ who_ ca ll s_ so_ l ou d </s>
+<s> romeo_ come_ hi ther_ m an </s>
+<s> i_ see_ that_ thou_ art_ po or_ ho ld_ there_ is_ for ty_ du ca ts_ let_ me_ have_ a_ d ra m_ of_ po i son_ such_ s o on sp ee d ing_ g ear_ as_ will_ di sp er se_ i t self_ th rou gh_ all_ the_ v e in s_ that_ the_ li fe w ear y_ ta k er_ may_ fa ll_ dea d_ and_ that_ the_ t r un k_ may_ be_ di sc har g ed_ of_ b rea th_ as_ vi ol ent ly_ as_ ha st y_ po w der_ fir ed_ doth_ h ur ry_ from_ the_ fa ta l_ can n ons_ w om b </s>
+<s> a po the c ar y_ such_ mor ta l_ d ru g s_ i_have_ but_ m ant u as_ la w_ is_ death_ to_ any_ he_ that_ u tt ers_ the m </s>
+<s> romeo_ art_ thou_ so_ b are_ and_ fu ll_ of_ w re t ch e d ness_ and_ f ear st_ to_ di e </s>
+<s> fa mine_ is_ in_ thy_ ch ee ks_ ne ed_ and_ op pr es si on_ st ar v e th_ in_ th ine_ ey es_ con te mp t_ and_ be g g ar y_ han g s_ upon_ thy_ ba ck_ the_ wor ld_ is_ not_ thy_ fri end_ nor_ the_ wor l ds_ la w_ the_ wor ld_ af for ds_ no_ la w_ to_ make_ thee_ ri ch_ then_ be_ not_ po or_ but_ b rea k_ it_ and_ take_ th i s </s>
+<s> ho b b y hor se_ wh er es o e ver_ you_ had_ it_ ill_ take_ out_ no_ wor k_ on t </s>
+<s> cassio_ how_ now_ my_ swe et_ b i an ca </s>
+<s> how_ no w </s>
+<s> how_ no w </s>
+<s> othello_ by_ hea ven_ that_ should_ be_ my_ han d k er ch i e f </s>
+<s> b i an c a_ an_ you ll_ come_ to_ su pp er_ t on i ght_ you_ may_ an_ you_ will_ not_ come_ when_ you_ are_ ne x t_ p re par ed_ for </s>
+<s> exit_ iago_ af ter_ her_ af ter_ her </s>
+<s> cassio_ fa i th_ i_ must_ sh e ll_ ra i l_ in_the_ st re et_ el se </s>
+<s> iago_ will_ you_ su p_ th ere </s>
+<s> cassio_ fa i th_ i_ in t end_ s o </s>
+<s> iago_ well_ i_ may_ ch ance_ to_ see_ you_ for_ i_ would_ very_ fa in_ speak_ with_ you </s>
+<s> cassio_ pri thee_ come_ will_ you </s>
+<s> iago_ go_ to_ say_ no_ mor e </s>
+<s> exit_ cassio_ othello_ a d v an c ing_ how_ shall_ i_ m ur der_ him_ i ag o </s>
+<s> iago_ did_ you_ per ce i ve_ how_ he_ lau gh ed_ at_ his_ vi ce </s>
+<s> othello_ o_ i ag o </s>
+<s> iago_ and_ did_ you_ see_ the_ han d k er ch i e f </s>
+<s> othello_ was_ that_ m in e </s>
+<s> iago_ you r s_ by_ this_ h and_ and_ to_ see_ how_ he_ pri z es_ the_ f oo li sh_ w om an_ your_ wi fe </s>
+<s> she_ ga ve_ it_ him_ and_ he_ hath_ gi ven_ it_ his_ wh or e </s>
+<s> othello_ i_ would_ have_ him_ n ine_ y ears_ a k i ll ing </s>
+<s> a_ f ine_ w om an </s>
+<s> a_ fa ir_ w om an </s>
+<s> a_ swe et_ w om an </s>
+<s> iago_ n ay_ you_ must_ for g et_ th at </s>
+<s> othello_ ay_ let_ her_ ro t_ and_ per i sh_ and_ be_ da m n ed_ t on i ght_ for_ she_ shall_ not_ li ve_ no_ my_ heart_ is_ tur n ed_ to_ st one_ i_ st ri ke_ it_ and_ it_ h ur ts_ my_ han d </s>
+<s> o_ the_ wor ld_ hath_ not_ a_ swe e ter_ c rea t ure_ she_ mi ght_ li e_ by_ an_ e mp er or s_ si de_ and_ com m and_ him_ ta s k s </s>
+<s> iago_ n ay_ th a ts_ not_ your_ wa y </s>
+<s> othello_ han g_ her </s>
+<s> i_do_ but_ say_ what_ she_ is_ so_ de li ca te_ with_ her_ ne e d le_ an_ a d mi ra ble_ mu si ci an_ o </s>
+<s> she_ will_ s ing_ the_ sa v ag en ess_ out_ of_ a_ b ear_ of_ so_ hi gh_ and_ p len te ous_ wi t_ and_ in ven tion_ iago_ sh es_ the_ wor se_ for_ all_ th i s </s>
+<s> othello_ o_ a_ thou s and_ thou s and_ ti m es_and_ then_ of_ so_ gent le_ a_ con di ti on </s>
+<s> iago_ ay_ too_ gent le </s>
+<s> othello_ n ay_ th a ts_ c er ta in_ but_ yet_ the_ pi ty_ of_ it_ i ag o </s>
+<s> o_ iago_ the_ pi ty_ of_ it_ i ag o </s>
+<s> iago_ if_ you_ are_ so_ f on d_ o ver_ her_ in i qu i ty_ give_ her_ p at ent_ to_ of f end_ for_ if_ it_ t ou ch_ not_ you_ it_ com es_ n ear_ no bo d y </s>
+<s> othello_ i_will_ ch o p_ her_ in to_ m es s es_ cu ck o ld_ me </s>
+<s> iago_ o_ tis_ f ou l_ in_ her </s>
+<s> othello_ with_ mine_ of fi c er </s>
+<s> iago_ th a ts_ f ou l er </s>
+<s> othello_ g et_ me_ some_ po i son_ iago_ this_ night_ ill_ not_ ex po st u la te_ with_ her_ l est_ her_ bo dy_ and_ b ea u ty_ un pro vi de_ my_ m ind_ aga in_ this_ night_ i ag o </s>
+<s> iago_ do_ it_ not_ with_ po i son_ st ran g le_ her_ in_ her_ b ed_ e ven_ the_ b ed_ she_ hath_ con ta m in at e d </s>
+<s> othello_ good_ good_ the_ ju sti ce_ of_ it_ p lea s es_ very_ g oo d </s>
+<s> iago_ and_ for_ cassio_ let_ me_ be_ his_ un der ta k er_ you_ shall_ hear_ more_ by_ mi d ni gh t </s>
+<s> othello_ ex ce ll ent_ g oo d </s>
+<s> a_ tru mp et_ with in_ what_ tru mp et_ is_ that_ sa me </s>
+<s> iago_ som e thing_ from_ ven i ce_ su re </s>
+<s> tis_ lo do vi c o_ come_ from_ the_ du ke_ and_ see_ your_ wi fe_ is_ with_ hi m </s>
+<s> enter_ lo do vi c o_ desdemona_ and_ at ten d an ts_ lo do vi c o_ sa ve_ you_ wor thy_ g en er al </s>
+<s> othello_ with_ all_ my_ heart_ si r </s>
+<s> lo do vi c o_ the_ du ke_ and_ sen at or s_ of_ ven i ce_ g re et_ you </s>
+<s> gi ves_ him_ a_ le tter_ othello_ i_ k i ss_ the_ in st ru ment_ of_ their_ p lea s ur es </s>
+<s> op en s_ the_ le tter_ and_ rea ds_ desdemona_ and_ wha ts_ the_ ne ws_ good_ c ou s in_ lo do vi co </s>
+<s> iago_ i_am_ very_ g la d_ to_ see_ you_ si g ni or_ we l come_ to_ c y p ru s </s>
+<s> lo do vi c o_ i_ th an k_ you </s>
+<s> how_ do es_ li e u ten ant_ cassi o </s>
+<s> iago_ li ves_ si r </s>
+<s> desdemona_ c ou s in_ th er es_ fa ll n_ be t we en_ him_ and_ my_lord_ an_ un k ind_ b rea ch_ but_ you_ shall_ make_ all_ we ll </s>
+<s> othello_ are_ you_ s ure_ of_ th at </s>
+<s> desdemona_ my_ l or d </s>
+<s> othello_ rea ds_ this_ fa i l_ you_ not_ to_ do_ as_ you_ will_ lo do vi c o_ he_ did_ not_ ca ll_ h es_ bu s y_ in_the_ pa per </s>
+<s> is_ there_ di vi si on_ t wi x t_ my_lord_ and_ cassi o </s>
+<s> desdemona_ a_ most_ un ha pp y_ one_ i_ would_ do_ much_ to_ at one_ them_ for_ the_ love_ i_ b ear_ to_ cassi o </s>
+<s> othello_ fir e_ and_ b ri m st on e </s>
+<s> desdemona_ my_ l or d </s>
+<s> othello_ are_ you_ wi se </s>
+<s> desdemona_ what_ is_ he_ an g r y </s>
+<s> lo do vi c o_ may_ be_ the_ le tter_ mo ved_ him_ for_ as_ i_ think_ they_ do_ com m and_ him_ h om e_ de pu t ing_ cassio_ in_ his_ go ver n m ent </s>
+<s> desdemona_ tru st_ me_ i_am_ g la d_ on t </s>
+<s> othello_ in de e d </s>
+<s> desdemona_ my_ l or d </s>
+<s> othello_ i_am_ g la d_ to_ see_ you_ ma d </s>
+<s> desdemona_ why_ swe et_ othello_ othello_ st ri king_ her_ de vi l </s>
+<s> desdemona_ i_have_ not_ des er ved_ th i s </s>
+<s> lo do vi c o_ my_lord_ this_ would_ not_ be_ be li e ved_ in_ ven i ce_ thou gh_ i_ should_ sw ear_ i_ sa w t_ tis_ very_ much_ make_ her_ a men ds_ she_ we e p s </s>
+<s> othello_ o_ de vi l_ de vi l </s>
+<s> if_ that_ the_ ear th_ c ould_ te e m_ with_ w om an s_ t ears_ ea ch_ d ro p_ she_ fa ll s_ would_ pro ve_ a_ c ro co di le </s>
+<s> out_ of_ my_ si gh t </s>
+<s> desdemona_ i_ are_ no_ k in_ to ge th er </s>
+<s> iago_ you_ char ge_ me_ most_ un ju st l y </s>
+<s> ro der i go_ with_ n ou ght_ but_ tru th </s>
+<s> i_have_ wa st ed_ m y self_ out_ of_ my_ me an s </s>
+<s> the_ j e we ls_ you_ have_ had_ from_ me_ to_ de li ver_ to_ desdemona_ would_ ha l f_ have_ c or ru p ted_ a_ vo t ar i st_ you_ have_ to ld_ me_ she_ hath_ re ce i ved_ them_ and_ re tur n ed_ me_ ex pe c ta ti on s_and_ com for ts_ of_ su d d en_ r es pe c t_ and_ ac qu a in t ance_ but_ i_ f ind_ n on e </s>
+<s> iago_ well_ go_ to_ very_ we ll </s>
+<s> ro der i go_ very_ we ll </s>
+<s> go_ to </s>
+<s> i_ can not_ go_ to_ man_ nor_ tis_ not_ very_ well_ n ay_ i_ think_ it_is_ sc ur v y_ and_ be g in_ to_ f ind_ m y self_ f ob b ed_ in_ i t </s>
+<s> iago_ very_ we ll </s>
+<s> ro der i go_ i_ tell_ you_ tis_ not_ very_ we ll </s>
+<s> i_will_ make_ m y self_ kno wn_ to_ desdemona_ if_ she_ will_ re tur n_ me_ my_ j e we ls_ i_will_ give_ o ver_ my_ su it_ and_ re p ent_ my_ un la w fu l_ s o li ci ta tion_ if_ not_ a ss ure_ you r self_ i_will_ see k_ sa ti s fa c tion_ of_ you </s>
+<s> iago_ you_ have_ sa id_ no w </s>
+<s> ro der i go_ ay_ and_ sa id_ no thing_ but_ what_ i_ pro t est_ in ten d ment_ of_ do ing </s>
+<s> iago_ why_ now_ i_ see_ th er es_ me tt le_ in_ thee_ and_ e ven_ from_ this_ in st ant_ to_ bu i ld_ on_ thee_ a_ be tter_ op in i on_ than_ e ver_ be for e </s>
+<s> give_ me_ thy_ h and_ ro der i go_ thou_ ha st_ ta k en_ aga in st_ me_ a_ most_ ju st_ ex ce p tion_ but_ yet_ i_ pro t est_ i_have_ dea lt_ most_ di re c t ly_ in_ thy_ af fa ir </s>
+<s> ro der i go_ it_ hath_ not_ a pp ea re d </s>
+<s> iago_ i_ g r ant_ in de ed_ it_ hath_ not_ a pp ear ed_ and_ your_ su sp i ci on_ is_ not_ wi thou t_ wi t_ and_ ju d g m ent </s>
+<s> but_ ro der i go_ if_ thou_ ha st_ that_ in_ thee_ in de ed_ which_ i_have_ grea ter_ rea son_ to_ be li e ve_ now_ than_ e ver_ i_ me an_ p ur po se_ c ou ra ge_ and_ v al our_ this_ night_ sh ow_ it_ if_ thou_ the_ ne x t_ night_ fo ll o w ing_ en j o y_ not_ desdemona_ take_ me_ from_ this_ wor ld_ with_ t rea ch er y_ and_ de vi se_ en g in es_ for_ my_ li fe </s>
+<s> ro der i go_ well_ what_ is_ i t </s>
+<s> is_ it_ with in_ rea son_ and_ com pa ss </s>
+<s> iago_ sir_ there_ is_ es pe ci al_ com mi ssi on_ come_ from_ ven i ce_ to_ de pu te_ cassio_ in_ othell o s_ pla ce </s>
+<s> ro der i go_ is_ that_ tru e </s>
+<s> why_ then_ othello_ and_ desdemona_ re tur n_ aga in_ to_ ven i ce </s>
+<s> iago_ o_ no_ he_ go es_ in to_ ma u ri t ani a_ and_ ta k es_ a way_ with_ him_ the_ fa ir_ desdemona_ un l ess_ his_ a bo de_ be_ l ing er ed_ here_ by_ some_ ac ci d ent_ wh ere in_ n one_ can_ be_ so_ de ter m in ate_ as_ the_ re mo v ing_ of_ cassi o </s>
+<s> ro der i go_ how_ do_ you_ me an_ re mo v ing_ of_ hi m </s>
+<s> iago_ why_ by_ ma king_ him_ un ca pa ble_ of_ othell o s_ pla ce_ kno c king_ out_ his_ b ra in s </s>
+<s> ro der i go_ and_ that_ you_ would_ have_ me_ to_ do </s>
+<s> iago_ ay_ if_ you_ d are_ do_ you r self_ a_ pro f it_ and_ a_ ri gh t </s>
+<s> he_ su p s_ t on i ght_ with_ a_ har lo t ry_ and_ th i ther_ will_ i_ go_ to_ him_ he_ kno ws_ not_ yet_ of_ his_ hor r or a ble_ for tun e </s>
+<s> if_ you_ will_ w at ch_ his_ go ing_ th ence_ which_ i_will_ fa sh i on_ to_ fa ll_ out_ be t we en_ t we l ve_ and_ one_ you_ may_ take_ him_ at_ your_ p lea s ure_ i_will_ be_ n ear_ to_ se con d_ your_ at te mp t_ and_ he_ shall_ fa ll_ be t we en_ u s </s>
+<s> come_ st and_ not_ a ma z ed_ at_ it_ but_ go_ al on g_ with_ me_ i_will_ sh ow_ you_ such_ a_ ne c es si ty_ in_ his_ death_ that_ you_ shall_ think_ you r self_ b ound_ to_ pu t_ it_ on_ hi m </s>
+<s> it_is_ now_ hi gh_ su pp er time_ and_ the_ night_ g ro ws_ to_ wa st e_ ab out_ i t </s>
+<s> ro der i go_ i_will_ hear_ f ur ther_ rea son_ for_ th i s </s>
+<s> iago_ and_ you_ shall_ be_ sa ti s fi e d </s>
+<s> exeunt_ scene_ i i i </s>
+<s> an other_ ro om_ in_the_ ca st le </s>
+<s> enter_ othello_ lo do vi c o_ desdemona_ e mi lia_ and_ at ten d an ts_ lo do vi c o_ i_do_ b es ee ch_ you_ sir_ t rou ble_ you r self_ no_ f ur th er </s>
+<s> othello_ o_ par d on_ me_ t will_ do_ me_ good_ to_ w al k </s>
+<s> lo do vi c o_ ma d am_ good_ night_ i_ hu mb ly_ th an k_ your_ la d y sh i p </s>
+<s> desdemona_ your_ hon our_ is_ most_ we l com e </s>
+<s> othello_ will_ you_ w al k_ si r </s>
+<s> o desdemona_ desdemona_ my_ l or d </s>
+<s> othello_ g et_ you_ to_ b ed_ on_ the_ in st ant_ i_will_ be_ re tur n ed_ for th with_ di s mi ss_ your_ at ten d ant_ there_ look_ it_ be_ d on e </s>
+<s> desdemona_ i_will_ my_ l or d </s>
+<s> exeunt_ othello_ lo do vi c o_ and_ at ten d an ts_ e mi lia_ how_ go es_ it_ no w </s>
+<s> he_ loo ks_ gent l er_ than_ he_ di d </s>
+<s> desdemona_ he_ sa ys_ he_ will_ re tur n_ in con t in ent_ he_ hath_ com m an d ed_ me_ to_ go_ to_ b ed_ and_ ba de_ me_ to_ di s mi ss_ you </s>
+<s> e mi lia_ di s mi ss_ me </s>
+<s> desdemona_ it_ was_ his_ b i d d ing_ th ere fore_ good_ e mi li a </s>
+<s> give_ me_ my_ ni gh t ly_ w ear ing_ and_ a di e u _ we_ must_ not_ now_ di sp lea se_ hi m </s>
+<s> e mi lia_ i_ would_ you_ had_ never_ se en_ hi m </s>
+<s> desdemona_ so_ would_ not_ i_ my_ love_ doth_ so_ a pp ro ve_ him_ that_ e ven_ his_ st u b b or n ness_ his_ ch e qu es_ his_ f ro w n s_ pri thee_ un p in_ me have_ gra ce_ and_ fa v our_ in_ the m </s>
+<s> e mi lia_ i_have_ la id_ th ose_ sh ee ts_ you_ ba de_ me_ on_ the_ be d </s>
+<s> desdemona_ a ll s_ on e </s>
+<s> good_ fa i th_ how_ f oo li sh_ are_ our_ m in d s </s>
+<s> if_ i_do_ di e_ be fore_ thee_ pri thee_ sh rou d_ me_ in_ one_ of_ th ose_ sa me_ sh ee t s </s>
+<s> e mi lia_ come_ come_ you_ ta l k </s>
+<s> desdemona_ my_ mo ther_ had_ a_ ma id_ ca ll d_ b arb ar a_ she_ was_ in_ love_ and_ he_ she_ lo ved_ pro ved_ ma d_ and_ did_ for sa ke_ her_ she_ had_ a_ s on g_ of_ wi llow_ an_ o ld_ thing_ t was_ but_ it_ ex pr es s d_ her_ for tun e_ and_ she_ di ed_ s ing ing_ it_ that_ s on g_ t on i ght_ will_ not_ go_ from_ my_ m ind_ i_have_ much_ to_ do_ but_ to_ go_ han g_ my_ hea d_ all_ at_ one_ si de_ and_ s ing_ it_ like_ po or_ b arb ar a </s>
+<s> pri thee_ di sp at ch </s>
+<s> e mi lia_ shall_ i_ go_ fe t ch_ your_ ni gh t go w n </s>
+<s> desdemona_ no_ un p in_ me_ h ere </s>
+<s> this_ lo do vi c o_ is_ a_ pro p er_ m an </s>
+<s> e mi lia_ a_ very_ han d some_ m an </s>
+<s> desdemona_ he_ spea ks_ we ll </s>
+<s> e mi lia_ i_ know_ a_ lady_ in_ ven i ce_ would_ have_ w al k ed_ b ar e f oo t_ to_ pa l es t ine_ for_ a_ t ou ch_ of_ his_ ne ther_ li p </s>
+<s> desdemona_ s ing ing_ the_ po or_ s ou l_ s at_ si gh ing_ by_ a_ s y ca more_ t re e_ s ing_ all_ a_ g re en_ wi llow_ her_ h and_ on_ her_ bo som _ her_ hea d_ on_ her_ k ne e_ s ing_ wi llow_ wi llow_ wi llow_ the_ f r es h _ st rea m s_ r an_ by_ her_ and_ m ur m ur d_ her_ mo an s_ s ing_ wi llow_ wi llow_ wi llow_ her_ sa lt_ t ears_ fe ll_ from_ her_ and_ s of t end_ the_ st on es_ la y_ by_ these_ s ing ing_ s ing_ wi llow_ wi llow_ wi llow_ pri thee_ hi e_ thee_ he ll_ come_ an on_ s ing ing_ s ing_ all_ a_ g re en_ wi llow_ must_ be_ my_ g ar l an d </s>
+<s> let_ no bo dy_ b la me_ him_ his_ sc or n_ i_ a pp ro ve_ n ay_ th a ts_ not_ ne x th ar k </s>
+<s> who_ i st_ that_ kno ck s </s>
+<s> e mi lia_ i ts_ the_ w in d </s>
+<s> desdemona_ s ing ing_ i_ ca ll d_ my_ love_ fa l se_ love_ but_ what_ sa id_ he_ th en </s>
+<s> s ing_ wi llow_ wi llow_ wi llow_ if_ i_ c our t_ mo e_ w om en_ you ll_ c ou ch_ with_ mo e_ men </s>
+<s> so_ g et_ thee_ g one_ good_ night_ ate_ ey es_ do_ i t ch_ doth_ that_ bo de_ we e p ing </s>
+<s> e mi lia_ tis_ ne i ther_ here_ nor_ th ere </s>
+<s> desdemona_ i_have_ hear d_ it_ sa id_ s o </s>
+<s> o_ these_ men_ these_ men </s>
+<s> do st_ thou_ in_ con sc i ence_ th in k tell_ me_ e mi lia_ that_ there_ be_ w om en_ do_ a bu se_ their_ hu s ban ds_ in_ such_ g ro ss_ k in d </s>
+<s> e mi lia_ there_ be_ some_ such_ no_ qu es ti on </s>
+<s> desdemona_ w ou ld st_ thou_ do_ such_ a_ de ed_ for_ all_ the_ wor ld </s>
+<s> e mi lia_ why_ would_ not_ you </s>
+<s> desdemona_ no_ by_ this_ hea ven ly_ li gh t </s>
+<s> e mi lia_ nor_ i_ ne i ther_ by_ this_ hea ven ly_ li ght_ i_ mi ght_ do t_ as_ well_ i_ the_ d ar k </s>
+<s> desdemona_ w ou ld st_ thou_ do_ such_ a_ de ed_ for_ all_ the_ wor ld </s>
+<s> e mi lia_ the_ wor l ds_ a_ hu ge_ thing_ it_is_ a_ grea t_ pri ce </s>
+<s> for_ a_ s ma ll_ vi ce </s>
+<s> desdemona_ in_ t ro th_ i_ think_ thou_ w ou ld st_ no t </s>
+<s> e mi lia_ in_ t ro th_ i_ think_ i_ should_ and_ un do t_ when_ i_ had_ d on e </s>
+<s> mar ry_ i_ would_ not_ do_ such_ a_ thing_ for_ a_ j o in t ring_ nor_ for_ m ea s ur es_ of_ la wn_ nor_ for_ go w n s_ pe t ti co a ts_ nor_ ca p s_ nor_ any_ pe t ty_ ex hi b i tion_ but_ for_ the_ wh o le_ wor ld why_ who_ would_ not_ make_ her_ hu s b and_ a_ cu ck o ld_ to_ make_ him_ a_ mon ar ch </s>
+<s> i_ should_ one_ f l es h _ and_ so_ my_ mo th er </s>
+<s> come_ for_ en g l an d </s>
+<s> exit_ king_ c lau di us_ fo llow_ him_ at_ f oo t_ te mp t_ him_ with_ sp e ed_ a bo ar d_ de la y_ it_ not_ ill_ have_ him_ h ence_ t on i ght_ a wa y </s>
+<s> for_ e very_ thing_ is_ s ea ld_ and_ d one_ that_ el se_ le an s_ on_ the_ af fa ir_ pra y_ you_ make_ ha st e </s>
+<s> exeunt_ ro sen c r ant z _ and_ gu i ld en st er n_ and_ en g l and_ if_ my_ love_ thou_ ho ld st_ at_ a u ght_ as_ my_ grea t_ po w er_ th ere of_ may_ give_ thee_ sen se_ s ince_ yet_ thy_ ci ca tri ce_ loo ks_ ra w_ and_ r ed_ af ter_ the_ d ani sh_ sw ord_ and_ thy_ f re e_ a we_ pa ys_ h om ag e_ to_ u s thou_ ma y st_ not_ c ol d ly_ se t_ our_ s o ver e i g n_ pro c ess_ which_ i mp or ts_ at_ fu ll_ by_ le tt ers_ con g ru ing_ to_ that_ e f fe c t_ the_ pr es ent_ death_ of_ ham le t </s>
+<s> do_ it_ en g l and_ for_ like_ the_ he c ti c _ in_ my_ bloo d_ he_ ra g es_and_ thou_ must_ c ure_ me_ ti ll_ i_ know_ tis_ d one_ ho we er_ my_ ha p s_ my_ j o ys_ were_ ne er_ be g un </s>
+<s> exit_ scene_ i v </s>
+<s> a_ pla in_ in_ d en mar k </s>
+<s> enter_ for t in b ra s_ a_ ca p ta in_ and_ s ol di ers_ mar ch ing_ pr ince_ for t in b ra s_ go_ ca p ta in_ from_ me_ g re et_ the_ d ani sh_ king_ tell_ him_ that_ by_ his_ li c ence_ for t in b ra s_ c ra ves_ the_ con v ey ance_ of_ a_ p rom i sed_ mar ch_ o ver_ his_ k ing d om </s>
+<s> you_ know_ the_ r en de z v ou s </s>
+<s> if_ that_ his_ ma j es ty_ would_ a u ght_ with_ us_ we_ shall_ ex pr ess_ our_ du ty_ in_ his_ ey e_ and_ let_ him_ know_ s o </s>
+<s> ca p ta in_ i_will_ do t_ my_ l or d </s>
+<s> pr ince_ for t in b ra s_ go_ s of t ly_ on </s>
+<s> exeunt_ for t in b ra s_and_ s ol di ers_ enter_ hamlet_ ro sen c r ant z _ gu i ld en st er n_ and_ o th ers_ hamlet_ good_ sir_ wh ose_ po w ers_ are_ thes e </s>
+<s> ca p ta in_ they_ are_ of_ n or way_ si r </s>
+<s> hamlet_ how_ p ur po sed_ sir_ i_ pra y_ you </s>
+<s> ca p ta in_ aga in st_ some_ par t_ of_ po l an d </s>
+<s> hamlet_ who_ com m an ds_ them_ si r </s>
+<s> ca p ta in_the_ ne p he ws_ to_ o ld_ n or way_ for t in b ra s </s>
+<s> hamlet_ go es_ it_ aga in st_ the_ ma in_ of_ po l and_ sir_ or_ for_ some_ f ron ti er </s>
+<s> ca p ta in_ tru ly_ to_ speak_ and_ with_ no_ a d di tion_ we_ go_ to_ ga in_ a_ li tt le_ p at ch_ of_ g r ound_ that_ hath_ in_ it_ no_ pro f it_ but_ the_ na me </s>
+<s> to_ p ay_ fi ve_ du ca ts_ fi ve_ i_ would_ not_ f ar m_ it_ nor_ will_ it_ y i e ld_ to_ n or way_ or_ the_ po le_ a_ ran k er_ ra te_ should_ it_ be_ s o ld_ in_ fe e </s>
+<s> hamlet_ why_ then_ the_ po la ck_ never_ will_ de f end_ i t </s>
+<s> ca p ta in_ y es_ it_is_ al rea dy_ g ar ri s on d </s>
+<s> hamlet_ t w o_ thou s and_ s ou l s_and_ t w en ty_ thou s and_ du ca ts_ will_ not_ de b ate_ the_ qu es tion_ of_ this_ st ra w_ this_ is_ the_ i m po s th u me_ of_ much_ w ea l th_ and_ p ea ce_ that_ in war d_ b rea k s_and_ sh o ws_ no_ ca use_ wi thou t_ why_ the_ man_ di es </s>
+<s> i_ hu mb ly_ th an k_ you_ si r </s>
+<s> ca p ta in_ go d_ be_ w i_ you_ si r </s>
+<s> exit_ ro sen c r ant z _ wi lt_ p lea se_ you_ go_ my_ l or d </s>
+<s> hamlet_ ill_ be_ with_ you_ st ra i ght_ go_ a_ li tt le_ be for e </s>
+<s> exeunt_ all_ ex ce p t_ hamlet_ how_ all_ oc ca si ons_ do_ in for m_ aga in st_ me_ and_ sp u r_ my_ du ll_ re ven ge </s>
+<s> what_ is_ a_ man_ if_ his_ ch i e f_ good_ and_ mar k et_ of_ his_ time_ be_ but_ to_ sle ep_ and_ fe e d </s>
+<s> a_ b ea st_ no_ mor e </s>
+<s> s ure_ he_ that_ made_ us_ with_ such_ l ar ge_ di sc our se_ loo king_ be fore_ and_ af ter_ ga ve_ us_ not_ that_ ca pa b i li ty_ and_ go d like_ rea son_ to_ fu st_ in_ us_ un u se d </s>
+<s> now_ wh e ther_ it_ be_ b es ti al_ ob li vi on_ or_ some_ c ra ven_ sc ru p le_ of_ th in king_ too_ p re ci se ly_ on_ the_ e v ent_ a_ thou ght_ which_ qu ar ter d_ hath_ but_ one_ par t_ wi s d om_ and_ e ver_ th re e_ par ts_ co war d_ i_do_ not_ know_ why_ yet_ i_ li ve_ to_ say_ this_ th ings_ to_ do_ si th_ i_have_ ca use_ and_ will_ and_ st r en g th_ and_ me an s_ to_ do t </s>
+<s> ex a mp l es_ g ro ss_ as_ ear th_ ex hor t_ me_ wi t ness_ this_ ar my_ of_ such_ ma s s_and_ char ge_ l ed_ by_ a_ de li ca te_ and_ ten der_ pr ince_ wh ose_ sp ir it_ with_ di v ine_ a mb i tion_ pu f f d_ ma k es_ m ou th s_ at_ the_ in vi si ble_ e v ent_ ex po s ing_ what_ is_ mor ta l_ and_ un s ure_ to_ all_ that_ for tun e_ death_ and_ d an ger_ d are_ e ven_ for_ an_ e g g sh e ll </s>
+<s> ri gh t ly_ to_be_ grea t_ is_ not_ to_ sti r_ wi thou t_ grea t_ ar gu ment_ but_ grea t ly_ to_ f ind_ qu ar re l_ in_ a_ st ra w_ when_ hon our s_ at_ the_ st a k e </s>
+<s> how_ st and_ i_ then_ that_ have_ a_ fa ther_ k i ll d_ a_ mo ther_ st a ind_ ex ci te men ts_ of_ my_ rea son_ and_ my_ bloo d_ and_ let_ all_ sle e p </s>
+<s> whi le_ to_ my_ sha me_ i_ see_ the_ i m m in ent_ death_ of_ t w en ty_ thou s and_ men_ that_ for_ a_ f an ta s y_ and_ tri ck_ of_ fa me_ go_ to_ their_ gra ves_ like_ be ds_ fi ght_ for_ a_ p lo t_ wh ere on_ the_ n u mb ers_ can not_ t ry_ the_ ca use_ which_ is_ not_ t om b _ en ou gh_ and_ con t in ent_ to_ hi de_ the_ s la in </s>
+<s> o_ from_ this_ time_ for th_ my_ thou gh ts_ be_ bloo dy_ or_ be_ no thing_ wor th </s>
+<s> exit_ scene_ v </s>
+<s> el s in or e </s>
+<s> a_ ro om_ in_the_ ca st le </s>
+<s> enter_ queen_ g er tru de_ hor a tio_ and_ a_ gent le man_ queen_ g er tru de_ i_will_ not_ speak_ with_ her </s>
+<s> gent le man_ she_ is_ i mp or tun ate_ in de ed_ di st ra c t_ her_ m ood_ will_ ne e ds_ be_ pi ti e d </s>
+<s> queen_ g er tru de_ what_ would_ she_ ha v e </s>
+<s> gent le man_ she_ spea ks_ much_ of_ her_ fa ther_ sa ys_ she_ hear s_ th er es_ tri ck s_ i_ the_ wor ld_ and_ he m s_and_ b ea ts_ her_ heart_ sp ur n s_ en vi ou s ly_ at_ st ra ws_ spea ks_ th ings_ in_ d ou b t_ that_ c ar ry_ but_ ha l f_ sen se_ her_ sp ee ch_ is_ no thing_ yet_ the_ un sha p ed_ use_ of_ it_ doth_ mo ve_ the_ hear ers_ to_ co ll e c tion_ they_ a i m_ at_ it_ and_ bo t ch_ the_ wor ds_ up_ f it_ to_ their_ o wn_ thou gh ts_ which_ as_ her_ w in k s_and_ no ds_ and_ g es tur es_ y i e ld_ them_ in de ed_ would_ make_ one_ think_ there_ mi ght_ be_ thou ght_ thou gh_ no thing_ s ure_ yet_ much_ un ha pp i l y </s>
+<s> hor a tio_ t were_ good_ she_ were_ sp o k en_ with_ for_ she_ may_ st re w_ d an g er ous_ con j e c tur es_ in_ i ll b re e d ing_ m in d s </s>
+<s> queen_ g er tru de_ let_ her_ come_ in </s>
+<s> exit_ hor a tio_ to_ my_ si ck_ s ou l_ as_ s in s_ tru e_ n at ure_ is_ ea ch_ to y_ see m s_ pro lo gu e_ to_ some_ grea t_ a mi ss_ so_ fu ll_ of_ ar t l ess_ j ea l ou s y_ is_ gu i lt_ it_ sp i ll s_ i t self_ in_ f ear ing_ to_be_ sp i l t </s>
+<s> re enter_ hor a tio_ with_ op he lia_ op he lia_ where_ is_ the_ b ea u te ous_ ma j es ty_ of_ d en mar k </s>
+<s> queen_ g er tru de_ how_ now_ op he li a </s>
+<s> op he lia_ s ings_ how_ should_ i_ your_ tru e_ love_ know_ from_ an other_ on e </s>
+<s> by_ his_ co ck le_ ha t_ and_ st af f_ and_ his_ s an d al_ sh o on </s>
+<s> queen_ g er tru de_ a la s_ swe et_ lady_ what_ i mp or ts_ this_ s on g </s>
+<s> op he lia_ say_ you </s>
+<s> n ay_ pra y_ you_ mar k </s>
+<s> s ings_ he_ is_ dea d_ and_ g one_ lady_ he_ is_ dea d_ and_ g one_ at_ his_ hea d_ a_ gra ss g re en_ tur f_ at_ his_ he el s_ a_ st on e </s>
+<s> queen_ g er tru de_ n ay_ but_ op he lia_ op he lia_ pra y_ you_ mar k </s>
+<s> s ings_ whi te_ his_ sh rou d_ as_ the_ m oun ta in_ s now_ enter_ king_ c lau di us_ queen_ g er tru de_ a la s_ look_ here_ my_ l or d </s>
+<s> op he lia_ s ings_ l ar d ed_ with_ swe et_ f lo w ers_ which_ be we p t_ to_the_ gra ve_ did_ go_ with_ tru e love_ sh o w er s </s>
+<s> king_ c lau di us_ how_ do_ you_ p re t ty_ la d y </s>
+<s> op he lia_ well_ go d_ i ld_ you </s>
+<s> they_ say_ the_ o w l_ was_ a_ ba k ers_ da u gh ter </s>
+<s> lord_ we_ know_ what_ we_ are_ but_ know_ not_ what_ we_ may_ be </s>
+<s> go d_ be_ at_ your_ ta b le </s>
+<s> king_ c lau di us_ con ce it_ upon_ her_ fa th er </s>
+<s> op he lia_ pra y_ you_ le ts_ have_ no_ wor ds_ of_ this_ but_ when_ they_ a s k_ you_ what_ it_ me an s_ say_ you_ this_ s ings_ t om or row_ is_ sa in t_ v al ent in es_ day_ all_ in_the_ mor n ing_ be time_ and_ i_ a_ ma id_ at_ your_ w in do w_ to_be_ your_ v al ent in e </s>
+<s> then_ up_ he_ ro se_ and_ d on n d_ his_ c lo th es_and_ d up p d_ the_ c ham b er do or_ let_ in_the_ ma id_ that_ out_ a_ ma id_ never_ de par ted_ mor e </s>
+<s> king_ c lau di us_ p re t ty_ op he li a </s>
+<s> op he lia_ in de ed_ l a_ wi thou t_ an_ o a th_ ill_ make_ an_ end_ on t_ s ings_ by_ g is_ and_ by_ sa in t_ c ha ri ty_ a la ck_ and_ fi e_ for_ sha me </s>
+<s> you n g_ men_ will_ do t_ if_ they_ come_ to t_ by_ co ck_ they_ are_ to_ b la me </s>
+<s> qu o th_ she_ be fore_ you_ t u mb l ed_ me_ you_ p rom i sed_ me_ to_ we d </s>
+<s> so_ would_ i_ ha _ d one_ by_ y on der_ s un _ an_ thou_ ha d st_ not_ come_ to_ my_ be d </s>
+<s> king_ c lau di us_ how_ lon g_ hath_ she_ be en_ th u s </s>
+<s> op he lia_ i_ ho p e_ all_ will_ be_ we ll </s>
+<s> we_ must_ be_ pa ti ent_ but_ i_ can not_ ch oo se_ but_ we ep_ to_ think_ they_ should_ la y_ him_ i_ the_ co ld_ g r oun d </s>
+<s> my_ b ro ther_ shall_ know_ of_ it_ and_ so_ i_ th an k_ you_ for_ your_ good_ coun sel </s>
+<s> come_ my_ co a ch </s>
+<s> good_ night_ la di es_ good_ night_ swe et_ la di es_ good_ night_ good_ ni gh t </s>
+<s> exit_ king_ c lau di us_ fo llow_ her_ c lo se_ give_ her_ good_ w at ch_ i_ pra y_ you </s>
+<s> exit_ hor a tio_ o_ this_ is_ the_ po i son_ of_ de ep_ g ri e f_ it_ sp r ings_ all_ from_ her_ fa th ers_ dea th </s>
+<s> o_ g er tru de_ g er tru de_ when_ s or ro ws_ come_ they_ come_ not_ s ing le_ sp i es_ but_ in_ b at ta li on s </s>
+<s> first_ her_ fa ther_ s la in_ ne x t_ your_ son_ g one_ and_ he_ most_ vi ol ent_ a u th or_ of_ his_ o wn_ ju st_ re mo ve_ the_ pe op le_ mu d di ed_ th i ck_ and_ un wh ol es om e_ in_ their_ thou gh ts_ and_ whi sp ers_ for_ good_ po lon ius_ death_ and_ we_ have_ d one_ but_ g re en ly_ in_ hu g g er mu g ger_ to_ in ter_ him_ po or_ op he lia_ di vi d ed_ from_ her self_ and_ her_ fa ir_ ju d g ment_ wi thou t_ the_ which_ we_ are_ pi c tur es_ or_ m ere_ b ea st s_ la st_ and_ as_ much_ con ta in ing_ as_ all_ these_ her_ b ro ther_ is_ in_ se c re t_ come_ from_ f ran ce_ fe e ds_ on_ his_ w on der_ k ee p s_ hi m self_ in_ c l ou ds_ and_ w an ts_ not_ bu z z ers_ to_ in fe c t_ his_ ear_ with_ p es ti l ent_ sp ee ch es_ of_ his_ fa th ers_ death_ wh ere in_ ne c es si ty_ of_ ma tter_ be g g ar d_ will_ no thing_ sti ck_ our_ per son_ to_ ar ra i g n_ in_ ear_ and_ ear </s>
+<s> o_ my_ d ear_ g er tru de_ this_ like_ to_ a_ m ur der ing pi e ce_ in_ m any_ pla c es_ gi ves_ me_ su per f lu ous_ dea th </s>
+<s> a_ no i se_ with in_ queen_ g er tru de_ a la ck_ what_ no i se_ is_ th i s </s>
+<s> king_ c lau di us_ where_ are_ my_ s wi t z er s </s>
+<s> let_ them_ gu ar d_ the_ do or </s>
+<s> enter_ an other_ gent le man_ what_ is_ the_ ma tt er </s>
+<s> gent le man_ sa ve_ you r self_ my_lord_ the_ o ce an_ o ver pe er ing_ of_ his_ li st_ ea ts_ not_ the_ f la ts_ with_ more_ i mp e t u ous_ ha st e_ than_ you n g_ la er tes_ in_ a_ ri o t ous_ hea d_ o er b ears_ your_ of fi c er s </s>
+<s> the_ ra b ble_ ca ll_ him_ lord_ and_ as_ the_ wor ld_ were_ now_ but_ to_ be g in_ an ti qu i ty_ for go t_ cu st om_ not_ kno wn_ the_ ra ti fi ers_ and_ pro p s_ of_ e very_ w ord_ they_ c ry_ ch oo se_ we_ la er tes_ shall_ be_ king_ ca p s_ han ds_ and_ t on gu es_ a pp lau d_ it_ to_the_ c l ou ds_ la er tes_ shall_ be_ king_ la er tes_ king_ queen_ g er tru de_ how_ ch e er fu ll y_ on_ the_ fa l se_ t ra i l_ they_ c r y </s>
+<s> o_ this_ is_ coun ter_ you_ fa l se_ d ani sh_ do g s </s>
+<s> king_ c lau di us_ the_ do or s_ are_ b ro k e </s>
+<s> no i se_ with in_ enter_ la er tes_ ar m ed_ d an es_ fo ll o w ing_ la er tes_ where_ is_ this_ k ing </s>
+<s> si r s_ st and_ you_ all_ wi thou t </s>
+<s> d an es_ no_ le ts_ come_ in </s>
+<s> la er tes_ i_ pra y_ you_ give_ me_ lea v e </s>
+<s> d an es_ we_ will_ we_ wi ll </s>
+<s> they_ re ti r e_ wi thou t_ the_ do or_ la er tes_ i_ th an k_ you_ k ee p_ the_ do or </s>
+<s> o_ thou_ vi le_ king_ give_ me_ my_ fa th er </s>
+<s> queen_ g er tru de_ ca l m ly_ good_ la er t es </s>
+<s> la er tes_ that_ d ro p_ of_ bloo d_ th a ts_ ca l m_ pro c la i m s_ me_ ba st ar d_ c ri es_ cu ck o ld_ to_ my_ fa ther_ b ran ds_ the_ har lo t_ e ven_ here_ be t we en_ the_ c ha st e_ un s mi r ch ed_ b row_ of_ my_ tru e_ mo th er </s>
+<s> king_ c lau di us_ what_ is_ the_ ca use_ la er tes_ that_ thy_ re be ll i on_ loo ks_ so_ gi ant li k e </s>
+<s> let_ him_ go_ g er tru de_ do_ not_ f ear_ our_ per son_ th er es_ such_ di v in i ty_ doth_ he d ge_ a_ king_ that_ t rea son_ can_ but_ p ee p_ to_ what_ it_ would_ ac ts_ li tt le_ of_ his_ wi ll </s>
+<s> tell_ me_ la er tes_ why_ thou_ art_ th us_ in c en se d </s>
+<s> let_ him_ go_ g er tru de </s>
+<s> speak_ m an </s>
+<s> la er tes_ where_ is_ my_ fa th er </s>
+<s> king_ c lau di us_ dea d </s>
+<s> queen_ g er tru de_ but_ not_ by_ hi m </s>
+<s> king_ c lau di us_ let_ him_ de m and_ his_ fi ll </s>
+<s> la er tes_ how_ ca me_ he_ dea d </s>
+<s> ill_ not_ be_ ju g g l ed_ with_ to_ he ll_ a ll e gi an ce </s>
+<s> vo ws_ to_the_ b la ck est_ de vi l </s>
+<s> con sc i ence_ and_ gra ce_ to_the_ pro f oun d est_ pi t </s>
+<s> i_ d are_ da m na ti on </s>
+<s> to_ this_ po in t_ i_ st and_ that_ bo th_ the_ wor l ds_ i_ give_ to_ ne g li g ence_ let_ come_ what_ com es_ on ly_ ill_ be_ re ven g ed_ most_ th or ou gh ly_ for_ my_ fa th er </s>
+<s> king_ c lau di us_ who_ shall_ st ay_ you </s>
+<s> la er tes_ my_ will_ not_ all_ the_ wor ld_ and_ for_ my_ me an s_ ill_ hu s b and_ them_ so_ well_ they_ shall_ go_ fa r_ with_ li tt le </s>
+<s> king_ c lau di us_ good_ la er tes_ if_ you_ des ir e_ to_ know_ the_ c er ta in ty_ of_ your_ d ear_ fa th ers_ death_ i st_ w r it_ in_ your_ re ven ge_ that_ sw oo p st a ke_ you_ will_ d ra w_ bo th_ fri end_ and_ fo e_ w in n er_ and_ lo ser </s>
+<s> la er tes_ n one_ but_ his_ en e mi es </s>
+<s> king_ c lau di us_ will_ you_ know_ them_ th en </s>
+<s> la er tes_ to_ his_ good_ fri en ds_ th us_ wi de_ ill_ op e_ my_ ar m s_and_ like_ the_ k ind_ li f er en der ing_ pe li can_ re pa st_ them_ with_ my_ bloo d </s>
+<s> king_ c lau di us_ why_ now_ you_ speak_ like_ a_ good_ ch i ld_ and_ a_ tru e_ gent le m an </s>
+<s> that_ i_am_ gu i l t l ess_ of_ your_ fa th ers_ death_ and_ am_ most_ sen si ble_ in_ g ri e f_ for_ it_ it_ shall_ as_ le v e l_ to_ your_ ju d g ment_ pi er ce_ as_ day_ do es_ to_ see k_ ha pp y_ ni gh ts_ to_ ha pp y_ da y s </s>
+<s> exeunt_ scene_ i v </s>
+<s> a_ st re e t </s>
+<s> enter_ romeo_ mer cu tio_ b en vo li o_ with_ fi ve_ or_ si x _ ma s k ers_ t or ch b ear ers_ and_ o th ers_ romeo_ what_ shall_ this_ sp ee ch_ be_ sp o ke_ for_ our_ ex cu se </s>
+<s> or_ shall_ we_ on_ wi thou t_ a_ a po lo g y </s>
+<s> b en vo li o_ the_ d ate_ is_ out_ of_ such_ pro li x i ty_ well_ have_ no_ c up id_ h oo d w in k d_ with_ a_ sc ar f_ b ear ing_ a_ t ar t ar s_ pa in ted_ bo w_ of_ la th_ sc ar ing_ the_ la di es_ like_ a_ c ro w k ee p er_ nor_ no_ wi thou t b oo k_ pro lo gu e_ fa in t ly_ sp o ke_ af ter_ the_ p rom p ter_ for_ our_ ent ran ce_ but_ let_ them_ m ea s ure_ us_ by_ what_ they_ will_ well_ m ea s ure_ them_ a_ m ea s ure_ and_ be_ g on e </s>
+<s> romeo_ give_ me_ a_ t or ch_ i_am_ not_ for_ this_ a mb l ing_ be ing_ but_ hea v y_ i_will_ b ear_ the_ li gh t </s>
+<s> mer cu tio_ n ay_ gent le_ romeo_ we_ must_ have_ you_ d an ce </s>
+<s> romeo_ not_ i_ be li e ve_ me_ you_ have_ d an c ing_ sh o es_ with_ ni m ble_ s ol es_ i_have_ a_ s ou l_ of_ lea d_ so_ st a k es_ me_ to_the_ g r ound_ i_ can not_ mo v e </s>
+<s> mer cu tio_ you_ are_ a_ lo ver_ b or row_ c up i ds_ w ing s_and_ s o ar_ with_ them_ a bo ve_ a_ com m on_ b oun d </s>
+<s> romeo_ i_am_ too_ s or e_ en pi er c ed_ with_ his_ sha f t_ to_ s o ar_ with_ his_ li ght_ f ea th ers_ and_ so_ b ound_ i_ can not_ b ound_ a_ pi t ch_ a bo ve_ du ll_ w o e_ un der_ lo ves_ hea v y_ b ur d en_ do_ i_ s in k </s>
+<s> mer cu tio_ and_ to_ s ink_ in_ it_ should_ you_ b ur d en_ love_ too_ grea t_ op pr es si on_ for_ a_ ten der_ th ing </s>
+<s> romeo_ is_ love_ a_ ten der_ th ing </s>
+<s> it_is_ too_ rou gh_ too_ ru de_ too_ bo i st er ous_ and_ it_ pri ck s_ like_ th or n </s>
+<s> mer cu tio_ if_ love_ be_ rou gh_ with_ you_ be_ rou gh_ with_ love_ pri ck_ love_ for_ pri c king_ and_ you_ b ea t_ love_ do w n </s>
+<s> give_ me_ a_ ca se_ to_ pu t_ my_ vi sa ge_ in_ a_ vi s or_ for_ a_ vi s or </s>
+<s> what_ c are_ i_ what_ cu ri ous_ ey e_ doth_ qu o te_ de for mi ti es </s>
+<s> here_ are_ the_ be e t le_ b ro ws_ shall_ b lu sh_ for_ me </s>
+<s> b en vo li o_ come_ kno ck_ and_ enter_ and_ no_ s o on er_ in_ but_ e very_ man_ be take_ him_ to_ his_ le g s </s>
+<s> romeo_ a_ t or ch_ for_ me_ let_ w anton s_ li ght_ of_ heart_ ti ck le_ the_ sen sel ess_ ru sh es_ with_ their_ he el s_ for_ i_am_ pro ver b d_ with_ a_ g ran d si r e_ p h ra se_ ill_ be_ a_ can d le ho l der_ and_ look_ on </s>
+<s> the_ ga me_ was_ ne er_ so_ fa ir_ and_ i_am_ d on e </s>
+<s> mer cu tio_ t u t_ d un s_ the_ m ou se_ the_ con st ab l es_ o wn_ w ord_ if_ thou_ art_ d un _ well_ d ra w_ thee_ from_ the_ mi r e_ of_ this_ si r re ver ence_ love_ wh ere in_ thou_ sti ck st_ up_ to_the_ ear s </s>
+<s> come_ we_ b ur n_ da y li ght_ ho </s>
+<s> romeo_ n ay_ th a ts_ not_ s o </s>
+<s> mer cu tio_ i_ me an_ sir_ in_ de la y_ we_ wa st e_ our_ li gh ts_ in_ v a in_ like_ la mp s_ by_ da y </s>
+<s> take_ our_ good_ me an ing_ for_ our_ ju d g ment_ si ts_ fi ve_ ti m es_ in_ that_ ere_ on ce_ in_ our_ fi ve_ wi t s </s>
+<s> romeo_ and_ we_ me an_ well_ in_ go ing_ to_ this_ ma s k_ but_ tis_ no_ wi t_ to_ go </s>
+<s> mer cu tio_ why_ may_ one_ a s k </s>
+<s> romeo_ i_ d rea m d_ a_ d rea m_ t on i gh t </s>
+<s> mer cu tio_ and_ so_ did_ i </s>
+<s> romeo_ well_ what_ was_ you r s </s>
+<s> mer cu tio_ that_ d rea m ers_ of t en_ li e </s>
+<s> romeo_ in_ b ed_ a sle ep_ whi le_ they_ do_ d rea m_ th ings_ tru e </s>
+<s> mer cu tio_ o_ then_ i_ see_ queen_ ma b _ hath_ be en_ with_ you </s>
+<s> she_ is_ the_ fa i ri es_ mi d wi fe_ and_ she_ com es_ in_ sha p e_ no_ b i g ger_ than_ an_ ag at es t one_ on_ the_ for e f ing er_ of_ an_ al der man_ d ra wn_ with_ a_ t ea m_ of_ li tt le_ at om i es_ a th war t_ men s_ no s es_ as_ they_ li e_ a sle ep_ her_ w ag on sp o k es_ made_ of_ lon g_ sp i d ers_ le g s_ the_ co ver_ of_the_ w ings_ of_ gra s sh op p ers_ the_ t ra c es_ of_the_ s ma ll est_ sp i d ers_ we b _ the_ co ll ar s_ of_the_ mo on sh in es_ w at er y_ b ea m s_ her_ whi p_ of_ c ri ck e ts_ b one_ the_ la sh_ of_ fi l m_ her_ w ag on er_ a_ s ma ll_ g re y co at ed_ g n at_ not_ so_ b i g_ as_ a_ r ound_ li tt le_ wor m_ pri ck d_ from_ the_ la z y_ f ing er_ of_ a_ ma id_ her_ c ha ri o t_ is_ an_ e mp ty_ ha z el n u t_ made_ by_ the_ j o in er_ s qu ir re l_ or_ o ld_ g ru b _ time_ out_ o_ m ind_ the_ fa i ri es_ co a ch ma k er s </s>
+<s> and_ in_ this_ st ate_ she_ ga ll op s_ night_ by_ night_ th rou gh_ lo v ers_ b ra in s_and_ then_ they_ d rea m_ of_ love_ o er_ c our ti ers_ k ne es_ that_ d rea m_ on_ c our t si es_ st ra i ght_ o er_ la w y ers_ f ing ers_ who_ st ra i ght_ d rea m_ on_ fe es_ o er_ la di es_ li p s_ who_ st ra i ght_ on_ k i ss es_ d rea m_ which_ of t_ the_ an g ry_ ma b _ with_ b li st ers_ pla gu es_ be ca use_ their_ b rea th s_ with_ swe e t m ea ts_ ta in ted_ are_ som e time_ she_ ga ll op s_ o er_ a_ c our ti ers_ no se_ and_ then_ d rea m s_ he_ of_ s me ll ing_ out_ a_ su it_ and_ som e time_ com es_ she_ with_ a_ ti the pi g s_ ta i l_ ti ck l ing_ a_ par s ons_ no se_ as_ a_ li es_ a sle ep_ then_ d rea m s_ he_ of_ an other_ b en e fi ce_ som e time_ she_ d ri v e th_ o er_ a_ s ol di ers_ ne ck_ and_ then_ d rea m s_ he_ of_ cu tt ing_ for e i g n_ th ro a ts_ of_ b rea ch es_ a m bu s ca do es_ sp ani sh_ b la d es_ of_ hea l th s_ fi v e fa th om_ de ep_ and_ then_ an on_ d ru m s_ in_ his_ ear_ at_ which_ he_ st ar ts_ and_ wa k es_and_ be ing_ th us_ fri gh ted_ sw ears_ a_ pra y er_ or_ t w o_ and_ sle e p s_ aga in </s>
+<s> this_ is_ that_ very_ ma b _ that_ pla ts_ the_ m an es_ of_ hor s es_ in_the_ night_ and_ ba k es_ the_ el f lo ck s_ in_ f ou l_ s lu t ti sh_ ha ir s_ which_ on ce_ un t an g l ed_ much_ mi s for tun e_ bo d es_ this_ is_ the_ ha g_ when_ ma i ds_ li e_ on_ their_ ba ck s_ that_ pr es s es_ them_ and_ l ear n s_ them_ first_ to_ b ear_ ma king_ them_ w om en_ of_ good_ c ar ri ag e_ this_ is_ she_ romeo_ p ea ce_ p ea ce_ mer cu tio_ p ea ce </s>
+<s> thou_ ta l k st_ of_ no th ing </s>
+<s> mer cu tio_ tru e_ i_ ta l k_ of_ d rea m s_ which_ are_ the_ ch i ld r en_ of_ an_ i d le_ b ra in_ be go t_ of_ no thing_ but_ v a in_ f an ta s y_ which_ is_ as_ th in_ of_ su b st ance_ as_ the_ a ir_ and_ more_ in con st ant_ than_ the_ w ind_ who_ w oo es_ e ven_ now_ the_ f ro z en_ bo som _ of_the_ n or th_ and_ be ing_ an g er d_ pu f f s_ a way_ from_ th ence_ tur n ing_ his_ fa ce_ to_the_ de w d ro pp ing_ s ou th </s>
+<s> b en vo li o_ this_ w ind_ you_ ta l k_ of_ b lo ws_ us_ from_ our sel ves_ su pp er_ is_ d one_ and_ we_ shall_ come_ too_ la te </s>
+<s> romeo_ i_ f ear_ too_ ear ly_ for_ my_ m ind_ mi s gi ves_ some_ con se qu ence_ yet_ han g ing_ in_the_ st ar s_ shall_ b i tt er ly_ be g in_ his_ f ear fu l_ d ate_ with_ this_ ni gh ts_ re v el s_and_ ex p ir e_ the_ ter m_ of_ a_ des pi sed_ li fe_ c lo sed_ in_ my_ b rea st_ by_ some_ vi le_ for fe it_ of_ un ti me ly_ dea th </s>
+<s> but_ he_ that_ hath_ the_ st e er ag e_ of_ my_ c our se_ di re c t_ my_ sa i l </s>
+<s> on_ lu st y_ gent le men </s>
+<s> b en vo li o_ st ri ke_ d ru m </s>
+<s> exeunt_ scene_ v </s>
+<s> a_ ha ll_ in_ ca pu le ts_ h ou se </s>
+<s> mu si ci an s_ wa i t ing </s>
+<s> enter_ ser v ing men_ with_ na p k in s_ first_ ser v ant_ wh er es_ po t p an_ that_ he_ he l p s_ not_ to_ take_ a wa y </s>
+<s> he_ sh i f t_ a_ t r en ch er </s>
+<s> he_ sc ra p e_ a_ t r en ch er </s>
+<s> se con d_ ser v ant_ when_ good_ m an n ers_ shall_ li e_ all_ in_ one_ or_ t w o_ men s_ han ds_ and_ they_ un wa sh ed_ too_ tis_ a_ f ou l_ th ing </s>
+<s> first_ ser v ant_ a way_ with_ the_ j o in t st oo ls_ re mo ve_ the_ c our t c up bo ar d_ look_ to_the_ pla te </s>
+<s> good_ thou_ sa ve_ me_ a_ pi e ce_ of_ mar ch p an e_ and_ as_ thou_ lo v est_ me_ let_ the_ por ter_ let_ in_ su s an_ g r in d st one_ and_ ne ll </s>
+<s> antony_ and_ po t p an </s>
+<s> se con d_ ser v ant_ ay_ bo y_ rea d y </s>
+<s> first_ ser v ant_ you_ are_ loo k ed_ for_ and_ ca ll ed_ for_ a s k ed_ for_ and_ s ou ght_ for_ in_the_ grea t_ c ham b er </s>
+<s> se con d_ ser v ant_ we_ can not_ be_ here_ and_ there_ t oo </s>
+<s> ch e er ly_ bo ys_ be_ b ri s k_ a whi le_ and_ the_ lon ger_ li ver_ take_ a ll </s>
+<s> enter_ ca pu let_ with_ ju li et_ and_ o th ers_ of_ his_ h ou se_ me e t ing_ the_ gu es ts_ and_ ma s k ers_ ca pu let_ we l come_ gent le men </s>
+<s> la di es_ that_ have_ their_ to es_ un pla gu ed_ with_ c or n s_ will_ have_ a_ b out_ with_ you </s>
+<s> a h _ ha _ my_ mi st r es s es </s>
+<s> which_ of_ you_ all_ will_ now_ d en y_ to_ d an ce </s>
+<s> she_ that_ ma k es_ da in ty_ she_ ill_ sw ear_ hath_ c or n s_ am_ i_ come_ n ear_ y e_ no w </s>
+<s> we l come_ gent le men </s>
+<s> i_have_ se en_ the_ day_ that_ i_have_ wor n_ a_ vi s or_ and_ c ould_ tell_ a_ whi sp er ing_ ta le_ in_ a_ fa ir_ la d ys_ ear_ such_ as_ would_ p lea se_ tis_ g one_ tis_ g one_ tis_ g one_ you_ are_ we l come_ gent le men </s>
+<s> come_ mu si ci an s_ pla y </s>
+<s> a_ ha ll_ a_ ha ll </s>
+<s> give_ ro om </s>
+<s> and_ f oo t_ it_ g ir l s </s>
+<s> mu si c _ pla y s_and_ they_ d ance_ more_ li ght_ you_ k na ves_ and_ tur n_ the_ ta b l es_ up_ and_ qu en ch_ the_ fir e_ the_ ro om_ is_ g ro wn_ too_ ho t </s>
+<s> a h _ si r ra h _ this_ un loo k d for_ sp or t_ com es_ we ll </s>
+<s> n ay_ s it_ n ay_ s it_ good_ c ou s in_ ca pu let_ for_ you_ and_ i_ are_ pa st_ our_ d an c ing_ da ys_ how_ lon g_ i st_ now_ s ince_ la st_ you r self_ and_ i_ were_ in_ a_ ma s k </s>
+<s> se con d_ ca pu let_ b y r_ lady_ th ir ty_ y ear s </s>
+<s> ca pu let_ what_ m an </s>
+<s> tis_ not_ so_ much_ tis_ not_ so_ much_ tis_ s ince_ the_ n up ti al s_ of_ lu c en tio_ come_ p en te co st_ as_ qu i ck ly_ as_ it_ will_ some_ fi ve_ and_ t w en ty_ y ear s_and_ then_ we_ ma s k d </s>
+<s> se con d_ ca pu let_ tis_ more_ tis_ more_ his_ son_ is_ el der_ sir_ his_ son_ is_ th ir t y </s>
+<s> ca pu let_ will_ you_ tell_ me_ th at </s>
+<s> his_ son_ was_ but_ a_ war d_ t w o_ y ears_ ag o </s>
+<s> romeo_ to_ a_ ser v ing man_ what_ lady_ is_ that_ which_ doth_ en ri ch_ the_ h and_ of_ y on der_ k ni gh t </s>
+<s> ser v ant_ i_ know_ not_ si r </s>
+<s> romeo_ o_ she_ doth_ t ea ch_ the_ t or ch es_ to_ b ur n_ b ri gh t </s>
+<s> it_ see m s_ she_ han g s_ upon_ the_ ch ee k_ of_ night_ like_ a_ ri ch_ j e we l_ in_ an_ e th i op es_ ear_ b ea u ty_ too_ ri ch_ for_ use_ for_ ear th_ too_ d ear </s>
+<s> so_ sh o ws_ a_ s no w y_ do ve_ t ro op ing_ with_ c ro ws_ as_ y on der_ lady_ o er_ her_ fe ll o ws_ sh o w s </s>
+<s> the_ m ea s ure_ d one_ ill_ w at ch_ her_ pla ce_ of_ st and_ and_ t ou ch ing_ h ers_ make_ b l es sed_ my_ ru de_ han d </s>
+<s> did_ my_ heart_ love_ ti ll_ no w </s>
+<s> for sw ear_ it_ si gh t </s>
+<s> for_ i_ ne er_ sa w_ tru e_ b ea u ty_ ti ll_ this_ ni gh t </s>
+<s> t y ba lt_ this_ by_ his_ vo i ce_ should_ be_ a_ mon ta gu e </s>
+<s> fe t ch_ me_ my_ ra pi er_ bo y </s>
+<s> what_ d ar es_ the_ s la ve_ come_ hi ther_ co ver d_ with_ an_ an ti c _ fa ce_ to_ f le er_ and_ sc or n_ at_ our_ s o le m ni t y </s>
+<s> now_ by_ the_ st o ck_ and_ hon our_ of_ my_ k in_ to_ st ri ke_ him_ dea d_ i_ ho ld_ it_ not_ a_ s in </s>
+<s> ca pu let_ why_ how_ now_ k in s m an </s>
+<s> wh ere fore_ st or m_ you_ s o </s>
+<s> t y ba lt_ un c le_ this_ is_ a_ mon ta gu e_ our_ fo e_ a_ vi ll a in_ that_ is_ hi ther_ come_ in_ sp i te_ to_ sc or n_ at_ our_ s o le m ni ty_ this_ ni gh t </s>
+<s> ca pu let_ you n g_ romeo_ is_ i t </s>
+<s> t y ba lt_ tis_ he_ that_ vi ll a in_ rome o </s>
+<s> ca pu let_ con t ent_ thee_ gent le_ co z _ let_ him_ al one_ he_ b ears_ him_ like_ a_ por t ly_ gent le man_ and_ to_ say_ tru th_ ver on a_ b ra g s_ of_ him_ to_be_ a_ vi r t u ous_ and_ we ll go ver n d_ you th_ i_ would_ not_ for_ the_ w ea l th_ of_ all_ the_ to wn_ here_ in_ my_ h ou se_ do_ him_ di sp ar ag e ment_ th ere fore_ be_ pa ti ent_ take_ no_ no te_ of_ him_ it_is_ my_ will_ the_ which_ if_ thou_ r es pe c t_ sh ow_ a_ fa ir_ pr es ence_ and_ pu t_ of f_ these_ f ro w n s_and_ i ll b es ee m ing_ se mb l ance_ for_ a_ f ea st </s>
+<s> t y ba lt_ it_ fi ts_ when_ such_ a_ vi ll a in_ is_ a_ gu est_ ill_ not_ en d ure_ hi m </s>
+<s> ca pu let_ he_ shall_ be_ en d ur ed_ what_ g oo d man_ bo y </s>
+<s> i_ say_ he_ shall_ go_ to_ am_ i_ the_ ma st er_ here_ or_ you </s>
+<s> go_ to </s>
+<s> you ll_ not_ en d ure_ hi m </s>
+<s> go d_ shall_ m end_ my_ s ou l </s>
+<s> you ll_ make_ a_ mu t in y_ a mon g_ my_ gu es t s </s>
+<s> you_ will_ se t_ co ck a h oo p </s>
+<s> you ll_ be_ the_ m an </s>
+<s> t y ba lt_ why_ un c le_ tis_ a_ sha me </s>
+<s> ca pu let_ go_ to_ go_ to_ you_ are_ a_ sa u c y_ bo y_ i st_ so_ in de e d </s>
+<s> this_ tri ck_ may_ ch ance_ to_ s ca the_ you_ i_ know_ what_ you_ must_ con t r ar y_ me </s>
+<s> mar ry_ tis_ ti me </s>
+<s> well_ sa id_ my_ hear t s </s>
+<s> you_ are_ a_ pr in co x _ go_ be_ qu i et_ or more_ li ght_ more_ li gh t </s>
+<s> for_ sha me </s>
+<s> ill_ make_ you_ qu i e t </s>
+<s> what_ ch e er ly_ my_ hear t s </s>
+<s> t y ba lt_ pa ti ence_ per for ce_ with_ wi l fu l_ ch ol er_ me e t ing_ ma k es_ my_ f l es h _ t re m ble_ in_ their_ di f f er ent_ g re e t ing </s>
+<s> i_will_ with d ra w_ but_ this_ in tru si on_ shall_ now_ see m ing_ swe et_ con ver t_ to_ b i tter_ ga ll </s>
+<s> exit_ romeo_ to_ ju li et_ if_ i_ pro f an e_ with_ my_ un wor th i est_ h and_ this_ ho ly_ sh r ine_ the_ gent le_ f ine_ is_ this_ my_ li p s_ t w o_ b lu sh ing_ pi l g ri m s_ rea dy_ st and_ to_ s m oo th_ that_ rou gh_ t ou ch_ with_ a_ ten der_ k i ss </s>
+<s> ju li et_ good_ pi l g ri m_ you_ do_ w ron g_ your_ h and_ too_ much_ which_ m an n er ly_ de vo tion_ sh o ws_ in_ this_ for_ sa in ts_ have_ han ds_ that_ pi l g ri m s_ han ds_ do_ t ou ch_ and_ pa l m_ to_ pa l m_ is_ ho ly_ pa l m ers_ k i ss </s>
+<s> romeo_ have_ not_ sa in ts_ li p s_and_ ho ly_ pa l m ers_ t oo </s>
+<s> ju li et_ ay_ pi l g ri m_ li p s_ that_ they_ must_ use_ in_ pra y er </s>
+<s> romeo_ o_ then_ d ear_ sa in t_ let_ li p s_ do_ what_ han ds_ do_ they_ pra y_ g r ant_ thou_ l est_ fa i th_ tur n_ to_ des pa ir </s>
+<s> ju li et_ sa in ts_ do_ not_ mo ve_ thou gh_ g r ant_ for_ pra y ers_ sa k e </s>
+<s> romeo_ then_ mo ve_ not_ whi le_ my_ pra y ers_ e f fe c t_ i_ ta k e </s>
+<s> th us_ from_ my_ li p s_ by_ you r s_ my_ s in_ is_ p ur ge d </s>
+<s> ju li et_ then_ have_ my_ li p s_ the_ s in_ that_ they_ have_ t oo k </s>
+<s> romeo_ s in_ from_ w en ch_ thou_ p ou t st_ upon_ thy_ for tun e_ and_ thy_ love_ take_ he ed_ take_ he ed_ for_ such_ di e_ mi ser ab le </s>
+<s> go_ g et_ thee_ to_ thy_ love_ as_ was_ de c re ed_ a sc end_ her_ c ham b er_ h ence_ and_ com for t_ her_ but_ look_ thou_ st ay_ not_ ti ll_ the_ w at ch_ be_ se t_ for_ then_ thou_ can st_ not_ pa ss_ to_ m ant u a_ where_ thou_ sha lt_ li ve_ ti ll_ we_ can_ f ind_ a_ time_ to_ b la z e_ your_ mar ri ag e_ re con ci le_ your_ fri en ds_ be g_ par d on_ of_the_ pr ince_ and_ ca ll_ thee_ ba ck_ with_ t w en ty_ h un d r ed_ thou s and_ ti m es_ more_ j o y_ than_ thou_ w ent st_ for th_ in_ la men ta ti on </s>
+<s> go_ be fore_ n urse_ com m end_ me_ to_ thy_ lady_ and_ b id_ her_ ha st en_ all_ the_ h ou se_ to_ b ed_ which_ hea v y_ s or row_ ma k es_ them_ a p t_ un to_ romeo_ is_ com ing </s>
+<s> n urse_ o_ lord_ i_ c ould_ have_ st a y d_ here_ all_ the_ night_ to_ hear_ good_ coun se l_ o_ what_ l ear n ing_ i s </s>
+<s> my_lord_ ill_ tell_ my_ lady_ you_ will_ com e </s>
+<s> romeo_ do_ so_ and_ b id_ my_ swe et_ p re p are_ to_ ch i de </s>
+<s> n urse_ here_ sir_ a_ ring_ she_ b id_ me_ give_ you_ sir_ hi e_ you_ make_ ha st e_ for_ it_ g ro ws_ very_ la te </s>
+<s> exit_ romeo_ how_ well_ my_ com for t_ is_ re vi ved_ by_ th i s </s>
+<s> fri ar_ la ur ence_ go_ h ence_ good_ night_ and_ here_ st an ds_ all_ your_ st ate_ e i ther_ be_ g one_ be fore_ the_ w at ch_ be_ se t_ or_ by_ the_ b rea k_ of_ day_ di s gu i sed_ from_ h ence_ s o j our n_ in_ m ant u a_ ill_ f ind_ out_ your_ man_ and_ he_ shall_ si g ni f y_ from_ time_ to_ time_ e very_ good_ ha p_ to_ you_ that_ ch an c es_ here_ give_ me_ thy_ h and_ tis_ la te_ f ar e well_ good_ ni gh t </s>
+<s> romeo_ but_ that_ a_ j o y_ pa st_ j o y_ ca ll s_ out_ on_ me_ it_ were_ a_ g ri e f_ so_ b ri e f_ to_ par t_ with_ thee_ f ar e we ll </s>
+<s> exeunt_ scene_ i v </s>
+<s> a_ ro om_ in_ ca pu le ts_ h ou se </s>
+<s> enter_ ca pu let_ lady_ ca pu let_ and_ par is_ ca pu let_ th ings_ have_ fa ll n_ out_ sir_ so_ un lu ck i ly_ that_ we_ have_ had_ no_ time_ to_ mo ve_ our_ da u gh ter_ look_ you_ she_ lo ved_ her_ k in s man_ t y ba lt_ d ear ly_ and_ so_ did_ i well_ we_ were_ b or n_ to_ di e </s>
+<s> tis_ very_ la te_ sh e ll_ not_ come_ do wn_ t on i ght_ i_ p rom i se_ you_ but_ for_ your_ com p any_ i_ would_ have_ be en_ ab ed_ an_ h our_ ag o </s>
+<s> par is_ these_ ti m es_ of_ w o e_ af for d_ no_ time_ to_ w oo </s>
+<s> ma d am_ good_ night_ com m end_ me_ to_ your_ da u gh ter </s>
+<s> lady_ ca pu let_ i_will_ and_ know_ her_ m ind_ ear ly_ t om or row_ t on i ght_ she_ is_ me w d_ up_ to_ her_ hea v in es s </s>
+<s> ca pu let_ sir_ par is_ i_will_ make_ a_ des per ate_ ten der_ of_ my_ ch i l ds_ love_ i_ think_ she_ will_ be_ ru l ed_ in_ all_ r es pe c ts_ by_ me_ n ay_ more_ i_ d ou b t_ it_ no t </s>
+<s> wi fe_ go_ you_ to_ her_ ere_ you_ go_ to_ b ed_ ac qu a in t_ her_ here_ of_ my_ son_ par is_ love_ and_ b id_ her_ mark_ you_ me_ on_ we d n es day_ ne x t_ but_ s of t </s>
+<s> what_ day_ is_ th i s </s>
+<s> par is_ mon day_ my_lord_ ca pu let_ mon da y </s>
+<s> ha _ ha </s>
+<s> well_ we d n es day_ is_ too_ s o on_ o_ th ur s day_ let_ it_ be_ o_ th ur s day_ tell_ her_ she_ shall_ be_ mar ri ed_ to_ this_ no ble_ ear l </s>
+<s> will_ you_ be_ rea d y </s>
+<s> do_ you_ like_ this_ ha st e </s>
+<s> well_ k ee p_ no_ grea t_ a do a_ fri end_ or_ t w o_ for_ har k_ you_ t y ba lt_ be ing_ s la in_ so_ la te_ it_ may_ be_ thou ght_ we_ he ld_ him_ c ar el es s ly_ be ing_ our_ k in s man_ if_ we_ re v e l_ much_ th ere fore_ well_ have_ some_ ha l f_ a_ do z en_ fri en ds_ and_ there_ an_ en d </s>
+<s> but_ what_ say_ you_ to_ th ur s da y </s>
+<s> par is_ my_lord_ i_ would_ that_ th ur s day_ were_ t om or ro w </s>
+<s> ca pu let_ well_ g et_ you_ g one_ o_ th ur s day_ be_ it_ th en </s>
+<s> go_ you_ to_ ju li et_ ere_ you_ go_ to_ b ed_ p re p are_ her_ wi fe_ aga in st_ this_ we d d ing da y </s>
+<s> f ar e well_ my_ l or d </s>
+<s> li ght_ to_ my_ c ham b er_ ho </s>
+<s> a fore_ me </s>
+<s> it_is_ so_ very_ very_ la te_ that_ we_ may_ ca ll_ it_ ear ly_ by_ and_ b y </s>
+<s> good_ ni gh t </s>
+<s> exeunt_ scene_ v </s>
+<s> ca pu le ts_ or char d </s>
+<s> enter_ romeo_ and_ ju li et_ a bo ve_ at_ the_ w in do w_ ju li et_ wi lt_ thou_ be_ g on e </s>
+<s> it_is_ not_ yet_ n ear_ day_ it_ was_ the_ ni gh t ing a le_ and_ not_ the_ l ar k_ that_ pi er c ed_ the_ f ear fu l_ ho llow_ of_ th ine_ ear_ ni gh t ly_ she_ s ings_ on_ y on_ p om e g ran at e t re e_ be li e ve_ me_ love_ it_ was_ the_ ni gh t ing a le </s>
+<s> romeo_ it_ was_ the_ l ar k_ the_ her a ld_ of_the_ mor n_ no_ ni gh t ing a le_ look_ love_ what_ en vi ous_ st rea ks_ do_ la ce_ the_ se ver ing_ c l ou ds_ in_ y on der_ ea st_ ni gh ts_ can d l es_ are_ b ur n t_ out_ and_ j oc un d_ day_ st an ds_ ti p to e_ on_ the_ mi st y_ m oun ta in_ to p s </s>
+<s> i_ must_ be_ g one_ and_ li ve_ or_ st ay_ and_ di e </s>
+<s> ju li et_ y on_ li ght_ is_ not_ da y li ght_ i_ know_ it_ i_ it_is_ some_ me te or_ that_ the_ s un _ ex ha l es_ to_be_ to_ thee_ this_ night_ a_ t or ch b ear er_ and_ li ght_ thee_ on_ thy_ way_ to_ m ant u a_ th ere fore_ st ay_ yet_ thou_ ne e d st_ not_ to_be_ g on e </s>
+<s> romeo_ let_ me_ be_ ta en_ let_ me_ be_ pu t_ to_ death_ i_am_ con t ent_ so_ thou_ wi lt_ have_ it_ s o </s>
+<s> ill_ say_ y on_ g re y_ is_ not_ the_ mor n ings_ ey e_ tis_ but_ the_ pa le_ re f le x _ of_ c y n th i as_ b row_ nor_ that_ is_ not_ the_ l ar k_ wh ose_ no tes_ do_ b ea t_ the_ v a u l ty_ hea ven_ so_ hi gh_ a bo ve_ our_ hea ds_ i_have_ more_ c are_ to_ st ay_ than_ will_ to_ go_ come_ death_ and_ we l com e </s>
+<s> ju li et_ wi ll s_ it_ s o </s>
+<s> how_ i st_ my_ s ou l </s>
+<s> le ts_ ta l k_ it_is_ not_ da y </s>
+<s> ju li et_ it_is_ it_is_ hi e_ h ence_ be_ g one_ a wa y </s>
+<s> it_is_ the_ l ar k_ that_ s ings_ so_ out_ of_ tun e_ st ra in ing_ har sh_ di sc or ds_ and_ un p lea s ing_ sha r p s </s>
+<s> some_ say_ the_ l ar k_ ma k es_ swe et_ di vi si on_ this_ doth_ not_ so_ for_ she_ di vi de th_ us_ some_ say_ the_ l ar k_ and_ lo a th ed_ to a d_ ch an ge_ ey es_ o_ now_ i_ would_ they_ had_ ch an g ed_ vo i c es_ t oo </s>
+<s> s ince_ ar m_ from_ ar m_ that_ vo i ce_ doth_ us_ af f ra y_ h un t ing_ thee_ h ence_ with_ h un t su p_ to_the_ day_ o_ now_ be_ g one_ more_ li ght_ and_ li ght_ it_ g ro w s </s>
+<s> romeo_ more_ li ght_ and_ li ght_ more_ d ar k_ and_ d ar k_ our_ w o es </s>
+<s> enter_ n urse_ to_the_ c ham b er_ n urse_ ma da m </s>
+<s> ju li et_ n ur se </s>
+<s> n urse_ your_ lady_ mo ther_ is_ com ing_ to_ your_ c ham b er_ the_ day_ is_ b ro ke_ be_ war y_ look_ ab ou t </s>
+<s> exit_ ju li et_ then_ w in do w_ let_ day_ in_ and_ let_ li fe_ ou t </s>
+<s> romeo_ f ar e well_ f ar e we ll </s>
+<s> one_ k i s s_and_ ill_ des c en d </s>
+<s> he_ go e th_ do wn_ ju li et_ art_ thou_ g one_ s o </s>
+<s> love_ lord_ ay_ hu s b and_ fri en d </s>
+<s> i_ must_ hear_ from_ thee_ e very_ day_ in_the_ h our_ for_ in_ a_ m in u te_ there_ are_ m any_ da ys_ o_ by_ this_ coun t_ i_ shall_ be_ much_ in_ y ears_ ere_ i_ aga in_ be ho ld_ my_ rome o </s>
+<s> romeo_ f ar e we ll </s>
+<s> i_will_ om it_ no_ op por tun i ty_ that_ may_ con v e y_ my_ g re e t ings_ love_ to_ the e </s>
+<s> ju li et_ o_ th in k st_ thou_ we_ shall_ e ver_ me et_ aga in </s>
+<s> romeo_ i_ d ou b t_ it_ not_ and_ all_ these_ w o es_ shall_ ser ve_ for_ swe et_ di sc our s es_ in_ our_ time_ to_ com e </s>
+<s> ju li et_ o_ go d_ i_have_ an_ i ll di v in ing_ s ou l </s>
+<s> me th in ks_ i_ see_ thee_ now_ thou_ art_ be lo w_ as_ one_ dea d_ in_the_ bo tt om_ of_ a_ t om b _ e i ther_ my_ ey es i ght_ fa i ls_ or_ thou_ loo k st_ pa le </s>
+<s> romeo_ and_ tru st_ me_ love_ in_ my_ ey e_ so_ do_ you_ d ry_ s or row_ d r in ks_ our_ bloo d </s>
+<s> a di e u _ a di e u </s>
+<s> exit_ ju li et_ o_ for tun e_ for tun e </s>
+<s> all_ men_ ca ll_ thee_ fi ck le_ if_ thou_ art_ fi ck le_ what_ do st_ thou_ with_ hi m </s>
+<s> that_ is_ r en o w n d_ for_ fa i th </s>
+<s> be_ fi ck le_ for tun e_ for_ then_ i_ ho p e_ thou_ wi lt_ not_ k ee p_ him_ lon g_ but_ s end_ him_ ba ck </s>
+<s> lady_ ca pu let_ with in_ h o_ da u gh ter </s>
+<s> are_ you_ up </s>
+<s> ju li et_ who_ i st_ that_ ca ll s </s>
+<s> is_ it_ my_ lady_ mo th er </s>
+<s> is_ she_ not_ do wn_ so_ la te_ or_ up_ so_ ear l y </s>
+<s> what_ un ac cu st om d_ ca use_ pro c ur es_ her_ hi th er </s>
+<s> enter_ lady_ ca pu let_ lady_ ca pu let_ why_ how_ now_ ju li e t </s>
+<s> ju li et_ ma d am_ i_am_ not_ we ll </s>
+<s> lady_ ca pu let_ e ver more_ we e p ing_ for_ your_ c ou s in s_ dea th </s>
+<s> what_ wi lt_ thou_ wa sh_ him_ from_ his_ gra ve_ with_ t ear s </s>
+<s> an_ if_ thou_ c ou ld st_ thou_ c ou ld st_ not_ make_ him_ li ve_ th ere fore_ have_ d one_ some_ g ri e f_ sh o ws_ much_ of_ love_ but_ much_ of_ g ri e f_ sh o ws_ sti ll_ some_ w ant_ of_ wi t </s>
+<s> ju li et_ yet_ let_ me_ we ep_ for_ such_ a_ fe el ing_ lo ss </s>
+<s> lady_ ca pu let_ so_ shall_ you_ fe e l_ the_ lo ss_ but_ not_ the_ fri end_ which_ you_ we ep_ for </s>
+<s> ju li et_ fe el ing_ so_ the_ lo ss_ can not_ ch oo se_ but_ e ver_ we ep_ the_ fri en d </s>
+<s> lady_ ca pu let_ well_ g ir l_ thou_ we e p st_ not_ so_ much_ for_ his_ death_ as_ that_ the_ vi ll a in_ li ves_ which_ s lau gh ter d_ hi m </s>
+<s> ju li et_ what_ vi ll a in_ ma da m </s>
+<s> lady_ ca pu let_ that_ sa me_ vi ll a in_ rome o </s>
+<s> ju li et_ a si de_ vi ll a in_ and_ he_ be_ m any_ mi l es_ a s un der_ go d_ par d on_ hi m </s>
+<s> i_do_ with_ all_ my_ heart_ and_ yet_ no_ man_ like_ he_ doth_ g ri e ve_ my_ hear t </s>
+<s> lady_ ca pu let_ that_ is_ be ca use_ the_ t ra i t or_ m ur der er_ li v es </s>
+<s> ju li et_ ay_ ma d am_ from_ the_ rea ch_ of_ these_ my_ han ds_ would_ n one_ but_ i_ mi ght_ ven ge_ my_ c ou s in s_ dea th </s>
+<s> lady_ ca pu let_ we_ will_ have_ ven ge ance_ for_ it_ f ear_ thou_ not_ then_ we ep_ no_ mor e </s>
+<s> ill_ s end_ to_ one_ in_ m ant u a_ where_ that_ sa me_ b ani sh d_ r un ag ate_ doth_ li ve_ shall_ give_ him_ such_ an_ un ac cu st om d_ d ra m_ that_ he_ shall_ s o on_ k ee p_ t y ba lt_ com p any_ and_ then_ i_ ho p e_ thou_ wi lt_ be_ sa ti s fi e d </s>
+<s> ju li et_ in de ed_ i_ never_ shall_ be_ sa ti s fi ed_ with_ romeo_ ti ll_ i_ be ho ld_ hi m dea d_ is_ my_ po or_ heart_ for_ a_ k in s man_ v ex d </s>
+<s> ma d am_ if_ you_ c ould_ f ind_ out_ but_ a_ man_ to_ b ear_ a_ po i son_ i_ would_ te mp er_ it_ that_ romeo_ should_ upon_ re ce i p t_ th ere of_ s o on_ sle ep_ in_ qu i e t </s>
+<s> o_ how_ my_ heart_ ab hor s_ to_ hear_ him_ na m ed_ and_ can not_ come_ to_ hi m </s>
+<s> to_ w rea k_ the_ love_ i_ b or e_ my_ c ou s in_ upon_ his_ bo dy_ that_ s lau gh ter d_ hi m </s>
+<s> lady_ ca pu let_ f ind_ thou_ the_ me an s_and_ ill_ f ind_ such_ a_ m an </s>
+<s> but_ now_ ill_ tell_ thee_ j o y fu l_ ti d ings_ g ir l </s>
+<s> ju li et_ and_ j o y_ com es_ well_ in_ such_ a_ ne e dy_ time_ what_ are_ they_ i_ b es ee ch_ your_ la d y sh i p </s>
+<s> lady_ ca pu let_ well_ well_ thou_ ha st_ a_ c ar e fu l_ fa ther_ ch i ld_ one_ who_ to_ pu t_ thee_ from_ thy_ hea v in ess_ hath_ s or ted_ out_ a_ su d d en_ day_ of_ j o y_ that_ thou_ ex pe c t st_ not_ nor_ i_ loo k d_ not_ for </s>
+<s> ju li et_ ma d am_ in_ ha pp y_ time_ what_ day_ is_ th at </s>
+<s> lady_ ca pu let_ mar ry_ my_ ch i ld_ ear ly_ ne x t_ th ur s day_ mor n_ the_ ga ll ant_ you n g_ and_ no ble_ gent le man_ the_ coun ty_ par is_ at_ sa in t_ pe t ers_ ch ur ch_ shall_ ha pp i ly_ make_ thee_ there_ a_ j o y fu l_ b ri de </s>
+<s> ju li et_ now_ by_ sa in t_ pe t ers_ ch ur ch_ and_ pe ter_ too_ he_ shall_ not_ make_ me_ there_ a_ j o y fu l_ b ri de </s>
+<s> i_ w on der_ at_ this_ ha st e_ that_ i_ must_ w ed_ ere_ he_ that_ should_ be_ hu s b and_ com es_ to_ w oo </s>
+<s> i_ pra y_ you_ tell_ my_lord_ and_ fa ther_ ma d am_ i_will_ not_ mar ry_ yet_ and_ when_ i_do_ i_ sw ear_ it_ shall_ be_ romeo_ wh om_ you_ know_ i_ ha te_ ra ther_ than_ par i s </s>
+<s> these_ are_ ne ws_ in de e d </s>
+<s> lady_ ca pu let_ here_ com es_ your_ fa ther_ tell_ him_ so_ you r self_ and_ see_ how_ he_ will_ take_ it_ at_ your_ han d s </s>
+<s> enter_ ca pu let_ and_ n urse_ ca pu let_ when_ the_ s un _ se ts_ the_ a ir_ doth_ d ri z z le_ de w_ but_ for_ the_ s un se t_ of_ my_ b ro th ers_ son_ it_ ra in s_ do w n ri gh t </s>
+<s> how_ no w </s>
+<s> a_ con du it_ g ir l </s>
+<s> what_ sti ll_ in_ t ear s </s>
+<s> e ver more_ sh o w er ing </s>
+<s> in_ one_ li tt le_ bo dy_ thou_ coun ter fe i t st_ a_ b ar k_ a_ s ea _ a_ w ind_ for_ sti ll_ thy_ ey es_ which_ i_ may_ ca ll_ the_ s ea _ do_ e b b _ and_ f lo w_ with_ t ears_ the_ b ar k_ thy_ bo dy_ is_ sa i l ing_ in_ this_ sa lt_ f loo d_ the_ w in ds_ thy_ si gh s_ who_ ra g ing_ with_ thy_ t ear s_and_ they_ with_ them_ wi thou t_ a_ su d d en_ ca l m_ will_ o ver se t_ thy_ te mp es t to ss ed_ bo d y </s>
+<s> how_ now_ wi fe </s>
+<s> have_ you_ de li ver d_ to_ her_ our_ de c re e </s>
+<s> lady_ ca pu let_ ay_ sir_ but_ she_ will_ n one_ she_ gi ves_ you_ th an k s </s>
+<s> i_ would_ the_ f oo l_ were_ mar ri ed_ to_ her_ gra v e </s>
+<s> ca pu let_ s of t </s>
+<s> take_ me_ with_ you_ take_ me_ with_ you_ wi fe </s>
+<s> ho w </s>
+<s> will_ she_ n on e </s>
+<s> doth_ she_ not_ give_ us_ th an k s </s>
+<s> is_ she_ not_ pr ou d </s>
+<s> doth_ she_ not_ coun t_ her_ b l est_ un wor thy_ as_ she_ is_ that_ we_ have_ w rou ght_ so_ wor thy_ a_ gent le man_ to_be_ her_ b ri de g ro om </s>
+<s> ju li et_ not_ pr ou d_ you_ have_ but_ th an k fu l_ that_ you_ have_ pr ou d_ can_ i_ never_ be_ of_ what_ i_ ha te_ but_ th an k fu l_ e ven_ for_ ha te_ that_ is_ me ant_ lo v e </s>
+<s> ca pu let_ how_ now_ how_ now_ ch op lo gi c </s>
+<s> what_ is_ th i s </s>
+<s> pr ou d_ and_ i_ th an k_ you_ and_ i_ a pp ro a ch_ and_ spea k </s>
+<s> e up h ron ius_ such_ as_ i_am_ i_ come_ from_ antony_ i_ was_ of_ la te_ as_ pe t ty_ to_ his_ en ds_ as_ is_ the_ mor n de w_ on_ the_ m y r t le lea f_ to_ his_ g r and_ s ea </s>
+<s> octavius_ caesar_ be t_ so_ de c l are_ th ine_ of fi ce </s>
+<s> e up h ron ius_ lord_ of_ his_ for tun es_ he_ sa lu tes_ thee_ and_ re qu ir es_ to_ li ve_ in_ e g y p t_ which_ not_ g r ant ed_ he_ l es sen s_ his_ re qu es ts_ and_ to_ thee_ su es_ to_ let_ him_ b rea the_ be t we en_ the_ hea ven s_and_ ear th_ a_ pri v ate_ man_ in_ a th en s_ this_ for_ hi m </s>
+<s> ne x t_ cleopatra_ do es_ con f ess_ thy_ grea t ness_ su b mi ts_ her_ to_ thy_ mi ght_ and_ of_ thee_ c ra ves_ the_ c ir c le_ of_the_ p to le mi es_ for_ her_ he ir s_ now_ ha z ar d ed_ to_ thy_ gra ce </s>
+<s> octavius_ caesar_ for_ antony_ i_have_ no_ ears_ to_ his_ re qu es t </s>
+<s> the_ queen_ of_ a u di ence_ nor_ des ir e_ shall_ fa i l_ so_ she_ from_ e g y p t_ d ri ve_ her_ a ll di s gra c ed_ fri end_ or_ take_ his_ li fe_ there_ this_ if_ she_ per for m_ she_ shall_ not_ su e_ un hear d </s>
+<s> so_ to_ them_ bo th </s>
+<s> e up h ron ius_ for tun e_ p ur su e_ the e </s>
+<s> octavius_ caesar_ b ring_ him_ th rou gh_ the_ ban d s </s>
+<s> exit_ e up h ron ius_ to_ th y re us_ to_ t ry_ e lo qu ence_ now_ tis_ time_ di sp at ch_ from_ antony_ w in_ cleopatra_ p rom i se_ and_ in_ our_ na me_ what_ she_ re qu ir es_ a d d_ more_ from_ th ine_ in ven tion_ of f ers_ w om en_ are_ not_ in_ their_ b est_ for tun es_ st ron g_ but_ w ant_ will_ per j ure_ the_ ne er_ t ou ch d_ v es ta l_ t ry_ thy_ c un n ing_ th y re us_ make_ th ine_ o wn_ e di c t_ for_ thy_ pa in s_ which_ we_ will_ an sw er_ as_ a_ la w </s>
+<s> th y re us_ caesar_ i_ go </s>
+<s> octavius_ caesar_ ob ser ve_ how_ antony_ be com es_ his_ f la w_ and_ what_ thou_ th in k st_ his_ very_ ac tion_ spea ks_ in_ e very_ po w er_ that_ mo v es </s>
+<s> th y re us_ caesar_ i_ sha ll </s>
+<s> exeunt_ scene_ x i i i </s>
+<s> a le x an d ri a </s>
+<s> cleopat ra s_ pa la ce </s>
+<s> enter_ cleopatra_ d om i ti us_ en ob arb us_ char mi an_ and_ i ra s_ cleopatra_ what_ shall_ we_ do_ en ob ar bu s </s>
+<s> d om i ti us_ en ob arb us_ think_ and_ di e </s>
+<s> cleopatra_ is_ antony_ or_ we_ in_ fa u lt_ for_ th i s </s>
+<s> d om i ti us_ en ob arb us_ antony_ on ly_ that_ would_ make_ his_ will_ lord_ of_ his_ rea s on </s>
+<s> what_ thou gh_ you_ f l ed_ from_ that_ grea t_ fa ce_ of_ w ar_ wh ose_ se ver al_ ran g es_ fri gh ted_ ea ch_ o th er </s>
+<s> why_ should_ he_ fo ll o w </s>
+<s> the_ i t ch_ of_ his_ af fe c tion_ should_ not_ then_ have_ ni ck d_ his_ ca p ta in sh i p_ at_ such_ a_ po in t_ when_ ha l f_ to_ ha l f_ the_ wor ld_ op po sed_ he_ be ing_ the_ me er ed_ qu es tion_ t was_ a_ sha me_ no_ l ess_ than_ was_ his_ lo ss_ to_ c our se_ your_ f l y ing_ f la g s_and_ lea ve_ his_ na v y_ ga z ing </s>
+<s> cleopatra_ pri thee_ p ea ce </s>
+<s> enter_ mark_antony_ with_ e up h ron ius_ the_ a m ba s sa d or_ mark_antony_ is_ that_ his_ an sw er </s>
+<s> e up h ron ius_ ay_ my_ l or d </s>
+<s> mark_antony_ the_ queen_ shall_ then_ have_ c our t es y_ so_ she_ will_ y i e ld_ us_ up </s>
+<s> e up h ron ius_ he_ sa ys_ s o </s>
+<s> mark_antony_ let_ her_ kno w t </s>
+<s> to_the_ bo y_ caesar_ s end_ this_ g ri z z l ed_ hea d_ and_ he_ will_ fi ll_ thy_ wi sh es_ to_the_ b ri m_ with_ pr in ci pa li ti es </s>
+<s> cleopatra_ that_ hea d_ my_ l or d </s>
+<s> mark_antony_ to_ him_ aga in_ tell_ him_ he_ w ears_ the_ ro se_ of_ you th_ upon_ him_ from_ which_ the_ wor ld_ should_ no te_ som e thing_ par ti cu la r_ his_ co in_ sh i p s_ le gi ons_ may_ be_ a_ co war ds_ wh ose_ m in i st ers_ would_ p re v a i l_ un der_ the_ ser vi ce_ of_ a_ ch i ld_ as_ s o on_ as_ i_ the_ com m and_ of_ caesar_ i_ d are_ him_ th ere fore_ to_ la y_ his_ g ay_ com par i s ons_ a par t_ and_ an sw er_ me_ de c l in ed_ sw ord_ aga in st_ sw ord_ our sel ves_ al on e </s>
+<s> ill_ w ri te_ it_ fo llow_ me </s>
+<s> exeunt_ mark_antony_ and_ e up h ron ius_ d om i ti us_ en ob arb us_ a si de_ y es_ like_ en ou gh_ hi gh b at t l ed_ caesar_ will_ un st ate_ his_ ha pp in ess_ and_ be_ st ag ed_ to_the_ sh ow_ aga in st_ a_ s wor der </s>
+<s> i_ see_ men s_ ju d g men ts_ are_ a_ par ce l_ of_ their_ for tun es_and_ th ings_ ou t war d_ do_ d ra w_ the_ in war d_ qu a li ty_ af ter_ them_ to_ su f f er_ all_ a li k e </s>
+<s> that_ he_ should_ d rea m_ kno w ing_ all_ m ea s ur es_ the_ fu ll_ caesar_ will_ an sw er_ his_ e mp t in es s </s>
+<s> caesar_ thou_ ha st_ su b du ed_ his_ ju d g ment_ t oo </s>
+<s> enter_ an_ at ten d ant_ at ten d ant_ a_ m es sen ger_ from_ caes ar </s>
+<s> cleopatra_ what_ no_ more_ c ere mon y </s>
+<s> see_ my_ w om en </s>
+<s> aga in st_ the_ b lo wn_ ro se_ may_ they_ st o p_ their_ no se_ that_ k ne e ld_ un to_the_ bu d s </s>
+<s> a d m it_ him_ si r </s>
+<s> exit_ at ten d ant_ d om i ti us_ en ob arb us_ a si de_ mine_ hon es ty_ and_ i_ be g in_ to_ s qu ar e </s>
+<s> the_ lo y al ty_ well_ he ld_ to_ f oo ls_ do es_ make_ our_ fa i th_ m ere_ fo ll y_ yet_ he_ that_ can_ en d ure_ to_ fo llow_ with_ a ll e gi ance_ a_ fa ll n_ lord_ do es_ con qu er_ him_ that_ did_ his_ ma st er_ con qu er_ and_ ear n s_ a_ pla ce_ i_ the_ st or y </s>
+<s> enter_ th y re us_ cleopatra_ caes ar s_ wi ll </s>
+<s> th y re us_ hear_ it_ a par t </s>
+<s> cleopatra_ n one_ but_ fri en ds_ say_ bo ld l y </s>
+<s> th y re us_ so_ ha p ly_ are_ they_ fri en ds_ to_ anton y </s>
+<s> d om i ti us_ en ob arb us_ he_ ne e ds_ as_ m any_ sir_ as_ caesar_ ha s_ or_ ne e ds_ not_ u s </s>
+<s> if_ caesar_ p lea se_ our_ ma st er_ will_ lea p_ to_be_ his_ fri end_ for_ us_ you_ know_ wh ose_ he_ is_ we_ are_ and_ that_ is_ caes ar s </s>
+<s> th y re us_ s o </s>
+<s> th us_ then_ thou_ most_ r en o w n d_ caesar_ ent rea ts_ not_ to_ con si der_ in_ what_ ca se_ thou_ st an d st_ f ur ther_ than_ he_ is_ caes ar </s>
+<s> cleopatra_ go_ on_ ri ght_ ro y al </s>
+<s> th y re us_ he_ kno ws_ that_ you_ e mb ra ce_ not_ antony_ as_ you_ did_ love_ but_ as_ you_ f ear d_ hi m </s>
+<s> cleopatra_ o </s>
+<s> th y re us_ the_ sc ar s_ upon_ your_ hon our_ th ere fore_ he_ do es_ pi ty_ as_ con st ra in ed_ b le mi sh es_ not_ as_ des er v e d </s>
+<s> cleopatra_ he_ is_ a_ go d_ and_ kno ws_ what_ is_ most_ ri ght_ mine_ hon our_ was_ not_ y i el d ed_ but_ con qu er d_ m ere l y </s>
+<s> d om i ti us_ en ob arb us_ a si de_ to_be_ s ure_ of_ that_ i_will_ a s k_ anton y </s>
+<s> sir_ sir_ thou_ art_ so_ lea k y_ that_ we_ must_ lea ve_ thee_ to_ thy_ s in king_ for_ thy_ d ear est_ qu it_ the e </s>
+<s> exit_ th y re us_ shall_ i_ say_ to_ caesar_ what_ you_ re qu ir e_ of_ hi m </s>
+<s> for_ he_ par t ly_ be g s_ to_be_ des ir ed_ to_ gi v e </s>
+<s> it_ much_ would_ p lea se_ him_ that_ of_ his_ for tun es_ you_ should_ make_ a_ st af f_ to_ le an_ upon_ but_ it_ would_ war m_ his_ sp i ri ts_ to_ hear_ from_ me_ you_ had_ le f t_ antony_ and_ pu t_ you r self_ un der_ his_ sh ro w d_ the_ un i ver sa l_ l an d l or d </s>
+<s> cleopatra_ wha ts_ your_ na me </s>
+<s> th y re us_ my_ na me_ is_ th y re u s </s>
+<s> cleopatra_ most_ k ind_ m es sen ger_ say_ to_ grea t_ caesar_ this_ in_ de pu ta tion_ i_ k i ss_ his_ con qu er ing_ h and_ tell_ him_ i_am_ p rom p t_ to_ la y_ my_ c ro wn_ at_ s_ fe et_ and_ there_ to_ k ne e l_ tell_ him_ from_ his_ a ll o be y ing_ b rea th_ i_ hear_ the_ do om_ of_ e g y p t </s>
+<s> th y re us_ tis_ your_ no b l est_ c our se </s>
+<s> wi s d om_ and_ for tun e_ com b at ing_ to ge ther_ if_ that_ the_ for m er_ d are_ but_ what_ it_ can_ no_ ch ance_ may_ sha ke_ i t </s>
+<s> give_ me_ gra ce_ to_ la y_ my_ du ty_ on_ your_ han d </s>
+<s> cleopatra_ your_ caes ar s_ fa ther_ of t_ when_ he_ hath_ mu sed_ of_ ta king_ k ing d om s_ in_ b es to w d_ his_ li p s_ on_ that_ un wor thy_ pla ce_ as_ it_ ra ind_ k i ss es </s>
+<s> re enter_ mark_antony_ and_ d om i ti us_ en ob arb us_ mark_antony_ fa v our s_ by_ j o ve_ that_ th un der s </s>
+<s> what_ art_ thou_ fe ll o w </s>
+<s> th y re us_ one_ that_ but_ per for m s_ the_ b i d d ing_ of_the_ fu ll est_ man_ and_ wor th i est_ to_ have_ com m and_ o be y d </s>
+<s> d om i ti us_ en ob arb us_ a si de_ you_ will_ be_ whi pp d </s>
+<s> mark_antony_ a pp ro a ch_ th ere </s>
+<s> a h _ you_ k i te </s>
+<s> now_ go ds_ and_ de vi l s </s>
+<s> a u th or i ty_ me l ts_ from_ me_ of_ la te_ when_ i_ c ri ed_ h o_ like_ bo ys_ un to_ a_ mu ss_ k ings_ would_ st art_ for th_ and_ c ry_ your_ will_ have_ you_ no_ ear s </s>
+<s> i_am_ antony_ y e t </s>
+<s> enter_ at ten d an ts_ take_ h ence_ this_ j a ck_ and_ whi p_ hi m </s>
+<s> d om i ti us_ en ob arb us_ a si de_ tis_ be tter_ pla y ing_ with_ a_ li ons_ wh el p_ than_ with_ an_ o ld_ one_ d y ing </s>
+<s> mark_antony_ mo on_ and_ st ar s </s>
+<s> whi p_ hi m </s>
+<s> w er et_ t w en ty_ of_the_ grea t est_ tri bu t ar i es_ that_ do_ a ck no w le d ge_ caesar_ should_ i_ f ind_ them_ so_ sa u c y_ with_ the_ h and_ of_ she_ h ere wha ts_ her_ na me_ s ince_ she_ was_ cleopat ra </s>
+<s> whi p_ him_ fe ll o ws_ ti ll_ like_ a_ bo y_ you_ see_ him_ c r ing e_ his_ fa ce_ and_ wh ine_ al ou d_ for_ mer c y_ take_ him_ h en ce </s>
+<s> th y re us_ mark_ anton y </s>
+<s> mark_antony_ t u g_ him_ a way_ be ing_ whi pp d_ b ring_ him_ aga in_ this_ j a ck_ of_ caes ar s_ shall_ b ear_ us_ an_ a_ thou s and_ sir_ ear ly_ thou ght_ be_ have_ on_ their_ ri v e ted_ tri m_ and_ at_ the_ por t_ ex pe c t_ you </s>
+<s> sh ou t </s>
+<s> tru mp e ts_ f l ou ri sh_ enter_ ca p ta in s_and_ s ol di ers_ ca p ta in_the_ mor n_ is_ fa ir </s>
+<s> good_ mor row_ g en er al </s>
+<s> all_ good_ mor row_ g en er al </s>
+<s> mark_antony_ tis_ well_ b lo wn_ la ds_ this_ mor n ing_ like_ the_ sp ir it_ of_ a_ you th_ that_ me an s_ to_be_ of_ no te_ be g in s_ be ti m es </s>
+<s> so_ so_ come_ give_ me_ that_ this_ way_ well_ sa i d </s>
+<s> f are_ thee_ well_ da me_ wha te er_ be com es_ of_ me_ this_ is_ a_ s ol di ers_ k i ss_ re bu k ea ble_ k i ss es_ her_ and_ wor thy_ sha me fu l_ ch e qu e_ it_ were_ to_ st and_ on_ more_ me ch ani c _ com p li ment_ ill_ lea ve_ thee_ now_ like_ a_ man_ of_ st ee l </s>
+<s> you_ that_ will_ fi ght_ fo llow_ me_ c lo se_ ill_ b ring_ you_ to t </s>
+<s> a di e u </s>
+<s> exeunt_ mark_antony_ er o s_ ca p ta in s_and_ s ol di ers_ char mi an_ p lea se_ you_ re ti r e_ to_ your_ c ham b er </s>
+<s> cleopatra_ lea d_ me </s>
+<s> he_ go es_ for th_ ga ll ant l y </s>
+<s> that_ he_ and_ caesar_ mi ght_ de ter mine_ this_ grea t_ w ar_ in_ s ing le_ fi gh t </s>
+<s> then_ anton y but_ no w well_ on </s>
+<s> exeunt_ scene_ v </s>
+<s> a le x an d ri a </s>
+<s> mark_ anton ys_ ca mp </s>
+<s> tru mp e ts_ s oun d </s>
+<s> enter_ mark_antony_ and_ er o s_ a_ s ol di er_ me e t ing_ them_ s ol di er_ the_ go ds_ make_ this_ a_ ha pp y_ day_ to_ anton y </s>
+<s> mark_antony_ would_ thou_ and_ th ose_ thy_ sc ar s_ had_ on ce_ p re v a i ld_ to_ make_ me_ fi ght_ at_ l an d </s>
+<s> s ol di er_ ha d st_ thou_ d one_ so_ the_ k ings_ that_ have_ re v ol ted_ and_ the_ s ol di er_ that_ ha s_ this_ mor n ing_ le f t_ thee_ would_ have_ sti ll_ fo ll o w d_ thy_ he el s </s>
+<s> mark_antony_ wh o s_ g one_ this_ mor n ing </s>
+<s> s ol di er_ wh o </s>
+<s> one_ e ver_ n ear_ thee_ ca ll_ for_ en ob arb us_ he_ shall_ not_ hear_ thee_ or_ from_ caes ar s_ ca m p_ say_ i_am_ n one_ of_ th ine_ mark_antony_ what_ sa y st_ thou </s>
+<s> s ol di er_ sir_ he_ is_ with_ caes ar </s>
+<s> er o s_ sir_ his_ ch es ts_ and_ t rea s ure_ he_ ha s_ not_ with_ hi m </s>
+<s> mark_antony_ is_ he_ g on e </s>
+<s> s ol di er_ most_ c er ta in </s>
+<s> mark_antony_ go_ er o s_ s end_ his_ t rea s ure_ af ter_ do_ it_ de ta in_ no_ j o t_ i_ char ge_ thee_ w ri te_ to_ him_ i_will_ su b sc ri be gent le_ a di e us_ and_ g re e t ings_ say_ that_ i_ wi sh_ he_ never_ f ind_ more_ ca use_ to_ ch an ge_ a_ ma st er </s>
+<s> o_ my_ for tun es_ have_ c or ru p ted_ hon est_ men </s>
+<s> di sp at ch en ob ar bu s </s>
+<s> exeunt_ scene_ vi </s>
+<s> a le x an d ri a </s>
+<s> octavius_ caes ar s_ ca mp </s>
+<s> f l ou ri sh </s>
+<s> enter_ octavius_ caesar_ ag ri pp a_ with_ d om i ti us_ en ob arb us_ and_ o th ers_ octavius_ caesar_ go_ for th_ ag ri pp a_ and_ be g in_the_ fi ght_ our_ will_ is_ antony_ be_ t oo k_ a li ve_ make_ it_ so_ kno w n </s>
+<s> ag ri pp a_ caesar_ i_ sha ll </s>
+<s> exit_ octavius_ caesar_ the_ time_ of_ un i ver sa l_ p ea ce_ is_ n ear_ pro ve_ this_ a_ pro sp er ous_ day_ the_ th re en oo k d_ wor ld_ shall_ b ear_ the_ o li ve_ f re el y </s>
+<s> enter_ a_ m es sen ger_ m es sen ger_ antony_ is_ come_ in to_the_ fi el d </s>
+<s> octavius_ caesar_ go_ char ge_ ag ri pp a_ p l ant_ th ose_ that_ have_ re v ol ted_ in_the_ v an_ that_ antony_ may_ see m_ to_ sp end_ his_ f ur y_ upon_ hi m sel f </s>
+<s> exeunt_ all_ but_ d om i ti us_ en ob arb us_ d om i ti us_ en ob arb us_ a le x as_ did_ re v ol t_ and_ w ent_ to_ j e w ry_ on_ af fa ir s_ of_ antony_ there_ did_ per su a de_ grea t_ her o d_ to_ in c l ine_ hi m self_ to_ caesar_ and_ lea ve_ his_ ma st er_ antony_ for_ this_ pa in s_ caesar_ hath_ han g d_ hi m </s>
+<s> c ani di us_ and_ the_ r est_ that_ fe ll_ a way_ have_ ent er ta in ment_ but_ no_ hon ou ra ble_ tru st </s>
+<s> i_have_ d one_ ill_ of_ which_ i_do_ ac cu se_ m y self_ so_ s or e ly_ that_ i_will_ j o y_ no_ mor e </s>
+<s> enter_ a_ s ol di er_ of_ caes ar s_ s ol di er_ en ob arb us_ antony_ hath_ af ter_ thee_ s ent_ all_ thy_ t rea s ure_ with_ his_ b oun ty_ o ver p l us_ the_ m es sen ger_ ca me_ on_ my_ gu ar d_ and_ at_ thy_ t ent_ is_ now_ un lo a d ing_ of_ his_ mu l es </s>
+<s> d om i ti us_ en ob arb us_ i_ give_ it_ you </s>
+<s> s ol di er_ mo ck_ not_ en ob ar bu s </s>
+<s> i_ tell_ you_ tru e_ b est_ you_ sa f ed_ the_ b r ing er_ out_ of_the_ ho st_ i_ must_ at t end_ mine_ of fi ce_ or_ would_ have_ d on et_ m y sel f </s>
+<s> your_ e mp er or_ con t in u es_ sti ll_ a_ j o v e </s>
+<s> exit_ d om i ti us_ en ob arb us_ i_am_ al one_ the_ vi ll a in_ of_the_ ear th_ and_ fe e l_ i_am_ so_ mo st </s>
+<s> o_ antony_ thou_ mine_ of_ b oun ty_ how_ w ou ld st_ thou_ have_ pa id_ my_ be tter_ ser vi ce_ when_ my_ tur pi t u de_ thou_ do st_ so_ c ro wn_ with_ go ld </s>
+<s> this_ b lo ws_ my_ heart_ if_ s wi f t_ thou ght_ b rea k_ it_ not_ a_ s wi f ter_ me an_ shall_ ou t st ri ke_ thou ght_ but_ thou ght_ will_ do t_ i_ fe el </s>
+<s> i_ fi ght_ aga in st_ the e </s>
+<s> no_ i_will_ go_ see k_ some_ di t ch_ wh ere in_ to_ di e_ the_ f ou l st_ b est_ fi ts_ my_ la tter_ par t_ of_ li fe </s>
+<s> exit_ scene_ vi i </s>
+<s> fi e ld_ of_ b at t le_ be t we en_ the_ ca mp s </s>
+<s> al ar u m </s>
+<s> d ru m s_and_ tru mp e t s </s>
+<s> enter_ ag ri pp a_ and_ o th ers_ ag ri pp a_ re ti r e_ we_ have_ en g ag ed_ our sel ves_ too_ fa r_ caesar_ hi m self_ ha s_ wor k_ and_ our_ op pr es si on_ ex ce e ds_ what_ we_ ex pe c te d </s>
+<s> exeunt_ al ar u m s </s>
+<s> enter_ mark_antony_ and_ sc ar us_ w oun d ed_ sc ar us_ o_ my_ b ra ve_ e mp er or_ this_ is_ f ou ght_ h and_ in_ h and_ and_ with_ that_ k ind_ of_ f ru it_ as_ ma i ds_ ca ll_ me d l ar s_ when_ they_ lau gh_ al on e </s>
+<s> romeo_ that_ she_ were_ o_ that_ she_ were_ an_ op en_ et_ ca e ter a_ thou_ a_ po per in_ p ear </s>
+<s> romeo_ good_ night_ ill_ to_ my_ tru ck le b ed_ this_ fi el d b ed_ is_ too_ co ld_ for_ me_ to_ sle ep_ come_ shall_ we_ go </s>
+<s> b en vo li o_ go_ then_ for_ tis_ in_ v a in_ to_ see k_ him_ here_ that_ me an s_ not_ to_be_ f oun d </s>
+<s> exeunt_ scene_ i i </s>
+<s> ca pu le ts_ or char d </s>
+<s> enter_ romeo_ romeo_ he_ j es ts_ at_ sc ar s_ that_ never_ fe lt_ a_ w oun d </s>
+<s> ju li et_ a pp ears_ a bo ve_ at_ a_ w in do w_ but_ s of t </s>
+<s> what_ li ght_ th rou gh_ y on der_ w in do w_ b rea k s </s>
+<s> it_is_ the_ ea st_ and_ ju li et_ is_ the_ s un </s>
+<s> ar i se_ fa ir_ s un _ and_ k ill_ the_ en vi ous_ mo on_ who_ is_ al rea dy_ si ck_ and_ pa le_ with_ g ri e f_ that_ thou_ her_ ma id_ art_ fa r_ more_ fa ir_ than_ she_ be_ not_ her_ ma id_ s ince_ she_ is_ en vi ous_ her_ v es ta l_ li very_ is_ but_ si ck_ and_ g re en_ and_ n one_ but_ f oo ls_ do_ w ear_ it_ ca st_ it_ of f </s>
+<s> it_is_ my_ lady_ o_ it_is_ my_ lo v e </s>
+<s> o_ that_ she_ k ne w_ she_ w ere </s>
+<s> she_ spea ks_ yet_ she_ sa ys_ no thing_ what_ of_ th at </s>
+<s> her_ ey e_ di sc our s es_ i_will_ an sw er_ i t </s>
+<s> i_am_ too_ bo ld_ tis_ not_ to_ me_ she_ spea ks_ t w o_ of_the_ fa ir est_ st ar s_ in_ all_ the_ hea ven_ ha v ing_ some_ bu s in ess_ do_ ent rea t_ her_ ey es_ to_ t w in k le_ in_ their_ sp her es_ ti ll_ they_ re tur n </s>
+<s> what_ if_ her_ ey es_ were_ there_ they_ in_ her_ hea d </s>
+<s> the_ b ri gh t ness_ of_ her_ ch ee k_ would_ sha me_ th ose_ st ar s_ as_ da y li ght_ doth_ a_ la m p_ her_ ey es_ in_ hea ven_ would_ th rou gh_ the_ a ir y_ re gi on_ st rea m_ so_ b ri ght_ that_ b ir ds_ would_ s ing_ and_ think_ it_ were_ not_ ni gh t </s>
+<s> see_ how_ she_ le an s_ her_ ch ee k_ upon_ her_ han d </s>
+<s> o_ that_ i_ were_ a_ g love_ upon_ that_ h and_ that_ i_ mi ght_ t ou ch_ that_ ch ee k </s>
+<s> ju li et_ ay_ me </s>
+<s> romeo_ she_ spea ks_ o_ speak_ aga in_ b ri ght_ an g el </s>
+<s> for_ thou_ art_ as_ g l or i ous_ to_ this_ night_ be ing_ o er_ my_ hea d_ as_ is_ a_ w ing ed_ m es sen ger_ of_ hea ven_ un to_the_ whi te up tur n ed_ w on der ing_ ey es_ of_ mor ta ls_ that_ fa ll_ ba ck_ to_ ga z e_ on_ him_ when_ he_ b es tri d es_ the_ la z y pa c ing_ c l ou ds_ and_ sa i ls_ upon_ the_ bo som _ of_the_ a ir </s>
+<s> ju li et_ o_ romeo_ rome o </s>
+<s> wh ere fore_ art_ thou_ rome o </s>
+<s> d en y_ thy_ fa ther_ and_ re fu se_ thy_ na me_ or_ if_ thou_ wi lt_ not_ be_ but_ s wor n_ my_ love_ and_ ill_ no_ lon ger_ be_ a_ ca pu le t </s>
+<s> romeo_ a si de_ shall_ i_ hear_ more_ or_ shall_ i_ speak_ at_ th i s </s>
+<s> ju li et_ tis_ but_ thy_ na me_ that_ is_ my_ en e my_ thou_ art_ th y self_ thou gh_ not_ a_ mon ta gu e </s>
+<s> wha ts_ mon ta gu e </s>
+<s> it_is_ nor_ h and_ nor_ f oo t_ nor_ ar m_ nor_ fa ce_ nor_ any_ other_ par t_ be lon g ing_ to_ a_ m an </s>
+<s> o_ be_ some_ other_ na me </s>
+<s> wha ts_ in_ a_ na me </s>
+<s> that_ which_ we_ ca ll_ a_ ro se_ by_ any_ other_ na me_ would_ s me ll_ as_ swe et_ so_ romeo_ would_ were_ he_ not_ romeo_ ca ll d_ re ta in_ that_ d ear_ per fe c tion_ which_ he_ o w es_ wi thou t_ that_ ti t le </s>
+<s> romeo_ do f f_ thy_ na me_ and_ for_ that_ na me_ which_ is_ no_ par t_ of_ thee_ take_ all_ m y sel f </s>
+<s> romeo_ i_ take_ thee_ at_ thy_ w ord_ ca ll_ me_ but_ love_ and_ ill_ be_ ne w_ ba p ti z ed_ h en ce for th_ i_ never_ will_ be_ rome o </s>
+<s> ju li et_ what_ man_ art_ thou_ that_ th us_ b es c re end_ in_ night_ so_ st u mb l est_ on_ my_ coun sel </s>
+<s> romeo_ by_ a_ na me_ i_ know_ not_ how_ to_ tell_ thee_ who_ i_am_ my_ na me_ d ear_ sa in t_ is_ ha te fu l_ to_ m y self_ be ca use_ it_is_ an_ en e my_ to_ thee_ had_ i_ it_ w ri tt en_ i_ would_ t ear_ the_ wor d </s>
+<s> ju li et_ my_ ears_ have_ not_ yet_ d r un k_ a_ h un d r ed_ wor ds_ of_ that_ t on gu es_ u tt er ance_ yet_ i_ know_ the_ s ound_ art_ thou_ not_ romeo_ and_ a_ mon ta gu e </s>
+<s> romeo_ ne i ther_ fa ir_ sa in t_ if_ e i ther_ thee_ di s li k e </s>
+<s> ju li et_ how_ ca m est_ thou_ hi ther_ tell_ me_ and_ wh ere for e </s>
+<s> the_ or char d_ wa ll s_ are_ hi gh_ and_ har d_ to_ c li mb _ and_ the_ pla ce_ death_ con si der ing_ who_ thou_ art_ if_ any_ of_ my_ k in s men_ f ind_ thee_ h ere </s>
+<s> romeo_ with_ lo ves_ li ght_ w ings_ did_ i_ o er per ch_ these_ wa ll s_ for_ st on y_ li mi ts_ can not_ ho ld_ love_ out_ and_ what_ love_ can_ do_ that_ d ar es_ love_ at te mp t_ th ere fore_ thy_ k in s men_ are_ no_ let_ to_ me </s>
+<s> ju li et_ if_ they_ do_ see_ thee_ they_ will_ m ur der_ the e </s>
+<s> romeo_ a la ck_ there_ li es_ more_ per i l_ in_ th ine_ ey e_ than_ t w en ty_ of_ their_ s wor ds_ look_ thou_ but_ swe et_ and_ i_am_ pro of_ aga in st_ their_ en mi t y </s>
+<s> ju li et_ i_ would_ not_ for_ the_ wor ld_ they_ sa w_ thee_ h ere </s>
+<s> romeo_ i_have_ ni gh ts_ c lo a k_ to_ hi de_ me_ from_ their_ si ght_ and_ but_ thou_ love_ me_ let_ them_ f ind_ me_ here_ my_ li fe_ were_ be tter_ en d ed_ by_ their_ ha te_ than_ death_ pr or o gu ed_ w ant ing_ of_ thy_ lo v e </s>
+<s> ju li et_ by_ wh ose_ di re c tion_ f oun d st_ thou_ out_ this_ pla ce </s>
+<s> romeo_ by_ love_ who_ first_ did_ p rom p t_ me_ to_ in qu ir e_ he_ l ent_ me_ coun se l_ and_ i_ l ent_ him_ ey es </s>
+<s> i_am_ no_ pi lo t_ yet_ w er t_ thou_ as_ fa r_ as_ that_ v a st_ sh or e_ wa sh d_ with_ the_ f ar th est_ s ea _ i_ would_ a d v ent ure_ for_ such_ mer ch an di se </s>
+<s> ju li et_ thou_ kno w st_ the_ ma s k_ of_ night_ is_ on_ my_ fa ce_ el se_ would_ a_ ma i d en_ b lu sh_ be pa in t_ my_ ch ee k_ for_ that_ which_ thou_ ha st_ hear d_ me_ speak_ t on i ght_ fa in_ would_ i_ d well_ on_ for m_ fa in_ fa in_ d en y_ what_ i_have_ sp o ke_ but_ f ar e well_ com p li m ent </s>
+<s> do st_ thou_ love_ me </s>
+<s> i_ know_ thou_ wi lt_ say_ ay_ and_ i_will_ take_ thy_ w ord_ yet_ if_ thou_ sw ear st_ thou_ ma y st_ pro ve_ fa l se_ at_ lo v ers_ per ju ri es_ then_ say_ j o ve_ lau gh s </s>
+<s> o_ gent le_ romeo_ if_ thou_ do st_ love_ pr on oun ce_ it_ fa i th fu ll y_ or_ if_ thou_ th in k st_ i_am_ too_ qu i ck ly_ w on_ ill_ f ro wn_ and_ be_ per ver se_ an_ say_ thee_ n ay_ so_ thou_ wi lt_ w o o_ but_ el se_ not_ for_ the_ wor ld </s>
+<s> in_ tru th_ fa ir_ mon ta gu e_ i_am_ too_ f on d_ and_ th ere fore_ thou_ ma y st_ think_ my_ ha vi or_ li ght_ but_ tru st_ me_ gent le man_ ill_ pro ve_ more_ tru e_ than_ th ose_ that_ have_ more_ c un n ing_ to_be_ st ran ge </s>
+<s> i_ should_ have_ be en_ more_ st ran ge_ i_ must_ con f ess_ but_ that_ thou_ o ver hear d st_ ere_ i_ was_ w are_ my_ tru e_ lo ves_ pa ssi on_ th ere fore_ par d on_ me_ and_ not_ i m pu te_ this_ y i el d ing_ to_ li ght_ love_ which_ the_ d ar k_ night_ hath_ so_ di sc o ver e d </s>
+<s> romeo_ lady_ by_ y on der_ b l es sed_ mo on_ i_ sw ear_ that_ ti p s_ with_ si l ver_ all_ these_ f ru i tt re e_ to p s_ ju li et_ o_ sw ear_ not_ by_ the_ mo on_ the_ in con st ant_ mo on_ that_ mon th ly_ ch an g es_ in_ her_ c ir c l ed_ or b _ l est_ that_ thy_ love_ pro ve_ li k e wi se_ v ar i ab le </s>
+<s> romeo_ what_ shall_ i_ sw ear_ b y </s>
+<s> ju li et_ do_ not_ sw ear_ at_ all_ or_ if_ thou_ wi lt_ sw ear_ by_ thy_ gra ci ous_ self_ which_ is_ the_ go d_ of_ my_ i do la t ry_ and_ ill_ be li e ve_ the e </s>
+<s> romeo_ if_ my_ hear ts_ d ear_ love_ ju li et_ well_ do_ not_ sw ear_ al thou gh_ i_ j o y_ in_ thee_ i_have_ no_ j o y_ of_ this_ con t ra c t_ t on i ght_ it_is_ too_ ra sh_ too_ un a d vi sed_ too_ su d d en_ too_ like_ the_ li gh t n ing_ which_ doth_ c ea se_ to_be_ ere_ one_ can_ say_ it_ li gh ten s_ swe et_ good_ ni gh t </s>
+<s> this_ bu d_ of_ love_ by_ su m m ers_ ri p en ing_ b rea th_ may_ pro ve_ a_ b ea u te ous_ f lo w er_ when_ ne x t_ we_ me e t </s>
+<s> good_ night_ good_ ni gh t </s>
+<s> as_ swe et_ re po se_ and_ r est_ come_ to_ thy_ heart_ as_ that_ with in_ my_ b rea st </s>
+<s> romeo_ o_ wi lt_ thou_ lea ve_ me_ so_ un sa ti s fi e d </s>
+<s> ju li et_ what_ sa ti s fa c tion_ can st_ thou_ have_ t on i gh t </s>
+<s> romeo_ the_ ex ch an ge_ of_ thy_ lo ves_ fa i th fu l_ v ow_ for_ m in e </s>
+<s> ju li et_ i_ ga ve_ thee_ mine_ be fore_ thou_ di d st_ re qu est_ it_ and_ yet_ i_ would_ it_ were_ to_ give_ aga in </s>
+<s> romeo_ w ou ld st_ thou_ with d ra w_ i t </s>
+<s> for_ what_ p ur po se_ lo v e </s>
+<s> ju li et_ but_ to_be_ f ran k_ and_ give_ it_ thee_ aga in </s>
+<s> and_ yet_ i_ wi sh_ but_ for_ the_ thing_ i_have_ my_ b oun ty_ is_ as_ b oun d l ess_ as_ the_ s ea _ my_ love_ as_ de ep_ the_ more_ i_ give_ to_ thee_ the_ more_ i_have_ for_ bo th_ are_ in f in i te </s>
+<s> n urse_ ca ll s_ with in_ i_ hear_ some_ no i se_ with in_ d ear_ love_ a di e u </s>
+<s> an on_ good_ n ur se </s>
+<s> swe et_ mon ta gu e_ be_ tru e </s>
+<s> st ay_ but_ a_ li tt le_ i_will_ come_ aga in </s>
+<s> exit_ a bo ve_ romeo_ o_ b l es sed_ b l es sed_ ni gh t </s>
+<s> i_am_ af ear d </s>
+<s> be ing_ in_ night_ all_ this_ is_ but_ a_ d rea m_ too_ f la tt er ing swe et_ to_be_ su b st an ti al </s>
+<s> re enter_ ju li et_ a bo ve_ ju li et_ th re e_ wor ds_ d ear_ romeo_ and_ good_ night_ in de e d </s>
+<s> if_ that_ thy_ b ent_ of_ love_ be_ hon ou ra ble_ thy_ p ur po se_ mar ri ag e_ s end_ me_ w ord_ t om or row_ by_ one_ that_ ill_ pro c ure_ to_ come_ to_ thee_ where_ and_ what_ time_ thou_ wi lt_ per for m_ the_ ri te_ and_ all_ my_ for tun es_ at_ thy_ f oo t_ ill_ la y_ and_ fo llow_ thee_ my_lord_ th rou gh out_ the_ wor ld </s>
+<s> n urse_ with in_ ma da m </s>
+<s> ju li et_ i_ come_ an on but_ if_ thou_ me an st_ not_ well_ i_do_ b es ee ch_ thee_ n urse_ with in_ ma da m </s>
+<s> ju li et_ by_ and_ by_ i_ come_ to_ c ea se_ thy_ su it_ and_ lea ve_ me_ to_ my_ g ri e f_ t om or row_ will_ i_ sen d </s>
+<s> romeo_ so_ th ri ve_ my_ s ou l_ ju li et_ a_ thou s and_ ti m es_ good_ ni gh t </s>
+<s> exit_ a bo ve_ romeo_ a_ thou s and_ ti m es_ the_ wor se_ to_ w ant_ thy_ li gh t </s>
+<s> love_ go es_ to war d_ love_ as_ s ch oo l bo ys_ from_ their_ b oo ks_ but_ love_ from_ love_ to war d_ s ch oo l_ with_ hea v y_ loo k s </s>
+<s> re ti ring_ re enter_ ju li et_ a bo ve_ ju li et_ hi st </s>
+<s> romeo_ hi st </s>
+<s> o_ for_ a_ fa l con ers_ vo i ce_ to_ l ure_ this_ ta s sel gent le_ ba ck_ aga in </s>
+<s> b on d ag e_ is_ ho ar se_ and_ may_ not_ speak_ al ou d_ el se_ would_ i_ t ear_ the_ ca ve_ where_ e ch o_ li es_and_ make_ her_ a ir y_ t on gu e_ more_ ho ar se_ than_ mine_ with_ re pe ti tion_ of_ my_ rome o s_ na me </s>
+<s> romeo_ it_is_ my_ s ou l_ that_ ca ll s_ upon_ my_ na me_ how_ si l ver swe et_ s ound_ lo v ers_ t on gu es_ by_ night_ like_ s of t est_ mu si c _ to_ at ten d ing_ ear s </s>
+<s> ju li et_ rome o </s>
+<s> romeo_ my_ d ear </s>
+<s> ju li et_ at_ what_ oc lo ck_ t om or row_ shall_ i_ s end_ to_ the e </s>
+<s> romeo_ at_ the_ h our_ of_ n in e </s>
+<s> ju li et_ i_will_ not_ fa i l_ tis_ t w en ty_ y ears_ ti ll_ th en </s>
+<s> i_have_ for go t_ why_ i_ did_ ca ll_ thee_ ba ck </s>
+<s> romeo_ let_ me_ st and_ here_ ti ll_ thou_ re me mb er_ i t </s>
+<s> ju li et_ i_ shall_ for g et_ to_ have_ thee_ sti ll_ st and_ there_ re me mb er ing_ how_ i_ love_ thy_ com p an y </s>
+<s> romeo_ and_ ill_ sti ll_ st ay_ to_ have_ thee_ sti ll_ for g et_ for ge tt ing_ any_ other_ h om e_ but_ th i s </s>
+<s> ju li et_ tis_ al most_ mor n ing_ i_ would_ have_ thee_ g one_ and_ yet_ no_ f ur ther_ than_ a_ w anton s_ b ir d_ who_ le ts_ it_ ho p_ a_ li tt le_ from_ her_ h and_ like_ a_ po or_ pri s on er_ in_ his_ t wi st ed_ g y ves_ and_ with_ a_ si l k_ th rea d_ p lu ck s_ it_ ba ck_ aga in_ so_ lo v ing j ea l ous_ of_ his_ li b er t y </s>
+<s> romeo_ i_ would_ i_ were_ thy_ b ir d </s>
+<s> ju li et_ swe et_ so_ would_ i_ yet_ i_ should_ k ill_ thee_ with_ much_ ch er i sh ing </s>
+<s> good_ night_ good_ ni gh t </s>
+<s> par t ing_ is_ such_ swe et_ s or row_ that_ i_ shall_ say_ good_ night_ ti ll_ it_ be_ mor ro w </s>
+<s> exit_ a bo ve_ romeo_ sle ep_ d well_ upon_ th ine_ ey es_ p ea ce_ in_ thy_ b rea st </s>
+<s> would_ i_ were_ sle ep_ and_ p ea ce_ so_ swe et_ to_ r es t </s>
+<s> h ence_ will_ i_ to_ my_ gh o st ly_ fa th ers_ ce ll_ his_ he l p_ to_ c ra ve_ and_ my_ d ear_ ha p_ to_ te ll </s>
+<s> exit_ scene_ i i i </s>
+<s> fri ar_ la ur en c es_ ce ll </s>
+<s> enter_ fri ar_ la ur ence_ with_ a_ ba s k et_ fri ar_ la ur ence_ the_ g re y ey ed_ mor n_ s mi l es_ on_ the_ f ro w n ing_ night_ ch e qu er ing_ the_ ea st er n_ c l ou ds_ with_ st rea ks_ of_ li ght_ and_ f le ck ed_ d ar k ness_ like_ a_ d r un k ar d_ re el s_ from_ for th_ da ys_ pa th_ and_ ti t an s_ fi er y_ wh ee ls_ now_ ere_ the_ s un _ a d v ance_ his_ b ur n ing_ ey e_ the_ day_ to_ ch e er_ and_ ni gh ts_ d an k_ de w_ to_ d ry_ i_ must_ up fi ll_ this_ o si er_ ca ge_ of_ our s_ with_ ba le fu l_ we e ds_ and_ p re ci ou s ju i c ed_ f lo w er s </s>
+<s> the_ ear th_ th a ts_ n at ur es_ mo ther_ is_ her_ t om b _ what_ is_ her_ b ur y ing_ gra ve_ that_ is_ her_ w om b _ and_ from_ her_ w om b _ ch i ld r en_ of_ di v ers_ k ind_ we_ su c king_ on_ her_ n at u ra l_ bo som _ f ind_ m any_ for_ m any_ vi r t u es_ ex ce ll ent_ n one_ but_ for_ some_ and_ yet_ all_ di f f er ent </s>
+<s> o_ mi ck le_ is_ the_ po w er fu l_ gra ce_ that_ li es_ in_ her b s_ p l an ts_ st on es_and_ their_ tru e_ qu a li ti es_ for_ n ou ght_ so_ vi le_ that_ on_ the_ ear th_ doth_ li ve_ but_ to_the_ ear th_ some_ sp e ci al_ good_ doth_ give_ nor_ a u ght_ so_ good_ but_ st ra ind_ from_ that_ fa ir_ use_ re v ol ts_ from_ tru e_ b ir th_ st u mb l ing_ on_ a bu se_ vi r t u e_ i t self_ tur n s_ vi ce_ be ing_ mi sa pp li ed_ and_ vi ce_ som e ti m es_ by_ ac tion_ di g ni fi e d </s>
+<s> with in_the_ in f ant_ r ind_ of_ this_ s ma ll_ f lo w er_ po i s on </s>
