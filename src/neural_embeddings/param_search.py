@@ -76,7 +76,7 @@ def search_best_lr():
     a_values = [1e-1, 1e-2, 1e-3, 1e-4]
     print("Starting parameter search for alpha...")
     for a in a_values:
-        model = NgramLM(n=3, k=1000, embed_dim=256, hidden_dim=256, alpha=a, lam=0.7)
+        model = NgramLM(n=3, k=1000, embed_dim=256, hidden_dim=128, alpha=a, lam=0.7)
         best_val, best_state, history = train_with_early_stopping(
             model, max_epochs=25, num_steps=10000, patience=5
         )
@@ -303,6 +303,6 @@ def get_best_k():
 
 
 if __name__ == "__main__":
-    search_neural_ngrams("hidden_dim")
+    search_neural_ngrams("lr")
     # plot_results()
     # get_best_k()
