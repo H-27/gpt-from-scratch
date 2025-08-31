@@ -85,7 +85,7 @@ def search_best_lambda():
 
 
 def plot_results():
-    results_file = "data/hyperparams/neural_gram_search_results.jsonl"
+    results_file = "data/hyperparams/gpt_search_results.jsonl"
     if not os.path.exists(results_file):
         print("No results file found at", results_file)
         return
@@ -155,7 +155,7 @@ def plot_results():
         plt.ylabel("Perplexity")
         plt.legend()
         plt.tight_layout()
-        out_path = f"data/hyperparams/plots/{pname}_perplexity.png"
+        out_path = f"data/hyperparams/plots/{pname}_perplexity_gpt.png"
         plt.savefig(out_path)
         plt.close()
         # Also save val_loss
