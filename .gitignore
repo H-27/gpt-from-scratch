@@ -3,3 +3,4 @@
 .vscode
 uv.lock
 vocab_with_k*
+data/ngram_outputs/
