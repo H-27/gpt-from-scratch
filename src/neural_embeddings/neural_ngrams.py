@@ -6,6 +6,7 @@ from typing import List, Tuple  # moved to top
 import torch  # ensure single import
 import torch.nn as nn
 import torch.nn.functional as F
+from nltk.cli import tqdm
 
 from src.neural_embeddings.neural_utils import (
     append_run_result,
@@ -162,7 +163,7 @@ class NgramLM(nn.Module):
         self.contexts = dict(encoded_contexts)
         self.ngrams = dict(encoded_ngrams)
 
-    def get_batch(self, split="train", batch_size=32):
+    def get_batch(self, split="train", batch_size=16):
         if split == "train":
             ids = self.train_ids
         elif split == "val":
@@ -385,6 +386,7 @@ def train_with_early_stopping(
     for epoch in range(max_epochs):
         model.train()
         running = 0.0
+        pbar = tqdm(total=num_steps, desc=f"NNgram Epoch {epoch + 1}/{max_epochs}")
         for _ in range(num_steps):
             xb, yb = model.get_batch()
             logits, loss = model.forward(xb, yb)
@@ -392,6 +394,7 @@ def train_with_early_stopping(
             loss.backward()
             model.optimizer.step()
             running += loss.item()
+            pbar.update(1)
         avg_train = running / num_steps
         val_loss, val_ppl, val_ppl_interpolated = model.evaluate("val")
         history.append(

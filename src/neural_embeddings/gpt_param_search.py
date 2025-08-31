@@ -7,6 +7,9 @@ import torch
 from src.neural_embeddings.gpt_model import GPTModel
 from src.neural_embeddings.neural_ngrams import NgramLM, train_with_early_stopping
 
+NUM_STEPS = 1000
+BATCH_SIZE = 16
+
 
 def save_params(param_name, param_value, history):
     results_file = "data/hyperparams/gpt_search_results.jsonl"
@@ -36,7 +39,7 @@ def search_best_k():
         # Instantiate, train, and evaluate the model
         model = GPTModel(n=3, k=k, embed_dim=256, hidden_dim=256, alpha=1e-3, lam=0.7)
         best_val, best_state, history = train_with_early_stopping(
-            model, max_epochs=25, num_steps=10000, patience=5
+            model, max_epochs=25, num_steps=NUM_STEPS, patience=5
         )
 
         # Get the final validation perplexity
@@ -51,7 +54,7 @@ def search_best_hidden_dim():
     for h in h_values:
         model = GPTModel(n=3, k=1000, embed_dim=256, hidden_dim=h, alpha=1e-3, lam=0.7)
         best_val, best_state, history = train_with_early_stopping(
-            model, max_epochs=25, num_steps=10000, patience=5
+            model, max_epochs=25, num_steps=NUM_STEPS, patience=5
         )
         save_params("hidden_dim", h, history)
     print("Parameter search for hidden_dim complete.")
@@ -63,7 +66,7 @@ def search_best_lr():
     for a in a_values:
         model = GPTModel(n=3, k=1000, embed_dim=256, hidden_dim=256, alpha=a, lam=0.7)
         best_val, best_state, history = train_with_early_stopping(
-            model, max_epochs=25, num_steps=10000, patience=5
+            model, max_epochs=25, num_steps=NUM_STEPS, patience=5
         )
         save_params("alpha", a, history)
     print("Parameter search for alpha complete.")
@@ -75,7 +78,7 @@ def search_best_lambda():
     for l in l_values:
         model = GPTModel(n=3, k=1000, embed_dim=256, hidden_dim=256, alpha=1e-3, lam=l)
         best_val, best_state, history = train_with_early_stopping(
-            model, max_epochs=25, num_steps=10000, patience=5
+            model, max_epochs=25, num_steps=NUM_STEPS, patience=5
         )
         save_params("lambda", l, history)
     print("Parameter search for lambda complete.")
