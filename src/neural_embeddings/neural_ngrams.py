@@ -32,7 +32,7 @@ class NgramLM(nn.Module):
         device: str = None,
     ):
         print("Initializing NgramLM model...")
-        super(NgramLM, self).__init__()
+        super().__init__()  # changed from super(NgramLM, self).__init__() to avoid reload class mismatch
         print("Loading vocab and merge rules...")
         self.vocab, self.merge_rules = self.load_vocab_and_merge_rules(k, "_adv")
         self.vocab.extend(["<s>", "</s>"])
@@ -279,37 +279,89 @@ class NgramLM(nn.Module):
     def early_stopping_with_patience_check(self, loss_history):
         raise NotImplementedError
 
-    def generate(self, context, n_new_tokens: int):
-        """Generate tokens autoregressively.
-        context: (B, <= n-1) LongTensor. If shorter, left-pad with <s>. If longer, last n-1 tokens are used.
-        Maintains only sliding window of size n-1 for conditioning, but accumulates full sequence for return.
+    def generate(
+        self,
+        context,
+        n_new_tokens: int,
+        temperature: float = 1.0,
+        top_k: int | None = None,
+        sampling: bool = True,
+        stop_on_eos: bool = True,
+    ):
+        """Generate tokens autoregressively with optional temperature, top-k, and EOS stopping.
+        Args:
+            context: (B, <= n-1) start sequence tensor (or (<=n-1,) single)
+            n_new_tokens: max number of new tokens to append
+            temperature: softmax temperature (1.0 = no change)
+            top_k: if set, restrict to top_k tokens each step
+            sampling: if True sample, else take argmax
+            stop_on_eos: if True stop early when </s> emitted
         """
         self.eval()
         with torch.no_grad():
-            # Build vocab index map once
             stoi = {c: i for i, c in enumerate(self.vocab)}
+            eos_idx = stoi.get("</s>")
             start_idx = stoi.get("<s>")
-            # Ensure 2D
+            # Normalize context to 2D
+            if isinstance(context, list):
+                context = torch.tensor(context, dtype=torch.long)
             if context.dim() == 1:
                 context = context.unsqueeze(0)
-            B, L = context.shape
-            # Move to device
             context = context.to(self.device)
-            # If length < n-1, pad on left with <s>
-            need = self.n - 1 - L
-            if need > 0:
+            B, L = context.shape
+            # left pad if shorter than n-1
+            needed = self.n - 1 - L
+            if needed > 0:
                 pad = torch.full(
-                    (B, need), start_idx, dtype=torch.long, device=self.device
+                    (B, needed), start_idx, dtype=torch.long, device=self.device
                 )
-                context = torch.cat([pad, context], dim=1)
-            generated = context.clone()
+                generated = torch.cat([pad, context], dim=1)
+            else:
+                generated = context[:, -(self.n - 1) :].clone()
+            full = generated.clone()
             for _ in range(n_new_tokens):
-                window = generated[:, -(self.n - 1) :]
+                window = full[:, -(self.n - 1) :]
                 logits, _ = self.forward(window)
+                # (B,V)
+                if temperature != 1.0:
+                    logits = logits / temperature
+                if top_k is not None and top_k < logits.size(-1):
+                    vals, idxs = torch.topk(logits, top_k, dim=-1)
+                    mask = torch.full_like(logits, float("-inf"))
+                    mask.scatter_(1, idxs, vals)
+                    logits = mask
                 probs = F.softmax(logits, dim=-1)
-                next_token = torch.multinomial(probs, num_samples=1)  # (B,1)
-                generated = torch.cat([generated, next_token], dim=1)
-            return generated.cpu()
+                if sampling:
+                    next_tok = torch.multinomial(probs, num_samples=1)  # (B,1)
+                else:
+                    next_tok = probs.argmax(dim=-1, keepdim=True)
+                full = torch.cat([full, next_tok], dim=1)
+                if stop_on_eos and eos_idx is not None:
+                    if (next_tok == eos_idx).all():
+                        break
+            return full.cpu()
+
+    def token_accuracy(self, eval_set: str = "val") -> float:
+        """Compute next-token prediction accuracy (argmax) on chosen split."""
+        if eval_set == "val":
+            ids = self.val_ids
+        elif eval_set == "test":
+            ids = self.test_ids
+        else:
+            ids = self.train_ids
+        ctx_len = self.n - 1
+        correct = 0
+        total = 0
+        self.eval()
+        with torch.no_grad():
+            for i in range(ctx_len, len(ids)):
+                ctx = ids[i - ctx_len : i].unsqueeze(0).to(self.device)
+                target = ids[i].item()
+                logits, _ = self.forward(ctx)
+                pred = logits.argmax(dim=-1).item()
+                correct += int(pred == target)
+                total += 1
+        return correct / total if total else float("nan")
 
     def evaluate(self, eval_set="val"):
         if eval_set == "val":
@@ -386,7 +438,7 @@ def train_with_early_stopping(
     for epoch in range(max_epochs):
         model.train()
         running = 0.0
-        pbar = tqdm(total=num_steps, desc=f"NNgram Epoch {epoch + 1}/{max_epochs}")
+        pbar = tqdm(total=num_steps, desc=f"Epoch {epoch + 1}/{max_epochs}")
         for _ in range(num_steps):
             xb, yb = model.get_batch()
             logits, loss = model.forward(xb, yb)

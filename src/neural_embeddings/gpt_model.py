@@ -105,17 +105,16 @@ class GPTModel(NgramLM):
         context_size=32,
         device: str | None = None,
     ):
-        # Inherit ngram base (loads vocab, BPE data, etc.)
         super().__init__(n, k, embed_dim, hidden_dim, alpha, lam, device=device)
-        # Block size (context length) reuse n
-        self.block_size = n
+        self.block_size = context_size
         self.embedding_layer = nn.Embedding(self.vocab_size, embed_dim)
+        self.pos_embeddings = nn.Embedding(self.block_size, embed_dim)
         self.attention_layers = nn.Sequential(
             *[
                 GPTLayer(
                     num_heads=num_heads,
                     embed_dim=embed_dim,
-                    context_size=n,
+                    context_size=self.block_size,
                     dropout=dropout,
                 )
                 for _ in range(num_layers)
@@ -124,8 +123,16 @@ class GPTModel(NgramLM):
         self.ln_f = nn.LayerNorm(embed_dim)
         self.out = nn.Linear(embed_dim, self.vocab_size)
         self.dropout = nn.Dropout(dropout)
-        # Move newly created submodules to device (base already set device)
+        # Remove unused base n-gram layers so optimizer only sees GPT stack
+        self.embeddings = None
+        self.fc1 = None
+        self.fc2 = None
+        # Rebuild optimizer to include ONLY current (GPT) parameters (base optimizer held stale param list)
+        self.optimizer = torch.optim.Adam(self.parameters(), lr=alpha)
         self.to(self.device)
+        print(
+            f"[GPTModel] n={self.n} block_size={self.block_size} params={sum(p.numel() for p in self.parameters())}"
+        )
 
     # ---------------- GPT overrides ----------------
     def get_batch(self, split="train", batch_size=16):
@@ -155,6 +162,7 @@ class GPTModel(NgramLM):
 
     def forward(self, x, targets=None):  # x: (B,T)
         x = self.embedding_layer(x)  # (B,T,C)
+        x = x + self.pos_embeddings(torch.arange(x.size(1), device=x.device))
         x = self.attention_layers(x)  # (B,T,C)
         x = self.ln_f(x)
         logits = self.out(x)  # (B,T,V)
@@ -213,43 +221,113 @@ class GPTModel(NgramLM):
 
     @torch.no_grad()
     def generate(
-        self, idx, max_new_tokens, temperature: float = 1.0, top_k: int | None = None
+        self,
+        idx,
+        max_new_tokens,
+        temperature: float = 1.0,
+        top_k: int | None = None,
+        sampling: bool = True,
+        stop_on_eos: bool = True,
     ):
-        """Generate tokens autoregressively with temperature and optional top-k filtering.
-
-        Args:
-            idx: (B, T) LongTensor initial context
-            max_new_tokens: number of tokens to sample
-            temperature: >0 scaling factor applied to logits (lower = sharper)
-            top_k: if set, keep only top_k logits each step before softmax
-        Returns:
-            (B, T + max_new_tokens) tensor of sampled token indices
-        """
+        """Autoregressive generation with temperature, top-k, sampling/argmax and optional EOS early stop."""
         self.eval()
+        stoi = {c: i for i, c in enumerate(self.vocab)}
+        eos_idx = stoi.get("</s>")
+        if idx.dim() == 1:
+            idx = idx.unsqueeze(0)
+        idx = idx.to(self.device)
         for _ in range(max_new_tokens):
-            idx_cond = idx[:, -self.n :]
-            logits, _ = self(idx_cond)  # unpack logits
-            logits = logits[:, -1, :]  # last time step (B, vocab)
+            idx_cond = idx[:, -self.block_size :]
+            logits, _ = self(idx_cond)
+            logits = logits[:, -1, :]
             if temperature != 1.0:
                 logits = logits / temperature
-            if top_k is not None:
-                # Top-k filtering
+            if top_k is not None and top_k < logits.size(-1):
                 v, ix = torch.topk(logits, top_k, dim=-1)
                 mask = torch.full_like(logits, float("-inf"))
                 mask.scatter_(1, ix, v)
                 logits = mask
             probs = F.softmax(logits, dim=-1)
-            idx_next = torch.multinomial(probs, num_samples=1)  # (B,1)
+            if sampling:
+                idx_next = torch.multinomial(probs, num_samples=1)
+            else:
+                idx_next = probs.argmax(dim=-1, keepdim=True)
             idx = torch.cat((idx, idx_next), dim=1)
-        return idx
+            if stop_on_eos and eos_idx is not None and (idx_next == eos_idx).all():
+                break
+        return idx.cpu()
+
+    @torch.no_grad()
+    def token_accuracy(self, eval_set: str = "val") -> float:
+        """Next-token accuracy using greedy argmax on validation/test set."""
+        if eval_set == "val":
+            ids = self.val_ids
+        elif eval_set == "test":
+            ids = self.test_ids
+        else:
+            ids = self.train_ids
+        total = 0
+        correct = 0
+        T = self.block_size
+        for i in range(0, len(ids) - T - 1, T):
+            chunk = ids[i : i + T + 1]
+            if len(chunk) < T + 1:
+                continue
+            x = chunk[:-1].unsqueeze(0).to(self.device)
+            y = chunk[1:].to(self.device)
+            logits, _ = self.forward(x, y.unsqueeze(0))  # logits (1,T,V)
+            preds = logits.argmax(dim=-1).squeeze(0)
+            correct += (preds == y).sum().item()
+            total += y.numel()
+        return correct / total if total else float("nan")
 
 
 # For quick testing
 if __name__ == "__main__":
+    # Quick component shape test for a single layer
     size = 32
     num_heads = 4
     context_size = size
     head = GPTLayer(embed_dim=size, num_heads=num_heads, context_size=context_size)
     test_input = torch.randn(1, size, size)
     output = head(test_input)
-    print(output.shape)
+    print("Single GPTLayer output shape:", output.shape)
+
+    # Sanity training run for GPTModel to verify loss decreases
+    try:
+        gpt = GPTModel(
+            n=3,  # n-gram order (not the block size for GPT)
+            k=1000,  # pick a k you have cached BPE data for
+            embed_dim=256,
+            hidden_dim=256,
+            alpha=1e-1,  # learning rate
+            lam=1.0,
+            num_heads=4,
+            num_layers=2,
+            context_size=64,  # block length for GPT context
+        )
+    except Exception as e:
+        print("Failed to construct GPTModel (check data paths / k):", e)
+        raise SystemExit(1)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    gpt.to(device)
+    print("Starting quick sanity training (200 steps)...")
+    gpt.train()
+    report_every = 50
+    losses = []
+    for step in range(200):
+        xb, yb = gpt.get_batch("train", batch_size=32)
+        _, loss = gpt.forward(xb, yb)
+        gpt.optimizer.zero_grad(set_to_none=True)
+        loss.backward()
+        gpt.optimizer.step()
+        losses.append(loss.item())
+        if (step + 1) % report_every == 0:
+            avg_recent = sum(losses[-report_every:]) / report_every
+            print(f"step {step + 1} avg_loss {avg_recent:.4f}")
+    print(f"Initial 50-step avg: {sum(losses[:report_every]) / report_every:.4f}")
+    print(f"Final 50-step avg:   {sum(losses[-report_every:]) / report_every:.4f}")
+    gpt.eval()
+    val_loss, val_ppl, _ = gpt.evaluate("val")
+    print(f"Validation after sanity run: loss {val_loss:.4f} ppl {val_ppl:.2f}")
