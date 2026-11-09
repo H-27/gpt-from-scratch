@@ -4,6 +4,7 @@ from torch import nn
 from tqdm import tqdm
 
 from src.neural_embeddings.neural_ngrams import NgramLM
+from src.neural_embeddings.neural_utils import set_seed
 
 
 class CausalSelfAttentionHead(nn.Module):
@@ -284,6 +285,7 @@ class GPTModel(NgramLM):
 
 # For quick testing
 if __name__ == "__main__":
+    set_seed(0)
     # Quick component shape test for a single layer
     size = 32
     num_heads = 4

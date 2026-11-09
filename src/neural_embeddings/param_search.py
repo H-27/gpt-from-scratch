@@ -5,6 +5,7 @@ import os
 import torch
 
 from src.neural_embeddings.neural_ngrams import NgramLM, train_with_early_stopping
+from src.neural_embeddings.neural_utils import set_seed
 
 
 def save_params(param_name, param_value, history):
@@ -249,15 +250,16 @@ def compute_bpc_for_config(
     model = NgramLM(
         n=n, k=k, embed_dim=embed_dim, hidden_dim=hidden_dim, alpha=alpha, lam=1.0
     )
-    if ckpt_path and os.path.exists(ckpt_path):
-        try:
-            ckpt = torch.load(ckpt_path, map_location="cpu")
-            state = ckpt.get("model_state") or ckpt
-            model.load_state_dict(state, strict=False)
-            model.to(model.device)
-            print(f"Loaded state from {ckpt_path}")
-        except Exception as e:
-            print(f"Failed loading checkpoint {ckpt_path}: {e}")
+    if ckpt_path:
+        # Fail loudly: a missing or mismatching checkpoint must not silently
+        # fall back to an untrained model.
+        if not os.path.exists(ckpt_path):
+            raise FileNotFoundError(f"Checkpoint not found: {ckpt_path}")
+        ckpt = torch.load(ckpt_path, map_location="cpu")
+        state = ckpt.get("model_state") or ckpt
+        model.load_state_dict(state, strict=True)
+        model.to(model.device)
+        print(f"Loaded state from {ckpt_path}")
     return compute_bpc(model, split=split)
 
 
@@ -303,6 +305,7 @@ def get_best_k():
 
 
 if __name__ == "__main__":
+    set_seed(0)
     search_neural_ngrams("lr")
     # plot_results()
     # get_best_k()

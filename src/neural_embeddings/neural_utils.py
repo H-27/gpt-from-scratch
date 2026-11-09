@@ -1,8 +1,10 @@
 import csv
 import json
 import os
+import random
 from typing import Any, Dict, List, Optional, Tuple
 
+import numpy as np
 import torch
 
 from src.ngram_engine.nge_utils import apply_bpe
@@ -11,6 +13,13 @@ from src.ngram_engine.nge_utils import apply_bpe
 def ensure_dir(path: str):
     """Create directory if it does not exist."""
     os.makedirs(path, exist_ok=True)
+
+
+def set_seed(seed: int = 0):
+    """Seed Python, NumPy and PyTorch (CPU and all GPUs) so runs can be repeated."""
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
 
 
 def append_run_result(
