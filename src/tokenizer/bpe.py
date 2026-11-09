@@ -24,7 +24,12 @@ def perform_bpe(
     # Load and normalize the text
     text = open(text, "r").read()
     if normalization == "advanced":
-        text = advanced_normalize(text)
+        # Uses the defaults, which remove all punctuation. apply_bpe() encodes with the
+        # same defaults and marks sentence ends with </s>, so keeping . ! ? or ' here
+        # would only create merges that never occur in the encoded text.
+        text = advanced_normalize(
+            text
+        )  # keep_sentence_final=True, keep_apostrophes=True)
     else:
         text = normalize_text(text)
 
@@ -58,14 +63,12 @@ def perform_bpe(
         pbar.update(1)
 
     with open(save_to, "w", encoding="utf-8") as f:
-        for token in vocab:
-            f.write(token + "\n")
+        f.writelines(token + "\n" for token in vocab)
     # Derive merges (Option B: tokens length > 1)
     merges = [t for t in vocab if len(t) > 1]
     merges_path = save_to.replace("vocab_with_k", "merges_k")
     with open(merges_path, "w", encoding="utf-8") as mf:
-        for m in merges:
-            mf.write(m + "\n")
+        mf.writelines(m + "\n" for m in merges)
     print(f"Vocabulary saved to {save_to} (merges derived -> {merges_path})")
     return save_to
 
@@ -106,6 +109,5 @@ if __name__ == "__main__":
     print("Vocabulary done, saving...")
     # Save the vocabulary to a file
     with open(f"data/bpe_outputs/vocab_with_k{k_start}.txt", "w") as f:
-        for token in vocab:
-            f.write(token + "\n")
+        f.writelines(token + "\n" for token in vocab)
     print("Vocabulary saved.")

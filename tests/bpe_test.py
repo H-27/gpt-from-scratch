@@ -12,7 +12,7 @@ except ImportError:
     print("Matplotlib not available. Visualization will be skipped.")
 
 # --- Added flag for advanced normalization run naming ---
-ADVANCED = False  # Set True when using advanced normalization pipeline
+ADVANCED = True  # Set True when using advanced normalization pipeline
 ADV_SUFFIX = "_adv" if ADVANCED else ""
 
 
@@ -82,7 +82,7 @@ def print_coverage_summary(results):
 
 if __name__ == "__main__":
     # Test different vocabulary sizes
-    k_values = [50, 500, 1000, 1250, 1500, 2000]
+    k_values = [50, 100, 150, 250, 350, 500, 750, 1000, 1250, 1500, 2000]
     version = "clean"  # Choose between "clean" or "dirty" or empty string "" for original text
 
     # Set up file paths based on version
@@ -132,6 +132,7 @@ if __name__ == "__main__":
                 k=k,
                 track_progress=False,
                 save_to=vocab_filename,
+                normalization="advanced" if ADVANCED else False,
             )
 
         # Test vocabulary on different texts
