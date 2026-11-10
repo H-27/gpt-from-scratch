@@ -5,7 +5,7 @@ from collections import defaultdict
 from src.ngram_engine.ngram import NgramEngine
 from src.tokenizer import bpe
 
-from .nge_utils import apply_bpe, create_ngrams
+from .nge_utils import apply_bpe, create_ngrams, ngram_cache_path, save_ngrams
 
 if __name__ == "__main__":
     # Grid definitions (original single values replaced by lists)
@@ -66,30 +66,10 @@ if __name__ == "__main__":
                     with open(sentences_path, "w") as f:
                         for sentence in sentences:
                             f.write(" ".join(sentence) + "\n")
-                # ngram/context cache paths
-                ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}{adv_suffix}.json"
-                context_file = f"data/ngram_outputs/contexts_n{n}_k{k}{adv_suffix}.json"
-                try:
-                    with open(ngram_file, "r") as f:
-                        ngrams_dict = json.load(f)
-                        ngrams = defaultdict(int)
-                        for tkey, val in ngrams_dict.items():
-                            ngrams[tuple(eval(tkey))] = val
-                    with open(context_file, "r") as f:
-                        contexts_dict = json.load(f)
-                        contexts = defaultdict(int)
-                        for tkey, val in contexts_dict.items():
-                            contexts[tuple(eval(tkey))] = val
-                except FileNotFoundError:
-                    ngrams, contexts = create_ngrams(sentences, n)
-                    ngrams_dict = {str(key2): value2 for key2, value2 in ngrams.items()}
-                    contexts_dict = {
-                        str(key2): value2 for key2, value2 in contexts.items()
-                    }
-                    with open(ngram_file, "w") as f:
-                        json.dump(ngrams_dict, f)
-                    with open(context_file, "w") as f:
-                        json.dump(contexts_dict, f)
+                # One n-gram cache per k (n=5 also serves every smaller n)
+                if not os.path.exists(ngram_cache_path(k, adv_suffix)):
+                    ngrams = create_ngrams(sentences)
+                    save_ngrams(ngrams, k, adv_suffix)
                 # Engine
                 engine = NgramEngine(n=n, k=k, advanced=advanced)
                 # One-time demo (reuse original logic at first n=3 occurrence if available)

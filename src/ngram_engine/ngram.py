@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 from tqdm import tqdm
 
-from src.ngram_engine.nge_utils import apply_bpe
+from src.ngram_engine.nge_utils import apply_bpe, load_ngrams_and_contexts
 from src.tokenizer import bpe_utils
 
 
@@ -25,38 +25,12 @@ class NgramEngine:
             .read()
             .splitlines()
         )
-        self.ngrams, self.contexts = self.load_ngrams_and_contexts(
+        self.ngrams, self.contexts = load_ngrams_and_contexts(
             n, k, self.adv_suffix
         )
         self.SENT_SPLIT_PATTERN = re.compile(
             r"(?<!\.)[.?!]+(?!\.)\s+|(?<!\.)[.?!]+(?!\.)$"
         )
-
-    def load_ngrams_and_contexts(self, n, k, suffix=""):
-        """
-        Load n-grams and contexts from cached JSON files.
-        Args:
-            n (int): The 'n' of the n-gram model.
-            k (int): The 'k' used in BPE vocabulary size.
-        Returns:
-            tuple: (ngrams, contexts) where both are defaultdict(int)
-        """
-        ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}{suffix}.json"
-        context_file = f"data/ngram_outputs/contexts_n{n}_k{k}{suffix}.json"
-        with open(ngram_file, "r") as f:
-            ngrams_dict = json.load(f)
-            # Convert string keys back to tuples
-            ngrams = defaultdict(int)
-            for key, value in ngrams_dict.items():
-                ngrams[tuple(eval(key))] = value
-
-        with open(context_file, "r") as f:
-            contexts_dict = json.load(f)
-            # Convert string keys back to tuples
-            contexts = defaultdict(int)
-            for key, value in contexts_dict.items():
-                contexts[tuple(eval(key))] = value
-        return ngrams, contexts
 
     def load_vocab(self, n: int, k: int, suffix: str):
         vocab = (
@@ -137,36 +111,6 @@ class NgramEngine:
                 pbar.update(1)
 
         return processed_sentences
-
-    def create_ngrams(sentences, n, track_progress=False):
-        """
-        Create n-grams from the given sentences.
-        Uses window size from n down to 1 for backoff.
-        Args:
-            sentences (list of list of str): List of sentences, where each sentence is a list of tokens.
-            n (int): The 'n' in n-grams, indicating the size of the n-grams to create.
-            track_progress (bool): Whether to display a progress bar.
-        Returns:
-            tuple: A tuple containing two defaultdicts:
-        """
-        ngrams = defaultdict(int)
-        contexts = defaultdict(int)
-        if track_progress:
-            pbar = tqdm(total=len(sentences) - 1, desc="Creating ngrams")
-        for sentence in sentences:
-            window_size = n  # start with n and decrease to 1 for backoff
-            sentence_length = len(sentence)
-            while window_size > 0:
-                for i in range(sentence_length - window_size + 1):
-                    ngram = tuple(sentence[i : i + window_size])
-                    context = tuple(sentence[i : i + window_size - 1])
-                    ngrams[ngram] += 1
-                    contexts[context] += 1
-                window_size -= 1
-            if track_progress:
-                pbar.update(1)
-
-        return ngrams, contexts
 
     def get_unigram_probs(self):
         # Extract unigrams from existing ngrams data (should always exist since ngrams contains 1 to n)

@@ -5,7 +5,7 @@ from argparse import ArgumentParser
 
 from src.ngram_engine.ngram import NgramEngine
 
-from .nge_utils import apply_bpe, create_ngrams
+from .nge_utils import apply_bpe, create_ngrams, ngram_cache_path, save_ngrams
 
 # Available k values based on existing merge/vocab files
 DEFAULT_K_VALUES = [50, 250, 500, 750, 1000, 1250, 1500, 2000]
@@ -31,18 +31,11 @@ def ensure_sentences(k: int, merges, adv_suffix: str, force=False, track=False):
 
 
 def ensure_ngrams(n: int, k: int, adv_suffix: str, sentences):
-    """Load or create n-grams / contexts JSON for (n,k)."""
-    ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}{adv_suffix}.json"
-    context_file = f"data/ngram_outputs/contexts_n{n}_k{k}{adv_suffix}.json"
-    if os.path.exists(ngram_file) and os.path.exists(context_file):
+    """Create the n=5 n-gram cache for this k if it is missing (it serves every n)."""
+    if os.path.exists(ngram_cache_path(k, adv_suffix)):
         return
-    ngrams, contexts = create_ngrams(sentences, n, track_progress=True)
-    ngrams_dict = {str(key): value for key, value in ngrams.items()}
-    contexts_dict = {str(key): value for key, value in contexts.items()}
-    with open(ngram_file, "w") as f:
-        json.dump(ngrams_dict, f)
-    with open(context_file, "w") as f:
-        json.dump(contexts_dict, f)
+    ngrams = create_ngrams(sentences, track_progress=True)
+    save_ngrams(ngrams, k, adv_suffix)
 
 
 def run_grid(n_max: int, k_values, advanced: bool, method: str, repetitions: int):

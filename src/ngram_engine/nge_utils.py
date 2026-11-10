@@ -11,31 +11,54 @@ from src.tokenizer import bpe_utils
 SENT_SPLIT_PATTERN = re.compile(r"(?<!\.)[.?!]+(?!\.)\s+|(?<!\.)[.?!]+(?!\.)$")
 
 
+# One n-gram cache per k: create_ngrams() counts every window length from
+# MAX_N down to 1, so the n=5 file also holds all 1- to 4-grams.
+MAX_N = 5
+
+
+def ngram_cache_path(k, suffix=""):
+    return f"data/ngram_outputs/ngrams_n{MAX_N}_k{k}{suffix}.json"
+
+
+def save_ngrams(ngrams, k, suffix=""):
+    """Write n-gram counts (tuple keys) to the cache file for this k."""
+    with open(ngram_cache_path(k, suffix), "w") as f:
+        json.dump({str(key): value for key, value in ngrams.items()}, f)
+
+
+def contexts_from_ngrams(ngrams):
+    """count(context) = sum of the counts of all n-grams that extend it by one token.
+
+    Gives exactly the context counts the old create_ngrams() stored in the
+    contexts_n*.json files, so they do not need their own file.
+    """
+    contexts = defaultdict(int)
+    for ngram, count in ngrams.items():
+        contexts[ngram[:-1]] += count
+    return contexts
+
+
 def load_ngrams_and_contexts(n, k, suffix=""):
     """
-    Load n-grams and contexts from cached JSON files.
+    Load the n-gram counts up to length n from the n=5 cache for this k and
+    derive the context counts from them.
     Args:
-        n (int): The 'n' of the n-gram model.
+        n (int): The 'n' of the n-gram model (1 to MAX_N).
         k (int): The 'k' used in BPE vocabulary size.
     Returns:
         tuple: (ngrams, contexts) where both are defaultdict(int)
     """
-    ngram_file = f"data/ngram_outputs/ngrams_n{n}_k{k}{suffix}.json"
-    context_file = f"data/ngram_outputs/contexts_n{n}_k{k}{suffix}.json"
-    with open(ngram_file, "r") as f:
+    if not 1 <= n <= MAX_N:
+        raise ValueError(f"n must be between 1 and {MAX_N}, got {n}")
+    with open(ngram_cache_path(k, suffix), "r") as f:
         ngrams_dict = json.load(f)
-        # Convert string keys back to tuples
-        ngrams = defaultdict(int)
-        for key, value in ngrams_dict.items():
-            ngrams[tuple(eval(key))] = value
-
-    with open(context_file, "r") as f:
-        contexts_dict = json.load(f)
-        # Convert string keys back to tuples
-        contexts = defaultdict(int)
-        for key, value in contexts_dict.items():
-            contexts[tuple(eval(key))] = value
-    return ngrams, contexts
+    # Convert string keys back to tuples, keep only n-grams up to length n
+    ngrams = defaultdict(int)
+    for key, value in ngrams_dict.items():
+        ngram = tuple(eval(key))
+        if len(ngram) <= n:
+            ngrams[ngram] = value
+    return ngrams, contexts_from_ngrams(ngrams)
 
 
 def load_vocab(n: int, k: int, suffix: str):
@@ -117,35 +140,28 @@ def apply_bpe(corpus, merges, track_progress=False):
     return processed_sentences
 
 
-def create_ngrams(sentences, n, track_progress=False):
+def create_ngrams(sentences, track_progress=False):
     """
-    Create n-grams from the given sentences.
-    Uses window size from n down to 1 for backoff.
+    Count all n-grams of length MAX_N down to 1 in the given sentences.
+    Smaller n and the context counts are derived from these counts when loading
+    (see load_ngrams_and_contexts), so one cache per k is enough.
     Args:
         sentences (list of list of str): List of sentences, where each sentence is a list of tokens.
-        n (int): The 'n' in n-grams, indicating the size of the n-grams to create.
         track_progress (bool): Whether to display a progress bar.
     Returns:
-        tuple: A tuple containing two defaultdicts:
+        defaultdict(int): n-gram (tuple of tokens) -> count
     """
     ngrams = defaultdict(int)
-    contexts = defaultdict(int)
     if track_progress:
-        pbar = tqdm(total=len(sentences) - 1, desc="Creating ngrams")
+        pbar = tqdm(total=len(sentences), desc="Creating ngrams")
     for sentence in sentences:
-        window_size = n  # start with n and decrease to 1 for backoff
         sentence_length = len(sentence)
-        while window_size > 0:
+        for window_size in range(MAX_N, 0, -1):
             for i in range(sentence_length - window_size + 1):
-                ngram = tuple(sentence[i : i + window_size])
-                context = tuple(sentence[i : i + window_size - 1])
-                ngrams[ngram] += 1
-                contexts[context] += 1
-            window_size -= 1
+                ngrams[tuple(sentence[i : i + window_size])] += 1
         if track_progress:
             pbar.update(1)
-
-    return ngrams, contexts
+    return ngrams
 
 
 def get_ngram_prob(ngram, vocab, ngrams, contexts):
