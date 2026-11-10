@@ -222,7 +222,9 @@ class NgramEngine:
             processed_probs,
         )  # Return the chosen word along with the words and their probabilities
 
-    def generate_sentence(self, start_context, lambdas=None, max_length=20, sample=True):
+    def generate_sentence(
+        self, start_context, lambdas=None, max_length=20, sample=True
+    ):
         """
         Generates a sentence starting with a given context, using the
         interpolated n-gram distribution.
@@ -255,7 +257,7 @@ class NgramEngine:
 
         return sentence
 
-    def calculate_perplexity(self):
+    def calculate_perplexity_with_backoff(self):
         # load validation files
         text = open("data/corpora/Shakespeare_clean_valid.txt", "r").read()
         sentences = apply_bpe(text, self.merge_rules, track_progress=True)
@@ -272,8 +274,52 @@ class NgramEngine:
                 target = ngram[-1]
 
                 # Get probability distribution using backoff
-                _, predictions, probs = self.get_probs_from_context_with_backoff(
+                _, predictions, probs = self.get_word_from_context_with_backoff(
                     context, self.n
+                )
+
+                # Find probability of target token
+                if predictions and target in predictions:
+                    target_idx = predictions.index(target)
+                    target_prob = probs[target_idx]
+                else:
+                    # If target not found, use a very small probability (smoothing fallback)
+                    target_prob = 1e-10
+
+                total_log_prob += np.log(target_prob)
+                total_tokens += 1
+            pbar.update(1)
+
+        # Calculate perplexity: exp(-1/N * sum(log p(w_i)))
+        perplexity = (
+            np.exp(-total_log_prob / total_tokens) if total_tokens > 0 else float("inf")
+        )
+
+        print(f"Validation perplexity: {perplexity:.2f}")
+        print(f"Total tokens evaluated: {total_tokens}")
+
+        return perplexity
+
+    def calculate_perplexity(self):
+        # load validation files
+        text = open("data/corpora/Shakespeare_clean_valid.txt", "r").read()
+        sentences = apply_bpe(text, self.merge_rules, track_progress=True)
+        total_log_prob = 0.0
+        total_tokens = 0
+        pbar = tqdm(total=len(sentences) - 1, desc="Calculating Perplexity")
+        lambdas = np.full(self.n, 1 / self.n)  # Equal weights for interpolation
+
+        for sentence in sentences:
+            sentence_length = len(sentence)
+            # Extract n-grams from the sentence
+            for i in range(sentence_length - self.n + 1):
+                ngram = tuple(sentence[i : i + self.n])
+                context = ngram[:-1]
+                target = ngram[-1]
+
+                # Get probability distribution using interpolation
+                _, predictions, probs = self.get_word_from_context_with_interpolation(
+                    lambdas, context, self.n
                 )
 
                 # Find probability of target token
