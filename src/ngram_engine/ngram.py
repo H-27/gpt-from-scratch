@@ -1,6 +1,4 @@
-import json
 import re
-from collections import defaultdict
 
 import numpy as np
 from tqdm import tqdm
@@ -19,15 +17,16 @@ class NgramEngine:
             .read()
             .splitlines()
         )
+        # </s> is a possible next token (it ends a sentence), so it belongs to the
+        # candidates and to V. <s> is never predicted, so it is left out.
+        self.vocab.append("</s>")
         self.vocab_size = len(self.vocab)
         self.merge_rules = (
             open(f"data/bpe_outputs/merges_k{k}{self.adv_suffix}.txt", "r")
             .read()
             .splitlines()
         )
-        self.ngrams, self.contexts = load_ngrams_and_contexts(
-            n, k, self.adv_suffix
-        )
+        self.ngrams, self.contexts = load_ngrams_and_contexts(n, k, self.adv_suffix)
         self.SENT_SPLIT_PATTERN = re.compile(
             r"(?<!\.)[.?!]+(?!\.)\s+|(?<!\.)[.?!]+(?!\.)$"
         )
@@ -142,9 +141,7 @@ class NgramEngine:
         # Add-one smoothing
         return (ngram_count + 1) / (context_count + self.vocab_size)
 
-    def get_word_from_context(self, context, n):
-        # load ngrams and contexts from file
-
+    def get_word_from_context_with_backoff(self, context, n):
         # Get all possible next words
         possible_next_words = {}
         while len(possible_next_words) == 0 and n > 1:
@@ -177,61 +174,86 @@ class NgramEngine:
                 best_unigram = max(unigram_probs, key=unigram_probs.get)
                 return best_unigram  # Remove the [0] indexing
             probs = [p / total_prob for p in probs]
-            return np.random.choice(words, p=probs)
+            return (
+                np.random.choice(words, p=probs),
+                words,
+                probs,
+            )  # Return the chosen word along with the words and their probabilities
         return None
 
-    def generate_sentence(self, start_context, max_length=20):
+    def get_word_from_context_with_interpolation(
+        self,
+        lambdas,
+        context,
+        n,
+        k=1000,
+        suffix="_adv",
+    ):
+        all_probs = []
+        # Iterate through the vocab
+        # For each possible token, calculate the probability of that token for all n
+        for token in self.vocab:
+            # Get the probability of the token given the context for all n
+            probs = []
+            for i in range(1, n + 1):
+                # Get current context
+                context = tuple(context)
+                current_context = context[-(i - 1) :] if i > 1 else ()
+                current_ngram = current_context + (token,)
+
+                # Current ngram already contains n occurrences, so we can just get the probability of the token given the context
+                occurences = self.ngrams.get(current_ngram, 0)
+
+                context_count = self.contexts.get(current_context, 0)
+                if current_context == ():
+                    # <s> is counted as a unigram but is never predicted, so leave
+                    # it out of the unigram total (otherwise the level sums to < 1)
+                    context_count -= self.ngrams.get(("<s>",), 0)
+                probs.append((occurences + 1) / (context_count + len(self.vocab)))
+
+            all_probs.append(probs)
+        processed_probs = np.array(all_probs) @ lambdas
+        # Get index of the max probability
+        max_index = np.argmax(processed_probs)
+
+        return (
+            self.vocab[max_index],
+            self.vocab,
+            processed_probs,
+        )  # Return the chosen word along with the words and their probabilities
+
+    def generate_sentence(self, start_context, lambdas=None, max_length=20, sample=True):
         """
-        Generates a sentence starting with a given context.
+        Generates a sentence starting with a given context, using the
+        interpolated n-gram distribution.
+        Args:
+            start_context: list of tokens to start from, e.g. ["<s>", "the_"]
+            lambdas: interpolation weights for orders 1..n (sum to 1).
+                Defaults to equal weights.
+            max_length: maximum number of tokens to add
+            sample: draw the next token from the distribution (True)
+                or always take the most likely one (False)
         """
-        sentence = list(start_context)
         n = self.n
+        if lambdas is None:
+            lambdas = np.full(n, 1 / n)
+        sentence = list(start_context)
 
         for _ in range(max_length):
-            context = tuple(sentence[-(n - 1) :])
-            next_word = self.get_word_from_context(context, n)
+            context = tuple(sentence[-(n - 1) :]) if n > 1 else ()
+            best_word, words, probs = self.get_word_from_context_with_interpolation(
+                lambdas, context, n
+            )
+            if sample:
+                next_word = np.random.choice(words, p=probs / probs.sum())
+            else:
+                next_word = best_word
 
-            if next_word == "</s>" or next_word is None:
+            if next_word == "</s>":
                 break
             sentence.append(next_word)
 
         return sentence
-
-    def get_probs_from_context(self, context, n):
-        # Get all possible next words
-        possible_next_words = {}
-        while len(possible_next_words) == 0 and n > 1:
-            backoff_weight = pow(0.4, self.n - n)  # backoff weight
-            # if context is empty, use unigram
-            if len(context) == 0:
-                unigrams_and_probs = self.get_unigram_probs()
-                for tok, p in unigrams_and_probs.items():
-                    possible_next_words[tok] = p * backoff_weight
-            # find all ngrams that match the context
-            for token in self.vocab:
-                ngram = context + (token,)
-                next_word_probs = self.get_ngram_probs(ngram, n) * backoff_weight
-                possible_next_words[token] = next_word_probs
-            # if no possible next word probability is above the threshold, backoff to n-1 gram
-            if not possible_next_words:
-                n -= 1
-                context = context[-(n - 1) :]
-        # draw a word based on the probabilities
-        if possible_next_words:
-            words = list(possible_next_words.keys())  # Remove the [0] indexing
-            probs = list(possible_next_words.values())
-            # This converts the scores into a probability distribution
-            total_prob = sum(probs)
-            if total_prob == 0:
-                unigram_probs = self.get_unigram_probs()
-                if not unigram_probs:
-                    return "</s>"  # Should not happen
-                # Get the unigram with the highest probability
-                best_unigram = max(unigram_probs, key=unigram_probs.get)
-                return best_unigram  # Remove the [0] indexing
-            probs = [p / total_prob for p in probs]
-            return words, probs
-        return None, 0
 
     def calculate_perplexity(self):
         # load validation files
@@ -250,7 +272,9 @@ class NgramEngine:
                 target = ngram[-1]
 
                 # Get probability distribution using backoff
-                predictions, probs = self.get_probs_from_context(context, self.n)
+                _, predictions, probs = self.get_probs_from_context_with_backoff(
+                    context, self.n
+                )
 
                 # Find probability of target token
                 if predictions and target in predictions:
