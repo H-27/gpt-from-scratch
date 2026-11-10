@@ -1,12 +1,11 @@
 import ast
 import os
 from collections import defaultdict
-from typing import List, Tuple  # moved to top
 
 import torch  # ensure single import
-import torch.nn as nn
 import torch.nn.functional as F
 from nltk.cli import tqdm
+from torch import nn
 
 from src.neural_embeddings.neural_utils import (
     append_run_result,
@@ -84,7 +83,7 @@ class NgramLM(nn.Module):
         else:  # allow passing an instantiated optimizer
             self.optimizer = optimizer
 
-        self.contexts, self.ngrams = nge_utils.load_ngrams_and_contexts(
+        self.ngrams, self.contexts = nge_utils.load_ngrams_and_contexts(
             n, k, suffix="_adv"
         )
         self.encode_ngrams()
@@ -426,7 +425,7 @@ def train_with_early_stopping(
     num_steps: int,
     patience: int,
     improvement_delta: float = 1e-2,
-) -> Tuple[float, dict, List[Tuple[int, float, float, float, float]]]:
+) -> tuple[float, dict, list[tuple[int, float, float, float, float]]]:
     """Train model with early stopping.
     Returns (best_val_loss, best_state_dict (cpu tensors), history list of tuples).
     history tuple schema: (epoch, avg_train_loss, val_loss, val_ppl, val_ppl_interpolated)
@@ -434,7 +433,7 @@ def train_with_early_stopping(
     best_val = float("inf")
     best_state = None
     epochs_no_improve = 0
-    history: List[Tuple[int, float, float, float, float]] = []
+    history: list[tuple[int, float, float, float, float]] = []
     for epoch in range(max_epochs):
         model.train()
         running = 0.0
